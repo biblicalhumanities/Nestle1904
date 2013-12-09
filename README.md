@@ -7,7 +7,9 @@ Public Domain. Copy Freely. δωρεὰν ἐλάβετε, δωρεὰν δότ�
 
 Analysis edited by Dr. Ulrik Sandborg-Petersen
 
-Version 1.0, November 13, 2013
+Version 1.1
+December 9, 2013
+
 
 
 What is this?
@@ -174,6 +176,15 @@ The seven tab-delimited fields are as follows:
    The encoding is the same as that of field (2).
 
 
+Release history
+===============
+
+Version 1.1:  December 9, 2013: A few tags were fixed for conformance
+              to the tag schema.
+
+Version 1.0:  November 13, 2013: Initial release
+
+
 May the name of the Lord be praised for ever more.
 
 
@@ -184,3 +195,4 @@ Associate Professor, Aalborg University, Denmark
 Director, Emergence Consult
 
 ulrikp-WRITETHESIGN-emergence dot dk
+
