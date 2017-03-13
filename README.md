@@ -10,6 +10,7 @@ Analysis edited by Dr. Ulrik Sandborg-Petersen
 Version 1.1
 December 9, 2013
 
+For other high quality resources suitable to scholarly study of Greek and Hebrew, see the [Biblical Humanities Dashboard](http://biblicalhumanities.org/dashboard/).
 
 
 What is this?
