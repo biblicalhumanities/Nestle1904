@@ -7,8 +7,8 @@ Public Domain. Copy Freely. δωρεὰν ἐλάβετε, δωρεὰν δότ�
 
 Analysis edited by Dr. Ulrik Sandborg-Petersen
 
-Version 1.1
-December 9, 2013
+Version 1.3
+April 15, 2017
 
 For other high quality resources suitable to scholarly study of Greek and Hebrew, see the [Biblical Humanities Dashboard](http://biblicalhumanities.org/dashboard/).
 
@@ -20,7 +20,7 @@ This is the 1904 edition of Eberhard Nestle's Greek New Testament,
 with morphological tags, lemmatization, and Strong's numbering.
 
 The base text has been created by Diego Renato dos Santos, and has a
-home on the Internet at this address (retrieved November 13, 2013):
+home on the Internet at this address (retrieved April 15, 2017):
 
 https://sites.google.com/site/nestle1904/
 
@@ -75,7 +75,7 @@ The present editor would, of course, appreciate being notified of any
 errors and inconsistencies.  Such notification is best received
 through email at the following address:
 
-ulrikp-WRITETHESIGN-emergence dot dk.
+ulrikp-WRITETHESIGN-scripturesys|dot|com
 
 
 Lemmas
@@ -180,6 +180,20 @@ The seven tab-delimited fields are as follows:
 Release history
 ===============
 
+Version 1.3: April 15, 2017: The text was corrected to be version 2.12
+             from the upstream Nestle base text source, Diego Santos's
+             Nestle 1904 project.  The only change in the upstream
+             text was a replacement of a comma in Matt 6:25.  In the
+             present version, a number of glitches in the conversion
+             of uppercase eta were fixed.  A few morphological tags,
+             strong's numbers, and lemmas were corrected.
+
+Version 1.2: April 11, 2014: The text was corrected to be version 2.11
+             from the upstream Nestle base text source, Diego Santos's
+             Nestle 1904 project.  The only change was in Rom 1:19,
+             where *QEO\\S got decapitalized to QEO\\S.  No changes in
+             the parsing tags or lemma assignments.
+
 Version 1.1:  December 9, 2013: A few tags were fixed for conformance
               to the tag schema.
 
@@ -192,8 +206,8 @@ May the name of the Lord be praised for ever more.
 Ulrik Sandborg-Petersen
 --
 Ulrik Sandborg-Petersen, PhD
-Associate Professor, Aalborg University, Denmark
-Director, Emergence Consult
+Research Consultant, Aalborg University, Denmark
+CEO, Scripture Systems ApS
 
-ulrikp-WRITETHESIGN-emergence dot dk
+ulrikp-WRITETHESIGN-scripturesys|dot|com
 
