@@ -1,14 +1,19 @@
 Nestle 1904 Greek New Testament 
 ===============================
 
-with morphology, lemmatization, and Strong's numbers
+with morphology, lemmatization, XML markup, and Strong's numbers
+ δωρεὰν ἐλάβετε, δωρεὰν δότε.
+ 
+Licensing and copyright terms differ among the components in this repo.
 		     
-Public Domain. Copy Freely. δωρεὰν ἐλάβετε, δωρεὰν δότε.
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/80x15.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br /> - To the extent possible under law, biblicalhumanities.org has waived all copyright and related or neighboring rights to Nestle 1904 and Morphology. This work is published from: United States.
 
-Analysis edited by Dr. Ulrik Sandborg-Petersen
-
-Version 1.3
-April 15, 2017
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Markup is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 For other high quality resources suitable to scholarly study of Greek and Hebrew, see the [Biblical Humanities Dashboard](http://biblicalhumanities.org/dashboard/).
 
@@ -33,7 +38,8 @@ rendered the Body of Christ an invaluable service.
 The text has been augmented with morphological tags, lemmatization,
 and Strong's numbers.  This work was carried out by Dr. Ulrik
 Sandborg-Petersen of Emergence Consult and Aalborg University,
-Denmark.
+Denmark.  XHTML and XML representations of the text were created by 
+Jonathan Robie of biblicalhumanities.org.
 
 The basic method has been to port over as much as possible of an
 analysis of the Wescott-Hort GNT based on the work done on that text
@@ -53,29 +59,7 @@ the credit for the existence of the present analysis.  Any errors
 which the present editor has introduced remain, of course, my
 responsibility alone.
 
-
-Copyright status
-================
-
-The base text, being Nestle 1904, is in the Public Domain.  The
-curator of that text is, as was mentioned above, Diego Renato dos
-Santos.  He has chosen to keep his edition of the text in the Public
-Domain.
-
-The morphological tags and Strong's numbers on which the present
-analysis were based was placed into the Public Domain by Dr. Maurice
-A. Robinson.  The few hundred pieces of information which could not be
-derived from this information automatically are hereby placed into the
-Public Domain by the present editor, Dr. Ulrik Sandborg-Petersen.
-
-Hence, the total work is in the Public Domain. Copy freely for any
-purpose, including for commercial or for non-commercial use.
-
-The present editor would, of course, appreciate being notified of any
-errors and inconsistencies.  Such notification is best received
-through email at the following address:
-
-ulrikp-WRITETHESIGN-scripturesys|dot|com
+Please report bugs by entering issues against this repo on GitHub.
 
 
 Lemmas
@@ -201,13 +185,3 @@ Version 1.0:  November 13, 2013: Initial release
 
 
 May the name of the Lord be praised for ever more.
-
-
-Ulrik Sandborg-Petersen
---
-Ulrik Sandborg-Petersen, PhD
-Research Consultant, Aalborg University, Denmark
-CEO, Scripture Systems ApS
-
-ulrikp-WRITETHESIGN-scripturesys|dot|com
-
