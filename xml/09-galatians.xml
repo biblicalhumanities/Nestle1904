@@ -1944,44 +1944,38 @@
       <w osisId="Gal.4.27!2">γάρ</w>
     </p>
     <p>
-      <XXXXX dangling="Εὐφράνθητι, στεῖρα ἡ οὐ τίκτουσα,">
-        <w osisId="Gal.4.27!3">Εὐφράνθητι</w>
-	<pc>,</pc>
-        <w osisId="Gal.4.27!4">στεῖρα</w>
-        <w osisId="Gal.4.27!5">ἡ</w>
-        <w osisId="Gal.4.27!6">οὐ</w>
-        <w osisId="Gal.4.27!7">τίκτουσα</w>
-	<pc>,</pc>
-      </XXXXX>
+      <w osisId="Gal.4.27!3">Εὐφράνθητι</w>
+      <pc>,</pc>
+      <w osisId="Gal.4.27!4">στεῖρα</w>
+      <w osisId="Gal.4.27!5">ἡ</w>
+      <w osisId="Gal.4.27!6">οὐ</w>
+      <w osisId="Gal.4.27!7">τίκτουσα</w>
+      <pc>,</pc>
     </p>
     <p>
-      <XXXXX dangling="ῥῆξον καὶ βόησον, ἡ οὐκ ὠδίνουσα·">
-        <w osisId="Gal.4.27!8">ῥῆξον</w>
-        <w osisId="Gal.4.27!9">καὶ</w>
-        <w osisId="Gal.4.27!10">βόησον</w>
-	<pc>,</pc>
-        <w osisId="Gal.4.27!11">ἡ</w>
-        <w osisId="Gal.4.27!12">οὐκ</w>
-        <w osisId="Gal.4.27!13">ὠδίνουσα</w>
-	<pc>·</pc>
-      </XXXXX>
+      <w osisId="Gal.4.27!8">ῥῆξον</w>
+      <w osisId="Gal.4.27!9">καὶ</w>
+      <w osisId="Gal.4.27!10">βόησον</w>
+      <pc>,</pc>
+      <w osisId="Gal.4.27!11">ἡ</w>
+      <w osisId="Gal.4.27!12">οὐκ</w>
+      <w osisId="Gal.4.27!13">ὠδίνουσα</w>
+      <pc>·</pc>
     </p>
     <p>
-      <XXXXX dangling="ὅτι πολλὰ τὰ τέκνα τῆς ἐρήμου μᾶλλον ἢ τῆς ἐχούσης τὸν ἄνδρα.">
-        <w osisId="Gal.4.27!14">ὅτι</w>
-        <w osisId="Gal.4.27!15">πολλὰ</w>
-        <w osisId="Gal.4.27!16">τὰ</w>
-        <w osisId="Gal.4.27!17">τέκνα</w>
-        <w osisId="Gal.4.27!18">τῆς</w>
-        <w osisId="Gal.4.27!19">ἐρήμου</w>
-        <w osisId="Gal.4.27!20">μᾶλλον</w>
-        <w osisId="Gal.4.27!21">ἢ</w>
-        <w osisId="Gal.4.27!22">τῆς</w>
-        <w osisId="Gal.4.27!23">ἐχούσης</w>
-        <w osisId="Gal.4.27!24">τὸν</w>
-        <w osisId="Gal.4.27!25">ἄνδρα</w>
-	<pc>.</pc>
-      </XXXXX>
+      <w osisId="Gal.4.27!14">ὅτι</w>
+      <w osisId="Gal.4.27!15">πολλὰ</w>
+      <w osisId="Gal.4.27!16">τὰ</w>
+      <w osisId="Gal.4.27!17">τέκνα</w>
+      <w osisId="Gal.4.27!18">τῆς</w>
+      <w osisId="Gal.4.27!19">ἐρήμου</w>
+      <w osisId="Gal.4.27!20">μᾶλλον</w>
+      <w osisId="Gal.4.27!21">ἢ</w>
+      <w osisId="Gal.4.27!22">τῆς</w>
+      <w osisId="Gal.4.27!23">ἐχούσης</w>
+      <w osisId="Gal.4.27!24">τὸν</w>
+      <w osisId="Gal.4.27!25">ἄνδρα</w>
+      <pc>.</pc>
     </p>
     <p>
       <milestone unit="verse" id="Gal.4.28"/>
