@@ -13,10 +13,10 @@
       <w osisId="Mark.1.1!3">εὐαγγελίου</w>
       <w osisId="Mark.1.1!4">Ἰησοῦ</w>
       <w osisId="Mark.1.1!5">Χριστοῦ</w>
-      <milestone unit="tc" type="start" />
+      <milestone unit="tc" type="start" display="&lt;"/>
       <w osisId="Mark.1.1!6">Υἱοῦ</w>
       <w osisId="Mark.1.1!7">Θεοῦ</w>
-      <milestone unit="tc" type="end" />
+      <milestone unit="tc" type="end" display="&gt;"/>
       <pc>.</pc>
       <milestone unit="verse" id="Mark.1.2"/>
       <w osisId="Mark.1.2!1">Καθὼς</w>
@@ -13397,7 +13397,7 @@
     </p>
     <p>
       <milestone unit="verse" id="Mark.16.9"/>
-      <milestone unit="tc" type="start" />
+      <milestone unit="tc" type="start" display="[[" />
       <w osisId="Mark.16.9!1">Ἀναστὰς</w>
       <w osisId="Mark.16.9!2">δὲ</w>
       <w osisId="Mark.16.9!3">πρωῒ</w>
@@ -13596,14 +13596,14 @@
       <w osisId="Mark.16.20!15">ἐπακολουθούντων</w>
       <w osisId="Mark.16.20!16">σημείων</w>
       <pc>.</pc>
-      <milestone unit="tc" type="end" />
+      <milestone unit="tc" type="end" display="]]"/>
     </p>
   </chapter>
   <chapter osisId="Mark.99">
     <title>ΑΛΛΩΣ</title>
     <p>
       <milestone unit="verse" id="Mark.16.99"/>
-      <milestone unit="tc" type="start" />
+      <milestone unit="tc" type="start" display="[[" />
       <w osisId="Mark.16.99!1">Πάντα</w>
       <w osisId="Mark.16.99!2">δὲ</w>
       <w osisId="Mark.16.99!3">τὰ</w>
@@ -13639,7 +13639,7 @@
       <w osisId="Mark.16.99!32">αἰωνίου</w>
       <w osisId="Mark.16.99!33">σωτηρίας</w>
       <pc>.</pc>
-      <milestone unit="tc" type="end" />
+      <milestone unit="tc" type="end" display="]]"/>
     </p>
   </chapter>
 </div>
