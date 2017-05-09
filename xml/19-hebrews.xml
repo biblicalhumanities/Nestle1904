@@ -2533,7 +2533,8 @@
       <w osisId="Heb.7.20!5">χωρὶς</w>
       <w osisId="Heb.7.20!6">ὁρκωμοσίας</w>
       <pc>,</pc>
-      <w osisId="Heb.7.20!7">—οἱ</w>
+      <pc>—</pc>
+      <w osisId="Heb.7.20!7">οἱ</w>
       <w osisId="Heb.7.20!8">μὲν</w>
       <w osisId="Heb.7.20!9">γὰρ</w>
       <w osisId="Heb.7.20!10">χωρὶς</w>
@@ -2565,7 +2566,8 @@
       <w osisId="Heb.7.21!19">αἰῶνα</w>
       <pc>·</pc>
       <milestone unit="verse" id="Heb.7.22"/>
-      <w osisId="Heb.7.22!1">—κατὰ</w>
+      <pc>—</pc>
+      <w osisId="Heb.7.22!1">κατὰ</w>
       <w osisId="Heb.7.22!2">τοσοῦτο</w>
       <w osisId="Heb.7.22!3">καὶ</w>
       <w osisId="Heb.7.22!4">κρείττονος</w>

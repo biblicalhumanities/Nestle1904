@@ -551,7 +551,8 @@
       <w osisId="Col.1.26!8">καὶ</w>
       <w osisId="Col.1.26!9">ἀπὸ</w>
       <w osisId="Col.1.26!10">τῶν</w>
-      <w osisId="Col.1.26!11">γενεῶν—</w>
+      <w osisId="Col.1.26!11">γενεῶν</w>
+      <pc>—</pc>
       <w osisId="Col.1.26!12">νῦν</w>
       <w osisId="Col.1.26!13">δὲ</w>
       <w osisId="Col.1.26!14">ἐφανερώθη</w>
@@ -1751,7 +1752,8 @@
       <w osisId="Col.4.10!10">ἀνεψιὸς</w>
       <w osisId="Col.4.10!11">Βαρνάβα</w>
       <pc>,</pc>
-      <w osisId="Col.4.10!12">(περὶ</w>
+      <pc>(</pc>
+      <w osisId="Col.4.10!12">περὶ</w>
       <w osisId="Col.4.10!13">οὗ</w>
       <w osisId="Col.4.10!14">ἐλάβετε</w>
       <w osisId="Col.4.10!15">ἐντολάς</w>
@@ -1762,7 +1764,9 @@
       <w osisId="Col.4.10!19">ὑμᾶς</w>
       <pc>,</pc>
       <w osisId="Col.4.10!20">δέξασθε</w>
-      <w osisId="Col.4.10!21">αὐτόν,)</w>
+      <w osisId="Col.4.10!21">αὐτόν</w>
+      <pc>,</pc>
+      <pc>)</pc>
       <milestone unit="verse" id="Col.4.11"/>
       <w osisId="Col.4.11!1">καὶ</w>
       <w osisId="Col.4.11!2">Ἰησοῦς</w>

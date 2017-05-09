@@ -17004,7 +17004,8 @@
       <w osisId="Acts.22.1!11">ἀπολογίας</w>
       <pc>.</pc>
       <milestone unit="verse" id="Acts.22.2"/>
-      <w osisId="Acts.22.2!1">—ἀκούσαντες</w>
+      <pc>—</pc>
+      <w osisId="Acts.22.2!1">ἀκούσαντες</w>
       <w osisId="Acts.22.2!2">δὲ</w>
       <w osisId="Acts.22.2!3">ὅτι</w>
       <w osisId="Acts.22.2!4">τῇ</w>
@@ -17017,7 +17018,8 @@
       <w osisId="Acts.22.2!11">ἡσυχίαν</w>
       <pc>.</pc>
       <w osisId="Acts.22.2!12">καὶ</w>
-      <w osisId="Acts.22.2!13">φησίν—</w>
+      <w osisId="Acts.22.2!13">φησίν</w>
+      <pc>—</pc>
       <milestone unit="verse" id="Acts.22.3"/>
       <w osisId="Acts.22.3!1">Ἐγώ</w>
       <w osisId="Acts.22.3!2">εἰμι</w>
