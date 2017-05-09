@@ -698,7 +698,8 @@
       <w osisId="1Tim.3.4!12">σεμνότητος</w>
       <pc>,</pc>
       <milestone unit="verse" id="1Tim.3.5"/>
-      <w osisId="1Tim.3.5!1">(εἰ</w>
+      <pc>(</pc>
+      <w osisId="1Tim.3.5!1">εἰ</w>
       <w osisId="1Tim.3.5!2">δέ</w>
       <w osisId="1Tim.3.5!3">τις</w>
       <w osisId="1Tim.3.5!4">τοῦ</w>
@@ -711,7 +712,9 @@
       <w osisId="1Tim.3.5!10">πῶς</w>
       <w osisId="1Tim.3.5!11">ἐκκλησίας</w>
       <w osisId="1Tim.3.5!12">Θεοῦ</w>
-      <w osisId="1Tim.3.5!13">ἐπιμελήσεται;)</w>
+      <w osisId="1Tim.3.5!13">ἐπιμελήσεται</w>
+      <pc>;</pc>
+      <pc>)</pc>
       <milestone unit="verse" id="1Tim.3.6"/>
       <w osisId="1Tim.3.6!1">μὴ</w>
       <w osisId="1Tim.3.6!2">νεόφυτον</w>

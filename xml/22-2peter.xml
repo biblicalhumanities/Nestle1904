@@ -375,7 +375,9 @@
         <w osisId="2Pet.1.17!25">εἰς</w>
         <w osisId="2Pet.1.17!26">ὃν</w>
         <w osisId="2Pet.1.17!27">ἐγὼ</w>
-        <w osisId="2Pet.1.17!28">εὐδόκησα,—</w>
+        <w osisId="2Pet.1.17!28">εὐδόκησα</w>
+	<pc>,</pc>
+	<pc>—</pc>
         <milestone unit="verse" id="2Pet.1.18"/>
         <w osisId="2Pet.1.18!1">καὶ</w>
         <w osisId="2Pet.1.18!2">ταύτην</w>
@@ -600,7 +602,9 @@
         <w osisId="2Pet.2.7!9">ἐν</w>
         <w osisId="2Pet.2.7!10">ἀσελγείᾳ</w>
         <w osisId="2Pet.2.7!11">ἀναστροφῆς</w>
-        <w osisId="2Pet.2.7!12">ἐρύσατο,—</w>
+        <w osisId="2Pet.2.7!12">ἐρύσατο</w>
+	<pc>,</pc>
+	<pc>—</pc>
         <milestone unit="verse" id="2Pet.2.8"/>
         <w osisId="2Pet.2.8!1">βλέμματι</w>
         <w osisId="2Pet.2.8!2">γὰρ</w>
@@ -618,7 +622,9 @@
         <w osisId="2Pet.2.8!14">δικαίαν</w>
         <w osisId="2Pet.2.8!15">ἀνόμοις</w>
         <w osisId="2Pet.2.8!16">ἔργοις</w>
-        <w osisId="2Pet.2.8!17">ἐβασάνιζεν,—</w>
+        <w osisId="2Pet.2.8!17">ἐβασάνιζεν</w>
+	<pc>,</pc>
+	<pc>—</pc>
         <milestone unit="verse" id="2Pet.2.9"/>
         <w osisId="2Pet.2.9!1">οἶδεν</w>
         <w osisId="2Pet.2.9!2">Κύριος</w>

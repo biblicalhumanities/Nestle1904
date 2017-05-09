@@ -2105,7 +2105,8 @@
       <w osisId="Rom.4.17!6">ἐθνῶν</w>
       <w osisId="Rom.4.17!7">τέθεικά</w>
       <w osisId="Rom.4.17!8">σε</w>
-      <pc>,)</pc>
+      <pc>,</pc>
+      <pc>)</pc>
       <w osisId="Rom.4.17!9">κατέναντι</w>
       <w osisId="Rom.4.17!10">οὗ</w>
       <w osisId="Rom.4.17!11">ἐπίστευσεν</w>
@@ -8160,7 +8161,8 @@
       <w osisId="Rom.15.24!22">ἐμπλησθῶ</w>
       <pc>.</pc>
       <milestone unit="verse" id="Rom.15.25"/>
-      <w osisId="Rom.15.25!1">—νυνὶ</w>
+      <pc>—</pc>
+      <w osisId="Rom.15.25!1">νυνὶ</w>
       <w osisId="Rom.15.25!2">δὲ</w>
       <w osisId="Rom.15.25!3">πορεύομαι</w>
       <w osisId="Rom.15.25!4">εἰς</w>

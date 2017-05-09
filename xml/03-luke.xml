@@ -2163,14 +2163,16 @@
       <w osisId="Luke.2.34!25">σημεῖον</w>
       <w osisId="Luke.2.34!26">ἀντιλεγόμενον</w>
       <milestone unit="verse" id="Luke.2.35"/>
-      <w osisId="Luke.2.35!1">—καὶ</w>
+      <pc>—</pc>
+      <w osisId="Luke.2.35!1">καὶ</w>
       <w osisId="Luke.2.35!2">σοῦ</w>
       <w osisId="Luke.2.35!3">δὲ</w>
       <w osisId="Luke.2.35!4">αὐτῆς</w>
       <w osisId="Luke.2.35!5">τὴν</w>
       <w osisId="Luke.2.35!6">ψυχὴν</w>
       <w osisId="Luke.2.35!7">διελεύσεται</w>
-      <w osisId="Luke.2.35!8">ῥομφαία—</w>
+      <w osisId="Luke.2.35!8">ῥομφαία</w>
+      <pc>—</pc>
       <pc>,</pc>
       <w osisId="Luke.2.35!9">ὅπως</w>
       <w osisId="Luke.2.35!10">ἂν</w>
@@ -22423,7 +22425,8 @@
       <w osisId="Luke.23.50!11">δίκαιος</w>
       <pc>,</pc>
       <milestone unit="verse" id="Luke.23.51"/>
-      <w osisId="Luke.23.51!1">—οὗτος</w>
+      <pc>—</pc>
+      <w osisId="Luke.23.51!1">οὗτος</w>
       <w osisId="Luke.23.51!2">οὐκ</w>
       <w osisId="Luke.23.51!3">ἦν</w>
       <w osisId="Luke.23.51!4">συνκατατεθειμένος</w>
@@ -22432,7 +22435,9 @@
       <w osisId="Luke.23.51!7">καὶ</w>
       <w osisId="Luke.23.51!8">τῇ</w>
       <w osisId="Luke.23.51!9">πράξει</w>
-      <w osisId="Luke.23.51!10">αὐτῶν,—</w>
+      <w osisId="Luke.23.51!10">αὐτῶν</w>
+      <pc>,</pc>
+      <pc>—</pc>
       <w osisId="Luke.23.51!11">ἀπὸ</w>
       <w osisId="Luke.23.51!12">Ἀριμαθαίας</w>
       <w osisId="Luke.23.51!13">πόλεως</w>
@@ -22719,7 +22724,8 @@
       <w osisId="Luke.24.11!12">αὐταῖς</w>
       <pc>.</pc>
       <milestone unit="verse" id="Luke.24.12"/>
-      <w osisId="Luke.24.12!1">[[Ὁ</w>
+      <milestone unit="tc" type="start" display="[["/>
+      <w osisId="Luke.24.12!1">Ὁ</w>
       <w osisId="Luke.24.12!2">δὲ</w>
       <w osisId="Luke.24.12!3">Πέτρος</w>
       <w osisId="Luke.24.12!4">ἀναστὰς</w>
@@ -22741,7 +22747,9 @@
       <w osisId="Luke.24.12!18">αὑτὸν</w>
       <w osisId="Luke.24.12!19">θαυμάζων</w>
       <w osisId="Luke.24.12!20">τὸ</w>
-      <w osisId="Luke.24.12!21">γεγονός.]]</w>
+      <w osisId="Luke.24.12!21">γεγονός</w>
+      <pc>.</pc>
+      <milestone unit="tc" type="end" display="]]"/>
     </p>
     <p>
       <milestone unit="verse" id="Luke.24.13"/>
@@ -23209,11 +23217,13 @@
       <w osisId="Luke.24.36!7">ἐν</w>
       <w osisId="Luke.24.36!8">μέσῳ</w>
       <w osisId="Luke.24.36!9">αὐτῶν</w>
-      <w osisId="Luke.24.36!10">[[καὶ</w>
+      <milestone unit="tc" type="start" display="[["/>
+      <w osisId="Luke.24.36!10">καὶ</w>
       <w osisId="Luke.24.36!11">λέγει</w>
       <w osisId="Luke.24.36!12">αὐτοῖς</w>
       <w osisId="Luke.24.36!13">Εἰρήνη</w>
-      <w osisId="Luke.24.36!14">ὑμῖν]]</w>
+      <w osisId="Luke.24.36!14">ὑμῖν</w>
+      <milestone unit="tc" type="end" display="]]"/>
       <pc>.</pc>
       <milestone unit="verse" id="Luke.24.37"/>
       <w osisId="Luke.24.37!1">πτοηθέντες</w>
@@ -23276,7 +23286,8 @@
       <w osisId="Luke.24.39!27">ἔχοντα</w>
       <pc>.</pc>
       <milestone unit="verse" id="Luke.24.40"/>
-      <w osisId="Luke.24.40!1">[[καὶ</w>
+      <milestone unit="tc" type="start" display="[["/>
+      <w osisId="Luke.24.40!1">καὶ</w>
       <w osisId="Luke.24.40!2">τοῦτο</w>
       <w osisId="Luke.24.40!3">εἰπὼν</w>
       <w osisId="Luke.24.40!4">ἔδειξεν</w>
@@ -23285,7 +23296,9 @@
       <w osisId="Luke.24.40!7">χεῖρας</w>
       <w osisId="Luke.24.40!8">καὶ</w>
       <w osisId="Luke.24.40!9">τοὺς</w>
-      <w osisId="Luke.24.40!10">πόδας.]]</w>
+      <w osisId="Luke.24.40!10">πόδας</w>
+      <pc>.</pc>
+      <milestone unit="tc" type="end" display="]]"/>
       <milestone unit="verse" id="Luke.24.41"/>
       <w osisId="Luke.24.41!1">ἔτι</w>
       <w osisId="Luke.24.41!2">δὲ</w>
@@ -23399,7 +23412,9 @@
       <w osisId="Luke.24.47!11">εἰς</w>
       <w osisId="Luke.24.47!12">πάντα</w>
       <w osisId="Luke.24.47!13">τὰ</w>
-      <w osisId="Luke.24.47!14">ἔθνη,—</w>
+      <w osisId="Luke.24.47!14">ἔθνη</w>
+      <pc>,</pc>
+      <pc>—</pc>
       <w osisId="Luke.24.47!15">ἀρξάμενοι</w>
       <w osisId="Luke.24.47!16">ἀπὸ</w>
       <w osisId="Luke.24.47!17">Ἱερουσαλήμ</w>
@@ -23464,17 +23479,21 @@
       <w osisId="Luke.24.51!8">διέστη</w>
       <w osisId="Luke.24.51!9">ἀπ’</w>
       <w osisId="Luke.24.51!10">αὐτῶν</w>
-      <w osisId="Luke.24.51!11">[[καὶ</w>
+      <milestone unit="tc" type="start" display="[["/>
+      <w osisId="Luke.24.51!11">καὶ</w>
       <w osisId="Luke.24.51!12">ἀνεφέρετο</w>
       <w osisId="Luke.24.51!13">εἰς</w>
       <w osisId="Luke.24.51!14">τὸν</w>
-      <w osisId="Luke.24.51!15">οὐρανόν]]</w>
+      <w osisId="Luke.24.51!15">οὐρανόν</w>
+      <milestone unit="tc" type="end" display="]]"/>
       <pc>.</pc>
       <milestone unit="verse" id="Luke.24.52"/>
       <w osisId="Luke.24.52!1">καὶ</w>
       <w osisId="Luke.24.52!2">αὐτοὶ</w>
-      <w osisId="Luke.24.52!3">[[προσκυνήσαντες</w>
-      <w osisId="Luke.24.52!4">αὐτὸν]]</w>
+      <milestone unit="tc" type="start" display="[["/>
+      <w osisId="Luke.24.52!3">προσκυνήσαντες</w>
+      <w osisId="Luke.24.52!4">αὐτὸν</w>
+      <milestone unit="tc" type="end" display="]]"/>
       <w osisId="Luke.24.52!5">ὑπέστρεψαν</w>
       <w osisId="Luke.24.52!6">εἰς</w>
       <w osisId="Luke.24.52!7">Ἱερουσαλὴμ</w>

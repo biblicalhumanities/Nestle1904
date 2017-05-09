@@ -4749,7 +4749,8 @@
         <w osisId="2Cor.12.2!6">ἐτῶν</w>
         <w osisId="2Cor.12.2!7">δεκατεσσάρων</w>
 	<pc>,</pc>
-        <w osisId="2Cor.12.2!8">—εἴτε</w>
+	<pc>—</pc>
+        <w osisId="2Cor.12.2!8">εἴτε</w>
         <w osisId="2Cor.12.2!9">ἐν</w>
         <w osisId="2Cor.12.2!10">σώματι</w>
         <w osisId="2Cor.12.2!11">οὐκ</w>
@@ -4766,7 +4767,8 @@
         <w osisId="2Cor.12.2!20">Θεὸς</w>
         <w osisId="2Cor.12.2!21">οἶδεν</w>
 	<pc>,</pc>
-        <w osisId="2Cor.12.2!22">—ἁρπαγέντα</w>
+	<pc>—</pc>
+        <w osisId="2Cor.12.2!22">ἁρπαγέντα</w>
         <w osisId="2Cor.12.2!23">τὸν</w>
         <w osisId="2Cor.12.2!24">τοιοῦτον</w>
         <w osisId="2Cor.12.2!25">ἕως</w>
@@ -4779,7 +4781,8 @@
         <w osisId="2Cor.12.3!3">τὸν</w>
         <w osisId="2Cor.12.3!4">τοιοῦτον</w>
         <w osisId="2Cor.12.3!5">ἄνθρωπον</w>
-        <w osisId="2Cor.12.3!6">—εἴτε</w>
+	<pc>—</pc>
+        <w osisId="2Cor.12.3!6">εἴτε</w>
         <w osisId="2Cor.12.3!7">ἐν</w>
         <w osisId="2Cor.12.3!8">σώματι</w>
         <w osisId="2Cor.12.3!9">εἴτε</w>
@@ -4791,7 +4794,9 @@
 	<pc>,</pc>
         <w osisId="2Cor.12.3!15">ὁ</w>
         <w osisId="2Cor.12.3!16">Θεὸς</w>
-        <w osisId="2Cor.12.3!17">οἶδεν,—</w>
+        <w osisId="2Cor.12.3!17">οἶδεν</w>
+	<pc>,</pc>
+	<pc>—</pc>
         <milestone unit="verse" id="2Cor.12.4"/>
         <w osisId="2Cor.12.4!1">ὅτι</w>
         <w osisId="2Cor.12.4!2">ἡρπάγη</w>
