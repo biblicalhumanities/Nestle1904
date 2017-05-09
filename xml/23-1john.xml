@@ -34,7 +34,9 @@
       <w osisId="1John.1.1!20">τοῦ</w>
       <w osisId="1John.1.1!21">Λόγου</w>
       <w osisId="1John.1.1!22">τῆς</w>
-      <w osisId="1John.1.1!23">ζωῆς,—</w>
+      <w osisId="1John.1.1!23">ζωῆς</w>
+      <pc>,</pc>
+      <pc>—</pc>
       <milestone unit="verse" id="1John.1.2"/>
       <w osisId="1John.1.2!1">καὶ</w>
       <w osisId="1John.1.2!2">ἡ</w>
@@ -60,7 +62,9 @@
       <w osisId="1John.1.2!20">Πατέρα</w>
       <w osisId="1John.1.2!21">καὶ</w>
       <w osisId="1John.1.2!22">ἐφανερώθη</w>
-      <w osisId="1John.1.2!23">ἡμῖν,—</w>
+      <w osisId="1John.1.2!23">ἡμῖν</w>
+      <pc>,</pc>
+      <pc>—</pc>
       <milestone unit="verse" id="1John.1.3"/>
       <w osisId="1John.1.3!1">ὃ</w>
       <w osisId="1John.1.3!2">ἑωράκαμεν</w>

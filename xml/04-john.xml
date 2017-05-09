@@ -6274,7 +6274,9 @@
       <w osisId="John.7.22!14">ἀλλ’</w>
       <w osisId="John.7.22!15">ἐκ</w>
       <w osisId="John.7.22!16">τῶν</w>
-      <w osisId="John.7.22!17">πατέρων,—</w>
+      <w osisId="John.7.22!17">πατέρων</w>
+      <pc>,</pc>
+      <pc>—</pc>
       <w osisId="John.7.22!18">καὶ</w>
       <w osisId="John.7.22!19">ἐν</w>
       <w osisId="John.7.22!20">σαββάτῳ</w>
@@ -9305,7 +9307,9 @@
       <w osisId="John.10.12!19">τὰ</w>
       <w osisId="John.10.12!20">πρόβατα</w>
       <w osisId="John.10.12!21">καὶ</w>
-      <w osisId="John.10.12!22">φεύγει,—</w>
+      <w osisId="John.10.12!22">φεύγει</w>
+      <pc>,</pc>
+      <pc>—</pc>
       <w osisId="John.10.12!23">καὶ</w>
       <w osisId="John.10.12!24">ὁ</w>
       <w osisId="John.10.12!25">λύκος</w>

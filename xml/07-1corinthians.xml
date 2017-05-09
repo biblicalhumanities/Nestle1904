@@ -2729,7 +2729,9 @@
       <w osisId="1Cor.7.10!11">ἀπὸ</w>
       <w osisId="1Cor.7.10!12">ἀνδρὸς</w>
       <w osisId="1Cor.7.10!13">μὴ</w>
-      <w osisId="1Cor.7.10!14">χωρισθῆναι,—</w>
+      <w osisId="1Cor.7.10!14">χωρισθῆναι</w>
+      <pc>,</pc>
+      <pc>—</pc>
       <milestone unit="verse" id="1Cor.7.11"/>
       <w osisId="1Cor.7.11!1">ἐὰν</w>
       <w osisId="1Cor.7.11!2">δὲ</w>
@@ -2741,7 +2743,9 @@
       <w osisId="1Cor.7.11!7">ἢ</w>
       <w osisId="1Cor.7.11!8">τῷ</w>
       <w osisId="1Cor.7.11!9">ἀνδρὶ</w>
-      <w osisId="1Cor.7.11!10">καταλλαγήτω,—</w>
+      <w osisId="1Cor.7.11!10">καταλλαγήτω</w>
+      <pc>,</pc>
+      <pc>—</pc>
       <w osisId="1Cor.7.11!11">καὶ</w>
       <w osisId="1Cor.7.11!12">ἄνδρα</w>
       <w osisId="1Cor.7.11!13">γυναῖκα</w>

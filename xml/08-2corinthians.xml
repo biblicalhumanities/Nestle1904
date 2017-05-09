@@ -4791,7 +4791,9 @@
 	<pc>,</pc>
         <w osisId="2Cor.12.3!15">ὁ</w>
         <w osisId="2Cor.12.3!16">Θεὸς</w>
-        <w osisId="2Cor.12.3!17">οἶδεν,—</w>
+        <w osisId="2Cor.12.3!17">οἶδεν</w>
+	<pc>,</pc>
+	<pc>—</pc>
         <milestone unit="verse" id="2Cor.12.4"/>
         <w osisId="2Cor.12.4!1">ὅτι</w>
         <w osisId="2Cor.12.4!2">ἡρπάγη</w>

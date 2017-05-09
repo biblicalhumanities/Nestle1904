@@ -641,10 +641,14 @@
         <w osisId="Eph.2.5!6">παραπτώμασιν</w>
         <w osisId="Eph.2.5!7">συνεζωοποίησεν</w>
         <w osisId="Eph.2.5!8">τῷ</w>
-        <w osisId="Eph.2.5!9">Χριστῷ,—</w>
+        <w osisId="Eph.2.5!9">Χριστῷ</w>
+	<pc>,</pc>
+	<pc>—</pc>
         <w osisId="Eph.2.5!10">χάριτί</w>
         <w osisId="Eph.2.5!11">ἐστε</w>
-        <w osisId="Eph.2.5!12">σεσῳσμένοι,—</w>
+        <w osisId="Eph.2.5!12">σεσῳσμένοι</w>
+	<pc>,</pc>
+	<pc>—</pc>
       </div>
       <div>
         <milestone unit="verse" id="Eph.2.6"/>

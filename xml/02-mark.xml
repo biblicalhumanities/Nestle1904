@@ -1052,7 +1052,9 @@
       <w osisId="Mark.2.10!12">ἁμαρτίας</w>
       <w osisId="Mark.2.10!13">ἐπὶ</w>
       <w osisId="Mark.2.10!14">τῆς</w>
-      <w osisId="Mark.2.10!15">γῆς,—</w>
+      <w osisId="Mark.2.10!15">γῆς</w>
+      <pc>,</pc>
+      <pc>—</pc>
       <w osisId="Mark.2.10!16">λέγει</w>
       <w osisId="Mark.2.10!17">τῷ</w>
       <w osisId="Mark.2.10!18">παραλυτικῷ</w>
@@ -5048,7 +5050,9 @@
       <pc>,</pc>
       <w osisId="Mark.7.2!13">ἐσθίουσιν</w>
       <w osisId="Mark.7.2!14">τοὺς</w>
-      <w osisId="Mark.7.2!15">ἄρτους,—</w>
+      <w osisId="Mark.7.2!15">ἄρτους</w>
+      <pc>,</pc>
+      <pc>—</pc>
       <milestone unit="verse" id="Mark.7.3"/>
       <w osisId="Mark.7.3!1">οἱ</w>
       <w osisId="Mark.7.3!2">γὰρ</w>
@@ -5095,7 +5099,9 @@
       <w osisId="Mark.7.4!18">καὶ</w>
       <w osisId="Mark.7.4!19">ξεστῶν</w>
       <w osisId="Mark.7.4!20">καὶ</w>
-      <w osisId="Mark.7.4!21">χαλκίων,—</w>
+      <w osisId="Mark.7.4!21">χαλκίων</w>
+      <pc>,</pc>
+      <pc>—</pc>
       <milestone unit="verse" id="Mark.7.5"/>
       <w osisId="Mark.7.5!1">καὶ</w>
       <w osisId="Mark.7.5!2">ἐπερωτῶσιν</w>
