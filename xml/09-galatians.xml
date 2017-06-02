@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div 
+
+<div
     type="book"
     osisID="Gal"
     canonical="true">
@@ -290,12 +291,16 @@
       <w osisId="Gal.1.15!4">ὁ</w>
       <w osisId="Gal.1.15!5">ἀφορίσας</w>
       <w osisId="Gal.1.15!6">με</w>
-      <w osisId="Gal.1.15!7">ἐκ</w>
-      <w osisId="Gal.1.15!8">κοιλίας</w>
-      <w osisId="Gal.1.15!9">μητρός</w>
-      <w osisId="Gal.1.15!10">μου</w>
+      <q ref="Jer.1,5. Is.49,1." rend="bold">
+        <w osisId="Gal.1.15!7">ἐκ</w>
+        <w osisId="Gal.1.15!8">κοιλίας</w>
+        <w osisId="Gal.1.15!9">μητρός</w>
+        <w osisId="Gal.1.15!10">μου</w>
+      </q>
       <w osisId="Gal.1.15!11">καὶ</w>
-      <w osisId="Gal.1.15!12">καλέσας</w>
+      <q ref="Jer.1,5. Is.49,1." rend="bold">
+        <w osisId="Gal.1.15!12">καλέσας</w>
+      </q>
       <w osisId="Gal.1.15!13">διὰ</w>
       <w osisId="Gal.1.15!14">τῆς</w>
       <w osisId="Gal.1.15!15">χάριτος</w>
@@ -808,10 +813,12 @@
       <w osisId="Gal.2.16!33">ἐξ</w>
       <w osisId="Gal.2.16!34">ἔργων</w>
       <w osisId="Gal.2.16!35">νόμου</w>
-      <w osisId="Gal.2.16!36">οὐ</w>
-      <w osisId="Gal.2.16!37">δικαιωθήσεται</w>
-      <w osisId="Gal.2.16!38">πᾶσα</w>
-      <w osisId="Gal.2.16!39">σάρξ</w>
+      <q ref="Ps.143,2." rend="bold">
+        <w osisId="Gal.2.16!36">οὐ</w>
+        <w osisId="Gal.2.16!37">δικαιωθήσεται</w>
+        <w osisId="Gal.2.16!38">πᾶσα</w>
+        <w osisId="Gal.2.16!39">σάρξ</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="Gal.2.17"/>
       <w osisId="Gal.2.17!1">εἰ</w>
@@ -1001,15 +1008,17 @@
       <milestone unit="verse" id="Gal.3.6"/>
       <w osisId="Gal.3.6!1">καθὼς</w>
       <w osisId="Gal.3.6!2">Ἀβραὰμ</w>
-      <w osisId="Gal.3.6!3">ἐπίστευσεν</w>
-      <w osisId="Gal.3.6!4">τῷ</w>
-      <w osisId="Gal.3.6!5">Θεῷ</w>
-      <pc>,</pc>
-      <w osisId="Gal.3.6!6">καὶ</w>
-      <w osisId="Gal.3.6!7">ἐλογίσθη</w>
-      <w osisId="Gal.3.6!8">αὐτῷ</w>
-      <w osisId="Gal.3.6!9">εἰς</w>
-      <w osisId="Gal.3.6!10">δικαιοσύνην</w>
+      <q ref="Gn.15,6." rend="bold">
+        <w osisId="Gal.3.6!3">ἐπίστευσεν</w>
+        <w osisId="Gal.3.6!4">τῷ</w>
+        <w osisId="Gal.3.6!5">Θεῷ</w>
+        <pc>,</pc>
+        <w osisId="Gal.3.6!6">καὶ</w>
+        <w osisId="Gal.3.6!7">ἐλογίσθη</w>
+        <w osisId="Gal.3.6!8">αὐτῷ</w>
+        <w osisId="Gal.3.6!9">εἰς</w>
+        <w osisId="Gal.3.6!10">δικαιοσύνην</w>
+      </q>
       <pc>.</pc>
     </p>
     <p>
@@ -1044,12 +1053,14 @@
       <w osisId="Gal.3.8!14">τῷ</w>
       <w osisId="Gal.3.8!15">Ἀβραὰμ</w>
       <w osisId="Gal.3.8!16">ὅτι</w>
-      <w osisId="Gal.3.8!17">Ἐνευλογηθήσονται</w>
-      <w osisId="Gal.3.8!18">ἐν</w>
-      <w osisId="Gal.3.8!19">σοὶ</w>
-      <w osisId="Gal.3.8!20">πάντα</w>
-      <w osisId="Gal.3.8!21">τὰ</w>
-      <w osisId="Gal.3.8!22">ἔθνη</w>
+      <q ref="Gn.12,3;18,18." rend="bold">
+        <w osisId="Gal.3.8!17">Ἐνευλογηθήσονται</w>
+        <w osisId="Gal.3.8!18">ἐν</w>
+        <w osisId="Gal.3.8!19">σοὶ</w>
+        <w osisId="Gal.3.8!20">πάντα</w>
+        <w osisId="Gal.3.8!21">τὰ</w>
+        <w osisId="Gal.3.8!22">ἔθνη</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="Gal.3.9"/>
       <w osisId="Gal.3.9!1">ὥστε</w>
@@ -1077,22 +1088,24 @@
       <w osisId="Gal.3.10!10">γέγραπται</w>
       <w osisId="Gal.3.10!11">γὰρ</w>
       <w osisId="Gal.3.10!12">ὅτι</w>
-      <w osisId="Gal.3.10!13">Ἐπικατάρατος</w>
-      <w osisId="Gal.3.10!14">πᾶς</w>
-      <w osisId="Gal.3.10!15">ὃς</w>
-      <w osisId="Gal.3.10!16">οὐκ</w>
-      <w osisId="Gal.3.10!17">ἐμμένει</w>
-      <w osisId="Gal.3.10!18">πᾶσιν</w>
-      <w osisId="Gal.3.10!19">τοῖς</w>
-      <w osisId="Gal.3.10!20">γεγραμμένοις</w>
-      <w osisId="Gal.3.10!21">ἐν</w>
-      <w osisId="Gal.3.10!22">τῷ</w>
-      <w osisId="Gal.3.10!23">βιβλίῳ</w>
-      <w osisId="Gal.3.10!24">τοῦ</w>
-      <w osisId="Gal.3.10!25">νόμου</w>
-      <w osisId="Gal.3.10!26">τοῦ</w>
-      <w osisId="Gal.3.10!27">ποιῆσαι</w>
-      <w osisId="Gal.3.10!28">αὐτά</w>
+      <q ref="Dt.27,26." rend="bold">
+        <w osisId="Gal.3.10!13">Ἐπικατάρατος</w>
+        <w osisId="Gal.3.10!14">πᾶς</w>
+        <w osisId="Gal.3.10!15">ὃς</w>
+        <w osisId="Gal.3.10!16">οὐκ</w>
+        <w osisId="Gal.3.10!17">ἐμμένει</w>
+        <w osisId="Gal.3.10!18">πᾶσιν</w>
+        <w osisId="Gal.3.10!19">τοῖς</w>
+        <w osisId="Gal.3.10!20">γεγραμμένοις</w>
+        <w osisId="Gal.3.10!21">ἐν</w>
+        <w osisId="Gal.3.10!22">τῷ</w>
+        <w osisId="Gal.3.10!23">βιβλίῳ</w>
+        <w osisId="Gal.3.10!24">τοῦ</w>
+        <w osisId="Gal.3.10!25">νόμου</w>
+        <w osisId="Gal.3.10!26">τοῦ</w>
+        <w osisId="Gal.3.10!27">ποιῆσαι</w>
+        <w osisId="Gal.3.10!28">αὐτά</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="Gal.3.11"/>
       <w osisId="Gal.3.11!1">ὅτι</w>
@@ -1107,11 +1120,13 @@
       <w osisId="Gal.3.11!10">δῆλον</w>
       <pc>,</pc>
       <w osisId="Gal.3.11!11">ὅτι</w>
-      <w osisId="Gal.3.11!12">Ὁ</w>
-      <w osisId="Gal.3.11!13">δίκαιος</w>
-      <w osisId="Gal.3.11!14">ἐκ</w>
-      <w osisId="Gal.3.11!15">πίστεως</w>
-      <w osisId="Gal.3.11!16">ζήσεται</w>
+      <q ref="Hab.2,4." rend="bold">
+        <w osisId="Gal.3.11!12">Ὁ</w>
+        <w osisId="Gal.3.11!13">δίκαιος</w>
+        <w osisId="Gal.3.11!14">ἐκ</w>
+        <w osisId="Gal.3.11!15">πίστεως</w>
+        <w osisId="Gal.3.11!16">ζήσεται</w>
+      </q>
       <pc>·</pc>
       <milestone unit="verse" id="Gal.3.12"/>
       <w osisId="Gal.3.12!1">ὁ</w>
@@ -1123,12 +1138,14 @@
       <w osisId="Gal.3.12!7">πίστεως</w>
       <pc>,</pc>
       <w osisId="Gal.3.12!8">ἀλλ’</w>
-      <w osisId="Gal.3.12!9">Ὁ</w>
-      <w osisId="Gal.3.12!10">ποιήσας</w>
-      <w osisId="Gal.3.12!11">αὐτὰ</w>
-      <w osisId="Gal.3.12!12">ζήσεται</w>
-      <w osisId="Gal.3.12!13">ἐν</w>
-      <w osisId="Gal.3.12!14">αὐτοῖς</w>
+      <q ref="Lv.18,5." rend="bold">
+        <w osisId="Gal.3.12!9">Ὁ</w>
+        <w osisId="Gal.3.12!10">ποιήσας</w>
+        <w osisId="Gal.3.12!11">αὐτὰ</w>
+        <w osisId="Gal.3.12!12">ζήσεται</w>
+        <w osisId="Gal.3.12!13">ἐν</w>
+        <w osisId="Gal.3.12!14">αὐτοῖς</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="Gal.3.13"/>
       <w osisId="Gal.3.13!1">Χριστὸς</w>
@@ -1146,12 +1163,14 @@
       <pc>,</pc>
       <w osisId="Gal.3.13!13">ὅτι</w>
       <w osisId="Gal.3.13!14">γέγραπται</w>
-      <w osisId="Gal.3.13!15">Ἐπικατάρατος</w>
-      <w osisId="Gal.3.13!16">πᾶς</w>
-      <w osisId="Gal.3.13!17">ὁ</w>
-      <w osisId="Gal.3.13!18">κρεμάμενος</w>
-      <w osisId="Gal.3.13!19">ἐπὶ</w>
-      <w osisId="Gal.3.13!20">ξύλου</w>
+      <q ref="Dt.21,23." rend="bold">
+        <w osisId="Gal.3.13!15">Ἐπικατάρατος</w>
+        <w osisId="Gal.3.13!16">πᾶς</w>
+        <w osisId="Gal.3.13!17">ὁ</w>
+        <w osisId="Gal.3.13!18">κρεμάμενος</w>
+        <w osisId="Gal.3.13!19">ἐπὶ</w>
+        <w osisId="Gal.3.13!20">ξύλου</w>
+      </q>
       <pc>,</pc>
       <milestone unit="verse" id="Gal.3.14"/>
       <w osisId="Gal.3.14!1">ἵνα</w>
@@ -1200,10 +1219,12 @@
       <w osisId="Gal.3.16!4">ἐρρέθησαν</w>
       <w osisId="Gal.3.16!5">αἱ</w>
       <w osisId="Gal.3.16!6">ἐπαγγελίαι</w>
-      <w osisId="Gal.3.16!7">καὶ</w>
-      <w osisId="Gal.3.16!8">τῷ</w>
-      <w osisId="Gal.3.16!9">σπέρματι</w>
-      <w osisId="Gal.3.16!10">αὐτοῦ</w>
+      <q ref="Gn.12,7;13,15;17,7;22,18;24,7." rend="bold">
+        <w osisId="Gal.3.16!7">καὶ</w>
+        <w osisId="Gal.3.16!8">τῷ</w>
+        <w osisId="Gal.3.16!9">σπέρματι</w>
+        <w osisId="Gal.3.16!10">αὐτοῦ</w>
+      </q>
       <pc>.</pc>
       <w osisId="Gal.3.16!11">οὐ</w>
       <w osisId="Gal.3.16!12">λέγει</w>
@@ -1219,10 +1240,12 @@
       <w osisId="Gal.3.16!20">ὡς</w>
       <w osisId="Gal.3.16!21">ἐφ’</w>
       <w osisId="Gal.3.16!22">ἑνός</w>
-      <w osisId="Gal.3.16!23">Καὶ</w>
-      <w osisId="Gal.3.16!24">τῷ</w>
-      <w osisId="Gal.3.16!25">σπέρματί</w>
-      <w osisId="Gal.3.16!26">σου</w>
+      <q ref="Gn.12,7;13,15;17,7;22,18;24,7." rend="bold">
+        <w osisId="Gal.3.16!23">Καὶ</w>
+        <w osisId="Gal.3.16!24">τῷ</w>
+        <w osisId="Gal.3.16!25">σπέρματί</w>
+        <w osisId="Gal.3.16!26">σου</w>
+      </q>
       <pc>,</pc>
       <w osisId="Gal.3.16!27">ὅς</w>
       <w osisId="Gal.3.16!28">ἐστιν</w>
@@ -1944,40 +1967,44 @@
       <milestone unit="verse" id="Gal.4.27"/>
       <w osisId="Gal.4.27!1">γέγραπται</w>
       <w osisId="Gal.4.27!2">γάρ</w>
-    </p>
-    <p>
-      <w osisId="Gal.4.27!3">Εὐφράνθητι</w>
-      <pc>,</pc>
-      <w osisId="Gal.4.27!4">στεῖρα</w>
-      <w osisId="Gal.4.27!5">ἡ</w>
-      <w osisId="Gal.4.27!6">οὐ</w>
-      <w osisId="Gal.4.27!7">τίκτουσα</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Gal.4.27!8">ῥῆξον</w>
-      <w osisId="Gal.4.27!9">καὶ</w>
-      <w osisId="Gal.4.27!10">βόησον</w>
-      <pc>,</pc>
-      <w osisId="Gal.4.27!11">ἡ</w>
-      <w osisId="Gal.4.27!12">οὐκ</w>
-      <w osisId="Gal.4.27!13">ὠδίνουσα</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <w osisId="Gal.4.27!14">ὅτι</w>
-      <w osisId="Gal.4.27!15">πολλὰ</w>
-      <w osisId="Gal.4.27!16">τὰ</w>
-      <w osisId="Gal.4.27!17">τέκνα</w>
-      <w osisId="Gal.4.27!18">τῆς</w>
-      <w osisId="Gal.4.27!19">ἐρήμου</w>
-      <w osisId="Gal.4.27!20">μᾶλλον</w>
-      <w osisId="Gal.4.27!21">ἢ</w>
-      <w osisId="Gal.4.27!22">τῆς</w>
-      <w osisId="Gal.4.27!23">ἐχούσης</w>
-      <w osisId="Gal.4.27!24">τὸν</w>
-      <w osisId="Gal.4.27!25">ἄνδρα</w>
-      <pc>.</pc>
+      <q ref="Is.54,1." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Gal.4.27!3">Εὐφράνθητι</w>
+            <pc>,</pc>
+            <w osisId="Gal.4.27!4">στεῖρα</w>
+            <w osisId="Gal.4.27!5">ἡ</w>
+            <w osisId="Gal.4.27!6">οὐ</w>
+            <w osisId="Gal.4.27!7">τίκτουσα</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Gal.4.27!8">ῥῆξον</w>
+            <w osisId="Gal.4.27!9">καὶ</w>
+            <w osisId="Gal.4.27!10">βόησον</w>
+            <pc>,</pc>
+            <w osisId="Gal.4.27!11">ἡ</w>
+            <w osisId="Gal.4.27!12">οὐκ</w>
+            <w osisId="Gal.4.27!13">ὠδίνουσα</w>
+            <pc>·</pc>
+          </l>
+          <l>
+            <w osisId="Gal.4.27!14">ὅτι</w>
+            <w osisId="Gal.4.27!15">πολλὰ</w>
+            <w osisId="Gal.4.27!16">τὰ</w>
+            <w osisId="Gal.4.27!17">τέκνα</w>
+            <w osisId="Gal.4.27!18">τῆς</w>
+            <w osisId="Gal.4.27!19">ἐρήμου</w>
+            <w osisId="Gal.4.27!20">μᾶλλον</w>
+            <w osisId="Gal.4.27!21">ἢ</w>
+            <w osisId="Gal.4.27!22">τῆς</w>
+            <w osisId="Gal.4.27!23">ἐχούσης</w>
+            <w osisId="Gal.4.27!24">τὸν</w>
+            <w osisId="Gal.4.27!25">ἄνδρα</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
     </p>
     <p>
       <milestone unit="verse" id="Gal.4.28"/>
@@ -2016,25 +2043,27 @@
       <w osisId="Gal.4.30!4">ἡ</w>
       <w osisId="Gal.4.30!5">γραφή</w>
       <pc>;</pc>
-      <w osisId="Gal.4.30!6">Ἔκβαλε</w>
-      <w osisId="Gal.4.30!7">τὴν</w>
-      <w osisId="Gal.4.30!8">παιδίσκην</w>
-      <w osisId="Gal.4.30!9">καὶ</w>
-      <w osisId="Gal.4.30!10">τὸν</w>
-      <w osisId="Gal.4.30!11">υἱὸν</w>
-      <w osisId="Gal.4.30!12">αὐτῆς</w>
-      <pc>·</pc>
-      <w osisId="Gal.4.30!13">οὐ</w>
-      <w osisId="Gal.4.30!14">γὰρ</w>
-      <w osisId="Gal.4.30!15">μὴ</w>
-      <w osisId="Gal.4.30!16">κληρονομήσει</w>
-      <w osisId="Gal.4.30!17">ὁ</w>
-      <w osisId="Gal.4.30!18">υἱὸς</w>
-      <w osisId="Gal.4.30!19">τῆς</w>
-      <w osisId="Gal.4.30!20">παιδίσκης</w>
-      <w osisId="Gal.4.30!21">μετὰ</w>
-      <w osisId="Gal.4.30!22">τοῦ</w>
-      <w osisId="Gal.4.30!23">υἱοῦ</w>
+      <q ref="Gn.21,10;12." rend="bold">
+        <w osisId="Gal.4.30!6">Ἔκβαλε</w>
+        <w osisId="Gal.4.30!7">τὴν</w>
+        <w osisId="Gal.4.30!8">παιδίσκην</w>
+        <w osisId="Gal.4.30!9">καὶ</w>
+        <w osisId="Gal.4.30!10">τὸν</w>
+        <w osisId="Gal.4.30!11">υἱὸν</w>
+        <w osisId="Gal.4.30!12">αὐτῆς</w>
+        <pc>·</pc>
+        <w osisId="Gal.4.30!13">οὐ</w>
+        <w osisId="Gal.4.30!14">γὰρ</w>
+        <w osisId="Gal.4.30!15">μὴ</w>
+        <w osisId="Gal.4.30!16">κληρονομήσει</w>
+        <w osisId="Gal.4.30!17">ὁ</w>
+        <w osisId="Gal.4.30!18">υἱὸς</w>
+        <w osisId="Gal.4.30!19">τῆς</w>
+        <w osisId="Gal.4.30!20">παιδίσκης</w>
+        <w osisId="Gal.4.30!21">μετὰ</w>
+        <w osisId="Gal.4.30!22">τοῦ</w>
+        <w osisId="Gal.4.30!23">υἱοῦ</w>
+      </q>
       <w osisId="Gal.4.30!24">τῆς</w>
       <w osisId="Gal.4.30!25">ἐλευθέρας</w>
       <pc>.</pc>
@@ -2265,13 +2294,15 @@
       <pc>,</pc>
       <w osisId="Gal.5.14!9">ἐν</w>
       <w osisId="Gal.5.14!10">τῷ</w>
-      <w osisId="Gal.5.14!11">Ἀγαπήσεις</w>
-      <w osisId="Gal.5.14!12">τὸν</w>
-      <w osisId="Gal.5.14!13">πλησίον</w>
-      <w osisId="Gal.5.14!14">σου</w>
-      <w osisId="Gal.5.14!15">ὡς</w>
-      <w osisId="Gal.5.14!16">σεαυτόν</w>
-      <pc>.</pc>
+      <q ref="Lv.19,18." rend="bold">
+        <w osisId="Gal.5.14!11">Ἀγαπήσεις</w>
+        <w osisId="Gal.5.14!12">τὸν</w>
+        <w osisId="Gal.5.14!13">πλησίον</w>
+        <w osisId="Gal.5.14!14">σου</w>
+        <w osisId="Gal.5.14!15">ὡς</w>
+        <w osisId="Gal.5.14!16">σεαυτόν</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Gal.5.15"/>
       <w osisId="Gal.5.15!1">εἰ</w>
       <w osisId="Gal.5.15!2">δὲ</w>
@@ -2755,16 +2786,20 @@
       <w osisId="Gal.6.16!5">τούτῳ</w>
       <w osisId="Gal.6.16!6">στοιχήσουσιν</w>
       <pc>,</pc>
-      <w osisId="Gal.6.16!7">εἰρήνη</w>
+      <q ref="Ps.125,5;128,6." rend="bold">
+        <w osisId="Gal.6.16!7">εἰρήνη</w>
+      </q>
       <w osisId="Gal.6.16!8">ἐπ’</w>
       <w osisId="Gal.6.16!9">αὐτοὺς</w>
       <w osisId="Gal.6.16!10">καὶ</w>
       <w osisId="Gal.6.16!11">ἔλεος</w>
       <pc>,</pc>
       <w osisId="Gal.6.16!12">καὶ</w>
-      <w osisId="Gal.6.16!13">ἐπὶ</w>
-      <w osisId="Gal.6.16!14">τὸν</w>
-      <w osisId="Gal.6.16!15">Ἰσραὴλ</w>
+      <q ref="Ps.125,5;128,6." rend="bold">
+        <w osisId="Gal.6.16!13">ἐπὶ</w>
+        <w osisId="Gal.6.16!14">τὸν</w>
+        <w osisId="Gal.6.16!15">Ἰσραὴλ</w>
+      </q>
       <w osisId="Gal.6.16!16">τοῦ</w>
       <w osisId="Gal.6.16!17">Θεοῦ</w>
       <pc>.</pc>
