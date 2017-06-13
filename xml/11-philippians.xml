@@ -355,11 +355,13 @@
       <w osisId="Phil.1.19!1">οἶδα</w>
       <w osisId="Phil.1.19!2">γὰρ</w>
       <w osisId="Phil.1.19!3">ὅτι</w>
-      <w osisId="Phil.1.19!4">τοῦτό</w>
-      <w osisId="Phil.1.19!5">μοι</w>
-      <w osisId="Phil.1.19!6">ἀποβήσεται</w>
-      <w osisId="Phil.1.19!7">εἰς</w>
-      <w osisId="Phil.1.19!8">σωτηρίαν</w>
+      <q ref="Job13,16." rend="bold">
+        <w osisId="Phil.1.19!4">τοῦτό</w>
+        <w osisId="Phil.1.19!5">μοι</w>
+        <w osisId="Phil.1.19!6">ἀποβήσεται</w>
+        <w osisId="Phil.1.19!7">εἰς</w>
+        <w osisId="Phil.1.19!8">σωτηρίαν</w>
+      </q>
       <w osisId="Phil.1.19!9">διὰ</w>
       <w osisId="Phil.1.19!10">τῆς</w>
       <w osisId="Phil.1.19!11">ὑμῶν</w>
@@ -763,9 +765,11 @@
       <w osisId="Phil.2.10!3">τῷ</w>
       <w osisId="Phil.2.10!4">ὀνόματι</w>
       <w osisId="Phil.2.10!5">Ἰησοῦ</w>
-      <w osisId="Phil.2.10!6">πᾶν</w>
-      <w osisId="Phil.2.10!7">γόνυ</w>
-      <w osisId="Phil.2.10!8">κάμψῃ</w>
+      <q ref="Is.45,23." rend="bold">
+        <w osisId="Phil.2.10!6">πᾶν</w>
+        <w osisId="Phil.2.10!7">γόνυ</w>
+        <w osisId="Phil.2.10!8">κάμψῃ</w>
+      </q>
       <w osisId="Phil.2.10!9">ἐπουρανίων</w>
       <w osisId="Phil.2.10!10">καὶ</w>
       <w osisId="Phil.2.10!11">ἐπιγείων</w>
@@ -773,10 +777,12 @@
       <w osisId="Phil.2.10!13">καταχθονίων</w>
       <pc>,</pc>
       <milestone unit="verse" id="Phil.2.11"/>
-      <w osisId="Phil.2.11!1">καὶ</w>
-      <w osisId="Phil.2.11!2">πᾶσα</w>
-      <w osisId="Phil.2.11!3">γλῶσσα</w>
-      <w osisId="Phil.2.11!4">ἐξομολογήσηται</w>
+      <q ref="Is.45,23." rend="bold">
+        <w osisId="Phil.2.11!1">καὶ</w>
+        <w osisId="Phil.2.11!2">πᾶσα</w>
+        <w osisId="Phil.2.11!3">γλῶσσα</w>
+        <w osisId="Phil.2.11!4">ἐξομολογήσηται</w>
+      </q>
       <w osisId="Phil.2.11!5">ὅτι</w>
       <w osisId="Phil.2.11!6">ΚΥΡΙΟΣ</w>
       <w osisId="Phil.2.11!7">ΙΗΣΟΥΣ</w>
@@ -856,14 +862,16 @@
       <w osisId="Phil.2.15!4">καὶ</w>
       <w osisId="Phil.2.15!5">ἀκέραιοι</w>
       <pc>,</pc>
-      <w osisId="Phil.2.15!6">τέκνα</w>
-      <w osisId="Phil.2.15!7">Θεοῦ</w>
-      <w osisId="Phil.2.15!8">ἄμωμα</w>
-      <w osisId="Phil.2.15!9">μέσον</w>
-      <w osisId="Phil.2.15!10">γενεᾶς</w>
-      <w osisId="Phil.2.15!11">σκολιᾶς</w>
-      <w osisId="Phil.2.15!12">καὶ</w>
-      <w osisId="Phil.2.15!13">διεστραμμένης</w>
+      <q ref="Dt.32,5." rend="bold">
+        <w osisId="Phil.2.15!6">τέκνα</w>
+        <w osisId="Phil.2.15!7">Θεοῦ</w>
+        <w osisId="Phil.2.15!8">ἄμωμα</w>
+        <w osisId="Phil.2.15!9">μέσον</w>
+        <w osisId="Phil.2.15!10">γενεᾶς</w>
+        <w osisId="Phil.2.15!11">σκολιᾶς</w>
+        <w osisId="Phil.2.15!12">καὶ</w>
+        <w osisId="Phil.2.15!13">διεστραμμένης</w>
+      </q>
       <pc>,</pc>
       <w osisId="Phil.2.15!14">ἐν</w>
       <w osisId="Phil.2.15!15">οἷς</w>
@@ -891,9 +899,11 @@
       <w osisId="Phil.2.16!13">κενὸν</w>
       <w osisId="Phil.2.16!14">ἔδραμον</w>
       <w osisId="Phil.2.16!15">οὐδὲ</w>
-      <w osisId="Phil.2.16!16">εἰς</w>
-      <w osisId="Phil.2.16!17">κενὸν</w>
-      <w osisId="Phil.2.16!18">ἐκοπίασα</w>
+      <q ref="Is.49,4;65,23." rend="bold">
+        <w osisId="Phil.2.16!16">εἰς</w>
+        <w osisId="Phil.2.16!17">κενὸν</w>
+        <w osisId="Phil.2.16!18">ἐκοπίασα</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="Phil.2.17"/>
       <w osisId="Phil.2.17!1">Ἀλλὰ</w>

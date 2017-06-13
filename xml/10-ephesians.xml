@@ -407,11 +407,15 @@
         <w osisId="Eph.1.18!21">τῆς</w>
         <w osisId="Eph.1.18!22">δόξης</w>
         <w osisId="Eph.1.18!23">τῆς</w>
-        <w osisId="Eph.1.18!24">κληρονομίας</w>
+        <q ref="Dt.33,3.4." rend="bold">
+          <w osisId="Eph.1.18!24">κληρονομίας</w>
+        </q>
         <w osisId="Eph.1.18!25">αὐτοῦ</w>
-        <w osisId="Eph.1.18!26">ἐν</w>
-        <w osisId="Eph.1.18!27">τοῖς</w>
-        <w osisId="Eph.1.18!28">ἁγίοις</w>
+        <q ref="Dt.33,3.4." rend="bold">
+          <w osisId="Eph.1.18!26">ἐν</w>
+          <w osisId="Eph.1.18!27">τοῖς</w>
+          <w osisId="Eph.1.18!28">ἁγίοις</w>
+        </q>
 	<pc>,</pc>
       </div>
       <div>
@@ -451,10 +455,12 @@
         <w osisId="Eph.1.20!9">νεκρῶν</w>
 	<pc>,</pc>
         <w osisId="Eph.1.20!10">καὶ</w>
-        <w osisId="Eph.1.20!11">καθίσας</w>
-        <w osisId="Eph.1.20!12">ἐν</w>
-        <w osisId="Eph.1.20!13">δεξιᾷ</w>
-        <w osisId="Eph.1.20!14">αὐτοῦ</w>
+        <q ref="Ps.110.1." rend="bold">
+          <w osisId="Eph.1.20!11">καθίσας</w>
+          <w osisId="Eph.1.20!12">ἐν</w>
+          <w osisId="Eph.1.20!13">δεξιᾷ</w>
+          <w osisId="Eph.1.20!14">αὐτοῦ</w>
+        </q>
         <w osisId="Eph.1.20!15">ἐν</w>
         <w osisId="Eph.1.20!16">τοῖς</w>
         <w osisId="Eph.1.20!17">ἐπουρανίοις</w>
@@ -490,12 +496,14 @@
       <div>
         <milestone unit="verse" id="Eph.1.22"/>
         <w osisId="Eph.1.22!1">καὶ</w>
-        <w osisId="Eph.1.22!2">πάντα</w>
-        <w osisId="Eph.1.22!3">ὑπέταξεν</w>
-        <w osisId="Eph.1.22!4">ὑπὸ</w>
-        <w osisId="Eph.1.22!5">τοὺς</w>
-        <w osisId="Eph.1.22!6">πόδας</w>
-        <w osisId="Eph.1.22!7">αὐτοῦ</w>
+        <q ref="Ps.8,6." rend="bold">
+          <w osisId="Eph.1.22!2">πάντα</w>
+          <w osisId="Eph.1.22!3">ὑπέταξεν</w>
+          <w osisId="Eph.1.22!4">ὑπὸ</w>
+          <w osisId="Eph.1.22!5">τοὺς</w>
+          <w osisId="Eph.1.22!6">πόδας</w>
+          <w osisId="Eph.1.22!7">αὐτοῦ</w>
+        </q>
 	<pc>,</pc>
         <w osisId="Eph.1.22!8">καὶ</w>
         <w osisId="Eph.1.22!9">αὐτὸν</w>
@@ -817,9 +825,13 @@
         <w osisId="Eph.2.13!7">οἵ</w>
         <w osisId="Eph.2.13!8">ποτε</w>
         <w osisId="Eph.2.13!9">ὄντες</w>
-        <w osisId="Eph.2.13!10">μακρὰν</w>
+        <q ref="Is.57,19." rend="bold">
+          <w osisId="Eph.2.13!10">μακρὰν</w>
+        </q>
         <w osisId="Eph.2.13!11">ἐγενήθητε</w>
-        <w osisId="Eph.2.13!12">ἐγγὺς</w>
+        <q ref="Is.52,7." rend="bold">
+          <w osisId="Eph.2.13!12">ἐγγὺς</w>
+        </q>
         <w osisId="Eph.2.13!13">ἐν</w>
         <w osisId="Eph.2.13!14">τῷ</w>
         <w osisId="Eph.2.13!15">αἵματι</w>
@@ -833,7 +845,9 @@
         <w osisId="Eph.2.14!2">γάρ</w>
         <w osisId="Eph.2.14!3">ἐστιν</w>
         <w osisId="Eph.2.14!4">ἡ</w>
-        <w osisId="Eph.2.14!5">εἰρήνη</w>
+        <q ref="Is.9,5." rend="bold">
+          <w osisId="Eph.2.14!5">εἰρήνη</w>
+        </q>
         <w osisId="Eph.2.14!6">ἡμῶν</w>
 	<pc>,</pc>
         <w osisId="Eph.2.14!7">ὁ</w>
@@ -906,15 +920,19 @@
         <milestone unit="verse" id="Eph.2.17"/>
         <w osisId="Eph.2.17!1">καὶ</w>
         <w osisId="Eph.2.17!2">ἐλθὼν</w>
-        <w osisId="Eph.2.17!3">εὐηγγελίσατο</w>
-        <w osisId="Eph.2.17!4">εἰρήνην</w>
+        <q ref="Is.57,19." rend="bold">
+          <w osisId="Eph.2.17!3">εὐηγγελίσατο</w>
+          <w osisId="Eph.2.17!4">εἰρήνην</w>
+        </q>
         <w osisId="Eph.2.17!5">ὑμῖν</w>
-        <w osisId="Eph.2.17!6">τοῖς</w>
-        <w osisId="Eph.2.17!7">μακρὰν</w>
-        <w osisId="Eph.2.17!8">καὶ</w>
-        <w osisId="Eph.2.17!9">εἰρήνην</w>
-        <w osisId="Eph.2.17!10">τοῖς</w>
-        <w osisId="Eph.2.17!11">ἐγγύς</w>
+        <q ref="Zec.9,10." rend="bold">
+          <w osisId="Eph.2.17!6">τοῖς</w>
+          <w osisId="Eph.2.17!7">μακρὰν</w>
+          <w osisId="Eph.2.17!8">καὶ</w>
+          <w osisId="Eph.2.17!9">εἰρήνην</w>
+          <w osisId="Eph.2.17!10">τοῖς</w>
+          <w osisId="Eph.2.17!11">ἐγγύς</w>
+        </q>
 	<pc>·</pc>
       </div>
       <div>
@@ -968,7 +986,9 @@
         <w osisId="Eph.2.20!8">προφητῶν</w>
 	<pc>,</pc>
         <w osisId="Eph.2.20!9">ὄντος</w>
-        <w osisId="Eph.2.20!10">ἀκρογωνιαίου</w>
+        <q ref="Is.28,16." rend="bold">
+          <w osisId="Eph.2.20!10">ἀκρογωνιαίου</w>
+        </q>
         <w osisId="Eph.2.20!11">αὐτοῦ</w>
         <w osisId="Eph.2.20!12">Χριστοῦ</w>
         <w osisId="Eph.2.20!13">Ἰησοῦ</w>
@@ -1553,28 +1573,32 @@
         <w osisId="Eph.4.8!1">διὸ</w>
         <w osisId="Eph.4.8!2">λέγει</w>
       </div>
-    </p>
-    <p>
-      <div>
-        <w osisId="Eph.4.8!3">Ἀναβὰς</w>
-        <w osisId="Eph.4.8!4">εἰς</w>
-        <w osisId="Eph.4.8!5">ὕψος</w>
-        <w osisId="Eph.4.8!6">ᾐχμαλώτευσεν</w>
-        <w osisId="Eph.4.8!7">αἰχμαλωσίαν</w>
-	<pc>,</pc>
-        <w osisId="Eph.4.8!8">ἔδωκεν</w>
-        <w osisId="Eph.4.8!9">δόματα</w>
-        <w osisId="Eph.4.8!10">τοῖς</w>
-        <w osisId="Eph.4.8!11">ἀνθρώποις</w>
+      <q ref="Ps.68,18." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Eph.4.8!3">Ἀναβὰς</w>
+            <w osisId="Eph.4.8!4">εἰς</w>
+            <w osisId="Eph.4.8!5">ὕψος</w>
+            <w osisId="Eph.4.8!6">ᾐχμαλώτευσεν</w>
+            <w osisId="Eph.4.8!7">αἰχμαλωσίαν</w>
+            <pc>,</pc>
+            <w osisId="Eph.4.8!8">ἔδωκεν</w>
+            <w osisId="Eph.4.8!9">δόματα</w>
+            <w osisId="Eph.4.8!10">τοῖς</w>
+            <w osisId="Eph.4.8!11">ἀνθρώποις</w>
+          </l>
+        </lg>
+      </q>
 	<pc>.</pc>
-      </div>
     </p>
     <p>
       <div>
         <milestone unit="verse" id="Eph.4.9"/>
         <w osisId="Eph.4.9!1">τὸ</w>
         <w osisId="Eph.4.9!2">δὲ</w>
-        <w osisId="Eph.4.9!3">Ἀνέβη</w>
+        <q ref="Ps.68,18." rend="bold">
+          <w osisId="Eph.4.9!3">Ἀνέβη</w>
+        </q>
         <w osisId="Eph.4.9!4">τί</w>
         <w osisId="Eph.4.9!5">ἐστιν</w>
         <w osisId="Eph.4.9!6">εἰ</w>
@@ -1598,7 +1622,9 @@
         <w osisId="Eph.4.10!4">ἐστιν</w>
         <w osisId="Eph.4.10!5">καὶ</w>
         <w osisId="Eph.4.10!6">ὁ</w>
-        <w osisId="Eph.4.10!7">ἀναβὰς</w>
+        <q ref="Ps.68,18." rend="bold">
+          <w osisId="Eph.4.10!7">ἀναβὰς</w>
+        </q>
         <w osisId="Eph.4.10!8">ὑπεράνω</w>
         <w osisId="Eph.4.10!9">πάντων</w>
         <w osisId="Eph.4.10!10">τῶν</w>
@@ -1614,7 +1640,9 @@
         <milestone unit="verse" id="Eph.4.11"/>
         <w osisId="Eph.4.11!1">καὶ</w>
         <w osisId="Eph.4.11!2">αὐτὸς</w>
-        <w osisId="Eph.4.11!3">ἔδωκεν</w>
+        <q ref="Ps.68,18." rend="bold">
+          <w osisId="Eph.4.11!3">ἔδωκεν</w>
+        </q>
         <w osisId="Eph.4.11!4">τοὺς</w>
         <w osisId="Eph.4.11!5">μὲν</w>
         <w osisId="Eph.4.11!6">ἀποστόλους</w>
@@ -1927,13 +1955,15 @@
         <w osisId="Eph.4.25!2">ἀποθέμενοι</w>
         <w osisId="Eph.4.25!3">τὸ</w>
         <w osisId="Eph.4.25!4">ψεῦδος</w>
-        <w osisId="Eph.4.25!5">λαλεῖτε</w>
-        <w osisId="Eph.4.25!6">ἀλήθειαν</w>
-        <w osisId="Eph.4.25!7">ἕκαστος</w>
-        <w osisId="Eph.4.25!8">μετὰ</w>
-        <w osisId="Eph.4.25!9">τοῦ</w>
-        <w osisId="Eph.4.25!10">πλησίον</w>
-        <w osisId="Eph.4.25!11">αὐτοῦ</w>
+        <q ref="Zec.8,16." rend="bold">
+          <w osisId="Eph.4.25!5">λαλεῖτε</w>
+          <w osisId="Eph.4.25!6">ἀλήθειαν</w>
+          <w osisId="Eph.4.25!7">ἕκαστος</w>
+          <w osisId="Eph.4.25!8">μετὰ</w>
+          <w osisId="Eph.4.25!9">τοῦ</w>
+          <w osisId="Eph.4.25!10">πλησίον</w>
+          <w osisId="Eph.4.25!11">αὐτοῦ</w>
+        </q>
 	<pc>,</pc>
         <w osisId="Eph.4.25!12">ὅτι</w>
         <w osisId="Eph.4.25!13">ἐσμὲν</w>
@@ -1943,10 +1973,12 @@
       </div>
       <div>
         <milestone unit="verse" id="Eph.4.26"/>
-        <w osisId="Eph.4.26!1">ὀργίζεσθε</w>
-        <w osisId="Eph.4.26!2">καὶ</w>
-        <w osisId="Eph.4.26!3">μὴ</w>
-        <w osisId="Eph.4.26!4">ἁμαρτάνετε</w>
+        <q ref="Ps.4,4." rend="bold">
+          <w osisId="Eph.4.26!1">ὀργίζεσθε</w>
+          <w osisId="Eph.4.26!2">καὶ</w>
+          <w osisId="Eph.4.26!3">μὴ</w>
+          <w osisId="Eph.4.26!4">ἁμαρτάνετε</w>
+        </q>
 	<pc>·</pc>
         <w osisId="Eph.4.26!5">ὁ</w>
         <w osisId="Eph.4.26!6">ἥλιος</w>
@@ -2117,14 +2149,18 @@
         <w osisId="Eph.5.2!13">ἑαυτὸν</w>
         <w osisId="Eph.5.2!14">ὑπὲρ</w>
         <w osisId="Eph.5.2!15">ἡμῶν</w>
-        <w osisId="Eph.5.2!16">προσφορὰν</w>
-        <w osisId="Eph.5.2!17">καὶ</w>
-        <w osisId="Eph.5.2!18">θυσίαν</w>
+        <q ref="Ex.29,18." rend="bold">
+          <w osisId="Eph.5.2!16">προσφορὰν</w>
+          <w osisId="Eph.5.2!17">καὶ</w>
+          <w osisId="Eph.5.2!18">θυσίαν</w>
+        </q>
         <w osisId="Eph.5.2!19">τῷ</w>
         <w osisId="Eph.5.2!20">Θεῷ</w>
-        <w osisId="Eph.5.2!21">εἰς</w>
-        <w osisId="Eph.5.2!22">ὀσμὴν</w>
-        <w osisId="Eph.5.2!23">εὐωδίας</w>
+        <q ref="Ezk.20,41." rend="bold">
+          <w osisId="Eph.5.2!21">εἰς</w>
+          <w osisId="Eph.5.2!22">ὀσμὴν</w>
+          <w osisId="Eph.5.2!23">εὐωδίας</w>
+        </q>
 	<pc>.</pc>
       </div>
       <div>
@@ -2654,29 +2690,31 @@
       </div>
       <div>
         <milestone unit="verse" id="Eph.5.31"/>
-        <w osisId="Eph.5.31!1">ἀντὶ</w>
-        <w osisId="Eph.5.31!2">τούτου</w>
-        <w osisId="Eph.5.31!3">καταλείψει</w>
-        <w osisId="Eph.5.31!4">ἄνθρωπος</w>
-        <w osisId="Eph.5.31!5">τὸν</w>
-        <w osisId="Eph.5.31!6">πατέρα</w>
-        <w osisId="Eph.5.31!7">καὶ</w>
-        <w osisId="Eph.5.31!8">τὴν</w>
-        <w osisId="Eph.5.31!9">μητέρα</w>
-        <w osisId="Eph.5.31!10">καὶ</w>
-        <w osisId="Eph.5.31!11">προσκολληθήσεται</w>
-        <w osisId="Eph.5.31!12">πρὸς</w>
-        <w osisId="Eph.5.31!13">τὴν</w>
-        <w osisId="Eph.5.31!14">γυναῖκα</w>
-        <w osisId="Eph.5.31!15">αὐτοῦ</w>
-	<pc>,</pc>
-        <w osisId="Eph.5.31!16">καὶ</w>
-        <w osisId="Eph.5.31!17">ἔσονται</w>
-        <w osisId="Eph.5.31!18">οἱ</w>
-        <w osisId="Eph.5.31!19">δύο</w>
-        <w osisId="Eph.5.31!20">εἰς</w>
-        <w osisId="Eph.5.31!21">σάρκα</w>
-        <w osisId="Eph.5.31!22">μίαν</w>
+        <q ref="Gn.2,24." rend="bold">
+          <w osisId="Eph.5.31!1">ἀντὶ</w>
+          <w osisId="Eph.5.31!2">τούτου</w>
+          <w osisId="Eph.5.31!3">καταλείψει</w>
+          <w osisId="Eph.5.31!4">ἄνθρωπος</w>
+          <w osisId="Eph.5.31!5">τὸν</w>
+          <w osisId="Eph.5.31!6">πατέρα</w>
+          <w osisId="Eph.5.31!7">καὶ</w>
+          <w osisId="Eph.5.31!8">τὴν</w>
+          <w osisId="Eph.5.31!9">μητέρα</w>
+          <w osisId="Eph.5.31!10">καὶ</w>
+          <w osisId="Eph.5.31!11">προσκολληθήσεται</w>
+          <w osisId="Eph.5.31!12">πρὸς</w>
+          <w osisId="Eph.5.31!13">τὴν</w>
+          <w osisId="Eph.5.31!14">γυναῖκα</w>
+          <w osisId="Eph.5.31!15">αὐτοῦ</w>
+  	      <pc>,</pc>
+          <w osisId="Eph.5.31!16">καὶ</w>
+          <w osisId="Eph.5.31!17">ἔσονται</w>
+          <w osisId="Eph.5.31!18">οἱ</w>
+          <w osisId="Eph.5.31!19">δύο</w>
+          <w osisId="Eph.5.31!20">εἰς</w>
+          <w osisId="Eph.5.31!21">σάρκα</w>
+          <w osisId="Eph.5.31!22">μίαν</w>
+        </q>
 	<pc>.</pc>
       </div>
       <div>
@@ -2749,13 +2787,15 @@
       </div>
       <div>
         <milestone unit="verse" id="Eph.6.2"/>
-        <w osisId="Eph.6.2!1">τίμα</w>
-        <w osisId="Eph.6.2!2">τὸν</w>
-        <w osisId="Eph.6.2!3">πατέρα</w>
-        <w osisId="Eph.6.2!4">σου</w>
-        <w osisId="Eph.6.2!5">καὶ</w>
-        <w osisId="Eph.6.2!6">τὴν</w>
-        <w osisId="Eph.6.2!7">μητέρα</w>
+        <q ref="Ex.20,12." rend="bold">
+          <w osisId="Eph.6.2!1">τίμα</w>
+          <w osisId="Eph.6.2!2">τὸν</w>
+          <w osisId="Eph.6.2!3">πατέρα</w>
+          <w osisId="Eph.6.2!4">σου</w>
+          <w osisId="Eph.6.2!5">καὶ</w>
+          <w osisId="Eph.6.2!6">τὴν</w>
+          <w osisId="Eph.6.2!7">μητέρα</w>
+        </q>
 	<pc>,</pc>
         <w osisId="Eph.6.2!8">ἥτις</w>
         <w osisId="Eph.6.2!9">ἐστὶν</w>
@@ -2767,16 +2807,18 @@
       </div>
       <div>
         <milestone unit="verse" id="Eph.6.3"/>
-        <w osisId="Eph.6.3!1">ἵνα</w>
-        <w osisId="Eph.6.3!2">εὖ</w>
-        <w osisId="Eph.6.3!3">σοι</w>
-        <w osisId="Eph.6.3!4">γένηται</w>
-        <w osisId="Eph.6.3!5">καὶ</w>
-        <w osisId="Eph.6.3!6">ἔσῃ</w>
-        <w osisId="Eph.6.3!7">μακροχρόνιος</w>
-        <w osisId="Eph.6.3!8">ἐπὶ</w>
-        <w osisId="Eph.6.3!9">τῆς</w>
-        <w osisId="Eph.6.3!10">γῆς</w>
+        <q ref="Dt,5,16." rend="bold">
+          <w osisId="Eph.6.3!1">ἵνα</w>
+          <w osisId="Eph.6.3!2">εὖ</w>
+          <w osisId="Eph.6.3!3">σοι</w>
+          <w osisId="Eph.6.3!4">γένηται</w>
+          <w osisId="Eph.6.3!5">καὶ</w>
+          <w osisId="Eph.6.3!6">ἔσῃ</w>
+          <w osisId="Eph.6.3!7">μακροχρόνιος</w>
+          <w osisId="Eph.6.3!8">ἐπὶ</w>
+          <w osisId="Eph.6.3!9">τῆς</w>
+          <w osisId="Eph.6.3!10">γῆς</w>
+        </q>
 	<pc>.</pc>
       </div>
       <div>
@@ -2795,10 +2837,14 @@
         <w osisId="Eph.6.4!10">ἐκτρέφετε</w>
         <w osisId="Eph.6.4!11">αὐτὰ</w>
         <w osisId="Eph.6.4!12">ἐν</w>
-        <w osisId="Eph.6.4!13">παιδείᾳ</w>
+        <q ref="" rend="bold">
+          <w osisId="Eph.6.4!13">παιδείᾳ</w>
+        </q>
         <w osisId="Eph.6.4!14">καὶ</w>
-        <w osisId="Eph.6.4!15">νουθεσίᾳ</w>
-        <w osisId="Eph.6.4!16">Κυρίου</w>
+        <q ref="Pr.2,2;3,11;19,18. Is.50,5. Dt.6,7.20-25. Ps.78,4." rend="bold">
+          <w osisId="Eph.6.4!15">νουθεσίᾳ</w>
+          <w osisId="Eph.6.4!16">Κυρίου</w>
+        </q>
 	<pc>.</pc>
       </div>
       <div>
@@ -3022,33 +3068,41 @@
         <milestone unit="verse" id="Eph.6.14"/>
         <w osisId="Eph.6.14!1">στῆτε</w>
         <w osisId="Eph.6.14!2">οὖν</w>
-        <w osisId="Eph.6.14!3">περιζωσάμενοι</w>
-        <w osisId="Eph.6.14!4">τὴν</w>
-        <w osisId="Eph.6.14!5">ὀσφὺν</w>
+        <q ref="Is.11,5;59,17." rend="bold">
+          <w osisId="Eph.6.14!3">περιζωσάμενοι</w>
+          <w osisId="Eph.6.14!4">τὴν</w>
+          <w osisId="Eph.6.14!5">ὀσφὺν</w>
+        </q>
         <w osisId="Eph.6.14!6">ὑμῶν</w>
-        <w osisId="Eph.6.14!7">ἐν</w>
-        <w osisId="Eph.6.14!8">ἀληθείᾳ</w>
+        <q ref="Is.11,5;59,17." rend="bold">
+          <w osisId="Eph.6.14!7">ἐν</w>
+          <w osisId="Eph.6.14!8">ἀληθείᾳ</w>
+        </q>
 	<pc>,</pc>
         <w osisId="Eph.6.14!9">καὶ</w>
-        <w osisId="Eph.6.14!10">ἐνδυσάμενοι</w>
-        <w osisId="Eph.6.14!11">τὸν</w>
-        <w osisId="Eph.6.14!12">θώρακα</w>
-        <w osisId="Eph.6.14!13">τῆς</w>
-        <w osisId="Eph.6.14!14">δικαιοσύνης</w>
+        <q ref="Is.11,5;59,17." rend="bold">
+          <w osisId="Eph.6.14!10">ἐνδυσάμενοι</w>
+          <w osisId="Eph.6.14!11">τὸν</w>
+          <w osisId="Eph.6.14!12">θώρακα</w>
+          <w osisId="Eph.6.14!13">τῆς</w>
+          <w osisId="Eph.6.14!14">δικαιοσύνης</w>
+        </q>
 	<pc>,</pc>
       </div>
       <div>
         <milestone unit="verse" id="Eph.6.15"/>
         <w osisId="Eph.6.15!1">καὶ</w>
         <w osisId="Eph.6.15!2">ὑποδησάμενοι</w>
-        <w osisId="Eph.6.15!3">τοὺς</w>
-        <w osisId="Eph.6.15!4">πόδας</w>
-        <w osisId="Eph.6.15!5">ἐν</w>
-        <w osisId="Eph.6.15!6">ἑτοιμασίᾳ</w>
-        <w osisId="Eph.6.15!7">τοῦ</w>
-        <w osisId="Eph.6.15!8">εὐαγγελίου</w>
-        <w osisId="Eph.6.15!9">τῆς</w>
-        <w osisId="Eph.6.15!10">εἰρήνης</w>
+        <q ref="Is.52,7;40,3.9." rend="bold">
+          <w osisId="Eph.6.15!3">τοὺς</w>
+          <w osisId="Eph.6.15!4">πόδας</w>
+          <w osisId="Eph.6.15!5">ἐν</w>
+          <w osisId="Eph.6.15!6">ἑτοιμασίᾳ</w>
+          <w osisId="Eph.6.15!7">τοῦ</w>
+          <w osisId="Eph.6.15!8">εὐαγγελίου</w>
+          <w osisId="Eph.6.15!9">τῆς</w>
+          <w osisId="Eph.6.15!10">εἰρήνης</w>
+        </q>
 	<pc>,</pc>
       </div>
       <div>
@@ -3078,21 +3132,27 @@
         <milestone unit="verse" id="Eph.6.17"/>
         <w osisId="Eph.6.17!1">καὶ</w>
         <w osisId="Eph.6.17!2">τὴν</w>
-        <w osisId="Eph.6.17!3">περικεφαλαίαν</w>
-        <w osisId="Eph.6.17!4">τοῦ</w>
-        <w osisId="Eph.6.17!5">σωτηρίου</w>
+        <q ref="Is.59,17;11,4;49,2;51,16. Hos.6,5." rend="bold">
+          <w osisId="Eph.6.17!3">περικεφαλαίαν</w>
+          <w osisId="Eph.6.17!4">τοῦ</w>
+          <w osisId="Eph.6.17!5">σωτηρίου</w>
+        </q>
         <w osisId="Eph.6.17!6">δέξασθε</w>
 	<pc>,</pc>
         <w osisId="Eph.6.17!7">καὶ</w>
-        <w osisId="Eph.6.17!8">τὴν</w>
-        <w osisId="Eph.6.17!9">μάχαιραν</w>
-        <w osisId="Eph.6.17!10">τοῦ</w>
-        <w osisId="Eph.6.17!11">Πνεύματος</w>
+        <q ref="Is.59,17;11,4;49,2;51,16. Hos.6,5." rend="bold">
+          <w osisId="Eph.6.17!8">τὴν</w>
+          <w osisId="Eph.6.17!9">μάχαιραν</w>
+          <w osisId="Eph.6.17!10">τοῦ</w>
+          <w osisId="Eph.6.17!11">Πνεύματος</w>
+        </q>
 	<pc>,</pc>
         <w osisId="Eph.6.17!12">ὅ</w>
         <w osisId="Eph.6.17!13">ἐστιν</w>
-        <w osisId="Eph.6.17!14">ῥῆμα</w>
-        <w osisId="Eph.6.17!15">Θεοῦ</w>
+        <q ref="Is.59,17;11,4;49,2;51,16. Hos.6,5." rend="bold">
+          <w osisId="Eph.6.17!14">ῥῆμα</w>
+          <w osisId="Eph.6.17!15">Θεοῦ</w>
+        </q>
 	<pc>,</pc>
       </div>
       <div>

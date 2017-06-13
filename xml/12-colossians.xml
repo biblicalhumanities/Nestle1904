@@ -691,13 +691,17 @@
       <w osisId="Col.2.3!2">ᾧ</w>
       <w osisId="Col.2.3!3">εἰσιν</w>
       <w osisId="Col.2.3!4">πάντες</w>
-      <w osisId="Col.2.3!5">οἱ</w>
-      <w osisId="Col.2.3!6">θησαυροὶ</w>
-      <w osisId="Col.2.3!7">τῆς</w>
-      <w osisId="Col.2.3!8">σοφίας</w>
+      <q ref="Is.45,3. Pr.2,3.4." rend="bold">
+        <w osisId="Col.2.3!5">οἱ</w>
+        <w osisId="Col.2.3!6">θησαυροὶ</w>
+        <w osisId="Col.2.3!7">τῆς</w>
+        <w osisId="Col.2.3!8">σοφίας</w>
+      </q>
       <w osisId="Col.2.3!9">καὶ</w>
       <w osisId="Col.2.3!10">γνώσεως</w>
-      <w osisId="Col.2.3!11">ἀπόκρυφοι</w>
+      <q ref="Is.45,3. Pr.2,3.4." rend="bold">
+        <w osisId="Col.2.3!11">ἀπόκρυφοι</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="Col.2.4"/>
       <w osisId="Col.2.4!1">Τοῦτο</w>
@@ -1063,11 +1067,13 @@
       <pc>,</pc>
       <w osisId="Col.2.22!8">κατὰ</w>
       <w osisId="Col.2.22!9">τὰ</w>
-      <w osisId="Col.2.22!10">ἐντάλματα</w>
-      <w osisId="Col.2.22!11">καὶ</w>
-      <w osisId="Col.2.22!12">διδασκαλίας</w>
-      <w osisId="Col.2.22!13">τῶν</w>
-      <w osisId="Col.2.22!14">ἀνθρώπων</w>
+      <q ref="Is.29.13." rend="bold">
+        <w osisId="Col.2.22!10">ἐντάλματα</w>
+        <w osisId="Col.2.22!11">καὶ</w>
+        <w osisId="Col.2.22!12">διδασκαλίας</w>
+        <w osisId="Col.2.22!13">τῶν</w>
+        <w osisId="Col.2.22!14">ἀνθρώπων</w>
+      </q>
       <pc>;</pc>
       <milestone unit="verse" id="Col.2.23"/>
       <w osisId="Col.2.23!1">ἅτινά</w>
@@ -1113,11 +1119,13 @@
       <w osisId="Col.3.1!10">ὁ</w>
       <w osisId="Col.3.1!11">Χριστός</w>
       <w osisId="Col.3.1!12">ἐστιν</w>
-      <w osisId="Col.3.1!13">ἐν</w>
-      <w osisId="Col.3.1!14">δεξιᾷ</w>
-      <w osisId="Col.3.1!15">τοῦ</w>
-      <w osisId="Col.3.1!16">Θεοῦ</w>
-      <w osisId="Col.3.1!17">καθήμενος</w>
+      <q ref="Ps.110.1." rend="bold">
+        <w osisId="Col.3.1!13">ἐν</w>
+        <w osisId="Col.3.1!14">δεξιᾷ</w>
+        <w osisId="Col.3.1!15">τοῦ</w>
+        <w osisId="Col.3.1!16">Θεοῦ</w>
+        <w osisId="Col.3.1!17">καθήμενος</w>
+      </q>
       <pc>·</pc>
       <milestone unit="verse" id="Col.3.2"/>
       <w osisId="Col.3.2!1">τὰ</w>
@@ -1262,10 +1270,12 @@
       <w osisId="Col.3.10!6">ἀνακαινούμενον</w>
       <w osisId="Col.3.10!7">εἰς</w>
       <w osisId="Col.3.10!8">ἐπίγνωσιν</w>
-      <w osisId="Col.3.10!9">κατ’</w>
-      <w osisId="Col.3.10!10">εἰκόνα</w>
-      <w osisId="Col.3.10!11">τοῦ</w>
-      <w osisId="Col.3.10!12">κτίσαντος</w>
+      <q ref="Gn.1,27." rend="bold">
+        <w osisId="Col.3.10!9">κατ’</w>
+        <w osisId="Col.3.10!10">εἰκόνα</w>
+        <w osisId="Col.3.10!11">τοῦ</w>
+        <w osisId="Col.3.10!12">κτίσαντος</w>
+      </q>
       <w osisId="Col.3.10!13">αὐτόν</w>
       <pc>,</pc>
       <milestone unit="verse" id="Col.3.11"/>
