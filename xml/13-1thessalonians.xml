@@ -337,9 +337,11 @@
       <w osisId="1Thess.2.4!16">ἀλλὰ</w>
       <w osisId="1Thess.2.4!17">Θεῷ</w>
       <w osisId="1Thess.2.4!18">τῷ</w>
-      <w osisId="1Thess.2.4!19">δοκιμάζοντι</w>
-      <w osisId="1Thess.2.4!20">τὰς</w>
-      <w osisId="1Thess.2.4!21">καρδίας</w>
+      <q ref="Jer.11,20" rend="bold">
+        <w osisId="1Thess.2.4!19">δοκιμάζοντι</w>
+        <w osisId="1Thess.2.4!20">τὰς</w>
+        <w osisId="1Thess.2.4!21">καρδίας</w>
+      </q>
       <w osisId="1Thess.2.4!22">ἡμῶν</w>
       <pc>.</pc>
       <milestone unit="verse" id="1Thess.2.5"/>
@@ -622,10 +624,14 @@
       <pc>,</pc>
       <w osisId="1Thess.2.16!8">εἰς</w>
       <w osisId="1Thess.2.16!9">τὸ</w>
-      <w osisId="1Thess.2.16!10">ἀναπληρῶσαι</w>
+      <q ref="Gn.15,16." rend="bold">
+        <w osisId="1Thess.2.16!10">ἀναπληρῶσαι</w>
+      </q>
       <w osisId="1Thess.2.16!11">αὐτῶν</w>
-      <w osisId="1Thess.2.16!12">τὰς</w>
-      <w osisId="1Thess.2.16!13">ἁμαρτίας</w>
+      <q ref="Gn.15,16." rend="bold">
+        <w osisId="1Thess.2.16!12">τὰς</w>
+        <w osisId="1Thess.2.16!13">ἁμαρτίας</w>
+      </q>
       <w osisId="1Thess.2.16!14">πάντοτε</w>
       <pc>.</pc>
       <w osisId="1Thess.2.16!15">ἔφθασεν</w>
@@ -1102,13 +1108,15 @@
       <w osisId="1Thess.4.5!4">ἐπιθυμίας</w>
       <w osisId="1Thess.4.5!5">καθάπερ</w>
       <w osisId="1Thess.4.5!6">καὶ</w>
-      <w osisId="1Thess.4.5!7">τὰ</w>
-      <w osisId="1Thess.4.5!8">ἔθνη</w>
-      <w osisId="1Thess.4.5!9">τὰ</w>
-      <w osisId="1Thess.4.5!10">μὴ</w>
-      <w osisId="1Thess.4.5!11">εἰδότα</w>
-      <w osisId="1Thess.4.5!12">τὸν</w>
-      <w osisId="1Thess.4.5!13">Θεόν</w>
+      <q ref="Jer.10,25. Ps.79,6." rend="bold">
+        <w osisId="1Thess.4.5!7">τὰ</w>
+        <w osisId="1Thess.4.5!8">ἔθνη</w>
+        <w osisId="1Thess.4.5!9">τὰ</w>
+        <w osisId="1Thess.4.5!10">μὴ</w>
+        <w osisId="1Thess.4.5!11">εἰδότα</w>
+        <w osisId="1Thess.4.5!12">τὸν</w>
+        <w osisId="1Thess.4.5!13">Θεόν</w>
+      </q>
       <pc>,</pc>
       <milestone unit="verse" id="1Thess.4.6"/>
       <w osisId="1Thess.4.6!1">τὸ</w>
@@ -1124,8 +1132,10 @@
       <w osisId="1Thess.4.6!11">αὐτοῦ</w>
       <pc>,</pc>
       <w osisId="1Thess.4.6!12">διότι</w>
-      <w osisId="1Thess.4.6!13">ἔκδικος</w>
-      <w osisId="1Thess.4.6!14">Κύριος</w>
+      <q ref="Ps.94,2." rend="bold">
+        <w osisId="1Thess.4.6!13">ἔκδικος</w>
+        <w osisId="1Thess.4.6!14">Κύριος</w>
+      </q>
       <w osisId="1Thess.4.6!15">περὶ</w>
       <w osisId="1Thess.4.6!16">πάντων</w>
       <w osisId="1Thess.4.6!17">τούτων</w>
@@ -1162,14 +1172,18 @@
       <w osisId="1Thess.4.8!9">Θεὸν</w>
       <w osisId="1Thess.4.8!10">τὸν</w>
       <w osisId="1Thess.4.8!11">καὶ</w>
-      <w osisId="1Thess.4.8!12">διδόντα</w>
-      <w osisId="1Thess.4.8!13">τὸ</w>
-      <w osisId="1Thess.4.8!14">Πνεῦμα</w>
-      <w osisId="1Thess.4.8!15">αὐτοῦ</w>
+      <q ref="Ezk.36,27;37,14" rend="bold">
+        <w osisId="1Thess.4.8!12">διδόντα</w>
+        <w osisId="1Thess.4.8!13">τὸ</w>
+        <w osisId="1Thess.4.8!14">Πνεῦμα</w>
+        <w osisId="1Thess.4.8!15">αὐτοῦ</w>
+      </q>
       <w osisId="1Thess.4.8!16">τὸ</w>
       <w osisId="1Thess.4.8!17">ἅγιον</w>
-      <w osisId="1Thess.4.8!18">εἰς</w>
-      <w osisId="1Thess.4.8!19">ὑμᾶς</w>
+      <q ref="Ezk.36,27;37,14" rend="bold">
+        <w osisId="1Thess.4.8!18">εἰς</w>
+        <w osisId="1Thess.4.8!19">ὑμᾶς</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="1Thess.4.9"/>
       <w osisId="1Thess.4.9!1">Περὶ</w>
@@ -1517,15 +1531,21 @@
       <w osisId="1Thess.5.8!4">ὄντες</w>
       <w osisId="1Thess.5.8!5">νήφωμεν</w>
       <pc>,</pc>
-      <w osisId="1Thess.5.8!6">ἐνδυσάμενοι</w>
-      <w osisId="1Thess.5.8!7">θώρακα</w>
+      <q ref="Is.59,17." rend="bold">
+        <w osisId="1Thess.5.8!6">ἐνδυσάμενοι</w>
+        <w osisId="1Thess.5.8!7">θώρακα</w>
+      </q>
       <w osisId="1Thess.5.8!8">πίστεως</w>
       <w osisId="1Thess.5.8!9">καὶ</w>
       <w osisId="1Thess.5.8!10">ἀγάπης</w>
       <w osisId="1Thess.5.8!11">καὶ</w>
-      <w osisId="1Thess.5.8!12">περικεφαλαίαν</w>
+      <q ref="Is.59,17." rend="bold">
+        <w osisId="1Thess.5.8!12">περικεφαλαίαν</w>
+      </q>
       <w osisId="1Thess.5.8!13">ἐλπίδα</w>
-      <w osisId="1Thess.5.8!14">σωτηρίας</w>
+      <q ref="Is.59,17." rend="bold">
+        <w osisId="1Thess.5.8!14">σωτηρίας</w>
+      </q>
       <pc>·</pc>
       <milestone unit="verse" id="1Thess.5.9"/>
       <w osisId="1Thess.5.9!1">ὅτι</w>
@@ -1704,11 +1724,15 @@
       <w osisId="1Thess.5.21!6">κατέχετε</w>
       <pc>·</pc>
       <milestone unit="verse" id="1Thess.5.22"/>
-      <w osisId="1Thess.5.22!1">ἀπὸ</w>
-      <w osisId="1Thess.5.22!2">παντὸς</w>
+      <q ref="Job1,1.8;2,3." rend="bold">
+        <w osisId="1Thess.5.22!1">ἀπὸ</w>
+        <w osisId="1Thess.5.22!2">παντὸς</w>
+      </q>
       <w osisId="1Thess.5.22!3">εἴδους</w>
-      <w osisId="1Thess.5.22!4">πονηροῦ</w>
-      <w osisId="1Thess.5.22!5">ἀπέχεσθε</w>
+      <q ref="Job1,1.8;2,3." rend="bold">
+        <w osisId="1Thess.5.22!4">πονηροῦ</w>
+        <w osisId="1Thess.5.22!5">ἀπέχεσθε</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="1Thess.5.23"/>
       <w osisId="1Thess.5.23!1">Αὐτὸς</w>
