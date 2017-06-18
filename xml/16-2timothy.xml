@@ -683,11 +683,13 @@
       <w osisId="2Tim.2.19!9">τὴν</w>
       <w osisId="2Tim.2.19!10">σφραγῖδα</w>
       <w osisId="2Tim.2.19!11">ταύτην</w>
-      <w osisId="2Tim.2.19!12">Ἔγνω</w>
-      <w osisId="2Tim.2.19!13">Κύριος</w>
-      <w osisId="2Tim.2.19!14">τοὺς</w>
-      <w osisId="2Tim.2.19!15">ὄντας</w>
-      <w osisId="2Tim.2.19!16">αὐτοῦ</w>
+      <q ref="Nu.16,5.26. Is.26,13;28,16.17." rend="bold">
+        <w osisId="2Tim.2.19!12">Ἔγνω</w>
+        <w osisId="2Tim.2.19!13">Κύριος</w>
+        <w osisId="2Tim.2.19!14">τοὺς</w>
+        <w osisId="2Tim.2.19!15">ὄντας</w>
+        <w osisId="2Tim.2.19!16">αὐτοῦ</w>
+      </q>
       <pc>,</pc>
       <w osisId="2Tim.2.19!17">καί</w>
       <w osisId="2Tim.2.19!18">Ἀποστήτω</w>
@@ -695,10 +697,12 @@
       <w osisId="2Tim.2.19!20">ἀδικίας</w>
       <w osisId="2Tim.2.19!21">πᾶς</w>
       <w osisId="2Tim.2.19!22">ὁ</w>
-      <w osisId="2Tim.2.19!23">ὀνομάζων</w>
-      <w osisId="2Tim.2.19!24">τὸ</w>
-      <w osisId="2Tim.2.19!25">ὄνομα</w>
-      <w osisId="2Tim.2.19!26">Κυρίου</w>
+      <q ref="Nu.16,5.26. Is.26,13;28,16.17." rend="bold">
+        <w osisId="2Tim.2.19!23">ὀνομάζων</w>
+        <w osisId="2Tim.2.19!24">τὸ</w>
+        <w osisId="2Tim.2.19!25">ὄνομα</w>
+        <w osisId="2Tim.2.19!26">Κυρίου</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="2Tim.2.20"/>
       <w osisId="2Tim.2.20!1">ἐν</w>
@@ -1424,14 +1428,18 @@
       <w osisId="2Tim.4.14!6">κακὰ</w>
       <w osisId="2Tim.4.14!7">ἐνεδείξατο</w>
       <pc>·</pc>
-      <w osisId="2Tim.4.14!8">ἀποδώσει</w>
+      <q ref="2S.3,39. Ps.28,4;62,12. Pr.24,12." rend="bold">
+        <w osisId="2Tim.4.14!8">ἀποδώσει</w>
+      </q>
       <w osisId="2Tim.4.14!9">αὐτῷ</w>
-      <w osisId="2Tim.4.14!10">ὁ</w>
-      <w osisId="2Tim.4.14!11">Κύριος</w>
-      <w osisId="2Tim.4.14!12">κατὰ</w>
-      <w osisId="2Tim.4.14!13">τὰ</w>
-      <w osisId="2Tim.4.14!14">ἔργα</w>
-      <w osisId="2Tim.4.14!15">αὐτοῦ</w>
+      <q ref="2S.3,39. Ps.28,4;62,12. Pr.24,12." rend="bold">
+        <w osisId="2Tim.4.14!10">ὁ</w>
+        <w osisId="2Tim.4.14!11">Κύριος</w>
+        <w osisId="2Tim.4.14!12">κατὰ</w>
+        <w osisId="2Tim.4.14!13">τὰ</w>
+        <w osisId="2Tim.4.14!14">ἔργα</w>
+        <w osisId="2Tim.4.14!15">αὐτοῦ</w>
+      </q>
       <pc>·</pc>
       <milestone unit="verse" id="2Tim.4.15"/>
       <w osisId="2Tim.4.15!1">ὃν</w>
@@ -1489,9 +1497,11 @@
       <pc>,</pc>
       <w osisId="2Tim.4.17!20">καὶ</w>
       <w osisId="2Tim.4.17!21">ἐρύσθην</w>
-      <w osisId="2Tim.4.17!22">ἐκ</w>
-      <w osisId="2Tim.4.17!23">στόματος</w>
-      <w osisId="2Tim.4.17!24">λέοντος</w>
+      <q ref="Ps.22,21. Dn.6,21.28." rend="bold">
+        <w osisId="2Tim.4.17!22">ἐκ</w>
+        <w osisId="2Tim.4.17!23">στόματος</w>
+        <w osisId="2Tim.4.17!24">λέοντος</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="2Tim.4.18"/>
       <w osisId="2Tim.4.18!1">ῥύσεταί</w>
