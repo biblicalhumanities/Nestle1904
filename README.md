@@ -31,7 +31,7 @@ https://sites.google.com/site/nestle1904/
 
 The reader is encouraged to visit this website, where more information
 about the method of production of the base text can be found.  The
-editor of the analysis wishes to thank Diego Renato ds Santos for the
+editor of the analysis wishes to thank Diego Renato dos Santos for the
 care and effort with which he has prepared the base text, and thus has
 rendered the Body of Christ an invaluable service.
 
@@ -39,7 +39,7 @@ The text has been augmented with morphological tags, lemmatization,
 and Strong's numbers.  This work was carried out by Dr. Ulrik
 Sandborg-Petersen of Emergence Consult and Aalborg University,
 Denmark.  XHTML and XML representations of the text were created by 
-Jonathan Robie of biblicalhumanities.org.
+Jonathan Robie of biblicalhumanities.org. 
 
 The basic method has been to port over as much as possible of an
 analysis of the Wescott-Hort GNT based on the work done on that text
@@ -124,7 +124,7 @@ The seven tab-delimited fields are as follows:
 
 3) The "functional" morphological tag.
 
-4) The "form-oriented" morphologcal tag.
+4) The "form-oriented" morphological tag.
 
 5) The Strong's number. This has one of two formats: Either a single
    Strong's number in base 10, or two numbers separated by an
