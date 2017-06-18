@@ -154,20 +154,24 @@
       <w osisId="2Thess.1.7!18">δυνάμεως</w>
       <w osisId="2Thess.1.7!19">αὐτοῦ</w>
       <milestone unit="verse" id="2Thess.1.8"/>
-      <w osisId="2Thess.1.8!1">ἐν</w>
-      <w osisId="2Thess.1.8!2">πυρὶ</w>
-      <w osisId="2Thess.1.8!3">φλογός</w>
-      <pc>,</pc>
-      <w osisId="2Thess.1.8!4">διδόντος</w>
-      <w osisId="2Thess.1.8!5">ἐκδίκησιν</w>
-      <w osisId="2Thess.1.8!6">τοῖς</w>
-      <w osisId="2Thess.1.8!7">μὴ</w>
-      <w osisId="2Thess.1.8!8">εἰδόσιν</w>
-      <w osisId="2Thess.1.8!9">Θεὸν</w>
+      <q ref="Is.66,15. Jer.10,25. Ps.79,6." rend="bold">
+        <w osisId="2Thess.1.8!1">ἐν</w>
+        <w osisId="2Thess.1.8!2">πυρὶ</w>
+        <w osisId="2Thess.1.8!3">φλογός</w>
+        <pc>,</pc>
+        <w osisId="2Thess.1.8!4">διδόντος</w>
+        <w osisId="2Thess.1.8!5">ἐκδίκησιν</w>
+        <w osisId="2Thess.1.8!6">τοῖς</w>
+        <w osisId="2Thess.1.8!7">μὴ</w>
+        <w osisId="2Thess.1.8!8">εἰδόσιν</w>
+        <w osisId="2Thess.1.8!9">Θεὸν</w>
+      </q>
       <w osisId="2Thess.1.8!10">καὶ</w>
-      <w osisId="2Thess.1.8!11">τοῖς</w>
-      <w osisId="2Thess.1.8!12">μὴ</w>
-      <w osisId="2Thess.1.8!13">ὑπακούουσιν</w>
+      <q ref="Is.66,15. Jer.10,25. Ps.79,6." rend="bold">
+        <w osisId="2Thess.1.8!11">τοῖς</w>
+        <w osisId="2Thess.1.8!12">μὴ</w>
+        <w osisId="2Thess.1.8!13">ὑπακούουσιν</w>
+      </q>
       <w osisId="2Thess.1.8!14">τῷ</w>
       <w osisId="2Thess.1.8!15">εὐαγγελίῳ</w>
       <w osisId="2Thess.1.8!16">τοῦ</w>
@@ -181,28 +185,32 @@
       <w osisId="2Thess.1.9!3">τίσουσιν</w>
       <w osisId="2Thess.1.9!4">ὄλεθρον</w>
       <w osisId="2Thess.1.9!5">αἰώνιον</w>
-      <w osisId="2Thess.1.9!6">ἀπὸ</w>
-      <w osisId="2Thess.1.9!7">προσώπου</w>
-      <w osisId="2Thess.1.9!8">τοῦ</w>
-      <w osisId="2Thess.1.9!9">Κυρίου</w>
-      <w osisId="2Thess.1.9!10">καὶ</w>
-      <w osisId="2Thess.1.9!11">ἀπὸ</w>
-      <w osisId="2Thess.1.9!12">τῆς</w>
-      <w osisId="2Thess.1.9!13">δόξης</w>
-      <w osisId="2Thess.1.9!14">τῆς</w>
-      <w osisId="2Thess.1.9!15">ἰσχύος</w>
-      <w osisId="2Thess.1.9!16">αὐτοῦ</w>
-      <pc>,</pc>
-      <milestone unit="verse" id="2Thess.1.10"/>
-      <w osisId="2Thess.1.10!1">ὅταν</w>
-      <w osisId="2Thess.1.10!2">ἔλθῃ</w>
-      <w osisId="2Thess.1.10!3">ἐνδοξασθῆναι</w>
-      <w osisId="2Thess.1.10!4">ἐν</w>
-      <w osisId="2Thess.1.10!5">τοῖς</w>
-      <w osisId="2Thess.1.10!6">ἁγίοις</w>
-      <w osisId="2Thess.1.10!7">αὐτοῦ</w>
+      <q ref="Is.2,10.19.21." rend="bold">
+        <w osisId="2Thess.1.9!6">ἀπὸ</w>
+        <w osisId="2Thess.1.9!7">προσώπου</w>
+        <w osisId="2Thess.1.9!8">τοῦ</w>
+        <w osisId="2Thess.1.9!9">Κυρίου</w>
+        <w osisId="2Thess.1.9!10">καὶ</w>
+        <w osisId="2Thess.1.9!11">ἀπὸ</w>
+        <w osisId="2Thess.1.9!12">τῆς</w>
+        <w osisId="2Thess.1.9!13">δόξης</w>
+        <w osisId="2Thess.1.9!14">τῆς</w>
+        <w osisId="2Thess.1.9!15">ἰσχύος</w>
+        <w osisId="2Thess.1.9!16">αὐτοῦ</w>
+        <pc>,</pc>
+        <milestone unit="verse" id="2Thess.1.10"/>
+        <w osisId="2Thess.1.10!1">ὅταν</w>
+        <w osisId="2Thess.1.10!2">ἔλθῃ</w>
+        <w osisId="2Thess.1.10!3">ἐνδοξασθῆναι</w>
+        <w osisId="2Thess.1.10!4">ἐν</w>
+        <w osisId="2Thess.1.10!5">τοῖς</w>
+        <w osisId="2Thess.1.10!6">ἁγίοις</w>
+        <w osisId="2Thess.1.10!7">αὐτοῦ</w>
+      </q>
       <w osisId="2Thess.1.10!8">καὶ</w>
-      <w osisId="2Thess.1.10!9">θαυμασθῆναι</w>
+      <q ref="Ps.89,7;68,36(LXX). Is.49,3;2,11.17." rend="bold">
+        <w osisId="2Thess.1.10!9">θαυμασθῆναι</w>
+      </q>
       <w osisId="2Thess.1.10!10">ἐν</w>
       <w osisId="2Thess.1.10!11">πᾶσιν</w>
       <w osisId="2Thess.1.10!12">τοῖς</w>
@@ -216,10 +224,12 @@
       <w osisId="2Thess.1.10!19">ἐφ’</w>
       <w osisId="2Thess.1.10!20">ὑμᾶς</w>
       <pc>,</pc>
-      <w osisId="2Thess.1.10!21">ἐν</w>
-      <w osisId="2Thess.1.10!22">τῇ</w>
-      <w osisId="2Thess.1.10!23">ἡμέρᾳ</w>
-      <w osisId="2Thess.1.10!24">ἐκείνῃ</w>
+      <q ref="Ps.89,7;68,36(LXX). Is.49,3;2,11.17." rend="bold">
+        <w osisId="2Thess.1.10!21">ἐν</w>
+        <w osisId="2Thess.1.10!22">τῇ</w>
+        <w osisId="2Thess.1.10!23">ἡμέρᾳ</w>
+        <w osisId="2Thess.1.10!24">ἐκείνῃ</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="2Thess.1.11"/>
       <w osisId="2Thess.1.11!1">Εἰς</w>
@@ -250,10 +260,12 @@
       <w osisId="2Thess.1.11!25">δυνάμει</w>
       <pc>,</pc>
       <milestone unit="verse" id="2Thess.1.12"/>
-      <w osisId="2Thess.1.12!1">ὅπως</w>
-      <w osisId="2Thess.1.12!2">ἐνδοξασθῇ</w>
-      <w osisId="2Thess.1.12!3">τὸ</w>
-      <w osisId="2Thess.1.12!4">ὄνομα</w>
+      <q ref="Is.24,15;66,5. Mal.1,11." rend="bold">
+        <w osisId="2Thess.1.12!1">ὅπως</w>
+        <w osisId="2Thess.1.12!2">ἐνδοξασθῇ</w>
+        <w osisId="2Thess.1.12!3">τὸ</w>
+        <w osisId="2Thess.1.12!4">ὄνομα</w>
+      </q>
       <w osisId="2Thess.1.12!5">τοῦ</w>
       <w osisId="2Thess.1.12!6">Κυρίου</w>
       <w osisId="2Thess.1.12!7">ἡμῶν</w>
@@ -367,29 +379,39 @@
       <milestone unit="verse" id="2Thess.2.4"/>
       <w osisId="2Thess.2.4!1">ὁ</w>
       <w osisId="2Thess.2.4!2">ἀντικείμενος</w>
-      <w osisId="2Thess.2.4!3">καὶ</w>
-      <w osisId="2Thess.2.4!4">ὑπεραιρόμενος</w>
-      <w osisId="2Thess.2.4!5">ἐπὶ</w>
-      <w osisId="2Thess.2.4!6">πάντα</w>
+      <q ref="Dn.11,36. Ezk.28,2." rend="bold">
+        <w osisId="2Thess.2.4!3">καὶ</w>
+        <w osisId="2Thess.2.4!4">ὑπεραιρόμενος</w>
+        <w osisId="2Thess.2.4!5">ἐπὶ</w>
+        <w osisId="2Thess.2.4!6">πάντα</w>
+      </q>
       <w osisId="2Thess.2.4!7">λεγόμενον</w>
-      <w osisId="2Thess.2.4!8">Θεὸν</w>
+      <q ref="Dn.11,36. Ezk.28,2." rend="bold">
+        <w osisId="2Thess.2.4!8">Θεὸν</w>
+      </q>
       <w osisId="2Thess.2.4!9">ἢ</w>
       <w osisId="2Thess.2.4!10">σέβασμα</w>
       <pc>,</pc>
       <w osisId="2Thess.2.4!11">ὥστε</w>
       <w osisId="2Thess.2.4!12">αὐτὸν</w>
-      <w osisId="2Thess.2.4!13">εἰς</w>
-      <w osisId="2Thess.2.4!14">τὸν</w>
+      <q ref="Dn.11,36. Ezk.28,2." rend="bold">
+        <w osisId="2Thess.2.4!13">εἰς</w>
+        <w osisId="2Thess.2.4!14">τὸν</w>
+      </q>
       <w osisId="2Thess.2.4!15">ναὸν</w>
-      <w osisId="2Thess.2.4!16">τοῦ</w>
-      <w osisId="2Thess.2.4!17">Θεοῦ</w>
-      <w osisId="2Thess.2.4!18">καθίσαι</w>
+      <q ref="Dn.11,36. Ezk.28,2." rend="bold">
+        <w osisId="2Thess.2.4!16">τοῦ</w>
+        <w osisId="2Thess.2.4!17">Θεοῦ</w>
+        <w osisId="2Thess.2.4!18">καθίσαι</w>
+      </q>
       <pc>,</pc>
       <w osisId="2Thess.2.4!19">ἀποδεικνύντα</w>
       <w osisId="2Thess.2.4!20">ἑαυτὸν</w>
       <w osisId="2Thess.2.4!21">ὅτι</w>
       <w osisId="2Thess.2.4!22">ἔστιν</w>
-      <w osisId="2Thess.2.4!23">Θεός</w>
+      <q ref="Dn.11,36. Ezk.28,2." rend="bold">
+        <w osisId="2Thess.2.4!23">Θεός</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="2Thess.2.5"/>
       <w osisId="2Thess.2.5!1">Οὐ</w>
@@ -441,19 +463,23 @@
       <w osisId="2Thess.2.8!1">καὶ</w>
       <w osisId="2Thess.2.8!2">τότε</w>
       <w osisId="2Thess.2.8!3">ἀποκαλυφθήσεται</w>
-      <w osisId="2Thess.2.8!4">ὁ</w>
-      <w osisId="2Thess.2.8!5">ἄνομος</w>
+      <q ref="Is.11,4. Job4,9." rend="bold">
+        <w osisId="2Thess.2.8!4">ὁ</w>
+        <w osisId="2Thess.2.8!5">ἄνομος</w>
+      </q>
       <pc>,</pc>
       <w osisId="2Thess.2.8!6">ὃν</w>
       <w osisId="2Thess.2.8!7">ὁ</w>
       <w osisId="2Thess.2.8!8">Κύριος</w>
       <w osisId="2Thess.2.8!9">Ἰησοῦς</w>
-      <w osisId="2Thess.2.8!10">ἀνελεῖ</w>
-      <w osisId="2Thess.2.8!11">τῷ</w>
-      <w osisId="2Thess.2.8!12">πνεύματι</w>
-      <w osisId="2Thess.2.8!13">τοῦ</w>
-      <w osisId="2Thess.2.8!14">στόματος</w>
-      <w osisId="2Thess.2.8!15">αὐτοῦ</w>
+      <q ref="Is.11,4. Job4,9." rend="bold">
+        <w osisId="2Thess.2.8!10">ἀνελεῖ</w>
+        <w osisId="2Thess.2.8!11">τῷ</w>
+        <w osisId="2Thess.2.8!12">πνεύματι</w>
+        <w osisId="2Thess.2.8!13">τοῦ</w>
+        <w osisId="2Thess.2.8!14">στόματος</w>
+        <w osisId="2Thess.2.8!15">αὐτοῦ</w>
+      </q>
       <w osisId="2Thess.2.8!16">καὶ</w>
       <w osisId="2Thess.2.8!17">καταργήσει</w>
       <w osisId="2Thess.2.8!18">τῇ</w>
@@ -546,9 +572,11 @@
       <w osisId="2Thess.2.13!9">ὑμῶν</w>
       <pc>,</pc>
       <w osisId="2Thess.2.13!10">ἀδελφοὶ</w>
-      <w osisId="2Thess.2.13!11">ἠγαπημένοι</w>
-      <w osisId="2Thess.2.13!12">ὑπὸ</w>
-      <w osisId="2Thess.2.13!13">Κυρίου</w>
+      <q ref="Dt.33,12." rend="bold">
+        <w osisId="2Thess.2.13!11">ἠγαπημένοι</w>
+        <w osisId="2Thess.2.13!12">ὑπὸ</w>
+        <w osisId="2Thess.2.13!13">Κυρίου</w>
+      </q>
       <pc>,</pc>
       <w osisId="2Thess.2.13!14">ὅτι</w>
       <w osisId="2Thess.2.13!15">εἵλατο</w>
