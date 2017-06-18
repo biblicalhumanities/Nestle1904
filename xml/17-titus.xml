@@ -538,16 +538,22 @@
       <w osisId="Titus.2.14!4">ὑπὲρ</w>
       <w osisId="Titus.2.14!5">ἡμῶν</w>
       <w osisId="Titus.2.14!6">ἵνα</w>
-      <w osisId="Titus.2.14!7">λυτρώσηται</w>
+      <q ref="Ps.130,8. Ex.19,5. Dt.14,2. Ezk.37,23." rend="bold">
+        <w osisId="Titus.2.14!7">λυτρώσηται</w>
+      </q>
       <w osisId="Titus.2.14!8">ἡμᾶς</w>
-      <w osisId="Titus.2.14!9">ἀπὸ</w>
-      <w osisId="Titus.2.14!10">πάσης</w>
-      <w osisId="Titus.2.14!11">ἀνομίας</w>
+      <q ref="Ps.130,8. Ex.19,5. Dt.14,2. Ezk.37,23." rend="bold">
+        <w osisId="Titus.2.14!9">ἀπὸ</w>
+        <w osisId="Titus.2.14!10">πάσης</w>
+        <w osisId="Titus.2.14!11">ἀνομίας</w>
+      </q>
       <w osisId="Titus.2.14!12">καὶ</w>
-      <w osisId="Titus.2.14!13">καθαρίσῃ</w>
-      <w osisId="Titus.2.14!14">ἑαυτῷ</w>
-      <w osisId="Titus.2.14!15">λαὸν</w>
-      <w osisId="Titus.2.14!16">περιούσιον</w>
+      <q ref="Ps.130,8. Ex.19,5. Dt.14,2. Ezk.37,23." rend="bold">
+        <w osisId="Titus.2.14!13">καθαρίσῃ</w>
+        <w osisId="Titus.2.14!14">ἑαυτῷ</w>
+        <w osisId="Titus.2.14!15">λαὸν</w>
+        <w osisId="Titus.2.14!16">περιούσιον</w>
+      </q>
       <pc>,</pc>
       <w osisId="Titus.2.14!17">ζηλωτὴν</w>
       <w osisId="Titus.2.14!18">καλῶν</w>
