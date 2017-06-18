@@ -1487,10 +1487,12 @@
       <w osisId="1Tim.5.18!2">γὰρ</w>
       <w osisId="1Tim.5.18!3">ἡ</w>
       <w osisId="1Tim.5.18!4">γραφή</w>
-      <w osisId="1Tim.5.18!5">Βοῦν</w>
-      <w osisId="1Tim.5.18!6">ἀλοῶντα</w>
-      <w osisId="1Tim.5.18!7">οὐ</w>
-      <w osisId="1Tim.5.18!8">φιμώσεις</w>
+      <q ref="Dt.25,4;24,15." rend="bold">
+        <w osisId="1Tim.5.18!5">Βοῦν</w>
+        <w osisId="1Tim.5.18!6">ἀλοῶντα</w>
+        <w osisId="1Tim.5.18!7">οὐ</w>
+        <w osisId="1Tim.5.18!8">φιμώσεις</w>
+      </q>
       <pc>,</pc>
       <w osisId="1Tim.5.18!9">καί</w>
       <w osisId="1Tim.5.18!10">Ἄξιος</w>
@@ -1510,11 +1512,13 @@
       <w osisId="1Tim.5.19!6">ἐκτὸς</w>
       <w osisId="1Tim.5.19!7">εἰ</w>
       <w osisId="1Tim.5.19!8">μὴ</w>
-      <w osisId="1Tim.5.19!9">ἐπὶ</w>
-      <w osisId="1Tim.5.19!10">δύο</w>
-      <w osisId="1Tim.5.19!11">ἢ</w>
-      <w osisId="1Tim.5.19!12">τριῶν</w>
-      <w osisId="1Tim.5.19!13">μαρτύρων</w>
+      <q ref="Dt.19,15." rend="bold">
+        <w osisId="1Tim.5.19!9">ἐπὶ</w>
+        <w osisId="1Tim.5.19!10">δύο</w>
+        <w osisId="1Tim.5.19!11">ἢ</w>
+        <w osisId="1Tim.5.19!12">τριῶν</w>
+        <w osisId="1Tim.5.19!13">μαρτύρων</w>
+      </q>
       <pc>.</pc>
       <milestone unit="verse" id="1Tim.5.20"/>
       <w osisId="1Tim.5.20!1">Τοὺς</w>
