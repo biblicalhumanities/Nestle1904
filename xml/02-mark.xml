@@ -13127,10 +13127,12 @@
       <w osisId="Mark.15.36!6">σπόγγον</w>
       <q ref="Ps.69,21." rend="bold">
         <w osisId="Mark.15.36!7">ὄξους</w>
+      </q>
       <w osisId="Mark.15.36!8">περιθεὶς</w>
       <w osisId="Mark.15.36!9">καλάμῳ</w>
       <q ref="Ps.69,21." rend="bold">
         <w osisId="Mark.15.36!10">ἐπότιζεν</w>
+      </q>
       <w osisId="Mark.15.36!11">αὐτόν</w>
       <pc>,</pc>
       <w osisId="Mark.15.36!12">λέγων</w>
@@ -13703,13 +13705,16 @@
         <w osisId="Mark.16.19!11">εἰς</w>
         <w osisId="Mark.16.19!12">τὸν</w>
         <w osisId="Mark.16.19!13">οὐρανὸν</w>
+      </q>
       <w osisId="Mark.16.19!14">καὶ</w>
+      <q ref="Ps.110,1. 2K.2,11." rend="bold">
         <w osisId="Mark.16.19!15">ἐκάθισεν</w>
         <w osisId="Mark.16.19!16">ἐκ</w>
         <w osisId="Mark.16.19!17">δεξιῶν</w>
         <w osisId="Mark.16.19!18">τοῦ</w>
         <w osisId="Mark.16.19!19">Θεοῦ</w>
         <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.16.20"/>
       <w osisId="Mark.16.20!1">ἐκεῖνοι</w>
       <w osisId="Mark.16.20!2">δὲ</w>
