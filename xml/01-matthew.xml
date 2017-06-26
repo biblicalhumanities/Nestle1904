@@ -14856,16 +14856,18 @@
       <w osisId="Matt.21.9!9">ἀκολουθοῦντες</w>
       <w osisId="Matt.21.9!10">ἔκραζον</w>
       <w osisId="Matt.21.9!11">λέγοντες</w>
-      <q ref="Ps.118,25.26. 2S.14,4.">
-        <lg>
+      <lg>
+        <l>
+          <q ref="Ps.118,25.26. 2S.14,4." rend="bold">
+            <w osisId="Matt.21.9!12">Ὡσαννὰ</w>
+          </q>
+          <w osisId="Matt.21.9!13">τῷ</w>
+          <w osisId="Matt.21.9!14">υἱῷ</w>
+          <w osisId="Matt.21.9!15">Δαυείδ</w>
+          <pc>·</pc>
+        </l>
+        <q ref="Ps.118,25.26. 2S.14,4." rend="bold">
           <l>
-            <w osisId="Matt.21.9!12" rend="bold">Ὡσαννὰ</w>
-            <w osisId="Matt.21.9!13">τῷ</w>
-            <w osisId="Matt.21.9!14">υἱῷ</w>
-            <w osisId="Matt.21.9!15">Δαυείδ</w>
-            <pc>·</pc>
-          </l>
-          <l rend="bold">
             <w osisId="Matt.21.9!16">Εὐλογημένος</w>
             <w osisId="Matt.21.9!17">ὁ</w>
             <w osisId="Matt.21.9!18">ἐρχόμενος</w>
@@ -14874,15 +14876,17 @@
             <w osisId="Matt.21.9!21">Κυρίου</w>
             <pc>·</pc>
           </l>
-          <l>
-            <w osisId="Matt.21.9!22" rend="bold">Ὡσαννὰ</w>
-            <w osisId="Matt.21.9!23">ἐν</w>
-            <w osisId="Matt.21.9!24">τοῖς</w>
-            <w osisId="Matt.21.9!25">ὑψίστοις</w>
-            <pc>.</pc>
-          </l>
-        </lg>
-      </q>
+        </q>
+        <l>
+          <q ref="Ps.118,25.26. 2S.14,4." rend="bold">
+            <w osisId="Matt.21.9!22">Ὡσαννὰ</w>
+          </q>
+          <w osisId="Matt.21.9!23">ἐν</w>
+          <w osisId="Matt.21.9!24">τοῖς</w>
+          <w osisId="Matt.21.9!25">ὑψίστοις</w>
+          <pc>.</pc>
+        </l>
+      </lg>
       <milestone unit="verse" id="Matt.21.10"/>
       <w osisId="Matt.21.10!1">καὶ</w>
       <w osisId="Matt.21.10!2">εἰσελθόντος</w>
