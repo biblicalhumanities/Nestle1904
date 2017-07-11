@@ -1,19 +1,18 @@
 Nestle 1904 Greek New Testament 
 ===============================
 
-with morphology, lemmatization, XML markup, and Strong's numbers
- δωρεὰν ἐλάβετε, δωρεὰν δότε.
- 
-Licensing and copyright terms differ among the components in this repo.
-		     
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="https://licensebuttons.net/p/zero/1.0/80x15.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br /> - To the extent possible under law, biblicalhumanities.org has waived all copyright and related or neighboring rights to Nestle 1904 and Morphology. This work is published from: United States.
+Eberhard Nestle's 1904 Greek New Testament with:
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Markup is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+- [morphology, lemmatization, and Strong's numbers](./morph)
+- [XML markup](./xml)
+- [glosses](./glosses)
+- [base text (see below)](./xhtml)
+
+The base text was created by Diego Renato dos Santos, and can be found here:
+
+https://sites.google.com/site/nestle1904/
+
+Licensing and copyright terms differ among the components in this repo.  See the README associated with each subdirectory.
 
 For other high quality resources suitable to scholarly study of Greek and Hebrew, see the [Biblical Humanities Dashboard](http://biblicalhumanities.org/dashboard/).
 
