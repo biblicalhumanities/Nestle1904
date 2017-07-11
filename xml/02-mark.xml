@@ -26,50 +26,52 @@
       <w osisId="Mark.1.2!5">Ἡσαΐᾳ</w>
       <w osisId="Mark.1.2!6">τῷ</w>
       <w osisId="Mark.1.2!7">προφήτῃ</w>
-    </p>
-    <p>
-      <w osisId="Mark.1.2!8">Ἰδοὺ</w>
-      <w osisId="Mark.1.2!9">ἀποστέλλω</w>
-      <w osisId="Mark.1.2!10">τὸν</w>
-      <w osisId="Mark.1.2!11">ἄγγελόν</w>
-      <w osisId="Mark.1.2!12">μου</w>
-      <w osisId="Mark.1.2!13">πρὸ</w>
-      <w osisId="Mark.1.2!14">προσώπου</w>
-      <w osisId="Mark.1.2!15">σου</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Mark.1.2!16">ὃς</w>
-      <w osisId="Mark.1.2!17">κατασκευάσει</w>
-      <w osisId="Mark.1.2!18">τὴν</w>
-      <w osisId="Mark.1.2!19">ὁδόν</w>
-      <w osisId="Mark.1.2!20">σου</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Mark.1.3"/>
-      <w osisId="Mark.1.3!1">φωνὴ</w>
-      <w osisId="Mark.1.3!2">βοῶντος</w>
-      <w osisId="Mark.1.3!3">ἐν</w>
-      <w osisId="Mark.1.3!4">τῇ</w>
-      <w osisId="Mark.1.3!5">ἐρήμῳ</w>
-    </p>
-    <p>
-      <w osisId="Mark.1.3!6">Ἑτοιμάσατε</w>
-      <w osisId="Mark.1.3!7">τὴν</w>
-      <w osisId="Mark.1.3!8">ὁδὸν</w>
-      <w osisId="Mark.1.3!9">Κυρίου</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Mark.1.3!10">εὐθείας</w>
-      <w osisId="Mark.1.3!11">ποιεῖτε</w>
-      <w osisId="Mark.1.3!12">τὰς</w>
-      <w osisId="Mark.1.3!13">τρίβους</w>
-      <w osisId="Mark.1.3!14">αὐτοῦ</w>
-      <pc>,</pc>
-    </p>
-    <p>
+    <q ref="Mal.3,1." rend="bold">
+      <lg>
+        <l>
+          <w osisId="Mark.1.2!8">Ἰδοὺ</w>
+          <w osisId="Mark.1.2!9">ἀποστέλλω</w>
+          <w osisId="Mark.1.2!10">τὸν</w>
+          <w osisId="Mark.1.2!11">ἄγγελόν</w>
+          <w osisId="Mark.1.2!12">μου</w>
+          <w osisId="Mark.1.2!13">πρὸ</w>
+          <w osisId="Mark.1.2!14">προσώπου</w>
+          <w osisId="Mark.1.2!15">σου</w>
+          <pc>,</pc>
+        </l>
+        <l>
+          <w osisId="Mark.1.2!16">ὃς</w>
+          <w osisId="Mark.1.2!17">κατασκευάσει</w>
+          <w osisId="Mark.1.2!18">τὴν</w>
+          <w osisId="Mark.1.2!19">ὁδόν</w>
+          <w osisId="Mark.1.2!20">σου</w>
+          <pc>·</pc>
+        </l>
+        <l>
+          <milestone unit="verse" id="Mark.1.3"/>
+          <w osisId="Mark.1.3!1">φωνὴ</w>
+          <w osisId="Mark.1.3!2">βοῶντος</w>
+          <w osisId="Mark.1.3!3">ἐν</w>
+          <w osisId="Mark.1.3!4">τῇ</w>
+          <w osisId="Mark.1.3!5">ἐρήμῳ</w>
+        </l>
+        <l>
+          <w osisId="Mark.1.3!6">Ἑτοιμάσατε</w>
+          <w osisId="Mark.1.3!7">τὴν</w>
+          <w osisId="Mark.1.3!8">ὁδὸν</w>
+          <w osisId="Mark.1.3!9">Κυρίου</w>
+          <pc>,</pc>
+        </l>
+        <l>
+          <w osisId="Mark.1.3!10">εὐθείας</w>
+          <w osisId="Mark.1.3!11">ποιεῖτε</w>
+          <w osisId="Mark.1.3!12">τὰς</w>
+          <w osisId="Mark.1.3!13">τρίβους</w>
+          <w osisId="Mark.1.3!14">αὐτοῦ</w>
+          <pc>,</pc>
+        </l>
+      </lg>
+    </q>
       <milestone unit="verse" id="Mark.1.4"/>
       <w osisId="Mark.1.4!1">ἐγένετο</w>
       <w osisId="Mark.1.4!2">Ἰωάνης</w>
@@ -812,9 +814,11 @@
       <w osisId="Mark.1.44!8">ἀλλὰ</w>
       <w osisId="Mark.1.44!9">ὕπαγε</w>
       <w osisId="Mark.1.44!10">σεαυτὸν</w>
-      <w osisId="Mark.1.44!11">δεῖξον</w>
-      <w osisId="Mark.1.44!12">τῷ</w>
-      <w osisId="Mark.1.44!13">ἱερεῖ</w>
+      <q ref="Lv.13,49." rend="bold">
+        <w osisId="Mark.1.44!11">δεῖξον</w>
+        <w osisId="Mark.1.44!12">τῷ</w>
+        <w osisId="Mark.1.44!13">ἱερεῖ</w>
+      </q>
       <w osisId="Mark.1.44!14">καὶ</w>
       <w osisId="Mark.1.44!15">προσένεγκε</w>
       <w osisId="Mark.1.44!16">περὶ</w>
@@ -1452,10 +1456,12 @@
       <w osisId="Mark.2.26!9">Ἀβιαθὰρ</w>
       <w osisId="Mark.2.26!10">ἀρχιερέως</w>
       <w osisId="Mark.2.26!11">καὶ</w>
-      <w osisId="Mark.2.26!12">τοὺς</w>
-      <w osisId="Mark.2.26!13">ἄρτους</w>
-      <w osisId="Mark.2.26!14">τῆς</w>
-      <w osisId="Mark.2.26!15">προθέσεως</w>
+      <q ref="Lv.24,9." rend="bold">
+        <w osisId="Mark.2.26!12">τοὺς</w>
+        <w osisId="Mark.2.26!13">ἄρτους</w>
+        <w osisId="Mark.2.26!14">τῆς</w>
+        <w osisId="Mark.2.26!15">προθέσεως</w>
+      </q>
       <w osisId="Mark.2.26!16">ἔφαγεν</w>
       <pc>,</pc>
       <w osisId="Mark.2.26!17">οὓς</w>
@@ -2388,34 +2394,36 @@
       <pc>,</pc>
       <milestone unit="verse" id="Mark.4.12"/>
       <w osisId="Mark.4.12!1">ἵνα</w>
-    </p>
-    <p>
-      <w osisId="Mark.4.12!2">βλέποντες</w>
-      <w osisId="Mark.4.12!3">βλέπωσιν</w>
-      <w osisId="Mark.4.12!4">καὶ</w>
-      <w osisId="Mark.4.12!5">μὴ</w>
-      <w osisId="Mark.4.12!6">ἴδωσιν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Mark.4.12!7">καὶ</w>
-      <w osisId="Mark.4.12!8">ἀκούοντες</w>
-      <w osisId="Mark.4.12!9">ἀκούωσιν</w>
-      <w osisId="Mark.4.12!10">καὶ</w>
-      <w osisId="Mark.4.12!11">μὴ</w>
-      <w osisId="Mark.4.12!12">συνιῶσιν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Mark.4.12!13">μή</w>
-      <w osisId="Mark.4.12!14">ποτε</w>
-      <w osisId="Mark.4.12!15">ἐπιστρέψωσιν</w>
-      <w osisId="Mark.4.12!16">καὶ</w>
-      <w osisId="Mark.4.12!17">ἀφεθῇ</w>
-      <w osisId="Mark.4.12!18">αὐτοῖς</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Is.6,9.10." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Mark.4.12!2">βλέποντες</w>
+            <w osisId="Mark.4.12!3">βλέπωσιν</w>
+            <w osisId="Mark.4.12!4">καὶ</w>
+            <w osisId="Mark.4.12!5">μὴ</w>
+            <w osisId="Mark.4.12!6">ἴδωσιν</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Mark.4.12!7">καὶ</w>
+            <w osisId="Mark.4.12!8">ἀκούοντες</w>
+            <w osisId="Mark.4.12!9">ἀκούωσιν</w>
+            <w osisId="Mark.4.12!10">καὶ</w>
+            <w osisId="Mark.4.12!11">μὴ</w>
+            <w osisId="Mark.4.12!12">συνιῶσιν</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Mark.4.12!13">μή</w>
+            <w osisId="Mark.4.12!14">ποτε</w>
+            <w osisId="Mark.4.12!15">ἐπιστρέψωσιν</w>
+            <w osisId="Mark.4.12!16">καὶ</w>
+            <w osisId="Mark.4.12!17">ἀφεθῇ</w>
+            <w osisId="Mark.4.12!18">αὐτοῖς</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Mark.4.13"/>
       <w osisId="Mark.4.13!1">καὶ</w>
       <w osisId="Mark.4.13!2">λέγει</w>
@@ -2747,15 +2755,17 @@
       <w osisId="Mark.4.29!5">καρπός</w>
       <pc>,</pc>
       <w osisId="Mark.4.29!6">εὐθὺς</w>
-      <w osisId="Mark.4.29!7">ἀποστέλλει</w>
-      <w osisId="Mark.4.29!8">τὸ</w>
-      <w osisId="Mark.4.29!9">δρέπανον</w>
-      <pc>,</pc>
-      <w osisId="Mark.4.29!10">ὅτι</w>
-      <w osisId="Mark.4.29!11">παρέστηκεν</w>
-      <w osisId="Mark.4.29!12">ὁ</w>
-      <w osisId="Mark.4.29!13">θερισμός</w>
-      <pc>.</pc>
+      <q ref="Jl.3,13." rend="bold">
+        <w osisId="Mark.4.29!7">ἀποστέλλει</w>
+        <w osisId="Mark.4.29!8">τὸ</w>
+        <w osisId="Mark.4.29!9">δρέπανον</w>
+        <pc>,</pc>
+        <w osisId="Mark.4.29!10">ὅτι</w>
+        <w osisId="Mark.4.29!11">παρέστηκεν</w>
+        <w osisId="Mark.4.29!12">ὁ</w>
+        <w osisId="Mark.4.29!13">θερισμός</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.4.30"/>
       <w osisId="Mark.4.30!1">Καὶ</w>
       <w osisId="Mark.4.30!2">ἔλεγεν</w>
@@ -2815,16 +2825,18 @@
       <pc>,</pc>
       <w osisId="Mark.4.32!15">ὥστε</w>
       <w osisId="Mark.4.32!16">δύνασθαι</w>
-      <w osisId="Mark.4.32!17">ὑπὸ</w>
-      <w osisId="Mark.4.32!18">τὴν</w>
-      <w osisId="Mark.4.32!19">σκιὰν</w>
-      <w osisId="Mark.4.32!20">αὐτοῦ</w>
-      <w osisId="Mark.4.32!21">τὰ</w>
-      <w osisId="Mark.4.32!22">πετεινὰ</w>
-      <w osisId="Mark.4.32!23">τοῦ</w>
-      <w osisId="Mark.4.32!24">οὐρανοῦ</w>
-      <w osisId="Mark.4.32!25">κατασκηνοῖν</w>
-      <pc>.</pc>
+      <q ref="Dn.4,12.21. Ezk.17,23;31,6." rend="bold">
+        <w osisId="Mark.4.32!17">ὑπὸ</w>
+        <w osisId="Mark.4.32!18">τὴν</w>
+        <w osisId="Mark.4.32!19">σκιὰν</w>
+        <w osisId="Mark.4.32!20">αὐτοῦ</w>
+        <w osisId="Mark.4.32!21">τὰ</w>
+        <w osisId="Mark.4.32!22">πετεινὰ</w>
+        <w osisId="Mark.4.32!23">τοῦ</w>
+        <w osisId="Mark.4.32!24">οὐρανοῦ</w>
+        <w osisId="Mark.4.32!25">κατασκηνοῖν</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.4.33"/>
       <w osisId="Mark.4.33!1">Καὶ</w>
       <w osisId="Mark.4.33!2">τοιαύταις</w>
@@ -4577,12 +4589,14 @@
       <w osisId="Mark.6.34!9">αὐτοὺς</w>
       <w osisId="Mark.6.34!10">ὅτι</w>
       <w osisId="Mark.6.34!11">ἦσαν</w>
-      <w osisId="Mark.6.34!12">ὡς</w>
-      <w osisId="Mark.6.34!13">πρόβατα</w>
-      <w osisId="Mark.6.34!14">μὴ</w>
-      <w osisId="Mark.6.34!15">ἔχοντα</w>
-      <w osisId="Mark.6.34!16">ποιμένα</w>
-      <pc>,</pc>
+      <q ref="Nu.27,17. Ezk.34,5." rend="bold">
+        <w osisId="Mark.6.34!12">ὡς</w>
+        <w osisId="Mark.6.34!13">πρόβατα</w>
+        <w osisId="Mark.6.34!14">μὴ</w>
+        <w osisId="Mark.6.34!15">ἔχοντα</w>
+        <w osisId="Mark.6.34!16">ποιμένα</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Mark.6.34!17">καὶ</w>
       <w osisId="Mark.6.34!18">ἤρξατο</w>
       <w osisId="Mark.6.34!19">διδάσκειν</w>
@@ -5147,44 +5161,46 @@
       <w osisId="Mark.7.6!12">ὡς</w>
       <w osisId="Mark.7.6!13">γέγραπται</w>
       <w osisId="Mark.7.6!14">ὅτι</w>
-    </p>
-    <p>
-      <w osisId="Mark.7.6!15">Οὗτος</w>
-      <w osisId="Mark.7.6!16">ὁ</w>
-      <w osisId="Mark.7.6!17">λαὸς</w>
-      <w osisId="Mark.7.6!18">τοῖς</w>
-      <w osisId="Mark.7.6!19">χείλεσίν</w>
-      <w osisId="Mark.7.6!20">με</w>
-      <w osisId="Mark.7.6!21">τιμᾷ</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Mark.7.6!22">ἡ</w>
-      <w osisId="Mark.7.6!23">δὲ</w>
-      <w osisId="Mark.7.6!24">καρδία</w>
-      <w osisId="Mark.7.6!25">αὐτῶν</w>
-      <w osisId="Mark.7.6!26">πόρρω</w>
-      <w osisId="Mark.7.6!27">ἀπέχει</w>
-      <w osisId="Mark.7.6!28">ἀπ’</w>
-      <w osisId="Mark.7.6!29">ἐμοῦ</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Mark.7.7"/>
-      <w osisId="Mark.7.7!1">μάτην</w>
-      <w osisId="Mark.7.7!2">δὲ</w>
-      <w osisId="Mark.7.7!3">σέβονταί</w>
-      <w osisId="Mark.7.7!4">με</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Mark.7.7!5">διδάσκοντες</w>
-      <w osisId="Mark.7.7!6">διδασκαλίας</w>
-      <w osisId="Mark.7.7!7">ἐντάλματα</w>
-      <w osisId="Mark.7.7!8">ἀνθρώπων</w>
-      <pc>·</pc>
-    </p>
-    <p>
+      <q ref="Is.29,13.(LXX)" rend="bold">
+        <lg>
+          <l>
+            <w osisId="Mark.7.6!15">Οὗτος</w>
+            <w osisId="Mark.7.6!16">ὁ</w>
+            <w osisId="Mark.7.6!17">λαὸς</w>
+            <w osisId="Mark.7.6!18">τοῖς</w>
+            <w osisId="Mark.7.6!19">χείλεσίν</w>
+            <w osisId="Mark.7.6!20">με</w>
+            <w osisId="Mark.7.6!21">τιμᾷ</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Mark.7.6!22">ἡ</w>
+            <w osisId="Mark.7.6!23">δὲ</w>
+            <w osisId="Mark.7.6!24">καρδία</w>
+            <w osisId="Mark.7.6!25">αὐτῶν</w>
+            <w osisId="Mark.7.6!26">πόρρω</w>
+            <w osisId="Mark.7.6!27">ἀπέχει</w>
+            <w osisId="Mark.7.6!28">ἀπ’</w>
+            <w osisId="Mark.7.6!29">ἐμοῦ</w>
+            <pc>·</pc>
+          </l>
+          <l>
+            <milestone unit="verse" id="Mark.7.7"/>
+            <w osisId="Mark.7.7!1">μάτην</w>
+            <w osisId="Mark.7.7!2">δὲ</w>
+            <w osisId="Mark.7.7!3">σέβονταί</w>
+            <w osisId="Mark.7.7!4">με</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Mark.7.7!5">διδάσκοντες</w>
+            <w osisId="Mark.7.7!6">διδασκαλίας</w>
+            <w osisId="Mark.7.7!7">ἐντάλματα</w>
+            <w osisId="Mark.7.7!8">ἀνθρώπων</w>
+            <pc>·</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Mark.7.8"/>
       <w osisId="Mark.7.8!1">ἀφέντες</w>
       <w osisId="Mark.7.8!2">τὴν</w>
@@ -5218,24 +5234,28 @@
       <w osisId="Mark.7.10!1">Μωϋσῆς</w>
       <w osisId="Mark.7.10!2">γὰρ</w>
       <w osisId="Mark.7.10!3">εἶπεν</w>
-      <w osisId="Mark.7.10!4">Τίμα</w>
-      <w osisId="Mark.7.10!5">τὸν</w>
-      <w osisId="Mark.7.10!6">πατέρα</w>
-      <w osisId="Mark.7.10!7">σου</w>
-      <w osisId="Mark.7.10!8">καὶ</w>
-      <w osisId="Mark.7.10!9">τὴν</w>
-      <w osisId="Mark.7.10!10">μητέρα</w>
-      <w osisId="Mark.7.10!11">σου</w>
-      <pc>,</pc>
+      <q ref="Ex.20,12;21,17. Dt.5,16." rend="bold">
+        <w osisId="Mark.7.10!4">Τίμα</w>
+        <w osisId="Mark.7.10!5">τὸν</w>
+        <w osisId="Mark.7.10!6">πατέρα</w>
+        <w osisId="Mark.7.10!7">σου</w>
+        <w osisId="Mark.7.10!8">καὶ</w>
+        <w osisId="Mark.7.10!9">τὴν</w>
+        <w osisId="Mark.7.10!10">μητέρα</w>
+        <w osisId="Mark.7.10!11">σου</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Mark.7.10!12">καί</w>
-      <w osisId="Mark.7.10!13">Ὁ</w>
-      <w osisId="Mark.7.10!14">κακολογῶν</w>
-      <w osisId="Mark.7.10!15">πατέρα</w>
-      <w osisId="Mark.7.10!16">ἢ</w>
-      <w osisId="Mark.7.10!17">μητέρα</w>
-      <w osisId="Mark.7.10!18">θανάτῳ</w>
-      <w osisId="Mark.7.10!19">τελευτάτω</w>
-      <pc>.</pc>
+      <q ref="Ex.20,12;21,17. Dt.5,16." rend="bold">
+        <w osisId="Mark.7.10!13">Ὁ</w>
+        <w osisId="Mark.7.10!14">κακολογῶν</w>
+        <w osisId="Mark.7.10!15">πατέρα</w>
+        <w osisId="Mark.7.10!16">ἢ</w>
+        <w osisId="Mark.7.10!17">μητέρα</w>
+        <w osisId="Mark.7.10!18">θανάτῳ</w>
+        <w osisId="Mark.7.10!19">τελευτάτω</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.7.11"/>
       <w osisId="Mark.7.11!1">ὑμεῖς</w>
       <w osisId="Mark.7.11!2">δὲ</w>
@@ -6066,17 +6086,19 @@
       <w osisId="Mark.8.17!19">ὑμῶν</w>
       <pc>;</pc>
       <milestone unit="verse" id="Mark.8.18"/>
-      <w osisId="Mark.8.18!1">ὀφθαλμοὺς</w>
-      <w osisId="Mark.8.18!2">ἔχοντες</w>
-      <w osisId="Mark.8.18!3">οὐ</w>
-      <w osisId="Mark.8.18!4">βλέπετε</w>
-      <pc>,</pc>
-      <w osisId="Mark.8.18!5">καὶ</w>
-      <w osisId="Mark.8.18!6">ὦτα</w>
-      <w osisId="Mark.8.18!7">ἔχοντες</w>
-      <w osisId="Mark.8.18!8">οὐκ</w>
-      <w osisId="Mark.8.18!9">ἀκούετε</w>
-      <pc>;</pc>
+      <q ref="Jer.5,21. Ezk.12,2." rend="bold">
+        <w osisId="Mark.8.18!1">ὀφθαλμοὺς</w>
+        <w osisId="Mark.8.18!2">ἔχοντες</w>
+        <w osisId="Mark.8.18!3">οὐ</w>
+        <w osisId="Mark.8.18!4">βλέπετε</w>
+        <pc>,</pc>
+        <w osisId="Mark.8.18!5">καὶ</w>
+        <w osisId="Mark.8.18!6">ὦτα</w>
+        <w osisId="Mark.8.18!7">ἔχοντες</w>
+        <w osisId="Mark.8.18!8">οὐκ</w>
+        <w osisId="Mark.8.18!9">ἀκούετε</w>
+        <pc>;</pc>
+      </q>
       <w osisId="Mark.8.18!10">καὶ</w>
       <w osisId="Mark.8.18!11">οὐ</w>
       <w osisId="Mark.8.18!12">μνημονεύετε</w>
@@ -6760,11 +6782,15 @@
       <w osisId="Mark.9.12!2">δὲ</w>
       <w osisId="Mark.9.12!3">ἔφη</w>
       <w osisId="Mark.9.12!4">αὐτοῖς</w>
-      <w osisId="Mark.9.12!5">Ἡλείας</w>
+      <q ref="Mal.4,5. Is.53,3." rend="bold">
+        <w osisId="Mark.9.12!5">Ἡλείας</w>
+      </q>
       <w osisId="Mark.9.12!6">μὲν</w>
       <w osisId="Mark.9.12!7">ἐλθὼν</w>
       <w osisId="Mark.9.12!8">πρῶτον</w>
-      <w osisId="Mark.9.12!9">ἀποκαθιστάνει</w>
+      <q ref="Mal.4,5. Is.53,3." rend="bold">
+        <w osisId="Mark.9.12!9">ἀποκαθιστάνει</w>
+      </q>
       <w osisId="Mark.9.12!10">πάντα</w>
       <pc>·</pc>
       <w osisId="Mark.9.12!11">καὶ</w>
@@ -7515,17 +7541,19 @@
       <pc>,</pc>
       <milestone unit="verse" id="Mark.9.48"/>
       <w osisId="Mark.9.48!1">ὅπου</w>
-      <w osisId="Mark.9.48!2">ὁ</w>
-      <w osisId="Mark.9.48!3">σκώληξ</w>
-      <w osisId="Mark.9.48!4">αὐτῶν</w>
-      <w osisId="Mark.9.48!5">οὐ</w>
-      <w osisId="Mark.9.48!6">τελευτᾷ</w>
-      <w osisId="Mark.9.48!7">καὶ</w>
-      <w osisId="Mark.9.48!8">τὸ</w>
-      <w osisId="Mark.9.48!9">πῦρ</w>
-      <w osisId="Mark.9.48!10">οὐ</w>
-      <w osisId="Mark.9.48!11">σβέννυται</w>
-      <pc>.</pc>
+      <q ref="Is.66,24." rend="bold">
+        <w osisId="Mark.9.48!2">ὁ</w>
+        <w osisId="Mark.9.48!3">σκώληξ</w>
+        <w osisId="Mark.9.48!4">αὐτῶν</w>
+        <w osisId="Mark.9.48!5">οὐ</w>
+        <w osisId="Mark.9.48!6">τελευτᾷ</w>
+        <w osisId="Mark.9.48!7">καὶ</w>
+        <w osisId="Mark.9.48!8">τὸ</w>
+        <w osisId="Mark.9.48!9">πῦρ</w>
+        <w osisId="Mark.9.48!10">οὐ</w>
+        <w osisId="Mark.9.48!11">σβέννυται</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.9.49"/>
       <w osisId="Mark.9.49!1">Πᾶς</w>
       <w osisId="Mark.9.49!2">γὰρ</w>
@@ -7625,12 +7653,14 @@
       <pc>·</pc>
       <w osisId="Mark.10.4!4">Ἐπέτρεψεν</w>
       <w osisId="Mark.10.4!5">Μωϋσῆς</w>
-      <w osisId="Mark.10.4!6">βιβλίον</w>
-      <w osisId="Mark.10.4!7">ἀποστασίου</w>
-      <w osisId="Mark.10.4!8">γράψαι</w>
-      <w osisId="Mark.10.4!9">καὶ</w>
-      <w osisId="Mark.10.4!10">ἀπολῦσαι</w>
-      <pc>.</pc>
+      <q ref="Dt.24,1." rend="bold">
+        <w osisId="Mark.10.4!6">βιβλίον</w>
+        <w osisId="Mark.10.4!7">ἀποστασίου</w>
+        <w osisId="Mark.10.4!8">γράψαι</w>
+        <w osisId="Mark.10.4!9">καὶ</w>
+        <w osisId="Mark.10.4!10">ἀπολῦσαι</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.10.5"/>
       <w osisId="Mark.10.5!1">ὁ</w>
       <w osisId="Mark.10.5!2">δὲ</w>
@@ -7652,35 +7682,37 @@
       <w osisId="Mark.10.6!2">δὲ</w>
       <w osisId="Mark.10.6!3">ἀρχῆς</w>
       <w osisId="Mark.10.6!4">κτίσεως</w>
-      <w osisId="Mark.10.6!5">ἄρσεν</w>
-      <w osisId="Mark.10.6!6">καὶ</w>
-      <w osisId="Mark.10.6!7">θῆλυ</w>
-      <w osisId="Mark.10.6!8">ἐποίησεν</w>
-      <w osisId="Mark.10.6!9">αὐτούς</w>
-      <pc>·</pc>
-    </p>
-    <p>
+      <q ref="Gn.1,27." rend="bold">
+        <w osisId="Mark.10.6!5">ἄρσεν</w>
+        <w osisId="Mark.10.6!6">καὶ</w>
+        <w osisId="Mark.10.6!7">θῆλυ</w>
+        <w osisId="Mark.10.6!8">ἐποίησεν</w>
+        <w osisId="Mark.10.6!9">αὐτούς</w>
+        <pc>·</pc>
+      </q>
       <milestone unit="verse" id="Mark.10.7"/>
-      <w osisId="Mark.10.7!1">ἕνεκεν</w>
-      <w osisId="Mark.10.7!2">τούτου</w>
-      <w osisId="Mark.10.7!3">καταλείψει</w>
-      <w osisId="Mark.10.7!4">ἄνθρωπος</w>
-      <w osisId="Mark.10.7!5">τὸν</w>
-      <w osisId="Mark.10.7!6">πατέρα</w>
-      <w osisId="Mark.10.7!7">αὐτοῦ</w>
-      <w osisId="Mark.10.7!8">καὶ</w>
-      <w osisId="Mark.10.7!9">τὴν</w>
-      <w osisId="Mark.10.7!10">μητέρα</w>
-      <pc>,</pc>
-      <milestone unit="verse" id="Mark.10.8"/>
-      <w osisId="Mark.10.8!1">καὶ</w>
-      <w osisId="Mark.10.8!2">ἔσονται</w>
-      <w osisId="Mark.10.8!3">οἱ</w>
-      <w osisId="Mark.10.8!4">δύο</w>
-      <w osisId="Mark.10.8!5">εἰς</w>
-      <w osisId="Mark.10.8!6">σάρκα</w>
-      <w osisId="Mark.10.8!7">μίαν</w>
-      <pc>>·</pc>
+      <q ref="Gn.2,24." rend="bold">
+        <w osisId="Mark.10.7!1">ἕνεκεν</w>
+        <w osisId="Mark.10.7!2">τούτου</w>
+        <w osisId="Mark.10.7!3">καταλείψει</w>
+        <w osisId="Mark.10.7!4">ἄνθρωπος</w>
+        <w osisId="Mark.10.7!5">τὸν</w>
+        <w osisId="Mark.10.7!6">πατέρα</w>
+        <w osisId="Mark.10.7!7">αὐτοῦ</w>
+        <w osisId="Mark.10.7!8">καὶ</w>
+        <w osisId="Mark.10.7!9">τὴν</w>
+        <w osisId="Mark.10.7!10">μητέρα</w>
+        <pc>,</pc>
+        <milestone unit="verse" id="Mark.10.8"/>
+        <w osisId="Mark.10.8!1">καὶ</w>
+        <w osisId="Mark.10.8!2">ἔσονται</w>
+        <w osisId="Mark.10.8!3">οἱ</w>
+        <w osisId="Mark.10.8!4">δύο</w>
+        <w osisId="Mark.10.8!5">εἰς</w>
+        <w osisId="Mark.10.8!6">σάρκα</w>
+        <w osisId="Mark.10.8!7">μίαν</w>
+        <pc>>·</pc>
+      </q>
       <w osisId="Mark.10.8!8">ὥστε</w>
       <w osisId="Mark.10.8!9">οὐκέτι</w>
       <w osisId="Mark.10.8!10">εἰσὶν</w>
@@ -7871,29 +7903,33 @@
       <w osisId="Mark.10.19!1">τὰς</w>
       <w osisId="Mark.10.19!2">ἐντολὰς</w>
       <w osisId="Mark.10.19!3">οἶδας</w>
-      <w osisId="Mark.10.19!4">Μὴ</w>
-      <w osisId="Mark.10.19!5">φονεύσῃς</w>
-      <pc>,</pc>
-      <w osisId="Mark.10.19!6">Μὴ</w>
-      <w osisId="Mark.10.19!7">μοιχεύσῃς</w>
-      <pc>,</pc>
-      <w osisId="Mark.10.19!8">Μὴ</w>
-      <w osisId="Mark.10.19!9">κλέψῃς</w>
-      <pc>,</pc>
-      <w osisId="Mark.10.19!10">Μὴ</w>
-      <w osisId="Mark.10.19!11">ψευδομαρτυρήσῃς</w>
-      <pc>,</pc>
+      <q ref="Ex.20,12—17. Dt.5,16—20." rend="bold">
+        <w osisId="Mark.10.19!4">Μὴ</w>
+        <w osisId="Mark.10.19!5">φονεύσῃς</w>
+        <pc>,</pc>
+        <w osisId="Mark.10.19!6">Μὴ</w>
+        <w osisId="Mark.10.19!7">μοιχεύσῃς</w>
+        <pc>,</pc>
+        <w osisId="Mark.10.19!8">Μὴ</w>
+        <w osisId="Mark.10.19!9">κλέψῃς</w>
+        <pc>,</pc>
+        <w osisId="Mark.10.19!10">Μὴ</w>
+        <w osisId="Mark.10.19!11">ψευδομαρτυρήσῃς</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Mark.10.19!12">Μὴ</w>
       <w osisId="Mark.10.19!13">ἀποστερήσῃς</w>
       <pc>,</pc>
-      <w osisId="Mark.10.19!14">Τίμα</w>
-      <w osisId="Mark.10.19!15">τὸν</w>
-      <w osisId="Mark.10.19!16">πατέρα</w>
-      <w osisId="Mark.10.19!17">σου</w>
-      <w osisId="Mark.10.19!18">καὶ</w>
-      <w osisId="Mark.10.19!19">τὴν</w>
-      <w osisId="Mark.10.19!20">μητέρα</w>
-      <pc>.</pc>
+      <q ref="Ex.20,12—17. Dt.5,16—20." rend="bold">
+        <w osisId="Mark.10.19!14">Τίμα</w>
+        <w osisId="Mark.10.19!15">τὸν</w>
+        <w osisId="Mark.10.19!16">πατέρα</w>
+        <w osisId="Mark.10.19!17">σου</w>
+        <w osisId="Mark.10.19!18">καὶ</w>
+        <w osisId="Mark.10.19!19">τὴν</w>
+        <w osisId="Mark.10.19!20">μητέρα</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.10.20"/>
       <w osisId="Mark.10.20!1">ὁ</w>
       <w osisId="Mark.10.20!2">δὲ</w>
@@ -8058,13 +8094,17 @@
       <w osisId="Mark.10.27!11">παρὰ</w>
       <w osisId="Mark.10.27!12">θεῷ</w>
       <pc>·</pc>
-      <w osisId="Mark.10.27!13">πάντα</w>
+      <q ref="G.18,14. Job42,2. Zec.8,6.(LXX)" rend="bold">
+        <w osisId="Mark.10.27!13">πάντα</w>
+      </q>
       <w osisId="Mark.10.27!14">γὰρ</w>
-      <w osisId="Mark.10.27!15">δυνατὰ</w>
-      <w osisId="Mark.10.27!16">παρὰ</w>
-      <w osisId="Mark.10.27!17">τῷ</w>
-      <w osisId="Mark.10.27!18">θεῷ</w>
-      <pc>.</pc>
+      <q ref="G.18,14. Job42,2. Zec.8,6.(LXX)" rend="bold">
+        <w osisId="Mark.10.27!15">δυνατὰ</w>
+        <w osisId="Mark.10.27!16">παρὰ</w>
+        <w osisId="Mark.10.27!17">τῷ</w>
+        <w osisId="Mark.10.27!18">θεῷ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.10.28"/>
       <w osisId="Mark.10.28!1">Ἤρξατο</w>
       <w osisId="Mark.10.28!2">λέγειν</w>
@@ -8795,40 +8835,44 @@
       <w osisId="Mark.11.9!5">οἱ</w>
       <w osisId="Mark.11.9!6">ἀκολουθοῦντες</w>
       <w osisId="Mark.11.9!7">ἔκραζον</w>
-    </p>
-    <p>
-      <w osisId="Mark.11.9!8">Ὡσαννά</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <w osisId="Mark.11.9!9">Εὐλογημένος</w>
-      <w osisId="Mark.11.9!10">ὁ</w>
-      <w osisId="Mark.11.9!11">ἐρχόμενος</w>
-      <w osisId="Mark.11.9!12">ἐν</w>
-      <w osisId="Mark.11.9!13">ὀνόματι</w>
-      <w osisId="Mark.11.9!14">Κυρίου</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Mark.11.10"/>
-      <w osisId="Mark.11.10!1">Εὐλογημένη</w>
-      <w osisId="Mark.11.10!2">ἡ</w>
-      <w osisId="Mark.11.10!3">ἐρχομένη</w>
-      <w osisId="Mark.11.10!4">βασιλεία</w>
-      <w osisId="Mark.11.10!5">τοῦ</w>
-      <w osisId="Mark.11.10!6">πατρὸς</w>
-      <w osisId="Mark.11.10!7">ἡμῶν</w>
-      <w osisId="Mark.11.10!8">Δαυείδ</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <w osisId="Mark.11.10!9">Ὡσαννὰ</w>
-      <w osisId="Mark.11.10!10">ἐν</w>
-      <w osisId="Mark.11.10!11">τοῖς</w>
-      <w osisId="Mark.11.10!12">ὑψίστοις</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <lg>
+        <q ref="G.18,14. Job42,2. Zec.8,6.(LXX)" rend="bold">
+          <l>
+            <w osisId="Mark.11.9!8">Ὡσαννά</w>
+            <pc>·</pc>
+          </l>
+          <l>
+            <w osisId="Mark.11.9!9">Εὐλογημένος</w>
+            <w osisId="Mark.11.9!10">ὁ</w>
+            <w osisId="Mark.11.9!11">ἐρχόμενος</w>
+            <w osisId="Mark.11.9!12">ἐν</w>
+            <w osisId="Mark.11.9!13">ὀνόματι</w>
+            <w osisId="Mark.11.9!14">Κυρίου</w>
+            <pc>·</pc>
+          </l>
+        </q>
+        <l>
+          <milestone unit="verse" id="Mark.11.10"/>
+          <w osisId="Mark.11.10!1">Εὐλογημένη</w>
+          <w osisId="Mark.11.10!2">ἡ</w>
+          <w osisId="Mark.11.10!3">ἐρχομένη</w>
+          <w osisId="Mark.11.10!4">βασιλεία</w>
+          <w osisId="Mark.11.10!5">τοῦ</w>
+          <w osisId="Mark.11.10!6">πατρὸς</w>
+          <w osisId="Mark.11.10!7">ἡμῶν</w>
+          <w osisId="Mark.11.10!8">Δαυείδ</w>
+          <pc>·</pc>
+        </l>
+        <l>
+          <q ref="G.18,14. Job42,2. Zec.8,6.(LXX)" rend="bold">
+            <w osisId="Mark.11.10!9">Ὡσαννὰ</w>
+          </q>
+          <w osisId="Mark.11.10!10">ἐν</w>
+          <w osisId="Mark.11.10!11">τοῖς</w>
+          <w osisId="Mark.11.10!12">ὑψίστοις</w>
+          <pc>.</pc>
+        </l>
+      </lg>
       <milestone unit="verse" id="Mark.11.11"/>
       <w osisId="Mark.11.11!1">Καὶ</w>
       <w osisId="Mark.11.11!2">εἰσῆλθεν</w>
@@ -8978,23 +9022,27 @@
       <w osisId="Mark.11.17!6">Οὐ</w>
       <w osisId="Mark.11.17!7">γέγραπται</w>
       <w osisId="Mark.11.17!8">ὅτι</w>
-      <w osisId="Mark.11.17!9">Ὁ</w>
-      <w osisId="Mark.11.17!10">οἶκός</w>
-      <w osisId="Mark.11.17!11">μου</w>
-      <w osisId="Mark.11.17!12">οἶκος</w>
-      <w osisId="Mark.11.17!13">προσευχῆς</w>
-      <w osisId="Mark.11.17!14">κληθήσεται</w>
-      <w osisId="Mark.11.17!15">πᾶσιν</w>
-      <w osisId="Mark.11.17!16">τοῖς</w>
-      <w osisId="Mark.11.17!17">ἔθνεσιν</w>
-      <pc>;</pc>
+      <q ref="Is.56,7. Jer.7,11." rend="bold">
+        <w osisId="Mark.11.17!9">Ὁ</w>
+        <w osisId="Mark.11.17!10">οἶκός</w>
+        <w osisId="Mark.11.17!11">μου</w>
+        <w osisId="Mark.11.17!12">οἶκος</w>
+        <w osisId="Mark.11.17!13">προσευχῆς</w>
+        <w osisId="Mark.11.17!14">κληθήσεται</w>
+        <w osisId="Mark.11.17!15">πᾶσιν</w>
+        <w osisId="Mark.11.17!16">τοῖς</w>
+        <w osisId="Mark.11.17!17">ἔθνεσιν</w>
+        <pc>;</pc>
+      </q>
       <w osisId="Mark.11.17!18">ὑμεῖς</w>
       <w osisId="Mark.11.17!19">δὲ</w>
       <w osisId="Mark.11.17!20">πεποιήκατε</w>
       <w osisId="Mark.11.17!21">αὐτὸν</w>
-      <w osisId="Mark.11.17!22">σπήλαιον</w>
-      <w osisId="Mark.11.17!23">λῃστῶν</w>
-      <pc>.</pc>
+      <q ref="Is.56,7. Jer.7,11." rend="bold">
+        <w osisId="Mark.11.17!22">σπήλαιον</w>
+        <w osisId="Mark.11.17!23">λῃστῶν</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.11.18"/>
       <w osisId="Mark.11.18!1">καὶ</w>
       <w osisId="Mark.11.18!2">ἤκουσαν</w>
@@ -9320,20 +9368,24 @@
       <w osisId="Mark.12.1!5">παραβολαῖς</w>
       <w osisId="Mark.12.1!6">λαλεῖν</w>
       <pc>.</pc>
-      <w osisId="Mark.12.1!7">ἀμπελῶνα</w>
+      <q ref="Is.5,1.2." rend="bold">
+        <w osisId="Mark.12.1!7">ἀμπελῶνα</w>
+      </q>
       <w osisId="Mark.12.1!8">ἄνθρωπος</w>
-      <w osisId="Mark.12.1!9">ἐφύτευσεν</w>
-      <pc>,</pc>
-      <w osisId="Mark.12.1!10">καὶ</w>
-      <w osisId="Mark.12.1!11">περιέθηκεν</w>
-      <w osisId="Mark.12.1!12">φραγμὸν</w>
-      <w osisId="Mark.12.1!13">καὶ</w>
-      <w osisId="Mark.12.1!14">ὤρυξεν</w>
-      <w osisId="Mark.12.1!15">ὑπολήνιον</w>
-      <w osisId="Mark.12.1!16">καὶ</w>
-      <w osisId="Mark.12.1!17">ᾠκοδόμησεν</w>
-      <w osisId="Mark.12.1!18">πύργον</w>
-      <pc>,</pc>
+      <q ref="Is.5,1.2." rend="bold">
+        <w osisId="Mark.12.1!9">ἐφύτευσεν</w>
+        <pc>,</pc>
+        <w osisId="Mark.12.1!10">καὶ</w>
+        <w osisId="Mark.12.1!11">περιέθηκεν</w>
+        <w osisId="Mark.12.1!12">φραγμὸν</w>
+        <w osisId="Mark.12.1!13">καὶ</w>
+        <w osisId="Mark.12.1!14">ὤρυξεν</w>
+        <w osisId="Mark.12.1!15">ὑπολήνιον</w>
+        <w osisId="Mark.12.1!16">καὶ</w>
+        <w osisId="Mark.12.1!17">ᾠκοδόμησεν</w>
+        <w osisId="Mark.12.1!18">πύργον</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Mark.12.1!19">καὶ</w>
       <w osisId="Mark.12.1!20">ἐξέδετο</w>
       <w osisId="Mark.12.1!21">αὐτὸν</w>
@@ -9489,41 +9541,43 @@
       <w osisId="Mark.12.10!3">γραφὴν</w>
       <w osisId="Mark.12.10!4">ταύτην</w>
       <w osisId="Mark.12.10!5">ἀνέγνωτε</w>
-    </p>
-    <p>
-      <w osisId="Mark.12.10!6">Λίθον</w>
-      <w osisId="Mark.12.10!7">ὃν</w>
-      <w osisId="Mark.12.10!8">ἀπεδοκίμασαν</w>
-      <w osisId="Mark.12.10!9">οἱ</w>
-      <w osisId="Mark.12.10!10">οἰκοδομοῦντες</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Mark.12.10!11">οὗτος</w>
-      <w osisId="Mark.12.10!12">ἐγενήθη</w>
-      <w osisId="Mark.12.10!13">εἰς</w>
-      <w osisId="Mark.12.10!14">κεφαλὴν</w>
-      <w osisId="Mark.12.10!15">γωνίας</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Mark.12.11"/>
-      <w osisId="Mark.12.11!1">παρὰ</w>
-      <w osisId="Mark.12.11!2">Κυρίου</w>
-      <w osisId="Mark.12.11!3">ἐγένετο</w>
-      <w osisId="Mark.12.11!4">αὕτη</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Mark.12.11!5">καὶ</w>
-      <w osisId="Mark.12.11!6">ἔστιν</w>
-      <w osisId="Mark.12.11!7">θαυμαστὴ</w>
-      <w osisId="Mark.12.11!8">ἐν</w>
-      <w osisId="Mark.12.11!9">ὀφθαλμοῖς</w>
-      <w osisId="Mark.12.11!10">ἡμῶν</w>
-      <pc>;</pc>
-    </p>
-    <p>
+      <q ref="Ps.118,22.23." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Mark.12.10!6">Λίθον</w>
+            <w osisId="Mark.12.10!7">ὃν</w>
+            <w osisId="Mark.12.10!8">ἀπεδοκίμασαν</w>
+            <w osisId="Mark.12.10!9">οἱ</w>
+            <w osisId="Mark.12.10!10">οἰκοδομοῦντες</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Mark.12.10!11">οὗτος</w>
+            <w osisId="Mark.12.10!12">ἐγενήθη</w>
+            <w osisId="Mark.12.10!13">εἰς</w>
+            <w osisId="Mark.12.10!14">κεφαλὴν</w>
+            <w osisId="Mark.12.10!15">γωνίας</w>
+            <pc>·</pc>
+          </l>
+          <l>
+            <milestone unit="verse" id="Mark.12.11"/>
+            <w osisId="Mark.12.11!1">παρὰ</w>
+            <w osisId="Mark.12.11!2">Κυρίου</w>
+            <w osisId="Mark.12.11!3">ἐγένετο</w>
+            <w osisId="Mark.12.11!4">αὕτη</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Mark.12.11!5">καὶ</w>
+            <w osisId="Mark.12.11!6">ἔστιν</w>
+            <w osisId="Mark.12.11!7">θαυμαστὴ</w>
+            <w osisId="Mark.12.11!8">ἐν</w>
+            <w osisId="Mark.12.11!9">ὀφθαλμοῖς</w>
+            <w osisId="Mark.12.11!10">ἡμῶν</w>
+            <pc>;</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Mark.12.12"/>
       <w osisId="Mark.12.12!1">Καὶ</w>
       <w osisId="Mark.12.12!2">ἐζήτουν</w>
@@ -9702,32 +9756,36 @@
       <w osisId="Mark.12.19!3">ἔγραψεν</w>
       <w osisId="Mark.12.19!4">ἡμῖν</w>
       <w osisId="Mark.12.19!5">ὅτι</w>
-      <w osisId="Mark.12.19!6">ἐάν</w>
-      <w osisId="Mark.12.19!7">τινος</w>
-      <w osisId="Mark.12.19!8">ἀδελφὸς</w>
-      <w osisId="Mark.12.19!9">ἀποθάνῃ</w>
-      <w osisId="Mark.12.19!10">καὶ</w>
-      <w osisId="Mark.12.19!11">καταλίπῃ</w>
-      <w osisId="Mark.12.19!12">γυναῖκα</w>
-      <w osisId="Mark.12.19!13">καὶ</w>
-      <w osisId="Mark.12.19!14">μὴ</w>
-      <w osisId="Mark.12.19!15">ἀφῇ</w>
-      <w osisId="Mark.12.19!16">τέκνον</w>
-      <pc>,</pc>
+      <q ref="Dt.25,5.6. Gn.38,8." rend="bold">
+        <w osisId="Mark.12.19!6">ἐάν</w>
+        <w osisId="Mark.12.19!7">τινος</w>
+        <w osisId="Mark.12.19!8">ἀδελφὸς</w>
+        <w osisId="Mark.12.19!9">ἀποθάνῃ</w>
+        <w osisId="Mark.12.19!10">καὶ</w>
+        <w osisId="Mark.12.19!11">καταλίπῃ</w>
+        <w osisId="Mark.12.19!12">γυναῖκα</w>
+        <w osisId="Mark.12.19!13">καὶ</w>
+        <w osisId="Mark.12.19!14">μὴ</w>
+        <w osisId="Mark.12.19!15">ἀφῇ</w>
+        <w osisId="Mark.12.19!16">τέκνον</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Mark.12.19!17">ἵνα</w>
-      <w osisId="Mark.12.19!18">λάβῃ</w>
-      <w osisId="Mark.12.19!19">ὁ</w>
-      <w osisId="Mark.12.19!20">ἀδελφὸς</w>
-      <w osisId="Mark.12.19!21">αὐτοῦ</w>
-      <w osisId="Mark.12.19!22">τὴν</w>
-      <w osisId="Mark.12.19!23">γυναῖκα</w>
-      <w osisId="Mark.12.19!24">καὶ</w>
-      <w osisId="Mark.12.19!25">ἐξαναστήσῃ</w>
-      <w osisId="Mark.12.19!26">σπέρμα</w>
-      <w osisId="Mark.12.19!27">τῷ</w>
-      <w osisId="Mark.12.19!28">ἀδελφῷ</w>
-      <w osisId="Mark.12.19!29">αὐτοῦ</w>
-      <pc>.</pc>
+      <q ref="Dt.25,5.6. Gn.38,8." rend="bold">
+        <w osisId="Mark.12.19!18">λάβῃ</w>
+        <w osisId="Mark.12.19!19">ὁ</w>
+        <w osisId="Mark.12.19!20">ἀδελφὸς</w>
+        <w osisId="Mark.12.19!21">αὐτοῦ</w>
+        <w osisId="Mark.12.19!22">τὴν</w>
+        <w osisId="Mark.12.19!23">γυναῖκα</w>
+        <w osisId="Mark.12.19!24">καὶ</w>
+        <w osisId="Mark.12.19!25">ἐξαναστήσῃ</w>
+        <w osisId="Mark.12.19!26">σπέρμα</w>
+        <w osisId="Mark.12.19!27">τῷ</w>
+        <w osisId="Mark.12.19!28">ἀδελφῷ</w>
+        <w osisId="Mark.12.19!29">αὐτοῦ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.12.20"/>
       <w osisId="Mark.12.20!1">ἑπτὰ</w>
       <w osisId="Mark.12.20!2">ἀδελφοὶ</w>
@@ -9860,17 +9918,19 @@
       <w osisId="Mark.12.26!19">ὁ</w>
       <w osisId="Mark.12.26!20">Θεὸς</w>
       <w osisId="Mark.12.26!21">λέγων</w>
-      <w osisId="Mark.12.26!22">Ἐγὼ</w>
-      <w osisId="Mark.12.26!23">ὁ</w>
-      <w osisId="Mark.12.26!24">Θεὸς</w>
-      <w osisId="Mark.12.26!25">Ἀβραὰμ</w>
-      <w osisId="Mark.12.26!26">καὶ</w>
-      <w osisId="Mark.12.26!27">Θεὸς</w>
-      <w osisId="Mark.12.26!28">Ἰσαὰκ</w>
-      <w osisId="Mark.12.26!29">καὶ</w>
-      <w osisId="Mark.12.26!30">Θεὸς</w>
-      <w osisId="Mark.12.26!31">Ἰακώβ</w>
-      <pc>;</pc>
+      <q ref="Ex.3,2.6." rend="bold">
+        <w osisId="Mark.12.26!22">Ἐγὼ</w>
+        <w osisId="Mark.12.26!23">ὁ</w>
+        <w osisId="Mark.12.26!24">Θεὸς</w>
+        <w osisId="Mark.12.26!25">Ἀβραὰμ</w>
+        <w osisId="Mark.12.26!26">καὶ</w>
+        <w osisId="Mark.12.26!27">Θεὸς</w>
+        <w osisId="Mark.12.26!28">Ἰσαὰκ</w>
+        <w osisId="Mark.12.26!29">καὶ</w>
+        <w osisId="Mark.12.26!30">Θεὸς</w>
+        <w osisId="Mark.12.26!31">Ἰακώβ</w>
+        <pc>;</pc>
+      </q>
       <milestone unit="verse" id="Mark.12.27"/>
       <w osisId="Mark.12.27!1">οὐκ</w>
       <w osisId="Mark.12.27!2">ἔστιν</w>
@@ -9916,59 +9976,63 @@
       <w osisId="Mark.12.29!4">ὅτι</w>
       <w osisId="Mark.12.29!5">Πρώτη</w>
       <w osisId="Mark.12.29!6">ἐστίν</w>
-      <w osisId="Mark.12.29!7">Ἄκουε</w>
-      <pc>,</pc>
-      <w osisId="Mark.12.29!8">Ἰσραήλ</w>
-      <pc>,</pc>
-      <w osisId="Mark.12.29!9">Κύριος</w>
-      <w osisId="Mark.12.29!10">ὁ</w>
-      <w osisId="Mark.12.29!11">Θεὸς</w>
-      <w osisId="Mark.12.29!12">ἡμῶν</w>
-      <w osisId="Mark.12.29!13">Κύριος</w>
-      <w osisId="Mark.12.29!14">εἷς</w>
-      <w osisId="Mark.12.29!15">ἐστιν</w>
-      <pc>,</pc>
-      <milestone unit="verse" id="Mark.12.30"/>
-      <w osisId="Mark.12.30!1">καὶ</w>
-      <w osisId="Mark.12.30!2">ἀγαπήσεις</w>
-      <w osisId="Mark.12.30!3">Κύριον</w>
-      <w osisId="Mark.12.30!4">τὸν</w>
-      <w osisId="Mark.12.30!5">Θεόν</w>
-      <w osisId="Mark.12.30!6">σου</w>
-      <w osisId="Mark.12.30!7">ἐξ</w>
-      <w osisId="Mark.12.30!8">ὅλης</w>
-      <w osisId="Mark.12.30!9">τῆς</w>
-      <w osisId="Mark.12.30!10">καρδίας</w>
-      <w osisId="Mark.12.30!11">σου</w>
-      <w osisId="Mark.12.30!12">καὶ</w>
-      <w osisId="Mark.12.30!13">ἐξ</w>
-      <w osisId="Mark.12.30!14">ὅλης</w>
-      <w osisId="Mark.12.30!15">τῆς</w>
-      <w osisId="Mark.12.30!16">ψυχῆς</w>
-      <w osisId="Mark.12.30!17">σου</w>
-      <w osisId="Mark.12.30!18">καὶ</w>
-      <w osisId="Mark.12.30!19">ἐξ</w>
-      <w osisId="Mark.12.30!20">ὅλης</w>
-      <w osisId="Mark.12.30!21">τῆς</w>
-      <w osisId="Mark.12.30!22">διανοίας</w>
-      <w osisId="Mark.12.30!23">σου</w>
-      <w osisId="Mark.12.30!24">καὶ</w>
-      <w osisId="Mark.12.30!25">ἐξ</w>
-      <w osisId="Mark.12.30!26">ὅλης</w>
-      <w osisId="Mark.12.30!27">τῆς</w>
-      <w osisId="Mark.12.30!28">ἰσχύος</w>
-      <w osisId="Mark.12.30!29">σου</w>
-      <pc>.</pc>
+      <q ref="Dt.6,4.5." rend="bold">
+        <w osisId="Mark.12.29!7">Ἄκουε</w>
+        <pc>,</pc>
+        <w osisId="Mark.12.29!8">Ἰσραήλ</w>
+        <pc>,</pc>
+        <w osisId="Mark.12.29!9">Κύριος</w>
+        <w osisId="Mark.12.29!10">ὁ</w>
+        <w osisId="Mark.12.29!11">Θεὸς</w>
+        <w osisId="Mark.12.29!12">ἡμῶν</w>
+        <w osisId="Mark.12.29!13">Κύριος</w>
+        <w osisId="Mark.12.29!14">εἷς</w>
+        <w osisId="Mark.12.29!15">ἐστιν</w>
+        <pc>,</pc>
+        <milestone unit="verse" id="Mark.12.30"/>
+        <w osisId="Mark.12.30!1">καὶ</w>
+        <w osisId="Mark.12.30!2">ἀγαπήσεις</w>
+        <w osisId="Mark.12.30!3">Κύριον</w>
+        <w osisId="Mark.12.30!4">τὸν</w>
+        <w osisId="Mark.12.30!5">Θεόν</w>
+        <w osisId="Mark.12.30!6">σου</w>
+        <w osisId="Mark.12.30!7">ἐξ</w>
+        <w osisId="Mark.12.30!8">ὅλης</w>
+        <w osisId="Mark.12.30!9">τῆς</w>
+        <w osisId="Mark.12.30!10">καρδίας</w>
+        <w osisId="Mark.12.30!11">σου</w>
+        <w osisId="Mark.12.30!12">καὶ</w>
+        <w osisId="Mark.12.30!13">ἐξ</w>
+        <w osisId="Mark.12.30!14">ὅλης</w>
+        <w osisId="Mark.12.30!15">τῆς</w>
+        <w osisId="Mark.12.30!16">ψυχῆς</w>
+        <w osisId="Mark.12.30!17">σου</w>
+        <w osisId="Mark.12.30!18">καὶ</w>
+        <w osisId="Mark.12.30!19">ἐξ</w>
+        <w osisId="Mark.12.30!20">ὅλης</w>
+        <w osisId="Mark.12.30!21">τῆς</w>
+        <w osisId="Mark.12.30!22">διανοίας</w>
+        <w osisId="Mark.12.30!23">σου</w>
+        <w osisId="Mark.12.30!24">καὶ</w>
+        <w osisId="Mark.12.30!25">ἐξ</w>
+        <w osisId="Mark.12.30!26">ὅλης</w>
+        <w osisId="Mark.12.30!27">τῆς</w>
+        <w osisId="Mark.12.30!28">ἰσχύος</w>
+        <w osisId="Mark.12.30!29">σου</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.12.31"/>
       <w osisId="Mark.12.31!1">δευτέρα</w>
       <w osisId="Mark.12.31!2">αὕτη</w>
-      <w osisId="Mark.12.31!3">Ἀγαπήσεις</w>
-      <w osisId="Mark.12.31!4">τὸν</w>
-      <w osisId="Mark.12.31!5">πλησίον</w>
-      <w osisId="Mark.12.31!6">σου</w>
-      <w osisId="Mark.12.31!7">ὡς</w>
-      <w osisId="Mark.12.31!8">σεαυτόν</w>
-      <pc>.</pc>
+      <q ref="Lv.19,18." rend="bold">
+        <w osisId="Mark.12.31!3">Ἀγαπήσεις</w>
+        <w osisId="Mark.12.31!4">τὸν</w>
+        <w osisId="Mark.12.31!5">πλησίον</w>
+        <w osisId="Mark.12.31!6">σου</w>
+        <w osisId="Mark.12.31!7">ὡς</w>
+        <w osisId="Mark.12.31!8">σεαυτόν</w>
+        <pc>.</pc>
+      </q>
       <w osisId="Mark.12.31!9">μείζων</w>
       <w osisId="Mark.12.31!10">τούτων</w>
       <w osisId="Mark.12.31!11">ἄλλη</w>
@@ -9990,50 +10054,58 @@
       <w osisId="Mark.12.32!9">ἀληθείας</w>
       <w osisId="Mark.12.32!10">εἶπες</w>
       <w osisId="Mark.12.32!11">ὅτι</w>
-      <w osisId="Mark.12.32!12">εἷς</w>
-      <w osisId="Mark.12.32!13">ἐστιν</w>
-      <w osisId="Mark.12.32!14">καὶ</w>
-      <w osisId="Mark.12.32!15">οὐκ</w>
-      <w osisId="Mark.12.32!16">ἔστιν</w>
-      <w osisId="Mark.12.32!17">ἄλλος</w>
-      <w osisId="Mark.12.32!18">πλὴν</w>
-      <w osisId="Mark.12.32!19">αὐτοῦ</w>
-      <pc>·</pc>
+      <q ref="Dt.6,4;4,35." rend="bold">
+        <w osisId="Mark.12.32!12">εἷς</w>
+        <w osisId="Mark.12.32!13">ἐστιν</w>
+        <w osisId="Mark.12.32!14">καὶ</w>
+        <w osisId="Mark.12.32!15">οὐκ</w>
+        <w osisId="Mark.12.32!16">ἔστιν</w>
+        <w osisId="Mark.12.32!17">ἄλλος</w>
+        <w osisId="Mark.12.32!18">πλὴν</w>
+        <w osisId="Mark.12.32!19">αὐτοῦ</w>
+        <pc>·</pc>
+      </q>
       <milestone unit="verse" id="Mark.12.33"/>
       <w osisId="Mark.12.33!1">καὶ</w>
       <w osisId="Mark.12.33!2">τὸ</w>
-      <w osisId="Mark.12.33!3">ἀγαπᾶν</w>
-      <w osisId="Mark.12.33!4">αὐτὸν</w>
-      <w osisId="Mark.12.33!5">ἐξ</w>
-      <w osisId="Mark.12.33!6">ὅλης</w>
-      <w osisId="Mark.12.33!7">τῆς</w>
-      <w osisId="Mark.12.33!8">καρδίας</w>
-      <w osisId="Mark.12.33!9">καὶ</w>
-      <w osisId="Mark.12.33!10">ἐξ</w>
-      <w osisId="Mark.12.33!11">ὅλης</w>
-      <w osisId="Mark.12.33!12">τῆς</w>
-      <w osisId="Mark.12.33!13">συνέσεως</w>
-      <w osisId="Mark.12.33!14">καὶ</w>
-      <w osisId="Mark.12.33!15">ἐξ</w>
-      <w osisId="Mark.12.33!16">ὅλης</w>
-      <w osisId="Mark.12.33!17">τῆς</w>
-      <w osisId="Mark.12.33!18">ἰσχύος</w>
-      <pc>,</pc>
+      <q ref="1S.15,22." rend="bold">
+        <w osisId="Mark.12.33!3">ἀγαπᾶν</w>
+        <w osisId="Mark.12.33!4">αὐτὸν</w>
+        <w osisId="Mark.12.33!5">ἐξ</w>
+        <w osisId="Mark.12.33!6">ὅλης</w>
+        <w osisId="Mark.12.33!7">τῆς</w>
+        <w osisId="Mark.12.33!8">καρδίας</w>
+        <w osisId="Mark.12.33!9">καὶ</w>
+        <w osisId="Mark.12.33!10">ἐξ</w>
+        <w osisId="Mark.12.33!11">ὅλης</w>
+        <w osisId="Mark.12.33!12">τῆς</w>
+        <w osisId="Mark.12.33!13">συνέσεως</w>
+        <w osisId="Mark.12.33!14">καὶ</w>
+        <w osisId="Mark.12.33!15">ἐξ</w>
+        <w osisId="Mark.12.33!16">ὅλης</w>
+        <w osisId="Mark.12.33!17">τῆς</w>
+        <w osisId="Mark.12.33!18">ἰσχύος</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Mark.12.33!19">καὶ</w>
       <w osisId="Mark.12.33!20">τὸ</w>
-      <w osisId="Mark.12.33!21">ἀγαπᾶν</w>
-      <w osisId="Mark.12.33!22">τὸν</w>
-      <w osisId="Mark.12.33!23">πλησίον</w>
-      <w osisId="Mark.12.33!24">ὡς</w>
-      <w osisId="Mark.12.33!25">ἑαυτὸν</w>
+      <q ref="1S.15,22." rend="bold">
+        <w osisId="Mark.12.33!21">ἀγαπᾶν</w>
+        <w osisId="Mark.12.33!22">τὸν</w>
+        <w osisId="Mark.12.33!23">πλησίον</w>
+        <w osisId="Mark.12.33!24">ὡς</w>
+        <w osisId="Mark.12.33!25">ἑαυτὸν</w>
+      </q>
       <w osisId="Mark.12.33!26">περισσότερόν</w>
       <w osisId="Mark.12.33!27">ἐστιν</w>
       <w osisId="Mark.12.33!28">πάντων</w>
-      <w osisId="Mark.12.33!29">τῶν</w>
-      <w osisId="Mark.12.33!30">ὁλοκαυτωμάτων</w>
-      <w osisId="Mark.12.33!31">καὶ</w>
-      <w osisId="Mark.12.33!32">θυσιῶν</w>
-      <pc>.</pc>
+      <q ref="1S.15,22." rend="bold">
+        <w osisId="Mark.12.33!29">τῶν</w>
+        <w osisId="Mark.12.33!30">ὁλοκαυτωμάτων</w>
+        <w osisId="Mark.12.33!31">καὶ</w>
+        <w osisId="Mark.12.33!32">θυσιῶν</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.12.34"/>
       <w osisId="Mark.12.34!1">καὶ</w>
       <w osisId="Mark.12.34!2">ὁ</w>
@@ -10093,32 +10165,34 @@
       <w osisId="Mark.12.36!6">Πνεύματι</w>
       <w osisId="Mark.12.36!7">τῷ</w>
       <w osisId="Mark.12.36!8">Ἁγίῳ</w>
-    </p>
-    <p>
-      <w osisId="Mark.12.36!9">Εἶπεν</w>
-      <w osisId="Mark.12.36!10">Κύριος</w>
-      <w osisId="Mark.12.36!11">τῷ</w>
-      <w osisId="Mark.12.36!12">Κυρίῳ</w>
-      <w osisId="Mark.12.36!13">μου</w>
-      <w osisId="Mark.12.36!14">Κάθου</w>
-      <w osisId="Mark.12.36!15">ἐκ</w>
-      <w osisId="Mark.12.36!16">δεξιῶν</w>
-      <w osisId="Mark.12.36!17">μου</w>
-    </p>
-    <p>
-      <w osisId="Mark.12.36!18">ἕως</w>
-      <w osisId="Mark.12.36!19">ἂν</w>
-      <w osisId="Mark.12.36!20">θῶ</w>
-      <w osisId="Mark.12.36!21">τοὺς</w>
-      <w osisId="Mark.12.36!22">ἐχθρούς</w>
-      <w osisId="Mark.12.36!23">σου</w>
-      <w osisId="Mark.12.36!24">ὑποκάτω</w>
-      <w osisId="Mark.12.36!25">τῶν</w>
-      <w osisId="Mark.12.36!26">ποδῶν</w>
-      <w osisId="Mark.12.36!27">σου</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Ps.110.1. 2S.23,2." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Mark.12.36!9">Εἶπεν</w>
+            <w osisId="Mark.12.36!10">Κύριος</w>
+            <w osisId="Mark.12.36!11">τῷ</w>
+            <w osisId="Mark.12.36!12">Κυρίῳ</w>
+            <w osisId="Mark.12.36!13">μου</w>
+            <w osisId="Mark.12.36!14">Κάθου</w>
+            <w osisId="Mark.12.36!15">ἐκ</w>
+            <w osisId="Mark.12.36!16">δεξιῶν</w>
+            <w osisId="Mark.12.36!17">μου</w>
+          </l>
+          <l>
+            <w osisId="Mark.12.36!18">ἕως</w>
+            <w osisId="Mark.12.36!19">ἂν</w>
+            <w osisId="Mark.12.36!20">θῶ</w>
+            <w osisId="Mark.12.36!21">τοὺς</w>
+            <w osisId="Mark.12.36!22">ἐχθρούς</w>
+            <w osisId="Mark.12.36!23">σου</w>
+            <w osisId="Mark.12.36!24">ὑποκάτω</w>
+            <w osisId="Mark.12.36!25">τῶν</w>
+            <w osisId="Mark.12.36!26">ποδῶν</w>
+            <w osisId="Mark.12.36!27">σου</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Mark.12.37"/>
       <w osisId="Mark.12.37!1">αὐτὸς</w>
       <w osisId="Mark.12.37!2">Δαυεὶδ</w>
@@ -10412,25 +10486,29 @@
       <w osisId="Mark.13.7!8">μὴ</w>
       <w osisId="Mark.13.7!9">θροεῖσθε</w>
       <pc>·</pc>
-      <w osisId="Mark.13.7!10">δεῖ</w>
-      <w osisId="Mark.13.7!11">γενέσθαι</w>
-      <pc>,</pc>
+      <q ref="Is.19,2." rend="bold">
+        <w osisId="Mark.13.7!10">δεῖ</w>
+        <w osisId="Mark.13.7!11">γενέσθαι</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Mark.13.7!12">ἀλλ’</w>
       <w osisId="Mark.13.7!13">οὔπω</w>
       <w osisId="Mark.13.7!14">τὸ</w>
       <w osisId="Mark.13.7!15">τέλος</w>
       <pc>.</pc>
       <milestone unit="verse" id="Mark.13.8"/>
-      <w osisId="Mark.13.8!1">ἐγερθήσεται</w>
-      <w osisId="Mark.13.8!2">γὰρ</w>
-      <w osisId="Mark.13.8!3">ἔθνος</w>
-      <w osisId="Mark.13.8!4">ἐπ’</w>
-      <w osisId="Mark.13.8!5">ἔθνος</w>
-      <w osisId="Mark.13.8!6">καὶ</w>
-      <w osisId="Mark.13.8!7">βασιλεία</w>
-      <w osisId="Mark.13.8!8">ἐπὶ</w>
-      <w osisId="Mark.13.8!9">βασιλείαν</w>
-      <pc>.</pc>
+      <q ref="2Ch.15,6." rend="bold">
+        <w osisId="Mark.13.8!1">ἐγερθήσεται</w>
+        <w osisId="Mark.13.8!2">γὰρ</w>
+        <w osisId="Mark.13.8!3">ἔθνος</w>
+        <w osisId="Mark.13.8!4">ἐπ’</w>
+        <w osisId="Mark.13.8!5">ἔθνος</w>
+        <w osisId="Mark.13.8!6">καὶ</w>
+        <w osisId="Mark.13.8!7">βασιλεία</w>
+        <w osisId="Mark.13.8!8">ἐπὶ</w>
+        <w osisId="Mark.13.8!9">βασιλείαν</w>
+        <pc>.</pc>
+      </q>
       <w osisId="Mark.13.8!10">ἔσονται</w>
       <w osisId="Mark.13.8!11">σεισμοὶ</w>
       <w osisId="Mark.13.8!12">κατὰ</w>
@@ -10531,10 +10609,12 @@
       <w osisId="Mark.13.12!9">τέκνον</w>
       <pc>,</pc>
       <w osisId="Mark.13.12!10">καὶ</w>
-      <w osisId="Mark.13.12!11">ἐπαναστήσονται</w>
-      <w osisId="Mark.13.12!12">τέκνα</w>
-      <w osisId="Mark.13.12!13">ἐπὶ</w>
-      <w osisId="Mark.13.12!14">γονεῖς</w>
+      <q ref="Mic.7,6." rend="bold">
+        <w osisId="Mark.13.12!11">ἐπαναστήσονται</w>
+        <w osisId="Mark.13.12!12">τέκνα</w>
+        <w osisId="Mark.13.12!13">ἐπὶ</w>
+        <w osisId="Mark.13.12!14">γονεῖς</w>
+      </q>
       <w osisId="Mark.13.12!15">καὶ</w>
       <w osisId="Mark.13.12!16">θανατώσουσιν</w>
       <w osisId="Mark.13.12!17">αὐτούς</w>
@@ -10563,10 +10643,12 @@
       <w osisId="Mark.13.14!1">Ὅταν</w>
       <w osisId="Mark.13.14!2">δὲ</w>
       <w osisId="Mark.13.14!3">ἴδητε</w>
-      <w osisId="Mark.13.14!4">τὸ</w>
-      <w osisId="Mark.13.14!5">βδέλυγμα</w>
-      <w osisId="Mark.13.14!6">τῆς</w>
-      <w osisId="Mark.13.14!7">ἐρημώσεως</w>
+      <q ref="Dn.9,27; 12,4.10." rend="bold">
+        <w osisId="Mark.13.14!4">τὸ</w>
+        <w osisId="Mark.13.14!5">βδέλυγμα</w>
+        <w osisId="Mark.13.14!6">τῆς</w>
+        <w osisId="Mark.13.14!7">ἐρημώσεως</w>
+      </q>
       <w osisId="Mark.13.14!8">ἑστηκότα</w>
       <w osisId="Mark.13.14!9">ὅπου</w>
       <w osisId="Mark.13.14!10">οὐ</w>
@@ -10647,22 +10729,26 @@
       <w osisId="Mark.13.19!3">αἱ</w>
       <w osisId="Mark.13.19!4">ἡμέραι</w>
       <w osisId="Mark.13.19!5">ἐκεῖναι</w>
-      <w osisId="Mark.13.19!6">θλῖψις</w>
-      <pc>,</pc>
-      <w osisId="Mark.13.19!7">οἵα</w>
-      <w osisId="Mark.13.19!8">οὐ</w>
-      <w osisId="Mark.13.19!9">γέγονεν</w>
-      <w osisId="Mark.13.19!10">τοιαύτη</w>
-      <w osisId="Mark.13.19!11">ἀπ’</w>
-      <w osisId="Mark.13.19!12">ἀρχῆς</w>
-      <w osisId="Mark.13.19!13">κτίσεως</w>
+      <q ref="Dn.12,1. Jl.2,2." rend="bold">
+        <w osisId="Mark.13.19!6">θλῖψις</w>
+        <pc>,</pc>
+        <w osisId="Mark.13.19!7">οἵα</w>
+        <w osisId="Mark.13.19!8">οὐ</w>
+        <w osisId="Mark.13.19!9">γέγονεν</w>
+        <w osisId="Mark.13.19!10">τοιαύτη</w>
+        <w osisId="Mark.13.19!11">ἀπ’</w>
+        <w osisId="Mark.13.19!12">ἀρχῆς</w>
+        <w osisId="Mark.13.19!13">κτίσεως</w>
+      </q>
       <w osisId="Mark.13.19!14">ἣν</w>
       <w osisId="Mark.13.19!15">ἔκτισεν</w>
       <w osisId="Mark.13.19!16">ὁ</w>
       <w osisId="Mark.13.19!17">Θεὸς</w>
-      <w osisId="Mark.13.19!18">ἕως</w>
-      <w osisId="Mark.13.19!19">τοῦ</w>
-      <w osisId="Mark.13.19!20">νῦν</w>
+      <q ref="Dn.12,1. Jl.2,2." rend="bold">
+        <w osisId="Mark.13.19!18">ἕως</w>
+        <w osisId="Mark.13.19!19">τοῦ</w>
+        <w osisId="Mark.13.19!20">νῦν</w>
+      </q>
       <w osisId="Mark.13.19!21">καὶ</w>
       <w osisId="Mark.13.19!22">οὐ</w>
       <w osisId="Mark.13.19!23">μὴ</w>
@@ -10716,12 +10802,16 @@
       <w osisId="Mark.13.22!2">δὲ</w>
       <w osisId="Mark.13.22!3">ψευδόχριστοι</w>
       <w osisId="Mark.13.22!4">καὶ</w>
-      <w osisId="Mark.13.22!5">ψευδοπροφῆται</w>
+      <q ref="Dt.13,1." rend="bold">
+        <w osisId="Mark.13.22!5">ψευδοπροφῆται</w>
+      </q>
       <w osisId="Mark.13.22!6">καὶ</w>
-      <w osisId="Mark.13.22!7">ποιήσουσιν</w>
-      <w osisId="Mark.13.22!8">σημεῖα</w>
-      <w osisId="Mark.13.22!9">καὶ</w>
-      <w osisId="Mark.13.22!10">τέρατα</w>
+      <q ref="Dt.13,1." rend="bold">
+        <w osisId="Mark.13.22!7">ποιήσουσιν</w>
+        <w osisId="Mark.13.22!8">σημεῖα</w>
+        <w osisId="Mark.13.22!9">καὶ</w>
+        <w osisId="Mark.13.22!10">τέρατα</w>
+      </q>
       <w osisId="Mark.13.22!11">πρὸς</w>
       <w osisId="Mark.13.22!12">τὸ</w>
       <w osisId="Mark.13.22!13">ἀποπλανᾶν</w>
@@ -10749,49 +10839,53 @@
       <w osisId="Mark.13.24!7">τὴν</w>
       <w osisId="Mark.13.24!8">θλῖψιν</w>
       <w osisId="Mark.13.24!9">ἐκείνην</w>
-      <w osisId="Mark.13.24!10">ὁ</w>
-      <w osisId="Mark.13.24!11">ἥλιος</w>
-      <w osisId="Mark.13.24!12">σκοτισθήσεται</w>
-      <pc>,</pc>
-      <w osisId="Mark.13.24!13">καὶ</w>
-      <w osisId="Mark.13.24!14">ἡ</w>
-      <w osisId="Mark.13.24!15">σελήνη</w>
-      <w osisId="Mark.13.24!16">οὐ</w>
-      <w osisId="Mark.13.24!17">δώσει</w>
-      <w osisId="Mark.13.24!18">τὸ</w>
-      <w osisId="Mark.13.24!19">φέγγος</w>
-      <w osisId="Mark.13.24!20">αὐτῆς</w>
-      <pc>,</pc>
-      <milestone unit="verse" id="Mark.13.25"/>
-      <w osisId="Mark.13.25!1">καὶ</w>
-      <w osisId="Mark.13.25!2">οἱ</w>
-      <w osisId="Mark.13.25!3">ἀστέρες</w>
-      <w osisId="Mark.13.25!4">ἔσονται</w>
-      <w osisId="Mark.13.25!5">ἐκ</w>
-      <w osisId="Mark.13.25!6">τοῦ</w>
-      <w osisId="Mark.13.25!7">οὐρανοῦ</w>
-      <w osisId="Mark.13.25!8">πίπτοντες</w>
-      <pc>,</pc>
-      <w osisId="Mark.13.25!9">καὶ</w>
-      <w osisId="Mark.13.25!10">αἱ</w>
-      <w osisId="Mark.13.25!11">δυνάμεις</w>
-      <w osisId="Mark.13.25!12">αἱ</w>
-      <w osisId="Mark.13.25!13">ἐν</w>
-      <w osisId="Mark.13.25!14">τοῖς</w>
-      <w osisId="Mark.13.25!15">οὐρανοῖς</w>
-      <w osisId="Mark.13.25!16">σαλευθήσονται</w>
-      <pc>.</pc>
+      <q ref="Is.13,10;34,4." rend="bold">
+        <w osisId="Mark.13.24!10">ὁ</w>
+        <w osisId="Mark.13.24!11">ἥλιος</w>
+        <w osisId="Mark.13.24!12">σκοτισθήσεται</w>
+        <pc>,</pc>
+        <w osisId="Mark.13.24!13">καὶ</w>
+        <w osisId="Mark.13.24!14">ἡ</w>
+        <w osisId="Mark.13.24!15">σελήνη</w>
+        <w osisId="Mark.13.24!16">οὐ</w>
+        <w osisId="Mark.13.24!17">δώσει</w>
+        <w osisId="Mark.13.24!18">τὸ</w>
+        <w osisId="Mark.13.24!19">φέγγος</w>
+        <w osisId="Mark.13.24!20">αὐτῆς</w>
+        <pc>,</pc>
+        <milestone unit="verse" id="Mark.13.25"/>
+        <w osisId="Mark.13.25!1">καὶ</w>
+        <w osisId="Mark.13.25!2">οἱ</w>
+        <w osisId="Mark.13.25!3">ἀστέρες</w>
+        <w osisId="Mark.13.25!4">ἔσονται</w>
+        <w osisId="Mark.13.25!5">ἐκ</w>
+        <w osisId="Mark.13.25!6">τοῦ</w>
+        <w osisId="Mark.13.25!7">οὐρανοῦ</w>
+        <w osisId="Mark.13.25!8">πίπτοντες</w>
+        <pc>,</pc>
+        <w osisId="Mark.13.25!9">καὶ</w>
+        <w osisId="Mark.13.25!10">αἱ</w>
+        <w osisId="Mark.13.25!11">δυνάμεις</w>
+        <w osisId="Mark.13.25!12">αἱ</w>
+        <w osisId="Mark.13.25!13">ἐν</w>
+        <w osisId="Mark.13.25!14">τοῖς</w>
+        <w osisId="Mark.13.25!15">οὐρανοῖς</w>
+        <w osisId="Mark.13.25!16">σαλευθήσονται</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.13.26"/>
       <w osisId="Mark.13.26!1">καὶ</w>
       <w osisId="Mark.13.26!2">τότε</w>
       <w osisId="Mark.13.26!3">ὄψονται</w>
-      <w osisId="Mark.13.26!4">τὸν</w>
-      <w osisId="Mark.13.26!5">Υἱὸν</w>
-      <w osisId="Mark.13.26!6">τοῦ</w>
-      <w osisId="Mark.13.26!7">ἀνθρώπου</w>
-      <w osisId="Mark.13.26!8">ἐρχόμενον</w>
-      <w osisId="Mark.13.26!9">ἐν</w>
-      <w osisId="Mark.13.26!10">νεφέλαις</w>
+      <q ref="Dn.7,13." rend="bold">
+        <w osisId="Mark.13.26!4">τὸν</w>
+        <w osisId="Mark.13.26!5">Υἱὸν</w>
+        <w osisId="Mark.13.26!6">τοῦ</w>
+        <w osisId="Mark.13.26!7">ἀνθρώπου</w>
+        <w osisId="Mark.13.26!8">ἐρχόμενον</w>
+        <w osisId="Mark.13.26!9">ἐν</w>
+        <w osisId="Mark.13.26!10">νεφέλαις</w>
+      </q>
       <w osisId="Mark.13.26!11">μετὰ</w>
       <w osisId="Mark.13.26!12">δυνάμεως</w>
       <w osisId="Mark.13.26!13">πολλῆς</w>
@@ -10805,21 +10899,27 @@
       <w osisId="Mark.13.27!4">τοὺς</w>
       <w osisId="Mark.13.27!5">ἀγγέλους</w>
       <w osisId="Mark.13.27!6">καὶ</w>
-      <w osisId="Mark.13.27!7">ἐπισυνάξει</w>
+      <q ref="Zec.2,6. Dt.30,4." rend="bold">
+        <w osisId="Mark.13.27!7">ἐπισυνάξει</w>
+      </q>
       <w osisId="Mark.13.27!8">τοὺς</w>
       <w osisId="Mark.13.27!9">ἐκλεκτοὺς</w>
       <w osisId="Mark.13.27!10">αὐτοῦ</w>
-      <w osisId="Mark.13.27!11">ἐκ</w>
-      <w osisId="Mark.13.27!12">τῶν</w>
-      <w osisId="Mark.13.27!13">τεσσάρων</w>
-      <w osisId="Mark.13.27!14">ἀνέμων</w>
-      <w osisId="Mark.13.27!15">ἀπ’</w>
-      <w osisId="Mark.13.27!16">ἄκρου</w>
+      <q ref="Zec.2,6. Dt.30,4." rend="bold">
+        <w osisId="Mark.13.27!11">ἐκ</w>
+        <w osisId="Mark.13.27!12">τῶν</w>
+        <w osisId="Mark.13.27!13">τεσσάρων</w>
+        <w osisId="Mark.13.27!14">ἀνέμων</w>
+        <w osisId="Mark.13.27!15">ἀπ’</w>
+        <w osisId="Mark.13.27!16">ἄκρου</w>
+      </q>
       <w osisId="Mark.13.27!17">γῆς</w>
-      <w osisId="Mark.13.27!18">ἕως</w>
-      <w osisId="Mark.13.27!19">ἄκρου</w>
-      <w osisId="Mark.13.27!20">οὐρανοῦ</w>
-      <pc>.</pc>
+      <q ref="Zec.2,6. Dt.30,4." rend="bold">
+        <w osisId="Mark.13.27!18">ἕως</w>
+        <w osisId="Mark.13.27!19">ἄκρου</w>
+        <w osisId="Mark.13.27!20">οὐρανοῦ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.13.28"/>
       <w osisId="Mark.13.28!1">Ἀπὸ</w>
       <w osisId="Mark.13.28!2">δὲ</w>
@@ -11385,11 +11485,13 @@
       <w osisId="Mark.14.18!16">παραδώσει</w>
       <w osisId="Mark.14.18!17">με</w>
       <pc>,</pc>
-      <w osisId="Mark.14.18!18">ὁ</w>
-      <w osisId="Mark.14.18!19">ἐσθίων</w>
-      <w osisId="Mark.14.18!20">μετ’</w>
-      <w osisId="Mark.14.18!21">ἐμοῦ</w>
-      <pc>.</pc>
+      <q ref="Ps.41,10." rend="bold">
+        <w osisId="Mark.14.18!18">ὁ</w>
+        <w osisId="Mark.14.18!19">ἐσθίων</w>
+        <w osisId="Mark.14.18!20">μετ’</w>
+        <w osisId="Mark.14.18!21">ἐμοῦ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.14.19"/>
       <w osisId="Mark.14.19!1">ἤρξαντο</w>
       <w osisId="Mark.14.19!2">λυπεῖσθαι</w>
@@ -11495,11 +11597,15 @@
       <w osisId="Mark.14.24!3">αὐτοῖς</w>
       <w osisId="Mark.14.24!4">Τοῦτό</w>
       <w osisId="Mark.14.24!5">ἐστιν</w>
-      <w osisId="Mark.14.24!6">τὸ</w>
-      <w osisId="Mark.14.24!7">αἷμά</w>
+      <q ref="Ex.24,8. Zec.9,11." rend="bold">
+        <w osisId="Mark.14.24!6">τὸ</w>
+        <w osisId="Mark.14.24!7">αἷμά</w>
+      </q>
       <w osisId="Mark.14.24!8">μου</w>
-      <w osisId="Mark.14.24!9">τῆς</w>
-      <w osisId="Mark.14.24!10">διαθήκης</w>
+      <q ref="Ex.24,8. Zec.9,11." rend="bold">
+        <w osisId="Mark.14.24!9">τῆς</w>
+        <w osisId="Mark.14.24!10">διαθήκης</w>
+      </q>
       <w osisId="Mark.14.24!11">τὸ</w>
       <w osisId="Mark.14.24!12">ἐκχυννόμενον</w>
       <w osisId="Mark.14.24!13">ὑπὲρ</w>
@@ -11555,15 +11661,17 @@
       <pc>,</pc>
       <w osisId="Mark.14.27!9">ὅτι</w>
       <w osisId="Mark.14.27!10">γέγραπται</w>
-      <w osisId="Mark.14.27!11">Πατάξω</w>
-      <w osisId="Mark.14.27!12">τὸν</w>
-      <w osisId="Mark.14.27!13">ποιμένα</w>
-      <pc>,</pc>
-      <w osisId="Mark.14.27!14">καὶ</w>
-      <w osisId="Mark.14.27!15">τὰ</w>
-      <w osisId="Mark.14.27!16">πρόβατα</w>
-      <w osisId="Mark.14.27!17">διασκορπισθήσονται</w>
-      <pc>.</pc>
+      <q ref="Zec.13,7." rend="bold">
+        <w osisId="Mark.14.27!11">Πατάξω</w>
+        <w osisId="Mark.14.27!12">τὸν</w>
+        <w osisId="Mark.14.27!13">ποιμένα</w>
+        <pc>,</pc>
+        <w osisId="Mark.14.27!14">καὶ</w>
+        <w osisId="Mark.14.27!15">τὰ</w>
+        <w osisId="Mark.14.27!16">πρόβατα</w>
+        <w osisId="Mark.14.27!17">διασκορπισθήσονται</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.14.28"/>
       <w osisId="Mark.14.28!1">ἀλλὰ</w>
       <w osisId="Mark.14.28!2">μετὰ</w>
@@ -11683,11 +11791,13 @@
       <w osisId="Mark.14.34!1">καὶ</w>
       <w osisId="Mark.14.34!2">λέγει</w>
       <w osisId="Mark.14.34!3">αὐτοῖς</w>
-      <w osisId="Mark.14.34!4">Περίλυπός</w>
-      <w osisId="Mark.14.34!5">ἐστιν</w>
-      <w osisId="Mark.14.34!6">ἡ</w>
-      <w osisId="Mark.14.34!7">ψυχή</w>
-      <w osisId="Mark.14.34!8">μου</w>
+      <q ref="Ps.43,5." rend="bold">
+        <w osisId="Mark.14.34!4">Περίλυπός</w>
+        <w osisId="Mark.14.34!5">ἐστιν</w>
+        <w osisId="Mark.14.34!6">ἡ</w>
+        <w osisId="Mark.14.34!7">ψυχή</w>
+        <w osisId="Mark.14.34!8">μου</w>
+      </q>
       <w osisId="Mark.14.34!9">ἕως</w>
       <w osisId="Mark.14.34!10">θανάτου</w>
       <pc>·</pc>
@@ -12211,23 +12321,25 @@
       <pc>,</pc>
       <w osisId="Mark.14.62!7">καὶ</w>
       <w osisId="Mark.14.62!8">ὄψεσθε</w>
-      <w osisId="Mark.14.62!9">τὸν</w>
-      <w osisId="Mark.14.62!10">Υἱὸν</w>
-      <w osisId="Mark.14.62!11">τοῦ</w>
-      <w osisId="Mark.14.62!12">ἀνθρώπου</w>
-      <w osisId="Mark.14.62!13">ἐκ</w>
-      <w osisId="Mark.14.62!14">δεξιῶν</w>
-      <w osisId="Mark.14.62!15">καθήμενον</w>
-      <w osisId="Mark.14.62!16">τῆς</w>
-      <w osisId="Mark.14.62!17">δυνάμεως</w>
-      <w osisId="Mark.14.62!18">καὶ</w>
-      <w osisId="Mark.14.62!19">ἐρχόμενον</w>
-      <w osisId="Mark.14.62!20">μετὰ</w>
-      <w osisId="Mark.14.62!21">τῶν</w>
-      <w osisId="Mark.14.62!22">νεφελῶν</w>
-      <w osisId="Mark.14.62!23">τοῦ</w>
-      <w osisId="Mark.14.62!24">οὐρανοῦ</w>
-      <pc>.</pc>
+      <q ref="Dn.7,13. Ps.110,1." rend="bold">
+        <w osisId="Mark.14.62!9">τὸν</w>
+        <w osisId="Mark.14.62!10">Υἱὸν</w>
+        <w osisId="Mark.14.62!11">τοῦ</w>
+        <w osisId="Mark.14.62!12">ἀνθρώπου</w>
+        <w osisId="Mark.14.62!13">ἐκ</w>
+        <w osisId="Mark.14.62!14">δεξιῶν</w>
+        <w osisId="Mark.14.62!15">καθήμενον</w>
+        <w osisId="Mark.14.62!16">τῆς</w>
+        <w osisId="Mark.14.62!17">δυνάμεως</w>
+        <w osisId="Mark.14.62!18">καὶ</w>
+        <w osisId="Mark.14.62!19">ἐρχόμενον</w>
+        <w osisId="Mark.14.62!20">μετὰ</w>
+        <w osisId="Mark.14.62!21">τῶν</w>
+        <w osisId="Mark.14.62!22">νεφελῶν</w>
+        <w osisId="Mark.14.62!23">τοῦ</w>
+        <w osisId="Mark.14.62!24">οὐρανοῦ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.14.63"/>
       <w osisId="Mark.14.63!1">ὁ</w>
       <w osisId="Mark.14.63!2">δὲ</w>
@@ -12811,15 +12923,19 @@
       <w osisId="Mark.15.24!3">αὐτὸν</w>
       <pc>,</pc>
       <w osisId="Mark.15.24!4">καὶ</w>
-      <w osisId="Mark.15.24!5">διαμερίζονται</w>
-      <w osisId="Mark.15.24!6">τὰ</w>
-      <w osisId="Mark.15.24!7">ἱμάτια</w>
+      <q ref="Ps.22,18." rend="bold">
+        <w osisId="Mark.15.24!5">διαμερίζονται</w>
+        <w osisId="Mark.15.24!6">τὰ</w>
+        <w osisId="Mark.15.24!7">ἱμάτια</w>
+      </q>
       <w osisId="Mark.15.24!8">αὐτοῦ</w>
       <pc>,</pc>
-      <w osisId="Mark.15.24!9">βάλλοντες</w>
-      <w osisId="Mark.15.24!10">κλῆρον</w>
-      <w osisId="Mark.15.24!11">ἐπ’</w>
-      <w osisId="Mark.15.24!12">αὐτὰ</w>
+      <q ref="Ps.22,18." rend="bold">
+        <w osisId="Mark.15.24!9">βάλλοντες</w>
+        <w osisId="Mark.15.24!10">κλῆρον</w>
+        <w osisId="Mark.15.24!11">ἐπ’</w>
+        <w osisId="Mark.15.24!12">αὐτὰ</w>
+      </q>
       <w osisId="Mark.15.24!13">τίς</w>
       <w osisId="Mark.15.24!14">τί</w>
       <w osisId="Mark.15.24!15">ἄρῃ</w>
@@ -12870,9 +12986,11 @@
       <w osisId="Mark.15.29!3">παραπορευόμενοι</w>
       <w osisId="Mark.15.29!4">ἐβλασφήμουν</w>
       <w osisId="Mark.15.29!5">αὐτὸν</w>
-      <w osisId="Mark.15.29!6">κινοῦντες</w>
-      <w osisId="Mark.15.29!7">τὰς</w>
-      <w osisId="Mark.15.29!8">κεφαλὰς</w>
+      <q ref="Ps.22,7;109,25." rend="bold">
+        <w osisId="Mark.15.29!6">κινοῦντες</w>
+        <w osisId="Mark.15.29!7">τὰς</w>
+        <w osisId="Mark.15.29!8">κεφαλὰς</w>
+      </q>
       <w osisId="Mark.15.29!9">αὐτῶν</w>
       <w osisId="Mark.15.29!10">καὶ</w>
       <w osisId="Mark.15.29!11">λέγοντες</w>
@@ -12965,26 +13083,30 @@
       <w osisId="Mark.15.34!7">Ἰησοῦς</w>
       <w osisId="Mark.15.34!8">φωνῇ</w>
       <w osisId="Mark.15.34!9">μεγάλῃ</w>
-      <w osisId="Mark.15.34!10">Ἐλωῒ</w>
-      <w osisId="Mark.15.34!11">Ἐλωῒ</w>
-      <w osisId="Mark.15.34!12">λαμὰ</w>
-      <w osisId="Mark.15.34!13">σαβαχθανεί</w>
-      <pc>;</pc>
+      <q ref="Ps.22,1." rend="bold">
+        <w osisId="Mark.15.34!10">Ἐλωῒ</w>
+        <w osisId="Mark.15.34!11">Ἐλωῒ</w>
+        <w osisId="Mark.15.34!12">λαμὰ</w>
+        <w osisId="Mark.15.34!13">σαβαχθανεί</w>
+        <pc>;</pc>
+      </q>
       <w osisId="Mark.15.34!14">ὅ</w>
       <w osisId="Mark.15.34!15">ἐστιν</w>
       <w osisId="Mark.15.34!16">μεθερμηνευόμενον</w>
-      <w osisId="Mark.15.34!17">Ὁ</w>
-      <w osisId="Mark.15.34!18">Θεός</w>
-      <w osisId="Mark.15.34!19">μου</w>
-      <w osisId="Mark.15.34!20">ὁ</w>
-      <w osisId="Mark.15.34!21">Θεός</w>
-      <w osisId="Mark.15.34!22">μου</w>
-      <pc>,</pc>
-      <w osisId="Mark.15.34!23">εἰς</w>
-      <w osisId="Mark.15.34!24">τί</w>
-      <w osisId="Mark.15.34!25">ἐγκατέλιπές</w>
-      <w osisId="Mark.15.34!26">με</w>
-      <pc>;</pc>
+      <q ref="Ps.22,1." rend="bold">
+        <w osisId="Mark.15.34!17">Ὁ</w>
+        <w osisId="Mark.15.34!18">Θεός</w>
+        <w osisId="Mark.15.34!19">μου</w>
+        <w osisId="Mark.15.34!20">ὁ</w>
+        <w osisId="Mark.15.34!21">Θεός</w>
+        <w osisId="Mark.15.34!22">μου</w>
+        <pc>,</pc>
+        <w osisId="Mark.15.34!23">εἰς</w>
+        <w osisId="Mark.15.34!24">τί</w>
+        <w osisId="Mark.15.34!25">ἐγκατέλιπές</w>
+        <w osisId="Mark.15.34!26">με</w>
+        <pc>;</pc>
+      </q>
       <milestone unit="verse" id="Mark.15.35"/>
       <w osisId="Mark.15.35!1">καί</w>
       <w osisId="Mark.15.35!2">τινες</w>
@@ -13003,10 +13125,14 @@
       <w osisId="Mark.15.36!4">καὶ</w>
       <w osisId="Mark.15.36!5">γεμίσας</w>
       <w osisId="Mark.15.36!6">σπόγγον</w>
-      <w osisId="Mark.15.36!7">ὄξους</w>
+      <q ref="Ps.69,21." rend="bold">
+        <w osisId="Mark.15.36!7">ὄξους</w>
+      </q>
       <w osisId="Mark.15.36!8">περιθεὶς</w>
       <w osisId="Mark.15.36!9">καλάμῳ</w>
-      <w osisId="Mark.15.36!10">ἐπότιζεν</w>
+      <q ref="Ps.69,21." rend="bold">
+        <w osisId="Mark.15.36!10">ἐπότιζεν</w>
+      </q>
       <w osisId="Mark.15.36!11">αὐτόν</w>
       <pc>,</pc>
       <w osisId="Mark.15.36!12">λέγων</w>
@@ -13574,17 +13700,21 @@
       <w osisId="Mark.16.19!7">τὸ</w>
       <w osisId="Mark.16.19!8">λαλῆσαι</w>
       <w osisId="Mark.16.19!9">αὐτοῖς</w>
-      <w osisId="Mark.16.19!10">ἀνελήμφθη</w>
-      <w osisId="Mark.16.19!11">εἰς</w>
-      <w osisId="Mark.16.19!12">τὸν</w>
-      <w osisId="Mark.16.19!13">οὐρανὸν</w>
+      <q ref="Ps.110,1. 2K.2,11." rend="bold">
+        <w osisId="Mark.16.19!10">ἀνελήμφθη</w>
+        <w osisId="Mark.16.19!11">εἰς</w>
+        <w osisId="Mark.16.19!12">τὸν</w>
+        <w osisId="Mark.16.19!13">οὐρανὸν</w>
+      </q>
       <w osisId="Mark.16.19!14">καὶ</w>
-      <w osisId="Mark.16.19!15">ἐκάθισεν</w>
-      <w osisId="Mark.16.19!16">ἐκ</w>
-      <w osisId="Mark.16.19!17">δεξιῶν</w>
-      <w osisId="Mark.16.19!18">τοῦ</w>
-      <w osisId="Mark.16.19!19">Θεοῦ</w>
-      <pc>.</pc>
+      <q ref="Ps.110,1. 2K.2,11." rend="bold">
+        <w osisId="Mark.16.19!15">ἐκάθισεν</w>
+        <w osisId="Mark.16.19!16">ἐκ</w>
+        <w osisId="Mark.16.19!17">δεξιῶν</w>
+        <w osisId="Mark.16.19!18">τοῦ</w>
+        <w osisId="Mark.16.19!19">Θεοῦ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Mark.16.20"/>
       <w osisId="Mark.16.20!1">ἐκεῖνοι</w>
       <w osisId="Mark.16.20!2">δὲ</w>

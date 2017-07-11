@@ -265,13 +265,15 @@
       <w osisId="Luke.1.15!5">Κυρίου</w>
       <pc>,</pc>
       <w osisId="Luke.1.15!6">καὶ</w>
-      <w osisId="Luke.1.15!7">οἶνον</w>
-      <w osisId="Luke.1.15!8">καὶ</w>
-      <w osisId="Luke.1.15!9">σίκερα</w>
-      <w osisId="Luke.1.15!10">οὐ</w>
-      <w osisId="Luke.1.15!11">μὴ</w>
-      <w osisId="Luke.1.15!12">πίῃ</w>
-      <pc>,</pc>
+      <q ref="Nu.6,3. Jg.13,4.5. 1S.1,11." rend="bold">
+        <w osisId="Luke.1.15!7">οἶνον</w>
+        <w osisId="Luke.1.15!8">καὶ</w>
+        <w osisId="Luke.1.15!9">σίκερα</w>
+        <w osisId="Luke.1.15!10">οὐ</w>
+        <w osisId="Luke.1.15!11">μὴ</w>
+        <w osisId="Luke.1.15!12">πίῃ</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Luke.1.15!13">καὶ</w>
       <w osisId="Luke.1.15!14">Πνεύματος</w>
       <w osisId="Luke.1.15!15">Ἁγίου</w>
@@ -305,13 +307,15 @@
       <w osisId="Luke.1.17!7">πνεύματι</w>
       <w osisId="Luke.1.17!8">καὶ</w>
       <w osisId="Luke.1.17!9">δυνάμει</w>
-      <w osisId="Luke.1.17!10">Ἡλεία</w>
-      <pc>,</pc>
-      <w osisId="Luke.1.17!11">ἐπιστρέψαι</w>
-      <w osisId="Luke.1.17!12">καρδίας</w>
-      <w osisId="Luke.1.17!13">πατέρων</w>
-      <w osisId="Luke.1.17!14">ἐπὶ</w>
-      <w osisId="Luke.1.17!15">τέκνα</w>
+      <q ref="Mal.3,1;4,5.6." rend="bold">
+        <w osisId="Luke.1.17!10">Ἡλεία</w>
+        <pc>,</pc>
+        <w osisId="Luke.1.17!11">ἐπιστρέψαι</w>
+        <w osisId="Luke.1.17!12">καρδίας</w>
+        <w osisId="Luke.1.17!13">πατέρων</w>
+        <w osisId="Luke.1.17!14">ἐπὶ</w>
+        <w osisId="Luke.1.17!15">τέκνα</w>
+      </q>
       <w osisId="Luke.1.17!16">καὶ</w>
       <w osisId="Luke.1.17!17">ἀπειθεῖς</w>
       <w osisId="Luke.1.17!18">ἐν</w>
@@ -628,24 +632,30 @@
       <w osisId="Luke.1.32!11">Κύριος</w>
       <w osisId="Luke.1.32!12">ὁ</w>
       <w osisId="Luke.1.32!13">Θεὸς</w>
-      <w osisId="Luke.1.32!14">τὸν</w>
-      <w osisId="Luke.1.32!15">θρόνον</w>
-      <w osisId="Luke.1.32!16">Δαυεὶδ</w>
+      <q ref="Mic.4,7. Dn.7,14." rend="bold">
+        <w osisId="Luke.1.32!14">τὸν</w>
+        <w osisId="Luke.1.32!15">θρόνον</w>
+        <w osisId="Luke.1.32!16">Δαυεὶδ</w>
+      </q>
       <w osisId="Luke.1.32!17">τοῦ</w>
       <w osisId="Luke.1.32!18">πατρὸς</w>
       <w osisId="Luke.1.32!19">αὐτοῦ</w>
       <pc>,</pc>
       <milestone unit="verse" id="Luke.1.33"/>
-      <w osisId="Luke.1.33!1">καὶ</w>
-      <w osisId="Luke.1.33!2">βασιλεύσει</w>
+      <q ref="Mic.4,7. Dn.7,14." rend="bold">
+        <w osisId="Luke.1.33!1">καὶ</w>
+        <w osisId="Luke.1.33!2">βασιλεύσει</w>
+      </q>
       <w osisId="Luke.1.33!3">ἐπὶ</w>
       <w osisId="Luke.1.33!4">τὸν</w>
       <w osisId="Luke.1.33!5">οἶκον</w>
       <w osisId="Luke.1.33!6">Ἰακὼβ</w>
-      <w osisId="Luke.1.33!7">εἰς</w>
-      <w osisId="Luke.1.33!8">τοὺς</w>
-      <w osisId="Luke.1.33!9">αἰῶνας</w>
-      <pc>,</pc>
+      <q ref="Mic.4,7. Dn.7,14." rend="bold">
+        <w osisId="Luke.1.33!7">εἰς</w>
+        <w osisId="Luke.1.33!8">τοὺς</w>
+        <w osisId="Luke.1.33!9">αἰῶνας</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Luke.1.33!10">καὶ</w>
       <w osisId="Luke.1.33!11">τῆς</w>
       <w osisId="Luke.1.33!12">βασιλείας</w>
@@ -693,8 +703,10 @@
       <w osisId="Luke.1.35!18">καὶ</w>
       <w osisId="Luke.1.35!19">τὸ</w>
       <w osisId="Luke.1.35!20">γεννώμενον</w>
-      <w osisId="Luke.1.35!21">ἅγιον</w>
-      <w osisId="Luke.1.35!22">κληθήσεται</w>
+      <q ref="Ex.13,12." rend="bold">
+        <w osisId="Luke.1.35!21">ἅγιον</w>
+        <w osisId="Luke.1.35!22">κληθήσεται</w>
+      </q>
       <w osisId="Luke.1.35!23">Υἱὸς</w>
       <w osisId="Luke.1.35!24">Θεοῦ</w>
       <pc>.</pc>
@@ -725,14 +737,16 @@
       <pc>·</pc>
       <milestone unit="verse" id="Luke.1.37"/>
       <w osisId="Luke.1.37!1">ὅτι</w>
-      <w osisId="Luke.1.37!2">οὐκ</w>
-      <w osisId="Luke.1.37!3">ἀδυνατήσει</w>
-      <w osisId="Luke.1.37!4">παρὰ</w>
-      <w osisId="Luke.1.37!5">τοῦ</w>
-      <w osisId="Luke.1.37!6">Θεοῦ</w>
-      <w osisId="Luke.1.37!7">πᾶν</w>
-      <w osisId="Luke.1.37!8">ῥῆμα</w>
-      <pc>.</pc>
+      <q ref="Gn.18,14." rend="bold">
+        <w osisId="Luke.1.37!2">οὐκ</w>
+        <w osisId="Luke.1.37!3">ἀδυνατήσει</w>
+        <w osisId="Luke.1.37!4">παρὰ</w>
+        <w osisId="Luke.1.37!5">τοῦ</w>
+        <w osisId="Luke.1.37!6">Θεοῦ</w>
+        <w osisId="Luke.1.37!7">πᾶν</w>
+        <w osisId="Luke.1.37!8">ῥῆμα</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.1.38"/>
       <w osisId="Luke.1.38!1">εἶπεν</w>
       <w osisId="Luke.1.38!2">δὲ</w>
@@ -891,166 +905,198 @@
       <w osisId="Luke.1.46!1">Καὶ</w>
       <w osisId="Luke.1.46!2">εἶπεν</w>
       <w osisId="Luke.1.46!3">Μαριάμ</w>
-    </p>
-    <p>
-      <w osisId="Luke.1.46!4">Μεγαλύνει</w>
-      <w osisId="Luke.1.46!5">ἡ</w>
-      <w osisId="Luke.1.46!6">ψυχή</w>
-      <w osisId="Luke.1.46!7">μου</w>
-      <w osisId="Luke.1.46!8">τὸν</w>
-      <w osisId="Luke.1.46!9">Κύριον</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.47"/>
-      <w osisId="Luke.1.47!1">καὶ</w>
-      <w osisId="Luke.1.47!2">ἠγαλλίασεν</w>
-      <w osisId="Luke.1.47!3">τὸ</w>
-      <w osisId="Luke.1.47!4">πνεῦμά</w>
-      <w osisId="Luke.1.47!5">μου</w>
-      <w osisId="Luke.1.47!6">ἐπὶ</w>
-      <w osisId="Luke.1.47!7">τῷ</w>
-      <w osisId="Luke.1.47!8">Θεῷ</w>
-      <w osisId="Luke.1.47!9">τῷ</w>
-      <w osisId="Luke.1.47!10">Σωτῆρί</w>
-      <w osisId="Luke.1.47!11">μου</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.48"/>
-      <w osisId="Luke.1.48!1">ὅτι</w>
-      <w osisId="Luke.1.48!2">ἐπέβλεψεν</w>
-      <w osisId="Luke.1.48!3">ἐπὶ</w>
-      <w osisId="Luke.1.48!4">τὴν</w>
-      <w osisId="Luke.1.48!5">ταπείνωσιν</w>
-      <w osisId="Luke.1.48!6">τῆς</w>
-      <w osisId="Luke.1.48!7">δούλης</w>
-      <w osisId="Luke.1.48!8">αὐτοῦ</w>
-      <pc>.</pc>
-    </p>
-    <p>
-      <w osisId="Luke.1.48!9">ἰδοὺ</w>
-      <w osisId="Luke.1.48!10">γὰρ</w>
-      <w osisId="Luke.1.48!11">ἀπὸ</w>
-      <w osisId="Luke.1.48!12">τοῦ</w>
-      <w osisId="Luke.1.48!13">νῦν</w>
-      <w osisId="Luke.1.48!14">μακαριοῦσίν</w>
-      <w osisId="Luke.1.48!15">με</w>
-      <w osisId="Luke.1.48!16">πᾶσαι</w>
-      <w osisId="Luke.1.48!17">αἱ</w>
-      <w osisId="Luke.1.48!18">γενεαί</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.49"/>
-      <w osisId="Luke.1.49!1">ὅτι</w>
-      <w osisId="Luke.1.49!2">ἐποίησέν</w>
-      <w osisId="Luke.1.49!3">μοι</w>
-      <w osisId="Luke.1.49!4">μεγάλα</w>
-      <w osisId="Luke.1.49!5">ὁ</w>
-      <w osisId="Luke.1.49!6">δυνατός</w>
-      <pc>.</pc>
-    </p>
-    <p>
-      <w osisId="Luke.1.49!7">καὶ</w>
-      <w osisId="Luke.1.49!8">ἅγιον</w>
-      <w osisId="Luke.1.49!9">τὸ</w>
-      <w osisId="Luke.1.49!10">ὄνομα</w>
-      <w osisId="Luke.1.49!11">αὐτοῦ</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.50"/>
-      <w osisId="Luke.1.50!1">καὶ</w>
-      <w osisId="Luke.1.50!2">τὸ</w>
-      <w osisId="Luke.1.50!3">ἔλεος</w>
-      <w osisId="Luke.1.50!4">αὐτοῦ</w>
-      <w osisId="Luke.1.50!5">εἰς</w>
-      <w osisId="Luke.1.50!6">γενεὰς</w>
-      <w osisId="Luke.1.50!7">καὶ</w>
-      <w osisId="Luke.1.50!8">γενεὰς</w>
-    </p>
-    <p>
-      <w osisId="Luke.1.50!9">τοῖς</w>
-      <w osisId="Luke.1.50!10">φοβουμένοις</w>
-      <w osisId="Luke.1.50!11">αὐτόν</w>
-      <pc>.</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.51"/>
-      <w osisId="Luke.1.51!1">Ἐποίησεν</w>
-      <w osisId="Luke.1.51!2">κράτος</w>
-      <w osisId="Luke.1.51!3">ἐν</w>
-      <w osisId="Luke.1.51!4">βραχίονι</w>
-      <w osisId="Luke.1.51!5">αὐτοῦ</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.1.51!6">διεσκόρπισεν</w>
-      <w osisId="Luke.1.51!7">ὑπερηφάνους</w>
-      <w osisId="Luke.1.51!8">διανοίᾳ</w>
-      <w osisId="Luke.1.51!9">καρδίας</w>
-      <w osisId="Luke.1.51!10">αὐτῶν</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.52"/>
-      <w osisId="Luke.1.52!1">καθεῖλεν</w>
-      <w osisId="Luke.1.52!2">δυνάστας</w>
-      <w osisId="Luke.1.52!3">ἀπὸ</w>
-      <w osisId="Luke.1.52!4">θρόνων</w>
-      <w osisId="Luke.1.52!5">καὶ</w>
-      <w osisId="Luke.1.52!6">ὕψωσεν</w>
-      <w osisId="Luke.1.52!7">ταπεινούς</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.53"/>
-      <w osisId="Luke.1.53!1">πεινῶντας</w>
-      <w osisId="Luke.1.53!2">ἐνέπλησεν</w>
-      <w osisId="Luke.1.53!3">ἀγαθῶν</w>
-      <w osisId="Luke.1.53!4">καὶ</w>
-      <w osisId="Luke.1.53!5">πλουτοῦντας</w>
-      <w osisId="Luke.1.53!6">ἐξαπέστειλεν</w>
-      <w osisId="Luke.1.53!7">κενούς</w>
-      <pc>.</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.54"/>
-      <w osisId="Luke.1.54!1">ἀντελάβετο</w>
-      <w osisId="Luke.1.54!2">Ἰσραὴλ</w>
-      <w osisId="Luke.1.54!3">παιδὸς</w>
-      <w osisId="Luke.1.54!4">αὐτοῦ</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.1.54!5">μνησθῆναι</w>
-      <w osisId="Luke.1.54!6">ἐλέους</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.55"/>
-      <w osisId="Luke.1.55!1">καθὼς</w>
-      <w osisId="Luke.1.55!2">ἐλάλησεν</w>
-      <w osisId="Luke.1.55!3">πρὸς</w>
-      <w osisId="Luke.1.55!4">τοὺς</w>
-      <w osisId="Luke.1.55!5">πατέρας</w>
-      <w osisId="Luke.1.55!6">ἡμῶν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.1.55!7">τῷ</w>
-      <w osisId="Luke.1.55!8">Ἀβραὰμ</w>
-      <w osisId="Luke.1.55!9">καὶ</w>
-      <w osisId="Luke.1.55!10">τῷ</w>
-      <w osisId="Luke.1.55!11">σπέρματι</w>
-      <w osisId="Luke.1.55!12">αὐτοῦ</w>
-      <w osisId="Luke.1.55!13">εἰς</w>
-      <w osisId="Luke.1.55!14">τὸν</w>
-      <w osisId="Luke.1.55!15">αἰῶνα</w>
-      <pc>.</pc>
-    </p>
-    <p>
+    <lg>
+      <l>
+        <w osisId="Luke.1.46!4">Μεγαλύνει</w>
+        <q ref="1S.2,1—10." rend="bold">
+          <w osisId="Luke.1.46!5">ἡ</w>
+          <w osisId="Luke.1.46!6">ψυχή</w>
+          <w osisId="Luke.1.46!7">μου</w>
+          <w osisId="Luke.1.46!8">τὸν</w>
+          <w osisId="Luke.1.46!9">Κύριον</w>
+          <pc>,</pc>
+        </q>
+      </l>
+      <l>
+        <milestone unit="verse" id="Luke.1.47"/>
+        <w osisId="Luke.1.47!1">καὶ</w>
+        <q ref="1S.2,1—10." rend="bold">
+          <w osisId="Luke.1.47!2">ἠγαλλίασεν</w>
+        </q>
+        <w osisId="Luke.1.47!3">τὸ</w>
+        <w osisId="Luke.1.47!4">πνεῦμά</w>
+        <w osisId="Luke.1.47!5">μου</w>
+        <q ref="1S.2,1—10." rend="bold">
+          <w osisId="Luke.1.47!6">ἐπὶ</w>
+          <w osisId="Luke.1.47!7">τῷ</w>
+          <w osisId="Luke.1.47!8">Θεῷ</w>
+          <w osisId="Luke.1.47!9">τῷ</w>
+          <w osisId="Luke.1.47!10">Σωτῆρί</w>
+          <w osisId="Luke.1.47!11">μου</w>
+          <pc>·</pc>
+        </q>
+      </l>
+      <l>
+        <milestone unit="verse" id="Luke.1.48"/>
+        <w osisId="Luke.1.48!1">ὅτι</w>
+        <q ref="1S.1,11. Ps.113,5.6." rend="bold">
+          <w osisId="Luke.1.48!2">ἐπέβλεψεν</w>
+          <w osisId="Luke.1.48!3">ἐπὶ</w>
+          <w osisId="Luke.1.48!4">τὴν</w>
+          <w osisId="Luke.1.48!5">ταπείνωσιν</w>
+          <w osisId="Luke.1.48!6">τῆς</w>
+          <w osisId="Luke.1.48!7">δούλης</w>
+          <w osisId="Luke.1.48!8">αὐτοῦ</w>
+          <pc>.</pc>
+        </q>
+      </l>
+      <l>
+        <w osisId="Luke.1.48!9">ἰδοὺ</w>
+        <w osisId="Luke.1.48!10">γὰρ</w>
+        <w osisId="Luke.1.48!11">ἀπὸ</w>
+        <w osisId="Luke.1.48!12">τοῦ</w>
+        <w osisId="Luke.1.48!13">νῦν</w>
+        <w osisId="Luke.1.48!14">μακαριοῦσίν</w>
+        <w osisId="Luke.1.48!15">με</w>
+        <w osisId="Luke.1.48!16">πᾶσαι</w>
+        <w osisId="Luke.1.48!17">αἱ</w>
+        <w osisId="Luke.1.48!18">γενεαί</w>
+        <pc>·</pc>
+      </l>
+      <l>
+        <milestone unit="verse" id="Luke.1.49"/>
+        <w osisId="Luke.1.49!1">ὅτι</w>
+        <w osisId="Luke.1.49!2">ἐποίησέν</w>
+        <w osisId="Luke.1.49!3">μοι</w>
+        <w osisId="Luke.1.49!4">μεγάλα</w>
+        <w osisId="Luke.1.49!5">ὁ</w>
+        <w osisId="Luke.1.49!6">δυνατός</w>
+        <pc>.</pc>
+      </l>
+      <l>
+        <w osisId="Luke.1.49!7">καὶ</w>
+        <q ref="Ps.111,9." rend="bold">
+          <w osisId="Luke.1.49!8">ἅγιον</w>
+          <w osisId="Luke.1.49!9">τὸ</w>
+          <w osisId="Luke.1.49!10">ὄνομα</w>
+          <w osisId="Luke.1.49!11">αὐτοῦ</w>
+          <pc>,</pc>
+        </q>
+      </l>
+      <l>
+        <milestone unit="verse" id="Luke.1.50"/>
+        <w osisId="Luke.1.50!1">καὶ</w>
+        <q ref="Ps.103,13.17." rend="bold">
+          <w osisId="Luke.1.50!2">τὸ</w>
+          <w osisId="Luke.1.50!3">ἔλεος</w>
+          <w osisId="Luke.1.50!4">αὐτοῦ</w>
+          <w osisId="Luke.1.50!5">εἰς</w>
+          <w osisId="Luke.1.50!6">γενεὰς</w>
+          <w osisId="Luke.1.50!7">καὶ</w>
+          <w osisId="Luke.1.50!8">γενεὰς</w>
+          <w osisId="Luke.1.50!9">τοῖς</w>
+          <w osisId="Luke.1.50!10">φοβουμένοις</w>
+          <w osisId="Luke.1.50!11">αὐτόν</w>
+          <pc>.</pc>
+        </q>
+      </l>
+      <l>
+        <milestone unit="verse" id="Luke.1.51"/>
+        <w osisId="Luke.1.51!1">Ἐποίησεν</w>
+        <w osisId="Luke.1.51!2">κράτος</w>
+        <q ref="Ps.89,10. 2S.22,28." rend="bold">
+          <w osisId="Luke.1.51!3">ἐν</w>
+          <w osisId="Luke.1.51!4">βραχίονι</w>
+        </q>
+        <w osisId="Luke.1.51!5">αὐτοῦ</w>
+        <pc>,</pc>
+      </l>
+      <l>
+        <q ref="Ps.89,10. 2S.22,28." rend="bold">
+          <w osisId="Luke.1.51!6">διεσκόρπισεν</w>
+          <w osisId="Luke.1.51!7">ὑπερηφάνους</w>
+        </q>
+        <w osisId="Luke.1.51!8">διανοίᾳ</w>
+        <w osisId="Luke.1.51!9">καρδίας</w>
+        <w osisId="Luke.1.51!10">αὐτῶν</w>
+        <pc>·</pc>
+      </l>
+      <l>
+        <milestone unit="verse" id="Luke.1.52"/>
+        <q ref="Ps.147,6. Job12,19;5,11. 1S.2,7." rend="bold">
+          <w osisId="Luke.1.52!1">καθεῖλεν</w>
+          <w osisId="Luke.1.52!2">δυνάστας</w>
+        </q>
+        <w osisId="Luke.1.52!3">ἀπὸ</w>
+        <w osisId="Luke.1.52!4">θρόνων</w>
+        <w osisId="Luke.1.52!5">καὶ</w>
+        <q ref="Ps.147,6. Job12,19;5,11. 1S.2,7." rend="bold">
+          <w osisId="Luke.1.52!6">ὕψωσεν</w>
+          <w osisId="Luke.1.52!7">ταπεινούς</w>
+          <pc>,</pc>
+        </q>
+      </l>
+      <l>
+        <milestone unit="verse" id="Luke.1.53"/>
+        <q ref="1S.2,5. Ps.34,10;107,9." rend="bold">
+          <w osisId="Luke.1.53!1">πεινῶντας</w>
+          <w osisId="Luke.1.53!2">ἐνέπλησεν</w>
+          <w osisId="Luke.1.53!3">ἀγαθῶν</w>
+        </q>
+        <w osisId="Luke.1.53!4">καὶ</w>
+        <q ref="1S.2,5. Ps.34,10;107,9." rend="bold">
+          <w osisId="Luke.1.53!5">πλουτοῦντας</w>
+          <w osisId="Luke.1.53!6">ἐξαπέστειλεν</w>
+          <w osisId="Luke.1.53!7">κενούς</w>
+          <pc>.</pc>
+        </q>
+      </l>
+      <q ref="Is.41,8. Ps.98,3." rend="bold">
+        <l>
+          <milestone unit="verse" id="Luke.1.54"/>
+          <w osisId="Luke.1.54!1">ἀντελάβετο</w>
+          <w osisId="Luke.1.54!2">Ἰσραὴλ</w>
+          <w osisId="Luke.1.54!3">παιδὸς</w>
+          <w osisId="Luke.1.54!4">αὐτοῦ</w>
+          <pc>,</pc>
+        </l>
+        <l>
+          <w osisId="Luke.1.54!5">μνησθῆναι</w>
+          <w osisId="Luke.1.54!6">ἐλέους</w>
+          <pc>,</pc>
+        </l>
+      </q>
+      <l>
+        <milestone unit="verse" id="Luke.1.55"/>
+        <q ref="Mic.7,20. Gn.17,7;18,18;22,17." rend="bold">
+          <w osisId="Luke.1.55!1">καθὼς</w>
+        </q>
+        <w osisId="Luke.1.55!2">ἐλάλησεν</w>
+        <q ref="Mic.7,20. Gn.17,7;18,18;22,17." rend="bold">
+          <w osisId="Luke.1.55!3">πρὸς</w>
+          <w osisId="Luke.1.55!4">τοὺς</w>
+          <w osisId="Luke.1.55!5">πατέρας</w>
+          <w osisId="Luke.1.55!6">ἡμῶν</w>
+          <pc>,</pc>
+        </q>
+      </l>
+      <l>
+        <q ref="Mic.7,20. Gn.17,7;18,18;22,17." rend="bold">
+          <w osisId="Luke.1.55!7">τῷ</w>
+          <w osisId="Luke.1.55!8">Ἀβραὰμ</w>
+        </q>
+        <w osisId="Luke.1.55!9">καὶ</w>
+        <w osisId="Luke.1.55!10">τῷ</w>
+        <q ref="Mic.7,20. Gn.17,7;18,18;22,17." rend="bold">
+          <w osisId="Luke.1.55!11">σπέρματι</w>
+        </q>
+        <w osisId="Luke.1.55!12">αὐτοῦ</w>
+        <w osisId="Luke.1.55!13">εἰς</w>
+        <w osisId="Luke.1.55!14">τὸν</w>
+        <w osisId="Luke.1.55!15">αἰῶνα</w>
+        <pc>.</pc>
+      </l>
+    </lg>
       <milestone unit="verse" id="Luke.1.56"/>
       <w osisId="Luke.1.56!1">Ἔμεινεν</w>
       <w osisId="Luke.1.56!2">δὲ</w>
@@ -1270,214 +1316,236 @@
       <w osisId="Luke.1.67!9">καὶ</w>
       <w osisId="Luke.1.67!10">ἐπροφήτευσεν</w>
       <w osisId="Luke.1.67!11">λέγων</w>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.68"/>
-      <w osisId="Luke.1.68!1">Εὐλογητὸς</w>
-      <w osisId="Luke.1.68!2">Κύριος</w>
-      <w osisId="Luke.1.68!3">ὁ</w>
-      <w osisId="Luke.1.68!4">Θεὸς</w>
-      <w osisId="Luke.1.68!5">τοῦ</w>
-      <w osisId="Luke.1.68!6">Ἰσραήλ</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.1.68!7">ὅτι</w>
-      <w osisId="Luke.1.68!8">ἐπεσκέψατο</w>
-      <w osisId="Luke.1.68!9">καὶ</w>
-      <w osisId="Luke.1.68!10">ἐποίησεν</w>
-      <w osisId="Luke.1.68!11">λύτρωσιν</w>
-      <w osisId="Luke.1.68!12">τῷ</w>
-      <w osisId="Luke.1.68!13">λαῷ</w>
-      <w osisId="Luke.1.68!14">αὐτοῦ</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.69"/>
-      <w osisId="Luke.1.69!1">καὶ</w>
-      <w osisId="Luke.1.69!2">ἤγειρεν</w>
-      <w osisId="Luke.1.69!3">κέρας</w>
-      <w osisId="Luke.1.69!4">σωτηρίας</w>
-      <w osisId="Luke.1.69!5">ἡμῖν</w>
-    </p>
-    <p>
-      <w osisId="Luke.1.69!6">ἐν</w>
-      <w osisId="Luke.1.69!7">οἴκῳ</w>
-      <w osisId="Luke.1.69!8">Δαυεὶδ</w>
-      <w osisId="Luke.1.69!9">παιδὸς</w>
-      <w osisId="Luke.1.69!10">αὐτοῦ</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.70"/>
-      <w osisId="Luke.1.70!1">καθὼς</w>
-      <w osisId="Luke.1.70!2">ἐλάλησεν</w>
-      <w osisId="Luke.1.70!3">διὰ</w>
-      <w osisId="Luke.1.70!4">στόματος</w>
-      <w osisId="Luke.1.70!5">τῶν</w>
-      <w osisId="Luke.1.70!6">ἁγίων</w>
-      <w osisId="Luke.1.70!7">ἀπ’</w>
-      <w osisId="Luke.1.70!8">αἰῶνος</w>
-      <w osisId="Luke.1.70!9">προφητῶν</w>
-      <w osisId="Luke.1.70!10">αὐτοῦ</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.71"/>
-      <w osisId="Luke.1.71!1">σωτηρίαν</w>
-      <w osisId="Luke.1.71!2">ἐξ</w>
-      <w osisId="Luke.1.71!3">ἐχθρῶν</w>
-      <w osisId="Luke.1.71!4">ἡμῶν</w>
-      <w osisId="Luke.1.71!5">καὶ</w>
-      <w osisId="Luke.1.71!6">ἐκ</w>
-      <w osisId="Luke.1.71!7">χειρὸς</w>
-      <w osisId="Luke.1.71!8">πάντων</w>
-      <w osisId="Luke.1.71!9">τῶν</w>
-      <w osisId="Luke.1.71!10">μισούντων</w>
-      <w osisId="Luke.1.71!11">ἡμᾶς</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.72"/>
-      <w osisId="Luke.1.72!1">ποιῆσαι</w>
-      <w osisId="Luke.1.72!2">ἔλεος</w>
-      <w osisId="Luke.1.72!3">μετὰ</w>
-      <w osisId="Luke.1.72!4">τῶν</w>
-      <w osisId="Luke.1.72!5">πατέρων</w>
-      <w osisId="Luke.1.72!6">ἡμῶν</w>
-    </p>
-    <p>
-      <w osisId="Luke.1.72!7">καὶ</w>
-      <w osisId="Luke.1.72!8">μνησθῆναι</w>
-      <w osisId="Luke.1.72!9">διαθήκης</w>
-      <w osisId="Luke.1.72!10">ἁγίας</w>
-      <w osisId="Luke.1.72!11">αὐτοῦ</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.73"/>
-      <w osisId="Luke.1.73!1">ὅρκον</w>
-      <w osisId="Luke.1.73!2">ὃν</w>
-      <w osisId="Luke.1.73!3">ὤμοσεν</w>
-      <w osisId="Luke.1.73!4">πρὸς</w>
-      <w osisId="Luke.1.73!5">Ἀβραὰμ</w>
-      <w osisId="Luke.1.73!6">τὸν</w>
-      <w osisId="Luke.1.73!7">πατέρα</w>
-      <w osisId="Luke.1.73!8">ἡμῶν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.1.73!9">τοῦ</w>
-      <w osisId="Luke.1.73!10">δοῦναι</w>
-      <w osisId="Luke.1.73!11">ἡμῖν</w>
-      <milestone unit="verse" id="Luke.1.74"/>
-      <w osisId="Luke.1.74!1">ἀφόβως</w>
-      <w osisId="Luke.1.74!2">ἐκ</w>
-      <w osisId="Luke.1.74!3">χειρὸς</w>
-      <w osisId="Luke.1.74!4">ἐχθρῶν</w>
-      <w osisId="Luke.1.74!5">ῥυσθέντας</w>
-    </p>
-    <p>
-      <w osisId="Luke.1.74!6">λατρεύειν</w>
-      <w osisId="Luke.1.74!7">αὐτῷ</w>
-      <milestone unit="verse" id="Luke.1.75"/>
-      <w osisId="Luke.1.75!1">ἐν</w>
-      <w osisId="Luke.1.75!2">ὁσιότητι</w>
-      <w osisId="Luke.1.75!3">καὶ</w>
-      <w osisId="Luke.1.75!4">δικαιοσύνῃ</w>
-    </p>
-    <p>
-      <w osisId="Luke.1.75!5">ἐνώπιον</w>
-      <w osisId="Luke.1.75!6">αὐτοῦ</w>
-      <w osisId="Luke.1.75!7">πάσαις</w>
-      <w osisId="Luke.1.75!8">ταῖς</w>
-      <w osisId="Luke.1.75!9">ἡμέραις</w>
-      <w osisId="Luke.1.75!10">ἡμῶν</w>
-      <pc>.</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.76"/>
-      <w osisId="Luke.1.76!1">Καὶ</w>
-      <w osisId="Luke.1.76!2">σὺ</w>
-      <w osisId="Luke.1.76!3">δέ</w>
-      <pc>,</pc>
-      <w osisId="Luke.1.76!4">παιδίον</w>
-      <pc>,</pc>
-      <w osisId="Luke.1.76!5">προφήτης</w>
-      <w osisId="Luke.1.76!6">Ὑψίστου</w>
-      <w osisId="Luke.1.76!7">κληθήσῃ</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <w osisId="Luke.1.76!8">προπορεύσῃ</w>
-      <w osisId="Luke.1.76!9">γὰρ</w>
-      <w osisId="Luke.1.76!10">ἐνώπιον</w>
-      <w osisId="Luke.1.76!11">Κυρίου</w>
-      <w osisId="Luke.1.76!12">ἑτοιμάσαι</w>
-      <w osisId="Luke.1.76!13">ὁδοὺς</w>
-      <w osisId="Luke.1.76!14">αὐτοῦ</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.77"/>
-      <w osisId="Luke.1.77!1">τοῦ</w>
-      <w osisId="Luke.1.77!2">δοῦναι</w>
-      <w osisId="Luke.1.77!3">γνῶσιν</w>
-      <w osisId="Luke.1.77!4">σωτηρίας</w>
-      <w osisId="Luke.1.77!5">τῷ</w>
-      <w osisId="Luke.1.77!6">λαῷ</w>
-      <w osisId="Luke.1.77!7">αὐτοῦ</w>
-    </p>
-    <p>
-      <w osisId="Luke.1.77!8">ἐν</w>
-      <w osisId="Luke.1.77!9">ἀφέσει</w>
-      <w osisId="Luke.1.77!10">ἁμαρτιῶν</w>
-      <w osisId="Luke.1.77!11">αὐτῶν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.78"/>
-      <w osisId="Luke.1.78!1">διὰ</w>
-      <w osisId="Luke.1.78!2">σπλάγχνα</w>
-      <w osisId="Luke.1.78!3">ἐλέους</w>
-      <w osisId="Luke.1.78!4">Θεοῦ</w>
-      <w osisId="Luke.1.78!5">ἡμῶν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.1.78!6">ἐν</w>
-      <w osisId="Luke.1.78!7">οἷς</w>
-      <w osisId="Luke.1.78!8">ἐπισκέψεται</w>
-      <w osisId="Luke.1.78!9">ἡμᾶς</w>
-      <w osisId="Luke.1.78!10">ἀνατολὴ</w>
-      <w osisId="Luke.1.78!11">ἐξ</w>
-      <w osisId="Luke.1.78!12">ὕψους</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.1.79"/>
-      <w osisId="Luke.1.79!1">ἐπιφᾶναι</w>
-      <w osisId="Luke.1.79!2">τοῖς</w>
-      <w osisId="Luke.1.79!3">ἐν</w>
-      <w osisId="Luke.1.79!4">σκότει</w>
-      <w osisId="Luke.1.79!5">καὶ</w>
-      <w osisId="Luke.1.79!6">σκιᾷ</w>
-      <w osisId="Luke.1.79!7">θανάτου</w>
-      <w osisId="Luke.1.79!8">καθημένοις</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.1.79!9">τοῦ</w>
-      <w osisId="Luke.1.79!10">κατευθῦναι</w>
-      <w osisId="Luke.1.79!11">τοὺς</w>
-      <w osisId="Luke.1.79!12">πόδας</w>
-      <w osisId="Luke.1.79!13">ἡμῶν</w>
-      <w osisId="Luke.1.79!14">εἰς</w>
-      <w osisId="Luke.1.79!15">ὁδὸν</w>
-      <w osisId="Luke.1.79!16">εἰρήνης</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <lg>
+        <q ref="Ps.41,13;72,18;106,48;111,9." rend="bold">
+          <l>
+            <milestone unit="verse" id="Luke.1.68"/>
+            <w osisId="Luke.1.68!1">Εὐλογητὸς</w>
+            <w osisId="Luke.1.68!2">Κύριος</w>
+            <w osisId="Luke.1.68!3">ὁ</w>
+            <w osisId="Luke.1.68!4">Θεὸς</w>
+            <w osisId="Luke.1.68!5">τοῦ</w>
+            <w osisId="Luke.1.68!6">Ἰσραήλ</w>
+            <pc>,</pc>
+          </l>
+        </q>
+        <l>
+          <w osisId="Luke.1.68!7">ὅτι</w>
+          <w osisId="Luke.1.68!8">ἐπεσκέψατο</w>
+          <w osisId="Luke.1.68!9">καὶ</w>
+          <w osisId="Luke.1.68!10">ἐποίησεν</w>
+          <q ref="Ps.41,13;72,18;106,48;111,9." rend="bold">
+            <w osisId="Luke.1.68!11">λύτρωσιν</w>
+            <w osisId="Luke.1.68!12">τῷ</w>
+            <w osisId="Luke.1.68!13">λαῷ</w>
+            <w osisId="Luke.1.68!14">αὐτοῦ</w>
+            <pc>,</pc>
+          </q>
+        </l>
+        <l>
+          <milestone unit="verse" id="Luke.1.69"/>
+          <w osisId="Luke.1.69!1">καὶ</w>
+          <q ref="1S.2,10. Ps.132,17;18,2." rend="bold">
+            <w osisId="Luke.1.69!2">ἤγειρεν</w>
+            <w osisId="Luke.1.69!3">κέρας</w>
+          </q>
+          <w osisId="Luke.1.69!4">σωτηρίας</w>
+          <w osisId="Luke.1.69!5">ἡμῖν</w>
+        </l>
+        <l>
+          <w osisId="Luke.1.69!6">ἐν</w>
+          <w osisId="Luke.1.69!7">οἴκῳ</w>
+          <q ref="1S.2,10. Ps.132,17;18,2." rend="bold">
+            <w osisId="Luke.1.69!8">Δαυεὶδ</w>
+          </q>
+          <w osisId="Luke.1.69!9">παιδὸς</w>
+          <w osisId="Luke.1.69!10">αὐτοῦ</w>
+          <pc>,</pc>
+        </l>
+        <l>
+          <milestone unit="verse" id="Luke.1.70"/>
+          <w osisId="Luke.1.70!1">καθὼς</w>
+          <w osisId="Luke.1.70!2">ἐλάλησεν</w>
+          <w osisId="Luke.1.70!3">διὰ</w>
+          <w osisId="Luke.1.70!4">στόματος</w>
+          <w osisId="Luke.1.70!5">τῶν</w>
+          <w osisId="Luke.1.70!6">ἁγίων</w>
+          <w osisId="Luke.1.70!7">ἀπ’</w>
+          <w osisId="Luke.1.70!8">αἰῶνος</w>
+          <w osisId="Luke.1.70!9">προφητῶν</w>
+          <w osisId="Luke.1.70!10">αὐτοῦ</w>
+          <pc>,</pc>
+        </l>
+        <l>
+          <milestone unit="verse" id="Luke.1.71"/>
+          <q ref="Ps.106,10." rend="bold">
+            <w osisId="Luke.1.71!1">σωτηρίαν</w>
+            <w osisId="Luke.1.71!2">ἐξ</w>
+            <w osisId="Luke.1.71!3">ἐχθρῶν</w>
+            <w osisId="Luke.1.71!4">ἡμῶν</w>
+            <w osisId="Luke.1.71!5">καὶ</w>
+            <w osisId="Luke.1.71!6">ἐκ</w>
+            <w osisId="Luke.1.71!7">χειρὸς</w>
+          </q>
+          <w osisId="Luke.1.71!8">πάντων</w>
+          <q ref="Ps.106,10." rend="bold">
+            <w osisId="Luke.1.71!9">τῶν</w>
+            <w osisId="Luke.1.71!10">μισούντων</w>
+            <w osisId="Luke.1.71!11">ἡμᾶς</w>
+          </q>
+            <pc>,</pc>
+        </l>
+        <l>
+          <milestone unit="verse" id="Luke.1.72"/>
+          <w osisId="Luke.1.72!1">ποιῆσαι</w>
+          <q ref="Ps.105,8;106,45. Gn.17,7. Lv.26,42." rend="bold">
+            <w osisId="Luke.1.72!2">ἔλεος</w>
+            <w osisId="Luke.1.72!3">μετὰ</w>
+            <w osisId="Luke.1.72!4">τῶν</w>
+            <w osisId="Luke.1.72!5">πατέρων</w>
+            <w osisId="Luke.1.72!6">ἡμῶν</w>
+          </q>
+        </l>
+        <l>
+          <w osisId="Luke.1.72!7">καὶ</w>
+          <q ref="Ps.105,8;106,45. Gn.17,7. Lv.26,42." rend="bold">
+            <w osisId="Luke.1.72!8">μνησθῆναι</w>
+            <w osisId="Luke.1.72!9">διαθήκης</w>
+          </q>
+          <w osisId="Luke.1.72!10">ἁγίας</w>
+          <q ref="Ps.105,8;106,45. Gn.17,7. Lv.26,42." rend="bold">
+            <w osisId="Luke.1.72!11">αὐτοῦ</w>
+          </q>
+          <pc>,</pc>
+        </l>
+        <l>
+          <milestone unit="verse" id="Luke.1.73"/>
+          <q ref="Gn.22,16.17. Mic.7,20." rend="bold">
+            <w osisId="Luke.1.73!1">ὅρκον</w>
+          </q>
+          <w osisId="Luke.1.73!2">ὃν</w>
+          <q ref="Gn.22,16.17. Mic.7,20." rend="bold">
+            <w osisId="Luke.1.73!3">ὤμοσεν</w>
+            <w osisId="Luke.1.73!4">πρὸς</w>
+            <w osisId="Luke.1.73!5">Ἀβραὰμ</w>
+          </q>
+          <w osisId="Luke.1.73!6">τὸν</w>
+          <w osisId="Luke.1.73!7">πατέρα</w>
+          <w osisId="Luke.1.73!8">ἡμῶν</w>
+          <pc>,</pc>
+        </l>
+        <l>
+          <w osisId="Luke.1.73!9">τοῦ</w>
+          <w osisId="Luke.1.73!10">δοῦναι</w>
+          <w osisId="Luke.1.73!11">ἡμῖν</w>
+          <milestone unit="verse" id="Luke.1.74"/>
+          <w osisId="Luke.1.74!1">ἀφόβως</w>
+          <w osisId="Luke.1.74!2">ἐκ</w>
+          <w osisId="Luke.1.74!3">χειρὸς</w>
+          <w osisId="Luke.1.74!4">ἐχθρῶν</w>
+          <w osisId="Luke.1.74!5">ῥυσθέντας</w>
+        </l>
+        <l>
+          <w osisId="Luke.1.74!6">λατρεύειν</w>
+          <w osisId="Luke.1.74!7">αὐτῷ</w>
+          <milestone unit="verse" id="Luke.1.75"/>
+          <w osisId="Luke.1.75!1">ἐν</w>
+          <w osisId="Luke.1.75!2">ὁσιότητι</w>
+          <w osisId="Luke.1.75!3">καὶ</w>
+          <w osisId="Luke.1.75!4">δικαιοσύνῃ</w>
+          <w osisId="Luke.1.75!5">ἐνώπιον</w>
+          <w osisId="Luke.1.75!6">αὐτοῦ</w>
+          <w osisId="Luke.1.75!7">πάσαις</w>
+          <w osisId="Luke.1.75!8">ταῖς</w>
+          <w osisId="Luke.1.75!9">ἡμέραις</w>
+          <w osisId="Luke.1.75!10">ἡμῶν</w>
+          <pc>.</pc>
+        </l>
+        <l>
+          <milestone unit="verse" id="Luke.1.76"/>
+          <w osisId="Luke.1.76!1">Καὶ</w>
+          <w osisId="Luke.1.76!2">σὺ</w>
+          <w osisId="Luke.1.76!3">δέ</w>
+          <pc>,</pc>
+          <w osisId="Luke.1.76!4">παιδίον</w>
+          <pc>,</pc>
+          <w osisId="Luke.1.76!5">προφήτης</w>
+          <w osisId="Luke.1.76!6">Ὑψίστου</w>
+          <w osisId="Luke.1.76!7">κληθήσῃ</w>
+          <pc>·</pc>
+        </l>
+        <l>
+          <w osisId="Luke.1.76!8">προπορεύσῃ</w>
+          <w osisId="Luke.1.76!9">γὰρ</w>
+          <q ref="Mal.3,1." rend="bold">
+            <w osisId="Luke.1.76!10">ἐνώπιον</w>
+            <w osisId="Luke.1.76!11">Κυρίου</w>
+            <w osisId="Luke.1.76!12">ἑτοιμάσαι</w>
+            <w osisId="Luke.1.76!13">ὁδοὺς</w>
+            <w osisId="Luke.1.76!14">αὐτοῦ</w>
+            <pc>,</pc>
+          </q>
+        </l>
+        <l>
+          <milestone unit="verse" id="Luke.1.77"/>
+          <w osisId="Luke.1.77!1">τοῦ</w>
+          <w osisId="Luke.1.77!2">δοῦναι</w>
+          <w osisId="Luke.1.77!3">γνῶσιν</w>
+          <w osisId="Luke.1.77!4">σωτηρίας</w>
+          <w osisId="Luke.1.77!5">τῷ</w>
+          <w osisId="Luke.1.77!6">λαῷ</w>
+          <w osisId="Luke.1.77!7">αὐτοῦ</w>
+          <w osisId="Luke.1.77!8">ἐν</w>
+          <w osisId="Luke.1.77!9">ἀφέσει</w>
+          <w osisId="Luke.1.77!10">ἁμαρτιῶν</w>
+          <w osisId="Luke.1.77!11">αὐτῶν</w>
+          <pc>,</pc>
+        </l>
+        <l>
+          <milestone unit="verse" id="Luke.1.78"/>
+          <w osisId="Luke.1.78!1">διὰ</w>
+          <w osisId="Luke.1.78!2">σπλάγχνα</w>
+          <w osisId="Luke.1.78!3">ἐλέους</w>
+          <w osisId="Luke.1.78!4">Θεοῦ</w>
+          <w osisId="Luke.1.78!5">ἡμῶν</w>
+          <pc>,</pc>
+        </l>
+        <l>
+          <w osisId="Luke.1.78!6">ἐν</w>
+          <w osisId="Luke.1.78!7">οἷς</w>
+          <w osisId="Luke.1.78!8">ἐπισκέψεται</w>
+          <w osisId="Luke.1.78!9">ἡμᾶς</w>
+          <w osisId="Luke.1.78!10">ἀνατολὴ</w>
+          <w osisId="Luke.1.78!11">ἐξ</w>
+          <w osisId="Luke.1.78!12">ὕψους</w>
+          <pc>,</pc>
+        </l>
+        <l>
+          <milestone unit="verse" id="Luke.1.79"/>
+          <q ref="Is.9,2;58,8." rend="bold">
+            <w osisId="Luke.1.79!1">ἐπιφᾶναι</w>
+            <w osisId="Luke.1.79!2">τοῖς</w>
+            <w osisId="Luke.1.79!3">ἐν</w>
+            <w osisId="Luke.1.79!4">σκότει</w>
+            <w osisId="Luke.1.79!5">καὶ</w>
+            <w osisId="Luke.1.79!6">σκιᾷ</w>
+            <w osisId="Luke.1.79!7">θανάτου</w>
+            <w osisId="Luke.1.79!8">καθημένοις</w>
+            <pc>,</pc>
+          </q>
+        </l>
+        <l>
+          <w osisId="Luke.1.79!9">τοῦ</w>
+          <w osisId="Luke.1.79!10">κατευθῦναι</w>
+          <w osisId="Luke.1.79!11">τοὺς</w>
+          <w osisId="Luke.1.79!12">πόδας</w>
+          <w osisId="Luke.1.79!13">ἡμῶν</w>
+          <w osisId="Luke.1.79!14">εἰς</w>
+          <w osisId="Luke.1.79!15">ὁδὸν</w>
+          <w osisId="Luke.1.79!16">εἰρήνης</w>
+          <pc>.</pc>
+        </l>
+      </lg>
       <milestone unit="verse" id="Luke.1.80"/>
       <w osisId="Luke.1.80!1">Τὸ</w>
       <w osisId="Luke.1.80!2">δὲ</w>
@@ -1908,11 +1976,13 @@
       <milestone unit="verse" id="Luke.2.22"/>
       <w osisId="Luke.2.22!1">Καὶ</w>
       <w osisId="Luke.2.22!2">ὅτε</w>
-      <w osisId="Luke.2.22!3">ἐπλήσθησαν</w>
-      <w osisId="Luke.2.22!4">αἱ</w>
-      <w osisId="Luke.2.22!5">ἡμέραι</w>
-      <w osisId="Luke.2.22!6">τοῦ</w>
-      <w osisId="Luke.2.22!7">καθαρισμοῦ</w>
+      <q ref="Lv.12." rend="bold">
+        <w osisId="Luke.2.22!3">ἐπλήσθησαν</w>
+        <w osisId="Luke.2.22!4">αἱ</w>
+        <w osisId="Luke.2.22!5">ἡμέραι</w>
+        <w osisId="Luke.2.22!6">τοῦ</w>
+        <w osisId="Luke.2.22!7">καθαρισμοῦ</w>
+      </q>
       <w osisId="Luke.2.22!8">αὐτῶν</w>
       <w osisId="Luke.2.22!9">κατὰ</w>
       <w osisId="Luke.2.22!10">τὸν</w>
@@ -1934,15 +2004,17 @@
       <w osisId="Luke.2.23!4">νόμῳ</w>
       <w osisId="Luke.2.23!5">Κυρίου</w>
       <w osisId="Luke.2.23!6">ὅτι</w>
-      <w osisId="Luke.2.23!7">Πᾶν</w>
-      <w osisId="Luke.2.23!8">ἄρσεν</w>
-      <w osisId="Luke.2.23!9">διανοῖγον</w>
-      <w osisId="Luke.2.23!10">μήτραν</w>
-      <w osisId="Luke.2.23!11">ἅγιον</w>
-      <w osisId="Luke.2.23!12">τῷ</w>
-      <w osisId="Luke.2.23!13">Κυρίῳ</w>
-      <w osisId="Luke.2.23!14">κληθήσεται</w>
-      <pc>,</pc>
+      <q ref="Ex.13,2.12.15." rend="bold">
+        <w osisId="Luke.2.23!7">Πᾶν</w>
+        <w osisId="Luke.2.23!8">ἄρσεν</w>
+        <w osisId="Luke.2.23!9">διανοῖγον</w>
+        <w osisId="Luke.2.23!10">μήτραν</w>
+        <w osisId="Luke.2.23!11">ἅγιον</w>
+        <w osisId="Luke.2.23!12">τῷ</w>
+        <w osisId="Luke.2.23!13">Κυρίῳ</w>
+        <w osisId="Luke.2.23!14">κληθήσεται</w>
+        <pc>,</pc>
+      </q>
       <milestone unit="verse" id="Luke.2.24"/>
       <w osisId="Luke.2.24!1">καὶ</w>
       <w osisId="Luke.2.24!2">τοῦ</w>
@@ -1956,13 +2028,15 @@
       <w osisId="Luke.2.24!10">νόμῳ</w>
       <w osisId="Luke.2.24!11">Κυρίου</w>
       <pc>,</pc>
-      <w osisId="Luke.2.24!12">ζεῦγος</w>
-      <w osisId="Luke.2.24!13">τρυγόνων</w>
-      <w osisId="Luke.2.24!14">ἢ</w>
-      <w osisId="Luke.2.24!15">δύο</w>
-      <w osisId="Luke.2.24!16">νοσσοὺς</w>
-      <w osisId="Luke.2.24!17">περιστερῶν</w>
-      <pc>.</pc>
+      <q ref="Lv.12,8;5,11." rend="bold">
+        <w osisId="Luke.2.24!12">ζεῦγος</w>
+        <w osisId="Luke.2.24!13">τρυγόνων</w>
+        <w osisId="Luke.2.24!14">ἢ</w>
+        <w osisId="Luke.2.24!15">δύο</w>
+        <w osisId="Luke.2.24!16">νοσσοὺς</w>
+        <w osisId="Luke.2.24!17">περιστερῶν</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.2.25"/>
       <w osisId="Luke.2.25!1">Καὶ</w>
       <w osisId="Luke.2.25!2">ἰδοὺ</w>
@@ -2059,66 +2133,78 @@
       <w osisId="Luke.2.28!11">Θεὸν</w>
       <w osisId="Luke.2.28!12">καὶ</w>
       <w osisId="Luke.2.28!13">εἶπεν</w>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.2.29"/>
-      <w osisId="Luke.2.29!1">Νῦν</w>
-      <w osisId="Luke.2.29!2">ἀπολύεις</w>
-      <w osisId="Luke.2.29!3">τὸν</w>
-      <w osisId="Luke.2.29!4">δοῦλόν</w>
-      <w osisId="Luke.2.29!5">σου</w>
-      <pc>,</pc>
-      <w osisId="Luke.2.29!6">Δέσποτα</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.2.29!7">κατὰ</w>
-      <w osisId="Luke.2.29!8">τὸ</w>
-      <w osisId="Luke.2.29!9">ῥῆμά</w>
-      <w osisId="Luke.2.29!10">σου</w>
-      <w osisId="Luke.2.29!11">ἐν</w>
-      <w osisId="Luke.2.29!12">εἰρήνῃ</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.2.30"/>
-      <w osisId="Luke.2.30!1">ὅτι</w>
-      <w osisId="Luke.2.30!2">εἶδον</w>
-      <w osisId="Luke.2.30!3">οἱ</w>
-      <w osisId="Luke.2.30!4">ὀφθαλμοί</w>
-      <w osisId="Luke.2.30!5">μου</w>
-      <w osisId="Luke.2.30!6">τὸ</w>
-      <w osisId="Luke.2.30!7">σωτήριόν</w>
-      <w osisId="Luke.2.30!8">σου</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.2.31"/>
-      <w osisId="Luke.2.31!1">ὃ</w>
-      <w osisId="Luke.2.31!2">ἡτοίμασας</w>
-      <w osisId="Luke.2.31!3">κατὰ</w>
-      <w osisId="Luke.2.31!4">πρόσωπον</w>
-      <w osisId="Luke.2.31!5">πάντων</w>
-      <w osisId="Luke.2.31!6">τῶν</w>
-      <w osisId="Luke.2.31!7">λαῶν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.2.32"/>
-      <w osisId="Luke.2.32!1">φῶς</w>
-      <w osisId="Luke.2.32!2">εἰς</w>
-      <w osisId="Luke.2.32!3">ἀποκάλυψιν</w>
-      <w osisId="Luke.2.32!4">ἐθνῶν</w>
-    </p>
-    <p>
-      <w osisId="Luke.2.32!5">καὶ</w>
-      <w osisId="Luke.2.32!6">δόξαν</w>
-      <w osisId="Luke.2.32!7">λαοῦ</w>
-      <w osisId="Luke.2.32!8">σου</w>
-      <w osisId="Luke.2.32!9">Ἰσραήλ</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <lg>
+        <l>
+          <milestone unit="verse" id="Luke.2.29"/>
+          <w osisId="Luke.2.29!1">Νῦν</w>
+          <w osisId="Luke.2.29!2">ἀπολύεις</w>
+          <w osisId="Luke.2.29!3">τὸν</w>
+          <w osisId="Luke.2.29!4">δοῦλόν</w>
+          <w osisId="Luke.2.29!5">σου</w>
+          <pc>,</pc>
+          <w osisId="Luke.2.29!6">Δέσποτα</w>
+          <pc>,</pc>
+        </l>
+        <l>
+          <w osisId="Luke.2.29!7">κατὰ</w>
+          <w osisId="Luke.2.29!8">τὸ</w>
+          <w osisId="Luke.2.29!9">ῥῆμά</w>
+          <w osisId="Luke.2.29!10">σου</w>
+          <w osisId="Luke.2.29!11">ἐν</w>
+          <w osisId="Luke.2.29!12">εἰρήνῃ</w>
+          <pc>·</pc>
+        </l>
+        <l>
+          <milestone unit="verse" id="Luke.2.30"/>
+          <w osisId="Luke.2.30!1">ὅτι</w>
+          <q ref="Is.40,5;52,10." rend="bold">
+            <w osisId="Luke.2.30!2">εἶδον</w>
+          </q>
+          <w osisId="Luke.2.30!3">οἱ</w>
+          <w osisId="Luke.2.30!4">ὀφθαλμοί</w>
+          <w osisId="Luke.2.30!5">μου</w>
+          <q ref="Is.40,5;52,10." rend="bold">
+            <w osisId="Luke.2.30!6">τὸ</w>
+            <w osisId="Luke.2.30!7">σωτήριόν</w>
+            <w osisId="Luke.2.30!8">σου</w>
+            <pc>,</pc>
+          </q>
+        </l>
+        <l>
+          <milestone unit="verse" id="Luke.2.31"/>
+          <w osisId="Luke.2.31!1">ὃ</w>
+          <w osisId="Luke.2.31!2">ἡτοίμασας</w>
+          <q ref="Is.40,5;52,10." rend="bold">
+            <w osisId="Luke.2.31!3">κατὰ</w>
+            <w osisId="Luke.2.31!4">πρόσωπον</w>
+            <w osisId="Luke.2.31!5">πάντων</w>
+            <w osisId="Luke.2.31!6">τῶν</w>
+            <w osisId="Luke.2.31!7">λαῶν</w>
+            <pc>,</pc>
+          </q>
+        </l>
+        <l>
+          <milestone unit="verse" id="Luke.2.32"/>
+          <q ref="Is.42,6;49,6;25,7;46,13." rend="bold">
+            <w osisId="Luke.2.32!1">φῶς</w>
+            <w osisId="Luke.2.32!2">εἰς</w>
+            <w osisId="Luke.2.32!3">ἀποκάλυψιν</w>
+            <w osisId="Luke.2.32!4">ἐθνῶν</w>
+          </q>
+        </l>
+        <l>
+          <w osisId="Luke.2.32!5">καὶ</w>
+          <q ref="Is.42,6;49,6;25,7;46,13." rend="bold">
+            <w osisId="Luke.2.32!6">δόξαν</w>
+          </q>
+          <w osisId="Luke.2.32!7">λαοῦ</w>
+          <w osisId="Luke.2.32!8">σου</w>
+          <q ref="Is.42,6;49,6;25,7;46,13." rend="bold">
+            <w osisId="Luke.2.32!9">Ἰσραήλ</w>
+            <pc>.</pc>
+          </q>
+        </l>
+      </lg>
       <milestone unit="verse" id="Luke.2.33"/>
       <w osisId="Luke.2.33!1">καὶ</w>
       <w osisId="Luke.2.33!2">ἦν</w>
@@ -2511,19 +2597,23 @@
       <milestone unit="verse" id="Luke.2.52"/>
       <w osisId="Luke.2.52!1">Καὶ</w>
       <w osisId="Luke.2.52!2">Ἰησοῦς</w>
-      <w osisId="Luke.2.52!3">προέκοπτεν</w>
+      <q ref="1S.2,26. Pr.3,4." rend="bold">
+        <w osisId="Luke.2.52!3">προέκοπτεν</w>
+      </q>
       <w osisId="Luke.2.52!4">ἐν</w>
       <w osisId="Luke.2.52!5">τῇ</w>
       <w osisId="Luke.2.52!6">σοφίᾳ</w>
       <w osisId="Luke.2.52!7">καὶ</w>
       <w osisId="Luke.2.52!8">ἡλικίᾳ</w>
-      <w osisId="Luke.2.52!9">καὶ</w>
-      <w osisId="Luke.2.52!10">χάριτι</w>
-      <w osisId="Luke.2.52!11">παρὰ</w>
-      <w osisId="Luke.2.52!12">Θεῷ</w>
-      <w osisId="Luke.2.52!13">καὶ</w>
-      <w osisId="Luke.2.52!14">ἀνθρώποις</w>
-      <pc>.</pc>
+      <q ref="1S.2,26. Pr.3,4." rend="bold">
+        <w osisId="Luke.2.52!9">καὶ</w>
+        <w osisId="Luke.2.52!10">χάριτι</w>
+        <w osisId="Luke.2.52!11">παρὰ</w>
+        <w osisId="Luke.2.52!12">Θεῷ</w>
+        <w osisId="Luke.2.52!13">καὶ</w>
+        <w osisId="Luke.2.52!14">ἀνθρώποις</w>
+        <pc>.</pc>
+      </q>
     </p>
   </chapter>
   <chapter osisId="Luke.3">
@@ -2613,72 +2703,76 @@
       <w osisId="Luke.3.4!6">Ἡσαΐου</w>
       <w osisId="Luke.3.4!7">τοῦ</w>
       <w osisId="Luke.3.4!8">προφήτου</w>
-    </p>
-    <p>
-      <w osisId="Luke.3.4!9">Φωνὴ</w>
-      <w osisId="Luke.3.4!10">βοῶντος</w>
-      <w osisId="Luke.3.4!11">ἐν</w>
-      <w osisId="Luke.3.4!12">τῇ</w>
-      <w osisId="Luke.3.4!13">ἐρήμῳ</w>
-    </p>
-    <p>
-      <w osisId="Luke.3.4!14">Ἑτοιμάσατε</w>
-      <w osisId="Luke.3.4!15">τὴν</w>
-      <w osisId="Luke.3.4!16">ὁδὸν</w>
-      <w osisId="Luke.3.4!17">Κυρίου</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.3.4!18">εὐθείας</w>
-      <w osisId="Luke.3.4!19">ποιεῖτε</w>
-      <w osisId="Luke.3.4!20">τὰς</w>
-      <w osisId="Luke.3.4!21">τρίβους</w>
-      <w osisId="Luke.3.4!22">αὐτοῦ</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.3.5"/>
-      <w osisId="Luke.3.5!1">πᾶσα</w>
-      <w osisId="Luke.3.5!2">φάραγξ</w>
-      <w osisId="Luke.3.5!3">πληρωθήσεται</w>
-    </p>
-    <p>
-      <w osisId="Luke.3.5!4">καὶ</w>
-      <w osisId="Luke.3.5!5">πᾶν</w>
-      <w osisId="Luke.3.5!6">ὄρος</w>
-      <w osisId="Luke.3.5!7">καὶ</w>
-      <w osisId="Luke.3.5!8">βουνὸς</w>
-      <w osisId="Luke.3.5!9">ταπεινωθήσεται</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.3.5!10">καὶ</w>
-      <w osisId="Luke.3.5!11">ἔσται</w>
-      <w osisId="Luke.3.5!12">τὰ</w>
-      <w osisId="Luke.3.5!13">σκολιὰ</w>
-      <w osisId="Luke.3.5!14">εἰς</w>
-      <w osisId="Luke.3.5!15">εὐθείας</w>
-    </p>
-    <p>
-      <w osisId="Luke.3.5!16">καὶ</w>
-      <w osisId="Luke.3.5!17">αἱ</w>
-      <w osisId="Luke.3.5!18">τραχεῖαι</w>
-      <w osisId="Luke.3.5!19">εἰς</w>
-      <w osisId="Luke.3.5!20">ὁδοὺς</w>
-      <w osisId="Luke.3.5!21">λείας</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.3.6"/>
-      <w osisId="Luke.3.6!1">καὶ</w>
-      <w osisId="Luke.3.6!2">ὄψεται</w>
-      <w osisId="Luke.3.6!3">πᾶσα</w>
-      <w osisId="Luke.3.6!4">σὰρξ</w>
-      <w osisId="Luke.3.6!5">τὸ</w>
-      <w osisId="Luke.3.6!6">σωτήριον</w>
-      <w osisId="Luke.3.6!7">τοῦ</w>
-      <w osisId="Luke.3.6!8">Θεοῦ</w>            
-      <pc>.</pc>
+      <q ref="Is.40,3—5." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Luke.3.4!9">Φωνὴ</w>
+            <w osisId="Luke.3.4!10">βοῶντος</w>
+            <w osisId="Luke.3.4!11">ἐν</w>
+            <w osisId="Luke.3.4!12">τῇ</w>
+            <w osisId="Luke.3.4!13">ἐρήμῳ</w>
+          </l>
+          <l>
+            <w osisId="Luke.3.4!14">Ἑτοιμάσατε</w>
+            <w osisId="Luke.3.4!15">τὴν</w>
+            <w osisId="Luke.3.4!16">ὁδὸν</w>
+            <w osisId="Luke.3.4!17">Κυρίου</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Luke.3.4!18">εὐθείας</w>
+            <w osisId="Luke.3.4!19">ποιεῖτε</w>
+            <w osisId="Luke.3.4!20">τὰς</w>
+            <w osisId="Luke.3.4!21">τρίβους</w>
+            <w osisId="Luke.3.4!22">αὐτοῦ</w>
+            <pc>·</pc>
+          </l>
+          <l>
+            <milestone unit="verse" id="Luke.3.5"/>
+            <w osisId="Luke.3.5!1">πᾶσα</w>
+            <w osisId="Luke.3.5!2">φάραγξ</w>
+            <w osisId="Luke.3.5!3">πληρωθήσεται</w>
+          </l>
+          <l>
+            <w osisId="Luke.3.5!4">καὶ</w>
+            <w osisId="Luke.3.5!5">πᾶν</w>
+            <w osisId="Luke.3.5!6">ὄρος</w>
+            <w osisId="Luke.3.5!7">καὶ</w>
+            <w osisId="Luke.3.5!8">βουνὸς</w>
+            <w osisId="Luke.3.5!9">ταπεινωθήσεται</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Luke.3.5!10">καὶ</w>
+            <w osisId="Luke.3.5!11">ἔσται</w>
+            <w osisId="Luke.3.5!12">τὰ</w>
+            <w osisId="Luke.3.5!13">σκολιὰ</w>
+            <w osisId="Luke.3.5!14">εἰς</w>
+            <w osisId="Luke.3.5!15">εὐθείας</w>
+          </l>
+          <l>
+            <w osisId="Luke.3.5!16">καὶ</w>
+            <w osisId="Luke.3.5!17">αἱ</w>
+            <w osisId="Luke.3.5!18">τραχεῖαι</w>
+            <w osisId="Luke.3.5!19">εἰς</w>
+            <w osisId="Luke.3.5!20">ὁδοὺς</w>
+            <w osisId="Luke.3.5!21">λείας</w>
+            <pc>·</pc>
+          </l>
+          <l>
+            <milestone unit="verse" id="Luke.3.6"/>
+            <w osisId="Luke.3.6!1">καὶ</w>
+            <w osisId="Luke.3.6!2">ὄψεται</w>
+            <w osisId="Luke.3.6!3">πᾶσα</w>
+            <w osisId="Luke.3.6!4">σὰρξ</w>
+            <w osisId="Luke.3.6!5">τὸ</w>
+            <w osisId="Luke.3.6!6">σωτήριον</w>
+            <w osisId="Luke.3.6!7">τοῦ</w>
+            <w osisId="Luke.3.6!8">Θεοῦ</w>            
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
     </p>
     <p>
       <milestone unit="verse" id="Luke.3.7"/>
@@ -3301,14 +3395,16 @@
       <w osisId="Luke.4.4!6">Ἰησοῦς</w>
       <w osisId="Luke.4.4!7">Γέγραπται</w>
       <w osisId="Luke.4.4!8">ὅτι</w>
-      <w osisId="Luke.4.4!9">Οὐκ</w>
-      <w osisId="Luke.4.4!10">ἐπ’</w>
-      <w osisId="Luke.4.4!11">ἄρτῳ</w>
-      <w osisId="Luke.4.4!12">μόνῳ</w>
-      <w osisId="Luke.4.4!13">ζήσεται</w>
-      <w osisId="Luke.4.4!14">ὁ</w>
-      <w osisId="Luke.4.4!15">ἄνθρωπος</w>
-      <pc>.</pc>
+      <q ref="Dt.8,3." rend="bold">
+        <w osisId="Luke.4.4!9">Οὐκ</w>
+        <w osisId="Luke.4.4!10">ἐπ’</w>
+        <w osisId="Luke.4.4!11">ἄρτῳ</w>
+        <w osisId="Luke.4.4!12">μόνῳ</w>
+        <w osisId="Luke.4.4!13">ζήσεται</w>
+        <w osisId="Luke.4.4!14">ὁ</w>
+        <w osisId="Luke.4.4!15">ἄνθρωπος</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.4.5"/>
       <w osisId="Luke.4.5!1">Καὶ</w>
       <w osisId="Luke.4.5!2">ἀναγαγὼν</w>
@@ -3371,16 +3467,18 @@
       <w osisId="Luke.4.8!5">εἶπεν</w>
       <w osisId="Luke.4.8!6">αὐτῷ</w>
       <w osisId="Luke.4.8!7">Γέγραπται</w>
-      <w osisId="Luke.4.8!8">Προσκυνήσεις</w>
-      <w osisId="Luke.4.8!9">Κύριον</w>
-      <w osisId="Luke.4.8!10">τὸν</w>
-      <w osisId="Luke.4.8!11">Θεόν</w>
-      <w osisId="Luke.4.8!12">σου</w>
-      <w osisId="Luke.4.8!13">καὶ</w>
-      <w osisId="Luke.4.8!14">αὐτῷ</w>
-      <w osisId="Luke.4.8!15">μόνῳ</w>
-      <w osisId="Luke.4.8!16">λατρεύσεις</w>
-      <pc>.</pc>
+      <q ref="Dt.6,13.14." rend="bold">
+        <w osisId="Luke.4.8!8">Προσκυνήσεις</w>
+        <w osisId="Luke.4.8!9">Κύριον</w>
+        <w osisId="Luke.4.8!10">τὸν</w>
+        <w osisId="Luke.4.8!11">Θεόν</w>
+        <w osisId="Luke.4.8!12">σου</w>
+        <w osisId="Luke.4.8!13">καὶ</w>
+        <w osisId="Luke.4.8!14">αὐτῷ</w>
+        <w osisId="Luke.4.8!15">μόνῳ</w>
+        <w osisId="Luke.4.8!16">λατρεύσεις</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.4.9"/>
       <w osisId="Luke.4.9!1">Ἤγαγεν</w>
       <w osisId="Luke.4.9!2">δὲ</w>
@@ -3413,32 +3511,36 @@
       <w osisId="Luke.4.10!1">γέγραπται</w>
       <w osisId="Luke.4.10!2">γὰρ</w>
       <w osisId="Luke.4.10!3">ὅτι</w>
-      <w osisId="Luke.4.10!4">τοῖς</w>
-      <w osisId="Luke.4.10!5">ἀγγέλοις</w>
-      <w osisId="Luke.4.10!6">αὐτοῦ</w>
-      <w osisId="Luke.4.10!7">ἐντελεῖται</w>
-      <w osisId="Luke.4.10!8">περὶ</w>
-      <w osisId="Luke.4.10!9">σοῦ</w>
-      <w osisId="Luke.4.10!10">τοῦ</w>
-      <w osisId="Luke.4.10!11">διαφυλάξαι</w>
-      <w osisId="Luke.4.10!12">σε</w>
-      <pc>,</pc>
+      <q ref="Ps.91,11.12." rend="bold">
+        <w osisId="Luke.4.10!4">τοῖς</w>
+        <w osisId="Luke.4.10!5">ἀγγέλοις</w>
+        <w osisId="Luke.4.10!6">αὐτοῦ</w>
+        <w osisId="Luke.4.10!7">ἐντελεῖται</w>
+        <w osisId="Luke.4.10!8">περὶ</w>
+        <w osisId="Luke.4.10!9">σοῦ</w>
+        <w osisId="Luke.4.10!10">τοῦ</w>
+        <w osisId="Luke.4.10!11">διαφυλάξαι</w>
+        <w osisId="Luke.4.10!12">σε</w>
+        <pc>,</pc>
+      </q>
       <milestone unit="verse" id="Luke.4.11"/>
       <w osisId="Luke.4.11!1">καὶ</w>
       <w osisId="Luke.4.11!2">ὅτι</w>
-      <w osisId="Luke.4.11!3">ἐπὶ</w>
-      <w osisId="Luke.4.11!4">χειρῶν</w>
-      <w osisId="Luke.4.11!5">ἀροῦσίν</w>
-      <w osisId="Luke.4.11!6">σε</w>
-      <w osisId="Luke.4.11!7">μή</w>
-      <w osisId="Luke.4.11!8">ποτε</w>
-      <w osisId="Luke.4.11!9">προσκόψῃς</w>
-      <w osisId="Luke.4.11!10">πρὸς</w>
-      <w osisId="Luke.4.11!11">λίθον</w>
-      <w osisId="Luke.4.11!12">τὸν</w>
-      <w osisId="Luke.4.11!13">πόδα</w>
-      <w osisId="Luke.4.11!14">σου</w>
-      <pc>.</pc>
+      <q ref="Ps.91,11.12." rend="bold">
+        <w osisId="Luke.4.11!3">ἐπὶ</w>
+        <w osisId="Luke.4.11!4">χειρῶν</w>
+        <w osisId="Luke.4.11!5">ἀροῦσίν</w>
+        <w osisId="Luke.4.11!6">σε</w>
+        <w osisId="Luke.4.11!7">μή</w>
+        <w osisId="Luke.4.11!8">ποτε</w>
+        <w osisId="Luke.4.11!9">προσκόψῃς</w>
+        <w osisId="Luke.4.11!10">πρὸς</w>
+        <w osisId="Luke.4.11!11">λίθον</w>
+        <w osisId="Luke.4.11!12">τὸν</w>
+        <w osisId="Luke.4.11!13">πόδα</w>
+        <w osisId="Luke.4.11!14">σου</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.4.12"/>
       <w osisId="Luke.4.12!1">καὶ</w>
       <w osisId="Luke.4.12!2">ἀποκριθεὶς</w>
@@ -3448,13 +3550,15 @@
       <w osisId="Luke.4.12!6">Ἰησοῦς</w>
       <w osisId="Luke.4.12!7">ὅτι</w>
       <w osisId="Luke.4.12!8">Εἴρηται</w>
-      <w osisId="Luke.4.12!9">Οὐκ</w>
-      <w osisId="Luke.4.12!10">ἐκπειράσεις</w>
-      <w osisId="Luke.4.12!11">Κύριον</w>
-      <w osisId="Luke.4.12!12">τὸν</w>
-      <w osisId="Luke.4.12!13">Θεόν</w>
-      <w osisId="Luke.4.12!14">σου</w>
-      <pc>.</pc>
+      <q ref="Dt.6,16." rend="bold">
+        <w osisId="Luke.4.12!9">Οὐκ</w>
+        <w osisId="Luke.4.12!10">ἐκπειράσεις</w>
+        <w osisId="Luke.4.12!11">Κύριον</w>
+        <w osisId="Luke.4.12!12">τὸν</w>
+        <w osisId="Luke.4.12!13">Θεόν</w>
+        <w osisId="Luke.4.12!14">σου</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.4.13"/>
       <w osisId="Luke.4.13!1">Καὶ</w>
       <w osisId="Luke.4.13!2">συντελέσας</w>
@@ -3557,53 +3661,53 @@
       <w osisId="Luke.4.17!15">οὗ</w>
       <w osisId="Luke.4.17!16">ἦν</w>
       <w osisId="Luke.4.17!17">γεγραμμένον</w>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.4.18"/>
-      <w osisId="Luke.4.18!1">Πνεῦμα</w>
-      <w osisId="Luke.4.18!2">Κυρίου</w>
-      <w osisId="Luke.4.18!3">ἐπ’</w>
-      <w osisId="Luke.4.18!4">ἐμέ</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.4.18!5">οὗ</w>
-      <w osisId="Luke.4.18!6">εἵνεκεν</w>
-      <w osisId="Luke.4.18!7">ἔχρισέν</w>
-      <w osisId="Luke.4.18!8">με</w>
-      <w osisId="Luke.4.18!9">εὐαγγελίσασθαι</w>
-      <w osisId="Luke.4.18!10">πτωχοῖς</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.4.18!11">ἀπέσταλκέν</w>
-      <w osisId="Luke.4.18!12">με</w>
-      <w osisId="Luke.4.18!13">κηρῦξαι</w>
-      <w osisId="Luke.4.18!14">αἰχμαλώτοις</w>
-      <w osisId="Luke.4.18!15">ἄφεσιν</w>
-      <w osisId="Luke.4.18!16">καὶ</w>
-    </p>
-    <p>
-      <w osisId="Luke.4.18!17">τυφλοῖς</w>
-      <w osisId="Luke.4.18!18">ἀνάβλεψιν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.4.18!19">ἀποστεῖλαι</w>
-      <w osisId="Luke.4.18!20">τεθραυσμένους</w>
-      <w osisId="Luke.4.18!21">ἐν</w>
-      <w osisId="Luke.4.18!22">ἀφέσει</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.4.19"/>
-      <w osisId="Luke.4.19!1">κηρῦξαι</w>
-      <w osisId="Luke.4.19!2">ἐνιαυτὸν</w>
-      <w osisId="Luke.4.19!3">Κυρίου</w>
-      <w osisId="Luke.4.19!4">δεκτόν</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Is.61,1.2;58,6." rend="bold">
+        <lg>
+          <l>
+            <milestone unit="verse" id="Luke.4.18"/>
+            <w osisId="Luke.4.18!1">Πνεῦμα</w>
+            <w osisId="Luke.4.18!2">Κυρίου</w>
+            <w osisId="Luke.4.18!3">ἐπ’</w>
+            <w osisId="Luke.4.18!4">ἐμέ</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Luke.4.18!5">οὗ</w>
+            <w osisId="Luke.4.18!6">εἵνεκεν</w>
+            <w osisId="Luke.4.18!7">ἔχρισέν</w>
+            <w osisId="Luke.4.18!8">με</w>
+            <w osisId="Luke.4.18!9">εὐαγγελίσασθαι</w>
+            <w osisId="Luke.4.18!10">πτωχοῖς</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Luke.4.18!11">ἀπέσταλκέν</w>
+            <w osisId="Luke.4.18!12">με</w>
+            <w osisId="Luke.4.18!13">κηρῦξαι</w>
+            <w osisId="Luke.4.18!14">αἰχμαλώτοις</w>
+            <w osisId="Luke.4.18!15">ἄφεσιν</w>
+            <w osisId="Luke.4.18!16">καὶ</w>
+            <w osisId="Luke.4.18!17">τυφλοῖς</w>
+            <w osisId="Luke.4.18!18">ἀνάβλεψιν</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Luke.4.18!19">ἀποστεῖλαι</w>
+            <w osisId="Luke.4.18!20">τεθραυσμένους</w>
+            <w osisId="Luke.4.18!21">ἐν</w>
+            <w osisId="Luke.4.18!22">ἀφέσει</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <milestone unit="verse" id="Luke.4.19"/>
+            <w osisId="Luke.4.19!1">κηρῦξαι</w>
+            <w osisId="Luke.4.19!2">ἐνιαυτὸν</w>
+            <w osisId="Luke.4.19!3">Κυρίου</w>
+            <w osisId="Luke.4.19!4">δεκτόν</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Luke.4.20"/>
       <w osisId="Luke.4.20!1">καὶ</w>
       <w osisId="Luke.4.20!2">πτύξας</w>
@@ -3763,14 +3867,16 @@
       <w osisId="Luke.4.26!6">Ἡλείας</w>
       <w osisId="Luke.4.26!7">εἰ</w>
       <w osisId="Luke.4.26!8">μὴ</w>
-      <w osisId="Luke.4.26!9">εἰς</w>
-      <w osisId="Luke.4.26!10">Σάρεπτα</w>
-      <w osisId="Luke.4.26!11">τῆς</w>
-      <w osisId="Luke.4.26!12">Σιδωνίας</w>
-      <w osisId="Luke.4.26!13">πρὸς</w>
-      <w osisId="Luke.4.26!14">γυναῖκα</w>
-      <w osisId="Luke.4.26!15">χήραν</w>
-      <pc>.</pc>
+      <q ref="2K.5,14." rend="bold">
+        <w osisId="Luke.4.26!9">εἰς</w>
+        <w osisId="Luke.4.26!10">Σάρεπτα</w>
+        <w osisId="Luke.4.26!11">τῆς</w>
+        <w osisId="Luke.4.26!12">Σιδωνίας</w>
+        <w osisId="Luke.4.26!13">πρὸς</w>
+        <w osisId="Luke.4.26!14">γυναῖκα</w>
+        <w osisId="Luke.4.26!15">χήραν</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.4.27"/>
       <w osisId="Luke.4.27!1">καὶ</w>
       <w osisId="Luke.4.27!2">πολλοὶ</w>
@@ -4477,11 +4583,15 @@
       <pc>,</pc>
       <w osisId="Luke.5.14!7">ἀλλὰ</w>
       <w osisId="Luke.5.14!8">ἀπελθὼν</w>
-      <w osisId="Luke.5.14!9">δεῖξον</w>
+      <q ref="Lv.13,49;14,2—32." rend="bold">
+        <w osisId="Luke.5.14!9">δεῖξον</w>
+      </q>
       <w osisId="Luke.5.14!10">σεαυτὸν</w>
-      <w osisId="Luke.5.14!11">τῷ</w>
-      <w osisId="Luke.5.14!12">ἱερεῖ</w>
-      <pc>,</pc>
+      <q ref="Lv.13,49;14,2—32." rend="bold">
+        <w osisId="Luke.5.14!11">τῷ</w>
+        <w osisId="Luke.5.14!12">ἱερεῖ</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Luke.5.14!13">καὶ</w>
       <w osisId="Luke.5.14!14">προσένεγκε</w>
       <w osisId="Luke.5.14!15">περὶ</w>
@@ -5127,10 +5237,12 @@
       <w osisId="Luke.6.4!6">τοῦ</w>
       <w osisId="Luke.6.4!7">Θεοῦ</w>
       <w osisId="Luke.6.4!8">καὶ</w>
-      <w osisId="Luke.6.4!9">τοὺς</w>
-      <w osisId="Luke.6.4!10">ἄρτους</w>
-      <w osisId="Luke.6.4!11">τῆς</w>
-      <w osisId="Luke.6.4!12">προθέσεως</w>
+      <q ref="Lv.24,9." rend="bold">
+        <w osisId="Luke.6.4!9">τοὺς</w>
+        <w osisId="Luke.6.4!10">ἄρτους</w>
+        <w osisId="Luke.6.4!11">τῆς</w>
+        <w osisId="Luke.6.4!12">προθέσεως</w>
+      </q>
       <w osisId="Luke.6.4!13">λαβὼν</w>
       <w osisId="Luke.6.4!14">ἔφαγεν</w>
       <w osisId="Luke.6.4!15">καὶ</w>
@@ -6660,9 +6772,11 @@
       <w osisId="Luke.7.22!10">καὶ</w>
       <w osisId="Luke.7.22!11">ἠκούσατε</w>
       <pc>·</pc>
-      <w osisId="Luke.7.22!12">τυφλοὶ</w>
-      <w osisId="Luke.7.22!13">ἀναβλέπουσιν</w>
-      <pc>,</pc>
+      <q ref="Is.35,5;61,1." rend="bold">
+        <w osisId="Luke.7.22!12">τυφλοὶ</w>
+        <w osisId="Luke.7.22!13">ἀναβλέπουσιν</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Luke.7.22!14">χωλοὶ</w>
       <w osisId="Luke.7.22!15">περιπατοῦσιν</w>
       <pc>,</pc>
@@ -6676,9 +6790,11 @@
       <w osisId="Luke.7.22!21">νεκροὶ</w>
       <w osisId="Luke.7.22!22">ἐγείρονται</w>
       <pc>,</pc>
-      <w osisId="Luke.7.22!23">πτωχοὶ</w>
-      <w osisId="Luke.7.22!24">εὐαγγελίζονται</w>
-      <pc>·</pc>
+      <q ref="Is.35,5;61,1." rend="bold">
+        <w osisId="Luke.7.22!23">πτωχοὶ</w>
+        <w osisId="Luke.7.22!24">εὐαγγελίζονται</w>
+        <pc>·</pc>
+      </q>
       <milestone unit="verse" id="Luke.7.23"/>
       <w osisId="Luke.7.23!1">καὶ</w>
       <w osisId="Luke.7.23!2">μακάριός</w>
@@ -6763,29 +6879,31 @@
       <w osisId="Luke.7.27!3">περὶ</w>
       <w osisId="Luke.7.27!4">οὗ</w>
       <w osisId="Luke.7.27!5">γέγραπται</w>
-    </p>
-    <p>
-      <w osisId="Luke.7.27!6">Ἰδοὺ</w>
-      <w osisId="Luke.7.27!7">ἀποστέλλω</w>
-      <w osisId="Luke.7.27!8">τὸν</w>
-      <w osisId="Luke.7.27!9">ἄγγελόν</w>
-      <w osisId="Luke.7.27!10">μου</w>
-      <w osisId="Luke.7.27!11">πρὸ</w>
-      <w osisId="Luke.7.27!12">προσώπου</w>
-      <w osisId="Luke.7.27!13">σου</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.7.27!14">ὃς</w>
-      <w osisId="Luke.7.27!15">κατασκευάσει</w>
-      <w osisId="Luke.7.27!16">τὴν</w>
-      <w osisId="Luke.7.27!17">ὁδόν</w>
-      <w osisId="Luke.7.27!18">σου</w>
-      <w osisId="Luke.7.27!19">ἔμπροσθέν</w>
-      <w osisId="Luke.7.27!20">σου</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Mal.3,1." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Luke.7.27!6">Ἰδοὺ</w>
+            <w osisId="Luke.7.27!7">ἀποστέλλω</w>
+            <w osisId="Luke.7.27!8">τὸν</w>
+            <w osisId="Luke.7.27!9">ἄγγελόν</w>
+            <w osisId="Luke.7.27!10">μου</w>
+            <w osisId="Luke.7.27!11">πρὸ</w>
+            <w osisId="Luke.7.27!12">προσώπου</w>
+            <w osisId="Luke.7.27!13">σου</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Luke.7.27!14">ὃς</w>
+            <w osisId="Luke.7.27!15">κατασκευάσει</w>
+            <w osisId="Luke.7.27!16">τὴν</w>
+            <w osisId="Luke.7.27!17">ὁδόν</w>
+            <w osisId="Luke.7.27!18">σου</w>
+            <w osisId="Luke.7.27!19">ἔμπροσθέν</w>
+            <w osisId="Luke.7.27!20">σου</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Luke.7.28"/>
       <w osisId="Luke.7.28!1">λέγω</w>
       <w osisId="Luke.7.28!2">ὑμῖν</w>
@@ -7493,14 +7611,16 @@
       <w osisId="Luke.8.10!17">παραβολαῖς</w>
       <pc>,</pc>
       <w osisId="Luke.8.10!18">ἵνα</w>
-      <w osisId="Luke.8.10!19">βλέποντες</w>
-      <w osisId="Luke.8.10!20">μὴ</w>
-      <w osisId="Luke.8.10!21">βλέπωσιν</w>
-      <w osisId="Luke.8.10!22">καὶ</w>
-      <w osisId="Luke.8.10!23">ἀκούοντες</w>
-      <w osisId="Luke.8.10!24">μὴ</w>
-      <w osisId="Luke.8.10!25">συνιῶσιν</w>
-      <pc>.</pc>
+      <q ref="Is.6,9.10." rend="bold">
+        <w osisId="Luke.8.10!19">βλέποντες</w>
+        <w osisId="Luke.8.10!20">μὴ</w>
+        <w osisId="Luke.8.10!21">βλέπωσιν</w>
+        <w osisId="Luke.8.10!22">καὶ</w>
+        <w osisId="Luke.8.10!23">ἀκούοντες</w>
+        <w osisId="Luke.8.10!24">μὴ</w>
+        <w osisId="Luke.8.10!25">συνιῶσιν</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.8.11"/>
       <w osisId="Luke.8.11!1">ἔστιν</w>
       <w osisId="Luke.8.11!2">δὲ</w>
@@ -9768,13 +9888,15 @@
       <pc>,</pc>
       <w osisId="Luke.9.54!10">θέλεις</w>
       <w osisId="Luke.9.54!11">εἴπωμεν</w>
-      <w osisId="Luke.9.54!12">πῦρ</w>
-      <w osisId="Luke.9.54!13">καταβῆναι</w>
-      <w osisId="Luke.9.54!14">ἀπὸ</w>
-      <w osisId="Luke.9.54!15">τοῦ</w>
-      <w osisId="Luke.9.54!16">οὐρανοῦ</w>
-      <w osisId="Luke.9.54!17">καὶ</w>
-      <w osisId="Luke.9.54!18">ἀναλῶσαι</w>
+      <q ref="2K.1,10.12." rend="bold">
+        <w osisId="Luke.9.54!12">πῦρ</w>
+        <w osisId="Luke.9.54!13">καταβῆναι</w>
+        <w osisId="Luke.9.54!14">ἀπὸ</w>
+        <w osisId="Luke.9.54!15">τοῦ</w>
+        <w osisId="Luke.9.54!16">οὐρανοῦ</w>
+        <w osisId="Luke.9.54!17">καὶ</w>
+        <w osisId="Luke.9.54!18">ἀναλῶσαι</w>
+      </q>
       <w osisId="Luke.9.54!19">αὐτούς</w>
       <pc>;</pc>
       <milestone unit="verse" id="Luke.9.55"/>
@@ -10234,15 +10356,17 @@
       <w osisId="Luke.10.15!3">Καφαρναούμ</w>
       <pc>,</pc>
       <w osisId="Luke.10.15!4">μὴ</w>
-      <w osisId="Luke.10.15!5">ἕως</w>
-      <w osisId="Luke.10.15!6">οὐρανοῦ</w>
-      <w osisId="Luke.10.15!7">ὑψωθήσῃ</w>
-      <pc>;</pc>
-      <w osisId="Luke.10.15!8">ἕως</w>
-      <w osisId="Luke.10.15!9">τοῦ</w>
-      <w osisId="Luke.10.15!10">Ἅιδου</w>
-      <w osisId="Luke.10.15!11">καταβήσῃ</w>
-      <pc>.</pc>
+      <q ref="Is.14,13.15." rend="bold">
+        <w osisId="Luke.10.15!5">ἕως</w>
+        <w osisId="Luke.10.15!6">οὐρανοῦ</w>
+        <w osisId="Luke.10.15!7">ὑψωθήσῃ</w>
+        <pc>;</pc>
+        <w osisId="Luke.10.15!8">ἕως</w>
+        <w osisId="Luke.10.15!9">τοῦ</w>
+        <w osisId="Luke.10.15!10">Ἅιδου</w>
+        <w osisId="Luke.10.15!11">καταβήσῃ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.10.16"/>
       <w osisId="Luke.10.16!1">Ὁ</w>
       <w osisId="Luke.10.16!2">ἀκούων</w>
@@ -10307,9 +10431,11 @@
       <w osisId="Luke.10.19!4">τὴν</w>
       <w osisId="Luke.10.19!5">ἐξουσίαν</w>
       <w osisId="Luke.10.19!6">τοῦ</w>
-      <w osisId="Luke.10.19!7">πατεῖν</w>
-      <w osisId="Luke.10.19!8">ἐπάνω</w>
-      <w osisId="Luke.10.19!9">ὄφεων</w>
+      <q ref="Ps.91,13." rend="bold">
+        <w osisId="Luke.10.19!7">πατεῖν</w>
+        <w osisId="Luke.10.19!8">ἐπάνω</w>
+        <w osisId="Luke.10.19!9">ὄφεων</w>
+      </q>
       <w osisId="Luke.10.19!10">καὶ</w>
       <w osisId="Luke.10.19!11">σκορπίων</w>
       <pc>,</pc>
@@ -10520,42 +10646,44 @@
       <w osisId="Luke.10.27!2">δὲ</w>
       <w osisId="Luke.10.27!3">ἀποκριθεὶς</w>
       <w osisId="Luke.10.27!4">εἶπεν</w>
-      <w osisId="Luke.10.27!5">Ἀγαπήσεις</w>
-      <w osisId="Luke.10.27!6">Κύριον</w>
-      <w osisId="Luke.10.27!7">τὸν</w>
-      <w osisId="Luke.10.27!8">Θεόν</w>
-      <w osisId="Luke.10.27!9">σου</w>
-      <w osisId="Luke.10.27!10">ἐξ</w>
-      <w osisId="Luke.10.27!11">ὅλης</w>
-      <w osisId="Luke.10.27!12">τῆς</w>
-      <w osisId="Luke.10.27!13">καρδίας</w>
-      <w osisId="Luke.10.27!14">σου</w>
-      <w osisId="Luke.10.27!15">καὶ</w>
-      <w osisId="Luke.10.27!16">ἐν</w>
-      <w osisId="Luke.10.27!17">ὅλῃ</w>
-      <w osisId="Luke.10.27!18">τῇ</w>
-      <w osisId="Luke.10.27!19">ψυχῇ</w>
-      <w osisId="Luke.10.27!20">σου</w>
-      <w osisId="Luke.10.27!21">καὶ</w>
-      <w osisId="Luke.10.27!22">ἐν</w>
-      <w osisId="Luke.10.27!23">ὅλῃ</w>
-      <w osisId="Luke.10.27!24">τῇ</w>
-      <w osisId="Luke.10.27!25">ἰσχύϊ</w>
-      <w osisId="Luke.10.27!26">σου</w>
-      <w osisId="Luke.10.27!27">καὶ</w>
-      <w osisId="Luke.10.27!28">ἐν</w>
-      <w osisId="Luke.10.27!29">ὅλῃ</w>
-      <w osisId="Luke.10.27!30">τῇ</w>
-      <w osisId="Luke.10.27!31">διανοίᾳ</w>
-      <w osisId="Luke.10.27!32">σου</w>
-      <pc>,</pc>
-      <w osisId="Luke.10.27!33">καὶ</w>
-      <w osisId="Luke.10.27!34">τὸν</w>
-      <w osisId="Luke.10.27!35">πλησίον</w>
-      <w osisId="Luke.10.27!36">σου</w>
-      <w osisId="Luke.10.27!37">ὡς</w>
-      <w osisId="Luke.10.27!38">σεαυτόν</w>
-      <pc>.</pc>
+      <q ref="Dt.6,5. Lv.19,18." rend="bold">
+        <w osisId="Luke.10.27!5">Ἀγαπήσεις</w>
+        <w osisId="Luke.10.27!6">Κύριον</w>
+        <w osisId="Luke.10.27!7">τὸν</w>
+        <w osisId="Luke.10.27!8">Θεόν</w>
+        <w osisId="Luke.10.27!9">σου</w>
+        <w osisId="Luke.10.27!10">ἐξ</w>
+        <w osisId="Luke.10.27!11">ὅλης</w>
+        <w osisId="Luke.10.27!12">τῆς</w>
+        <w osisId="Luke.10.27!13">καρδίας</w>
+        <w osisId="Luke.10.27!14">σου</w>
+        <w osisId="Luke.10.27!15">καὶ</w>
+        <w osisId="Luke.10.27!16">ἐν</w>
+        <w osisId="Luke.10.27!17">ὅλῃ</w>
+        <w osisId="Luke.10.27!18">τῇ</w>
+        <w osisId="Luke.10.27!19">ψυχῇ</w>
+        <w osisId="Luke.10.27!20">σου</w>
+        <w osisId="Luke.10.27!21">καὶ</w>
+        <w osisId="Luke.10.27!22">ἐν</w>
+        <w osisId="Luke.10.27!23">ὅλῃ</w>
+        <w osisId="Luke.10.27!24">τῇ</w>
+        <w osisId="Luke.10.27!25">ἰσχύϊ</w>
+        <w osisId="Luke.10.27!26">σου</w>
+        <w osisId="Luke.10.27!27">καὶ</w>
+        <w osisId="Luke.10.27!28">ἐν</w>
+        <w osisId="Luke.10.27!29">ὅλῃ</w>
+        <w osisId="Luke.10.27!30">τῇ</w>
+        <w osisId="Luke.10.27!31">διανοίᾳ</w>
+        <w osisId="Luke.10.27!32">σου</w>
+        <pc>,</pc>
+        <w osisId="Luke.10.27!33">καὶ</w>
+        <w osisId="Luke.10.27!34">τὸν</w>
+        <w osisId="Luke.10.27!35">πλησίον</w>
+        <w osisId="Luke.10.27!36">σου</w>
+        <w osisId="Luke.10.27!37">ὡς</w>
+        <w osisId="Luke.10.27!38">σεαυτόν</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.10.28"/>
       <w osisId="Luke.10.28!1">εἶπεν</w>
       <w osisId="Luke.10.28!2">δὲ</w>
@@ -10563,11 +10691,13 @@
       <w osisId="Luke.10.28!4">Ὀρθῶς</w>
       <w osisId="Luke.10.28!5">ἀπεκρίθης</w>
       <pc>·</pc>
-      <w osisId="Luke.10.28!6">τοῦτο</w>
-      <w osisId="Luke.10.28!7">ποίει</w>
-      <w osisId="Luke.10.28!8">καὶ</w>
-      <w osisId="Luke.10.28!9">ζήσῃ</w>
-      <pc>.</pc>
+      <q ref="Lv.18,5." rend="bold">
+        <w osisId="Luke.10.28!6">τοῦτο</w>
+        <w osisId="Luke.10.28!7">ποίει</w>
+        <w osisId="Luke.10.28!8">καὶ</w>
+        <w osisId="Luke.10.28!9">ζήσῃ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.10.29"/>
       <w osisId="Luke.10.29!1">ὁ</w>
       <w osisId="Luke.10.29!2">δὲ</w>
@@ -13148,30 +13278,36 @@
       <w osisId="Luke.12.53!3">ἐπὶ</w>
       <w osisId="Luke.12.53!4">υἱῷ</w>
       <w osisId="Luke.12.53!5">καὶ</w>
-      <w osisId="Luke.12.53!6">υἱὸς</w>
-      <w osisId="Luke.12.53!7">ἐπὶ</w>
-      <w osisId="Luke.12.53!8">πατρί</w>
-      <pc>,</pc>
+      <q ref="Mic.7,6." rend="bold">
+        <w osisId="Luke.12.53!6">υἱὸς</w>
+        <w osisId="Luke.12.53!7">ἐπὶ</w>
+        <w osisId="Luke.12.53!8">πατρί</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Luke.12.53!9">μήτηρ</w>
       <w osisId="Luke.12.53!10">ἐπὶ</w>
       <w osisId="Luke.12.53!11">θυγατέρα</w>
       <w osisId="Luke.12.53!12">καὶ</w>
-      <w osisId="Luke.12.53!13">θυγάτηρ</w>
-      <w osisId="Luke.12.53!14">ἐπὶ</w>
-      <w osisId="Luke.12.53!15">τὴν</w>
-      <w osisId="Luke.12.53!16">μητέρα</w>
-      <pc>,</pc>
+      <q ref="Mic.7,6." rend="bold">
+        <w osisId="Luke.12.53!13">θυγάτηρ</w>
+        <w osisId="Luke.12.53!14">ἐπὶ</w>
+        <w osisId="Luke.12.53!15">τὴν</w>
+        <w osisId="Luke.12.53!16">μητέρα</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Luke.12.53!17">πενθερὰ</w>
       <w osisId="Luke.12.53!18">ἐπὶ</w>
       <w osisId="Luke.12.53!19">τὴν</w>
       <w osisId="Luke.12.53!20">νύμφην</w>
       <w osisId="Luke.12.53!21">αὐτῆς</w>
       <w osisId="Luke.12.53!22">καὶ</w>
-      <w osisId="Luke.12.53!23">νύμφη</w>
-      <w osisId="Luke.12.53!24">ἐπὶ</w>
-      <w osisId="Luke.12.53!25">τὴν</w>
-      <w osisId="Luke.12.53!26">πενθεράν</w>
-      <pc>.</pc>
+      <q ref="Mic.7,6." rend="bold">
+        <w osisId="Luke.12.53!23">νύμφη</w>
+        <w osisId="Luke.12.53!24">ἐπὶ</w>
+        <w osisId="Luke.12.53!25">τὴν</w>
+        <w osisId="Luke.12.53!26">πενθεράν</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.12.54"/>
       <w osisId="Luke.12.54!1">Ἔλεγεν</w>
       <w osisId="Luke.12.54!2">δὲ</w>
@@ -13736,16 +13872,18 @@
       <w osisId="Luke.13.19!17">δένδρον</w>
       <pc>,</pc>
       <w osisId="Luke.13.19!18">καὶ</w>
-      <w osisId="Luke.13.19!19">τὰ</w>
-      <w osisId="Luke.13.19!20">πετεινὰ</w>
-      <w osisId="Luke.13.19!21">τοῦ</w>
-      <w osisId="Luke.13.19!22">οὐρανοῦ</w>
-      <w osisId="Luke.13.19!23">κατεσκήνωσεν</w>
-      <w osisId="Luke.13.19!24">ἐν</w>
-      <w osisId="Luke.13.19!25">τοῖς</w>
-      <w osisId="Luke.13.19!26">κλάδοις</w>
-      <w osisId="Luke.13.19!27">αὐτοῦ</w>
-      <pc>.</pc>
+      <q ref="Dn.4,12.21. Ezk.17,23;31,6." rend="bold">
+        <w osisId="Luke.13.19!19">τὰ</w>
+        <w osisId="Luke.13.19!20">πετεινὰ</w>
+        <w osisId="Luke.13.19!21">τοῦ</w>
+        <w osisId="Luke.13.19!22">οὐρανοῦ</w>
+        <w osisId="Luke.13.19!23">κατεσκήνωσεν</w>
+        <w osisId="Luke.13.19!24">ἐν</w>
+        <w osisId="Luke.13.19!25">τοῖς</w>
+        <w osisId="Luke.13.19!26">κλάδοις</w>
+        <w osisId="Luke.13.19!27">αὐτοῦ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.13.20"/>
       <w osisId="Luke.13.20!1">Καὶ</w>
       <w osisId="Luke.13.20!2">πάλιν</w>
@@ -13892,13 +14030,15 @@
       <w osisId="Luke.13.27!7">πόθεν</w>
       <w osisId="Luke.13.27!8">ἐστέ</w>
       <pc>·</pc>
-      <w osisId="Luke.13.27!9">ἀπόστητε</w>
-      <w osisId="Luke.13.27!10">ἀπ’</w>
-      <w osisId="Luke.13.27!11">ἐμοῦ</w>
-      <w osisId="Luke.13.27!12">πάντες</w>
-      <w osisId="Luke.13.27!13">ἐργάται</w>
-      <w osisId="Luke.13.27!14">ἀδικίας</w>
-      <pc>.</pc>
+      <q ref="Ps.6,8." rend="bold">
+        <w osisId="Luke.13.27!9">ἀπόστητε</w>
+        <w osisId="Luke.13.27!10">ἀπ’</w>
+        <w osisId="Luke.13.27!11">ἐμοῦ</w>
+        <w osisId="Luke.13.27!12">πάντες</w>
+        <w osisId="Luke.13.27!13">ἐργάται</w>
+        <w osisId="Luke.13.27!14">ἀδικίας</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.13.28"/>
       <w osisId="Luke.13.28!1">ἐκεῖ</w>
       <w osisId="Luke.13.28!2">ἔσται</w>
@@ -13935,10 +14075,12 @@
       <milestone unit="verse" id="Luke.13.29"/>
       <w osisId="Luke.13.29!1">καὶ</w>
       <w osisId="Luke.13.29!2">ἥξουσιν</w>
-      <w osisId="Luke.13.29!3">ἀπὸ</w>
-      <w osisId="Luke.13.29!4">ἀνατολῶν</w>
-      <w osisId="Luke.13.29!5">καὶ</w>
-      <w osisId="Luke.13.29!6">δυσμῶν</w>
+      <q ref="Mal.1,11. Is.49,12;59,19. Ps.107,3." rend="bold">
+        <w osisId="Luke.13.29!3">ἀπὸ</w>
+        <w osisId="Luke.13.29!4">ἀνατολῶν</w>
+        <w osisId="Luke.13.29!5">καὶ</w>
+        <w osisId="Luke.13.29!6">δυσμῶν</w>
+      </q>
       <w osisId="Luke.13.29!7">καὶ</w>
       <w osisId="Luke.13.29!8">ἀπὸ</w>
       <w osisId="Luke.13.29!9">βορρᾶ</w>
@@ -14071,12 +14213,14 @@
       <pc>.</pc>
       <milestone unit="verse" id="Luke.13.35"/>
       <w osisId="Luke.13.35!1">ἰδοὺ</w>
-      <w osisId="Luke.13.35!2">ἀφίεται</w>
-      <w osisId="Luke.13.35!3">ὑμῖν</w>
-      <w osisId="Luke.13.35!4">ὁ</w>
-      <w osisId="Luke.13.35!5">οἶκος</w>
-      <w osisId="Luke.13.35!6">ὑμῶν</w>
-      <pc>.</pc>
+      <q ref="Jer.22,5;12,7. Ps.69,25;118,26." rend="bold">
+        <w osisId="Luke.13.35!2">ἀφίεται</w>
+        <w osisId="Luke.13.35!3">ὑμῖν</w>
+        <w osisId="Luke.13.35!4">ὁ</w>
+        <w osisId="Luke.13.35!5">οἶκος</w>
+        <w osisId="Luke.13.35!6">ὑμῶν</w>
+        <pc>.</pc>
+      </q>
       <w osisId="Luke.13.35!7">λέγω</w>
       <w osisId="Luke.13.35!8">δὲ</w>
       <w osisId="Luke.13.35!9">ὑμῖν</w>
@@ -14089,15 +14233,19 @@
       <w osisId="Luke.13.35!15">ἥξει</w>
       <w osisId="Luke.13.35!16">ὅτε</w>
       <w osisId="Luke.13.35!17">εἴπητε</w>
-    </p>
-    <p>
-      <w osisId="Luke.13.35!18">Εὐλογημένος</w>
-      <w osisId="Luke.13.35!19">ὁ</w>
-      <w osisId="Luke.13.35!20">ἐρχόμενος</w>
-      <w osisId="Luke.13.35!21">ἐν</w>
-      <w osisId="Luke.13.35!22">ὀνόματι</w>
-      <w osisId="Luke.13.35!23">Κυρίου</w>
-      <pc>.</pc>
+      <q ref="Jer.22,5;12,7. Ps.69,25;118,26." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Luke.13.35!18">Εὐλογημένος</w>
+            <w osisId="Luke.13.35!19">ὁ</w>
+            <w osisId="Luke.13.35!20">ἐρχόμενος</w>
+            <w osisId="Luke.13.35!21">ἐν</w>
+            <w osisId="Luke.13.35!22">ὀνόματι</w>
+            <w osisId="Luke.13.35!23">Κυρίου</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
     </p>
   </chapter>
   <chapter osisId="Luke.14">
@@ -16468,11 +16616,15 @@
       <w osisId="Luke.17.14!3">εἶπεν</w>
       <w osisId="Luke.17.14!4">αὐτοῖς</w>
       <w osisId="Luke.17.14!5">Πορευθέντες</w>
-      <w osisId="Luke.17.14!6">ἐπιδείξατε</w>
+      <q ref="Lv.13,49;14,2.3." rend="bold">
+        <w osisId="Luke.17.14!6">ἐπιδείξατε</w>
+      </q>
       <w osisId="Luke.17.14!7">ἑαυτοὺς</w>
-      <w osisId="Luke.17.14!8">τοῖς</w>
-      <w osisId="Luke.17.14!9">ἱερεῦσιν</w>
-      <pc>.</pc>
+      <q ref="Lv.13,49;14,2.3." rend="bold">
+        <w osisId="Luke.17.14!8">τοῖς</w>
+        <w osisId="Luke.17.14!9">ἱερεῦσιν</w>
+        <pc>.</pc>
+      </q>
       <w osisId="Luke.17.14!10">καὶ</w>
       <w osisId="Luke.17.14!11">ἐγένετο</w>
       <w osisId="Luke.17.14!12">ἐν</w>
@@ -16716,12 +16868,14 @@
       <w osisId="Luke.17.27!5">ἄχρι</w>
       <w osisId="Luke.17.27!6">ἧς</w>
       <w osisId="Luke.17.27!7">ἡμέρας</w>
-      <w osisId="Luke.17.27!8">εἰσῆλθεν</w>
-      <w osisId="Luke.17.27!9">Νῶε</w>
-      <w osisId="Luke.17.27!10">εἰς</w>
-      <w osisId="Luke.17.27!11">τὴν</w>
-      <w osisId="Luke.17.27!12">κιβωτόν</w>
-      <pc>,</pc>
+      <q ref="Gn.7,7—23." rend="bold">
+        <w osisId="Luke.17.27!8">εἰσῆλθεν</w>
+        <w osisId="Luke.17.27!9">Νῶε</w>
+        <w osisId="Luke.17.27!10">εἰς</w>
+        <w osisId="Luke.17.27!11">τὴν</w>
+        <w osisId="Luke.17.27!12">κιβωτόν</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Luke.17.27!13">καὶ</w>
       <w osisId="Luke.17.27!14">ἦλθεν</w>
       <w osisId="Luke.17.27!15">ὁ</w>
@@ -16760,12 +16914,14 @@
       <w osisId="Luke.17.29!6">ἀπὸ</w>
       <w osisId="Luke.17.29!7">Σοδόμων</w>
       <pc>,</pc>
-      <w osisId="Luke.17.29!8">ἔβρεξεν</w>
-      <w osisId="Luke.17.29!9">πῦρ</w>
-      <w osisId="Luke.17.29!10">καὶ</w>
-      <w osisId="Luke.17.29!11">θεῖον</w>
-      <w osisId="Luke.17.29!12">ἀπ’</w>
-      <w osisId="Luke.17.29!13">οὐρανοῦ</w>
+      <q ref="Gn.19,15.24.25." rend="bold">
+        <w osisId="Luke.17.29!8">ἔβρεξεν</w>
+        <w osisId="Luke.17.29!9">πῦρ</w>
+        <w osisId="Luke.17.29!10">καὶ</w>
+        <w osisId="Luke.17.29!11">θεῖον</w>
+        <w osisId="Luke.17.29!12">ἀπ’</w>
+        <w osisId="Luke.17.29!13">οὐρανοῦ</w>
+      </q>
       <w osisId="Luke.17.29!14">καὶ</w>
       <w osisId="Luke.17.29!15">ἀπώλεσεν</w>
       <w osisId="Luke.17.29!16">πάντας</w>
@@ -16812,11 +16968,13 @@
       <w osisId="Luke.17.31!24">ἀγρῷ</w>
       <w osisId="Luke.17.31!25">ὁμοίως</w>
       <w osisId="Luke.17.31!26">μὴ</w>
-      <w osisId="Luke.17.31!27">ἐπιστρεψάτω</w>
-      <w osisId="Luke.17.31!28">εἰς</w>
-      <w osisId="Luke.17.31!29">τὰ</w>
-      <w osisId="Luke.17.31!30">ὀπίσω</w>
-      <pc>.</pc>
+      <q ref="Gn.19,26." rend="bold">
+        <w osisId="Luke.17.31!27">ἐπιστρεψάτω</w>
+        <w osisId="Luke.17.31!28">εἰς</w>
+        <w osisId="Luke.17.31!29">τὰ</w>
+        <w osisId="Luke.17.31!30">ὀπίσω</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.17.32"/>
       <w osisId="Luke.17.32!1">μνημονεύετε</w>
       <w osisId="Luke.17.32!2">τῆς</w>
@@ -17320,26 +17478,28 @@
       <w osisId="Luke.18.20!1">τὰς</w>
       <w osisId="Luke.18.20!2">ἐντολὰς</w>
       <w osisId="Luke.18.20!3">οἶδας</w>
-      <w osisId="Luke.18.20!4">Μὴ</w>
-      <w osisId="Luke.18.20!5">μοιχεύσῃς</w>
-      <pc>,</pc>
-      <w osisId="Luke.18.20!6">Μὴ</w>
-      <w osisId="Luke.18.20!7">φονεύσῃς</w>
-      <pc>,</pc>
-      <w osisId="Luke.18.20!8">Μὴ</w>
-      <w osisId="Luke.18.20!9">κλέψῃς</w>
-      <pc>,</pc>
-      <w osisId="Luke.18.20!10">Μὴ</w>
-      <w osisId="Luke.18.20!11">ψευδομαρτυρήσῃς</w>
-      <pc>,</pc>
-      <w osisId="Luke.18.20!12">Τίμα</w>
-      <w osisId="Luke.18.20!13">τὸν</w>
-      <w osisId="Luke.18.20!14">πατέρα</w>
-      <w osisId="Luke.18.20!15">σου</w>
-      <w osisId="Luke.18.20!16">καὶ</w>
-      <w osisId="Luke.18.20!17">τὴν</w>
-      <w osisId="Luke.18.20!18">μητέρα</w>
-      <pc>.</pc>
+      <q ref="Ex.20,12—16. Dt.5,16—20." rend="bold">
+        <w osisId="Luke.18.20!4">Μὴ</w>
+        <w osisId="Luke.18.20!5">μοιχεύσῃς</w>
+        <pc>,</pc>
+        <w osisId="Luke.18.20!6">Μὴ</w>
+        <w osisId="Luke.18.20!7">φονεύσῃς</w>
+        <pc>,</pc>
+        <w osisId="Luke.18.20!8">Μὴ</w>
+        <w osisId="Luke.18.20!9">κλέψῃς</w>
+        <pc>,</pc>
+        <w osisId="Luke.18.20!10">Μὴ</w>
+        <w osisId="Luke.18.20!11">ψευδομαρτυρήσῃς</w>
+        <pc>,</pc>
+        <w osisId="Luke.18.20!12">Τίμα</w>
+        <w osisId="Luke.18.20!13">τὸν</w>
+        <w osisId="Luke.18.20!14">πατέρα</w>
+        <w osisId="Luke.18.20!15">σου</w>
+        <w osisId="Luke.18.20!16">καὶ</w>
+        <w osisId="Luke.18.20!17">τὴν</w>
+        <w osisId="Luke.18.20!18">μητέρα</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.18.21"/>
       <w osisId="Luke.18.21!1">ὁ</w>
       <w osisId="Luke.18.21!2">δὲ</w>
@@ -17906,12 +18066,16 @@
       <w osisId="Luke.19.10!4">Υἱὸς</w>
       <w osisId="Luke.19.10!5">τοῦ</w>
       <w osisId="Luke.19.10!6">ἀνθρώπου</w>
-      <w osisId="Luke.19.10!7">ζητῆσαι</w>
+      <q ref="Ezk.34,16." rend="bold">
+        <w osisId="Luke.19.10!7">ζητῆσαι</w>
+      </q>
       <w osisId="Luke.19.10!8">καὶ</w>
       <w osisId="Luke.19.10!9">σῶσαι</w>
-      <w osisId="Luke.19.10!10">τὸ</w>
-      <w osisId="Luke.19.10!11">ἀπολωλός</w>
-      <pc>.</pc>
+      <q ref="Ezk.34,16." rend="bold">
+        <w osisId="Luke.19.10!10">τὸ</w>
+        <w osisId="Luke.19.10!11">ἀπολωλός</w>
+        <pc>.</pc>
+      </q>
     </p>
     <p>
       <milestone unit="verse" id="Luke.19.11"/>
@@ -18427,34 +18591,39 @@
       <pc>,</pc>
       <milestone unit="verse" id="Luke.19.38"/>
       <w osisId="Luke.19.38!1">λέγοντες</w>
-    </p>
-    <p>
-      <w osisId="Luke.19.38!2">Εὐλογημένος</w>
-      <w osisId="Luke.19.38!3">ὁ</w>
-      <w osisId="Luke.19.38!4">ἐρχόμενος</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.19.38!5">ὁ</w>
-      <w osisId="Luke.19.38!6">Βασιλεὺς</w>
-      <w osisId="Luke.19.38!7">ἐν</w>
-      <w osisId="Luke.19.38!8">ὀνόματι</w>
-      <w osisId="Luke.19.38!9">Κυρίου</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <w osisId="Luke.19.38!10">ἐν</w>
-      <w osisId="Luke.19.38!11">οὐρανῷ</w>
-      <w osisId="Luke.19.38!12">εἰρήνη</w>
-    </p>
-    <p>
-      <w osisId="Luke.19.38!13">καὶ</w>
-      <w osisId="Luke.19.38!14">δόξα</w>
-      <w osisId="Luke.19.38!15">ἐν</w>
-      <w osisId="Luke.19.38!16">ὑψίστοις</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <lg>
+        <q ref="Ps.118,26." rend="bold">
+          <l>
+            <w osisId="Luke.19.38!2">Εὐλογημένος</w>
+            <w osisId="Luke.19.38!3">ὁ</w>
+            <w osisId="Luke.19.38!4">ἐρχόμενος</w>
+            <pc>,</pc>
+          </l>
+        </q>
+        <l>
+          <w osisId="Luke.19.38!5">ὁ</w>
+          <w osisId="Luke.19.38!6">Βασιλεὺς</w>
+          <q ref="Ps.118,26." rend="bold">
+            <w osisId="Luke.19.38!7">ἐν</w>
+            <w osisId="Luke.19.38!8">ὀνόματι</w>
+            <w osisId="Luke.19.38!9">Κυρίου</w>
+            <pc>·</pc>
+          </q>
+        </l>
+        <l>
+          <w osisId="Luke.19.38!10">ἐν</w>
+          <w osisId="Luke.19.38!11">οὐρανῷ</w>
+          <w osisId="Luke.19.38!12">εἰρήνη</w>
+        </l>
+        <l>
+          <w osisId="Luke.19.38!13">καὶ</w>
+          <w osisId="Luke.19.38!14">δόξα</w>
+          <w osisId="Luke.19.38!15">ἐν</w>
+          <w osisId="Luke.19.38!16">ὑψίστοις</w>
+          <pc>.</pc>
+        </l>
+      </lg>
+      
       <milestone unit="verse" id="Luke.19.39"/>
       <w osisId="Luke.19.39!1">καί</w>
       <w osisId="Luke.19.39!2">τινες</w>
@@ -18544,12 +18713,16 @@
       <pc>,</pc>
       <milestone unit="verse" id="Luke.19.44"/>
       <w osisId="Luke.19.44!1">καὶ</w>
-      <w osisId="Luke.19.44!2">ἐδαφιοῦσίν</w>
+      <q ref="Ps.137,9." rend="bold">
+        <w osisId="Luke.19.44!2">ἐδαφιοῦσίν</w>
+      </q>
       <w osisId="Luke.19.44!3">σε</w>
       <w osisId="Luke.19.44!4">καὶ</w>
-      <w osisId="Luke.19.44!5">τὰ</w>
-      <w osisId="Luke.19.44!6">τέκνα</w>
-      <w osisId="Luke.19.44!7">σου</w>
+      <q ref="Ps.137,9." rend="bold">
+        <w osisId="Luke.19.44!5">τὰ</w>
+        <w osisId="Luke.19.44!6">τέκνα</w>
+        <w osisId="Luke.19.44!7">σου</w>
+      </q>
       <w osisId="Luke.19.44!8">ἐν</w>
       <w osisId="Luke.19.44!9">σοί</w>
       <pc>,</pc>
@@ -18587,21 +18760,25 @@
       <w osisId="Luke.19.46!1">λέγων</w>
       <w osisId="Luke.19.46!2">αὐτοῖς</w>
       <w osisId="Luke.19.46!3">Γέγραπται</w>
-      <w osisId="Luke.19.46!4">Καὶ</w>
-      <w osisId="Luke.19.46!5">ἔσται</w>
-      <w osisId="Luke.19.46!6">ὁ</w>
-      <w osisId="Luke.19.46!7">οἶκός</w>
-      <w osisId="Luke.19.46!8">μου</w>
-      <w osisId="Luke.19.46!9">οἶκος</w>
-      <w osisId="Luke.19.46!10">προσευχῆς</w>
-      <pc>·</pc>
+      <q ref="Is.56,7. Jer.7,11." rend="bold">
+        <w osisId="Luke.19.46!4">Καὶ</w>
+        <w osisId="Luke.19.46!5">ἔσται</w>
+        <w osisId="Luke.19.46!6">ὁ</w>
+        <w osisId="Luke.19.46!7">οἶκός</w>
+        <w osisId="Luke.19.46!8">μου</w>
+        <w osisId="Luke.19.46!9">οἶκος</w>
+        <w osisId="Luke.19.46!10">προσευχῆς</w>
+        <pc>·</pc>
+      </q>
       <w osisId="Luke.19.46!11">ὑμεῖς</w>
       <w osisId="Luke.19.46!12">δὲ</w>
       <w osisId="Luke.19.46!13">αὐτὸν</w>
       <w osisId="Luke.19.46!14">ἐποιήσατε</w>
-      <w osisId="Luke.19.46!15">σπήλαιον</w>
-      <w osisId="Luke.19.46!16">λῃστῶν</w>
-      <pc>.</pc>
+      <q ref="Is.56,7. Jer.7,11." rend="bold">
+        <w osisId="Luke.19.46!15">σπήλαιον</w>
+        <w osisId="Luke.19.46!16">λῃστῶν</w>
+        <pc>.</pc>
+      </q>
     </p>
     <p>
       <milestone unit="verse" id="Luke.19.47"/>
@@ -18801,9 +18978,11 @@
       <w osisId="Luke.20.9!9">ταύτην</w>
       <pc>.</pc>
       <w osisId="Luke.20.9!10">ἄνθρωπος</w>
-      <w osisId="Luke.20.9!11">ἐφύτευσεν</w>
-      <w osisId="Luke.20.9!12">ἀμπελῶνα</w>
-      <pc>,</pc>
+      <q ref="Is.5,1." rend="bold">
+        <w osisId="Luke.20.9!11">ἐφύτευσεν</w>
+        <w osisId="Luke.20.9!12">ἀμπελῶνα</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Luke.20.9!13">καὶ</w>
       <w osisId="Luke.20.9!14">ἐξέδετο</w>
       <w osisId="Luke.20.9!15">αὐτὸν</w>
@@ -18964,24 +19143,26 @@
       <w osisId="Luke.20.17!9">τὸ</w>
       <w osisId="Luke.20.17!10">γεγραμμένον</w>
       <w osisId="Luke.20.17!11">τοῦτο</w>
-    </p>
-    <p>
-      <w osisId="Luke.20.17!12">Λίθον</w>
-      <w osisId="Luke.20.17!13">ὃν</w>
-      <w osisId="Luke.20.17!14">ἀπεδοκίμασαν</w>
-      <w osisId="Luke.20.17!15">οἱ</w>
-      <w osisId="Luke.20.17!16">οἰκοδομοῦντες</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Luke.20.17!17">οὗτος</w>
-      <w osisId="Luke.20.17!18">ἐγενήθη</w>
-      <w osisId="Luke.20.17!19">εἰς</w>
-      <w osisId="Luke.20.17!20">κεφαλὴν</w>
-      <w osisId="Luke.20.17!21">γωνίας</w>
-      <pc>;</pc>
-    </p>
-    <p>
+      <q ref="Ps.118,22." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Luke.20.17!12">Λίθον</w>
+            <w osisId="Luke.20.17!13">ὃν</w>
+            <w osisId="Luke.20.17!14">ἀπεδοκίμασαν</w>
+            <w osisId="Luke.20.17!15">οἱ</w>
+            <w osisId="Luke.20.17!16">οἰκοδομοῦντες</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Luke.20.17!17">οὗτος</w>
+            <w osisId="Luke.20.17!18">ἐγενήθη</w>
+            <w osisId="Luke.20.17!19">εἰς</w>
+            <w osisId="Luke.20.17!20">κεφαλὴν</w>
+            <w osisId="Luke.20.17!21">γωνίας</w>
+            <pc>;</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Luke.20.18"/>
       <w osisId="Luke.20.18!1">πᾶς</w>
       <w osisId="Luke.20.18!2">ὁ</w>
@@ -19183,32 +19364,38 @@
       <w osisId="Luke.20.28!4">ἔγραψεν</w>
       <w osisId="Luke.20.28!5">ἡμῖν</w>
       <pc>,</pc>
-      <w osisId="Luke.20.28!6">ἐάν</w>
-      <w osisId="Luke.20.28!7">τινος</w>
-      <w osisId="Luke.20.28!8">ἀδελφὸς</w>
-      <w osisId="Luke.20.28!9">ἀποθάνῃ</w>
+      <q ref="Gn.38,8. Dt.25,5.6." rend="bold">
+        <w osisId="Luke.20.28!6">ἐάν</w>
+        <w osisId="Luke.20.28!7">τινος</w>
+        <w osisId="Luke.20.28!8">ἀδελφὸς</w>
+        <w osisId="Luke.20.28!9">ἀποθάνῃ</w>
+      </q>
       <w osisId="Luke.20.28!10">ἔχων</w>
       <w osisId="Luke.20.28!11">γυναῖκα</w>
       <pc>,</pc>
-      <w osisId="Luke.20.28!12">καὶ</w>
-      <w osisId="Luke.20.28!13">οὗτος</w>
-      <w osisId="Luke.20.28!14">ἄτεκνος</w>
-      <w osisId="Luke.20.28!15">ᾖ</w>
-      <pc>,</pc>
+      <q ref="Gn.38,8. Dt.25,5.6." rend="bold">
+        <w osisId="Luke.20.28!12">καὶ</w>
+        <w osisId="Luke.20.28!13">οὗτος</w>
+        <w osisId="Luke.20.28!14">ἄτεκνος</w>
+        <w osisId="Luke.20.28!15">ᾖ</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Luke.20.28!16">ἵνα</w>
-      <w osisId="Luke.20.28!17">λάβῃ</w>
-      <w osisId="Luke.20.28!18">ὁ</w>
-      <w osisId="Luke.20.28!19">ἀδελφὸς</w>
-      <w osisId="Luke.20.28!20">αὐτοῦ</w>
-      <w osisId="Luke.20.28!21">τὴν</w>
-      <w osisId="Luke.20.28!22">γυναῖκα</w>
-      <w osisId="Luke.20.28!23">καὶ</w>
-      <w osisId="Luke.20.28!24">ἐξαναστήσῃ</w>
-      <w osisId="Luke.20.28!25">σπέρμα</w>
-      <w osisId="Luke.20.28!26">τῷ</w>
-      <w osisId="Luke.20.28!27">ἀδελφῷ</w>
-      <w osisId="Luke.20.28!28">αὐτοῦ</w>
-      <pc>.</pc>
+      <q ref="Gn.38,8. Dt.25,5.6." rend="bold">
+        <w osisId="Luke.20.28!17">λάβῃ</w>
+        <w osisId="Luke.20.28!18">ὁ</w>
+        <w osisId="Luke.20.28!19">ἀδελφὸς</w>
+        <w osisId="Luke.20.28!20">αὐτοῦ</w>
+        <w osisId="Luke.20.28!21">τὴν</w>
+        <w osisId="Luke.20.28!22">γυναῖκα</w>
+        <w osisId="Luke.20.28!23">καὶ</w>
+        <w osisId="Luke.20.28!24">ἐξαναστήσῃ</w>
+        <w osisId="Luke.20.28!25">σπέρμα</w>
+        <w osisId="Luke.20.28!26">τῷ</w>
+        <w osisId="Luke.20.28!27">ἀδελφῷ</w>
+        <w osisId="Luke.20.28!28">αὐτοῦ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.20.29"/>
       <w osisId="Luke.20.29!1">ἑπτὰ</w>
       <w osisId="Luke.20.29!2">οὖν</w>
@@ -19341,17 +19528,19 @@
       <pc>,</pc>
       <w osisId="Luke.20.37!12">ὡς</w>
       <w osisId="Luke.20.37!13">λέγει</w>
-      <w osisId="Luke.20.37!14">Κύριον</w>
-      <w osisId="Luke.20.37!15">τὸν</w>
-      <w osisId="Luke.20.37!16">Θεὸν</w>
-      <w osisId="Luke.20.37!17">Ἀβραὰμ</w>
-      <w osisId="Luke.20.37!18">καὶ</w>
-      <w osisId="Luke.20.37!19">Θεὸν</w>
-      <w osisId="Luke.20.37!20">Ἰσαὰκ</w>
-      <w osisId="Luke.20.37!21">καὶ</w>
-      <w osisId="Luke.20.37!22">Θεὸν</w>
-      <w osisId="Luke.20.37!23">Ἰακώβ</w>
-      <pc>·</pc>
+      <q ref="Ex.3,2.6." rend="bold">
+        <w osisId="Luke.20.37!14">Κύριον</w>
+        <w osisId="Luke.20.37!15">τὸν</w>
+        <w osisId="Luke.20.37!16">Θεὸν</w>
+        <w osisId="Luke.20.37!17">Ἀβραὰμ</w>
+        <w osisId="Luke.20.37!18">καὶ</w>
+        <w osisId="Luke.20.37!19">Θεὸν</w>
+        <w osisId="Luke.20.37!20">Ἰσαὰκ</w>
+        <w osisId="Luke.20.37!21">καὶ</w>
+        <w osisId="Luke.20.37!22">Θεὸν</w>
+        <w osisId="Luke.20.37!23">Ἰακώβ</w>
+        <pc>·</pc>
+      </q>
       <milestone unit="verse" id="Luke.20.38"/>
       <w osisId="Luke.20.38!1">Θεὸς</w>
       <w osisId="Luke.20.38!2">δὲ</w>
@@ -19407,33 +19596,35 @@
       <w osisId="Luke.20.42!5">ἐν</w>
       <w osisId="Luke.20.42!6">βίβλῳ</w>
       <w osisId="Luke.20.42!7">ψαλμῶν</w>
-    </p>
-    <p>
-      <w osisId="Luke.20.42!8">Εἶπεν</w>
-      <w osisId="Luke.20.42!9">Κύριος</w>
-      <w osisId="Luke.20.42!10">τῷ</w>
-      <w osisId="Luke.20.42!11">Κυρίῳ</w>
-      <w osisId="Luke.20.42!12">μου</w>
-      <w osisId="Luke.20.42!13">Κάθου</w>
-      <w osisId="Luke.20.42!14">ἐκ</w>
-      <w osisId="Luke.20.42!15">δεξιῶν</w>
-      <w osisId="Luke.20.42!16">μου</w>
-    </p>
-    <p>
-      <milestone unit="verse" id="Luke.20.43"/>
-      <w osisId="Luke.20.43!1">ἕως</w>
-      <w osisId="Luke.20.43!2">ἂν</w>
-      <w osisId="Luke.20.43!3">θῶ</w>
-      <w osisId="Luke.20.43!4">τοὺς</w>
-      <w osisId="Luke.20.43!5">ἐχθρούς</w>
-      <w osisId="Luke.20.43!6">σου</w>
-      <w osisId="Luke.20.43!7">ὑποπόδιον</w>
-      <w osisId="Luke.20.43!8">τῶν</w>
-      <w osisId="Luke.20.43!9">ποδῶν</w>
-      <w osisId="Luke.20.43!10">σου</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Ps.110,1." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Luke.20.42!8">Εἶπεν</w>
+            <w osisId="Luke.20.42!9">Κύριος</w>
+            <w osisId="Luke.20.42!10">τῷ</w>
+            <w osisId="Luke.20.42!11">Κυρίῳ</w>
+            <w osisId="Luke.20.42!12">μου</w>
+            <w osisId="Luke.20.42!13">Κάθου</w>
+            <w osisId="Luke.20.42!14">ἐκ</w>
+            <w osisId="Luke.20.42!15">δεξιῶν</w>
+            <w osisId="Luke.20.42!16">μου</w>
+          </l>
+          <l>
+            <milestone unit="verse" id="Luke.20.43"/>
+            <w osisId="Luke.20.43!1">ἕως</w>
+            <w osisId="Luke.20.43!2">ἂν</w>
+            <w osisId="Luke.20.43!3">θῶ</w>
+            <w osisId="Luke.20.43!4">τοὺς</w>
+            <w osisId="Luke.20.43!5">ἐχθρούς</w>
+            <w osisId="Luke.20.43!6">σου</w>
+            <w osisId="Luke.20.43!7">ὑποπόδιον</w>
+            <w osisId="Luke.20.43!8">τῶν</w>
+            <w osisId="Luke.20.43!9">ποδῶν</w>
+            <w osisId="Luke.20.43!10">σου</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Luke.20.44"/>
       <w osisId="Luke.20.44!1">Δαυεὶδ</w>
       <w osisId="Luke.20.44!2">οὖν</w>
@@ -19669,10 +19860,14 @@
       <w osisId="Luke.21.9!7">μὴ</w>
       <w osisId="Luke.21.9!8">πτοηθῆτε</w>
       <pc>·</pc>
-      <w osisId="Luke.21.9!9">δεῖ</w>
+      <q ref="Dn.2,28." rend="bold">
+        <w osisId="Luke.21.9!9">δεῖ</w>
+      </q>
       <w osisId="Luke.21.9!10">γὰρ</w>
       <w osisId="Luke.21.9!11">ταῦτα</w>
-      <w osisId="Luke.21.9!12">γενέσθαι</w>
+      <q ref="Dn.2,28." rend="bold">
+        <w osisId="Luke.21.9!12">γενέσθαι</w>
+      </q>
       <w osisId="Luke.21.9!13">πρῶτον</w>
       <pc>,</pc>
       <w osisId="Luke.21.9!14">ἀλλ’</w>
@@ -19685,15 +19880,17 @@
       <w osisId="Luke.21.10!1">Τότε</w>
       <w osisId="Luke.21.10!2">ἔλεγεν</w>
       <w osisId="Luke.21.10!3">αὐτοῖς</w>
-      <w osisId="Luke.21.10!4">Ἐγερθήσεται</w>
-      <w osisId="Luke.21.10!5">ἔθνος</w>
-      <w osisId="Luke.21.10!6">ἐπ’</w>
-      <w osisId="Luke.21.10!7">ἔθνος</w>
-      <w osisId="Luke.21.10!8">καὶ</w>
-      <w osisId="Luke.21.10!9">βασιλεία</w>
-      <w osisId="Luke.21.10!10">ἐπὶ</w>
-      <w osisId="Luke.21.10!11">βασιλείαν</w>
-      <pc>,</pc>
+      <q ref="Is.19,2. 2Ch.15,6." rend="bold">
+        <w osisId="Luke.21.10!4">Ἐγερθήσεται</w>
+        <w osisId="Luke.21.10!5">ἔθνος</w>
+        <w osisId="Luke.21.10!6">ἐπ’</w>
+        <w osisId="Luke.21.10!7">ἔθνος</w>
+        <w osisId="Luke.21.10!8">καὶ</w>
+        <w osisId="Luke.21.10!9">βασιλεία</w>
+        <w osisId="Luke.21.10!10">ἐπὶ</w>
+        <w osisId="Luke.21.10!11">βασιλείαν</w>
+        <pc>,</pc>
+      </q>
       <milestone unit="verse" id="Luke.21.11"/>
       <w osisId="Luke.21.11!1">σεισμοί</w>
       <w osisId="Luke.21.11!2">τε</w>
@@ -19880,8 +20077,10 @@
       <pc>,</pc>
       <milestone unit="verse" id="Luke.21.22"/>
       <w osisId="Luke.21.22!1">ὅτι</w>
-      <w osisId="Luke.21.22!2">ἡμέραι</w>
-      <w osisId="Luke.21.22!3">ἐκδικήσεως</w>
+      <q ref="Dt.32,35. Hos.9,7. Jer.5,29." rend="bold">
+        <w osisId="Luke.21.22!2">ἡμέραι</w>
+        <w osisId="Luke.21.22!3">ἐκδικήσεως</w>
+      </q>
       <w osisId="Luke.21.22!4">αὗταί</w>
       <w osisId="Luke.21.22!5">εἰσιν</w>
       <w osisId="Luke.21.22!6">τοῦ</w>
@@ -19930,12 +20129,16 @@
       <w osisId="Luke.21.24!10">πάντα</w>
       <pc>,</pc>
       <w osisId="Luke.21.24!11">καὶ</w>
-      <w osisId="Luke.21.24!12">Ἱερουσαλὴμ</w>
+      <q ref="Dt.28,64. Zec.12,3. Is.63,18. Ps.79,1. Dn.8,10." rend="bold">
+        <w osisId="Luke.21.24!12">Ἱερουσαλὴμ</w>
+      </q>
       <w osisId="Luke.21.24!13">ἔσται</w>
-      <w osisId="Luke.21.24!14">πατουμένη</w>
-      <w osisId="Luke.21.24!15">ὑπὸ</w>
-      <w osisId="Luke.21.24!16">ἐθνῶν</w>
-      <pc>,</pc>
+      <q ref="Dt.28,64. Zec.12,3. Is.63,18. Ps.79,1. Dn.8,10." rend="bold">
+        <w osisId="Luke.21.24!14">πατουμένη</w>
+        <w osisId="Luke.21.24!15">ὑπὸ</w>
+        <w osisId="Luke.21.24!16">ἐθνῶν</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Luke.21.24!17">ἄχρι</w>
       <w osisId="Luke.21.24!18">οὗ</w>
       <w osisId="Luke.21.24!19">πληρωθῶσιν</w>
@@ -19958,14 +20161,20 @@
       <w osisId="Luke.21.25!12">τῆς</w>
       <w osisId="Luke.21.25!13">γῆς</w>
       <w osisId="Luke.21.25!14">συνοχὴ</w>
-      <w osisId="Luke.21.25!15">ἐθνῶν</w>
+      <q ref="Ps.65,7." rend="bold">
+        <w osisId="Luke.21.25!15">ἐθνῶν</w>
+      </q>
       <w osisId="Luke.21.25!16">ἐν</w>
       <w osisId="Luke.21.25!17">ἀπορίᾳ</w>
-      <w osisId="Luke.21.25!18">ἤχους</w>
-      <w osisId="Luke.21.25!19">θαλάσσης</w>
+      <q ref="Ps.65,7." rend="bold">
+        <w osisId="Luke.21.25!18">ἤχους</w>
+        <w osisId="Luke.21.25!19">θαλάσσης</w>
+      </q>
       <w osisId="Luke.21.25!20">καὶ</w>
-      <w osisId="Luke.21.25!21">σάλου</w>
-      <pc>,</pc>
+      <q ref="Ps.65,7." rend="bold">
+        <w osisId="Luke.21.25!21">σάλου</w>
+        <pc>,</pc>
+      </q>
       <milestone unit="verse" id="Luke.21.26"/>
       <w osisId="Luke.21.26!1">ἀποψυχόντων</w>
       <w osisId="Luke.21.26!2">ἀνθρώπων</w>
@@ -19978,24 +20187,30 @@
       <w osisId="Luke.21.26!9">τῇ</w>
       <w osisId="Luke.21.26!10">οἰκουμένῃ</w>
       <pc>·</pc>
-      <w osisId="Luke.21.26!11">αἱ</w>
+      <q ref="Is.34,4." rend="bold">
+        <w osisId="Luke.21.26!11">αἱ</w>
+      </q>
       <w osisId="Luke.21.26!12">γὰρ</w>
-      <w osisId="Luke.21.26!13">δυνάμεις</w>
-      <w osisId="Luke.21.26!14">τῶν</w>
-      <w osisId="Luke.21.26!15">οὐρανῶν</w>
-      <w osisId="Luke.21.26!16">σαλευθήσονται</w>
-      <pc>.</pc>
+      <q ref="Is.34,4." rend="bold">
+        <w osisId="Luke.21.26!13">δυνάμεις</w>
+        <w osisId="Luke.21.26!14">τῶν</w>
+        <w osisId="Luke.21.26!15">οὐρανῶν</w>
+        <w osisId="Luke.21.26!16">σαλευθήσονται</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.21.27"/>
       <w osisId="Luke.21.27!1">καὶ</w>
       <w osisId="Luke.21.27!2">τότε</w>
       <w osisId="Luke.21.27!3">ὄψονται</w>
-      <w osisId="Luke.21.27!4">τὸν</w>
-      <w osisId="Luke.21.27!5">Υἱὸν</w>
-      <w osisId="Luke.21.27!6">τοῦ</w>
-      <w osisId="Luke.21.27!7">ἀνθρώπου</w>
-      <w osisId="Luke.21.27!8">ἐρχόμενον</w>
-      <w osisId="Luke.21.27!9">ἐν</w>
-      <w osisId="Luke.21.27!10">νεφέλῃ</w>
+      <q ref="Dn.7,13." rend="bold">
+        <w osisId="Luke.21.27!4">τὸν</w>
+        <w osisId="Luke.21.27!5">Υἱὸν</w>
+        <w osisId="Luke.21.27!6">τοῦ</w>
+        <w osisId="Luke.21.27!7">ἀνθρώπου</w>
+        <w osisId="Luke.21.27!8">ἐρχόμενον</w>
+        <w osisId="Luke.21.27!9">ἐν</w>
+        <w osisId="Luke.21.27!10">νεφέλῃ</w>
+      </q>
       <w osisId="Luke.21.27!11">μετὰ</w>
       <w osisId="Luke.21.27!12">δυνάμεως</w>
       <w osisId="Luke.21.27!13">καὶ</w>
@@ -20128,20 +20343,28 @@
       <w osisId="Luke.21.34!24">ἐκείνη</w>
       <milestone unit="verse" id="Luke.21.35"/>
       <w osisId="Luke.21.35!1">ὡς</w>
-      <w osisId="Luke.21.35!2">παγίς</w>
-      <pc>·</pc>
+      <q ref="Is.24,17." rend="bold">
+        <w osisId="Luke.21.35!2">παγίς</w>
+        <pc>·</pc>
+      </q>
       <w osisId="Luke.21.35!3">ἐπεισελεύσεται</w>
       <w osisId="Luke.21.35!4">γὰρ</w>
-      <w osisId="Luke.21.35!5">ἐπὶ</w>
+      <q ref="Is.24,17." rend="bold">
+        <w osisId="Luke.21.35!5">ἐπὶ</w>
+      </q>
       <w osisId="Luke.21.35!6">πάντας</w>
-      <w osisId="Luke.21.35!7">τοὺς</w>
-      <w osisId="Luke.21.35!8">καθημένους</w>
-      <w osisId="Luke.21.35!9">ἐπὶ</w>
+      <q ref="Is.24,17." rend="bold">
+        <w osisId="Luke.21.35!7">τοὺς</w>
+        <w osisId="Luke.21.35!8">καθημένους</w>
+        <w osisId="Luke.21.35!9">ἐπὶ</w>
+      </q>
       <w osisId="Luke.21.35!10">πρόσωπον</w>
       <w osisId="Luke.21.35!11">πάσης</w>
-      <w osisId="Luke.21.35!12">τῆς</w>
-      <w osisId="Luke.21.35!13">γῆς</w>
-      <pc>.</pc>
+      <q ref="Is.24,17." rend="bold">
+        <w osisId="Luke.21.35!12">τῆς</w>
+        <w osisId="Luke.21.35!13">γῆς</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.21.36"/>
       <w osisId="Luke.21.36!1">ἀγρυπνεῖτε</w>
       <w osisId="Luke.21.36!2">δὲ</w>
@@ -20540,10 +20763,12 @@
       <w osisId="Luke.22.20!11">ποτήριον</w>
       <w osisId="Luke.22.20!12">ἡ</w>
       <w osisId="Luke.22.20!13">καινὴ</w>
-      <w osisId="Luke.22.20!14">διαθήκη</w>
-      <w osisId="Luke.22.20!15">ἐν</w>
-      <w osisId="Luke.22.20!16">τῷ</w>
-      <w osisId="Luke.22.20!17">αἵματί</w>
+      <q ref="Ex.24,8. Jer.31,31. Zec.9,11." rend="bold">
+        <w osisId="Luke.22.20!14">διαθήκη</w>
+        <w osisId="Luke.22.20!15">ἐν</w>
+        <w osisId="Luke.22.20!16">τῷ</w>
+        <w osisId="Luke.22.20!17">αἵματί</w>
+      </q>
       <w osisId="Luke.22.20!18">μου</w>
       <pc>,</pc>
       <w osisId="Luke.22.20!19">τὸ</w>
@@ -20877,11 +21102,13 @@
       <w osisId="Luke.22.37!11">ἐμοί</w>
       <pc>,</pc>
       <w osisId="Luke.22.37!12">τό</w>
-      <w osisId="Luke.22.37!13">Καὶ</w>
-      <w osisId="Luke.22.37!14">μετὰ</w>
-      <w osisId="Luke.22.37!15">ἀνόμων</w>
-      <w osisId="Luke.22.37!16">ἐλογίσθη</w>
-      <pc>·</pc>
+      <q ref="Is.53,12." rend="bold">
+       <w osisId="Luke.22.37!13">Καὶ</w>
+       <w osisId="Luke.22.37!14">μετὰ</w>
+       <w osisId="Luke.22.37!15">ἀνόμων</w>
+       <w osisId="Luke.22.37!16">ἐλογίσθη</w>
+       <pc>·</pc>
+      </q>
       <w osisId="Luke.22.37!17">καὶ</w>
       <w osisId="Luke.22.37!18">γὰρ</w>
       <w osisId="Luke.22.37!19">τὸ</w>
@@ -21458,18 +21685,20 @@
       <w osisId="Luke.22.69!3">νῦν</w>
       <w osisId="Luke.22.69!4">δὲ</w>
       <w osisId="Luke.22.69!5">ἔσται</w>
-      <w osisId="Luke.22.69!6">ὁ</w>
-      <w osisId="Luke.22.69!7">Υἱὸς</w>
-      <w osisId="Luke.22.69!8">τοῦ</w>
-      <w osisId="Luke.22.69!9">ἀνθρώπου</w>
-      <w osisId="Luke.22.69!10">καθήμενος</w>
-      <w osisId="Luke.22.69!11">ἐκ</w>
-      <w osisId="Luke.22.69!12">δεξιῶν</w>
-      <w osisId="Luke.22.69!13">τῆς</w>
-      <w osisId="Luke.22.69!14">δυνάμεως</w>
-      <w osisId="Luke.22.69!15">τοῦ</w>
-      <w osisId="Luke.22.69!16">Θεοῦ</w>
-      <pc>.</pc>
+      <q ref="Dn.7,13. Ps.110,1." rend="bold">
+        <w osisId="Luke.22.69!6">ὁ</w>
+        <w osisId="Luke.22.69!7">Υἱὸς</w>
+        <w osisId="Luke.22.69!8">τοῦ</w>
+        <w osisId="Luke.22.69!9">ἀνθρώπου</w>
+        <w osisId="Luke.22.69!10">καθήμενος</w>
+        <w osisId="Luke.22.69!11">ἐκ</w>
+        <w osisId="Luke.22.69!12">δεξιῶν</w>
+        <w osisId="Luke.22.69!13">τῆς</w>
+        <w osisId="Luke.22.69!14">δυνάμεως</w>
+        <w osisId="Luke.22.69!15">τοῦ</w>
+        <w osisId="Luke.22.69!16">Θεοῦ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.22.70"/>
       <w osisId="Luke.22.70!1">εἶπαν</w>
       <w osisId="Luke.22.70!2">δὲ</w>
@@ -22049,19 +22278,21 @@
       <milestone unit="verse" id="Luke.23.30"/>
       <w osisId="Luke.23.30!1">τότε</w>
       <w osisId="Luke.23.30!2">ἄρξονται</w>
-      <w osisId="Luke.23.30!3">λέγειν</w>
-      <w osisId="Luke.23.30!4">τοῖς</w>
-      <w osisId="Luke.23.30!5">ὄρεσιν</w>
-      <w osisId="Luke.23.30!6">Πέσατε</w>
-      <w osisId="Luke.23.30!7">ἐφ’</w>
-      <w osisId="Luke.23.30!8">ἡμᾶς</w>
-      <pc>,</pc>
-      <w osisId="Luke.23.30!9">καὶ</w>
-      <w osisId="Luke.23.30!10">τοῖς</w>
-      <w osisId="Luke.23.30!11">βουνοῖς</w>
-      <w osisId="Luke.23.30!12">Καλύψατε</w>
-      <w osisId="Luke.23.30!13">ἡμᾶς</w>
-      <pc>·</pc>
+      <q ref="Hos.10,8." rend="bold">
+        <w osisId="Luke.23.30!3">λέγειν</w>
+        <w osisId="Luke.23.30!4">τοῖς</w>
+        <w osisId="Luke.23.30!5">ὄρεσιν</w>
+        <w osisId="Luke.23.30!6">Πέσατε</w>
+        <w osisId="Luke.23.30!7">ἐφ’</w>
+        <w osisId="Luke.23.30!8">ἡμᾶς</w>
+        <pc>,</pc>
+        <w osisId="Luke.23.30!9">καὶ</w>
+        <w osisId="Luke.23.30!10">τοῖς</w>
+        <w osisId="Luke.23.30!11">βουνοῖς</w>
+        <w osisId="Luke.23.30!12">Καλύψατε</w>
+        <w osisId="Luke.23.30!13">ἡμᾶς</w>
+        <pc>·</pc>
+      </q>
       <milestone unit="verse" id="Luke.23.31"/>
       <w osisId="Luke.23.31!1">ὅτι</w>
       <w osisId="Luke.23.31!2">εἰ</w>
@@ -22131,22 +22362,28 @@
       <w osisId="Luke.23.34!11">τί</w>
       <w osisId="Luke.23.34!12">ποιοῦσιν</w>
       <pc>.</pc>
-      <w osisId="Luke.23.34!13">διαμεριζόμενοι</w>
+      <q ref="Is.53,12. Ps.22,18." rend="bold">
+        <w osisId="Luke.23.34!13">διαμεριζόμενοι</w>
+      </q>
       <w osisId="Luke.23.34!14">δὲ</w>
-      <w osisId="Luke.23.34!15">τὰ</w>
-      <w osisId="Luke.23.34!16">ἱμάτια</w>
-      <w osisId="Luke.23.34!17">αὐτοῦ</w>
-      <w osisId="Luke.23.34!18">ἔβαλον</w>
-      <w osisId="Luke.23.34!19">κλήρους</w>
-      <pc>.</pc>
+      <q ref="Is.53,12. Ps.22,18." rend="bold">
+        <w osisId="Luke.23.34!15">τὰ</w>
+        <w osisId="Luke.23.34!16">ἱμάτια</w>
+        <w osisId="Luke.23.34!17">αὐτοῦ</w>
+        <w osisId="Luke.23.34!18">ἔβαλον</w>
+        <w osisId="Luke.23.34!19">κλήρους</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Luke.23.35"/>
       <w osisId="Luke.23.35!1">καὶ</w>
       <w osisId="Luke.23.35!2">εἱστήκει</w>
       <w osisId="Luke.23.35!3">ὁ</w>
       <w osisId="Luke.23.35!4">λαὸς</w>
-      <w osisId="Luke.23.35!5">θεωρῶν</w>
-      <pc>.</pc>
-      <w osisId="Luke.23.35!6">ἐξεμυκτήριζον</w>
+      <q ref="Ps.22,7." rend="bold">
+        <w osisId="Luke.23.35!5">θεωρῶν</w>
+        <pc>.</pc>
+        <w osisId="Luke.23.35!6">ἐξεμυκτήριζον</w>
+      </q>
       <w osisId="Luke.23.35!7">δὲ</w>
       <w osisId="Luke.23.35!8">καὶ</w>
       <w osisId="Luke.23.35!9">οἱ</w>
@@ -22335,14 +22572,16 @@
       <w osisId="Luke.23.46!7">εἶπεν</w>
       <w osisId="Luke.23.46!8">Πάτερ</w>
       <pc>,</pc>
-      <w osisId="Luke.23.46!9">εἰς</w>
-      <w osisId="Luke.23.46!10">χεῖράς</w>
-      <w osisId="Luke.23.46!11">σου</w>
-      <w osisId="Luke.23.46!12">παρατίθεμαι</w>
-      <w osisId="Luke.23.46!13">τὸ</w>
-      <w osisId="Luke.23.46!14">πνεῦμά</w>
-      <w osisId="Luke.23.46!15">μου</w>
-      <pc>.</pc>
+      <q ref="Ps.31,5." rend="bold">
+        <w osisId="Luke.23.46!9">εἰς</w>
+        <w osisId="Luke.23.46!10">χεῖράς</w>
+        <w osisId="Luke.23.46!11">σου</w>
+        <w osisId="Luke.23.46!12">παρατίθεμαι</w>
+        <w osisId="Luke.23.46!13">τὸ</w>
+        <w osisId="Luke.23.46!14">πνεῦμά</w>
+        <w osisId="Luke.23.46!15">μου</w>
+        <pc>.</pc>
+      </q>
       <w osisId="Luke.23.46!16">τοῦτο</w>
       <w osisId="Luke.23.46!17">δὲ</w>
       <w osisId="Luke.23.46!18">εἰπὼν</w>
@@ -22387,15 +22626,21 @@
       <w osisId="Luke.23.48!16">ὑπέστρεφον</w>
       <pc>.</pc>
       <milestone unit="verse" id="Luke.23.49"/>
-      <w osisId="Luke.23.49!1">εἱστήκεισαν</w>
+      <q ref="Ps.88,8;38,11." rend="bold">
+        <w osisId="Luke.23.49!1">εἱστήκεισαν</w>
+      </q>
       <w osisId="Luke.23.49!2">δὲ</w>
       <w osisId="Luke.23.49!3">πάντες</w>
-      <w osisId="Luke.23.49!4">οἱ</w>
-      <w osisId="Luke.23.49!5">γνωστοὶ</w>
+      <q ref="Ps.88,8;38,11." rend="bold">
+        <w osisId="Luke.23.49!4">οἱ</w>
+        <w osisId="Luke.23.49!5">γνωστοὶ</w>
+      </q>
       <w osisId="Luke.23.49!6">αὐτῷ</w>
-      <w osisId="Luke.23.49!7">ἀπὸ</w>
-      <w osisId="Luke.23.49!8">μακρόθεν</w>
-      <pc>,</pc>
+      <q ref="Ps.88,8;38,11." rend="bold">
+        <w osisId="Luke.23.49!7">ἀπὸ</w>
+        <w osisId="Luke.23.49!8">μακρόθεν</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Luke.23.49!9">καὶ</w>
       <w osisId="Luke.23.49!10">γυναῖκες</w>
       <w osisId="Luke.23.49!11">αἱ</w>

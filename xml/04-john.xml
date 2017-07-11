@@ -411,16 +411,18 @@
       <milestone unit="verse" id="John.1.23"/>
       <w osisId="John.1.23!1">ἔφη</w>
       <w osisId="John.1.23!2">Ἐγὼ</w>
-      <w osisId="John.1.23!3">φωνὴ</w>
-      <w osisId="John.1.23!4">βοῶντος</w>
-      <w osisId="John.1.23!5">ἐν</w>
-      <w osisId="John.1.23!6">τῇ</w>
-      <w osisId="John.1.23!7">ἐρήμῳ</w>
-      <w osisId="John.1.23!8">Εὐθύνατε</w>
-      <w osisId="John.1.23!9">τὴν</w>
-      <w osisId="John.1.23!10">ὁδὸν</w>
-      <w osisId="John.1.23!11">Κυρίου</w>
-      <pc>,</pc>
+      <q ref="Is.40,3." rend="bold">
+        <w osisId="John.1.23!3">φωνὴ</w>
+        <w osisId="John.1.23!4">βοῶντος</w>
+        <w osisId="John.1.23!5">ἐν</w>
+        <w osisId="John.1.23!6">τῇ</w>
+        <w osisId="John.1.23!7">ἐρήμῳ</w>
+        <w osisId="John.1.23!8">Εὐθύνατε</w>
+        <w osisId="John.1.23!9">τὴν</w>
+        <w osisId="John.1.23!10">ὁδὸν</w>
+        <w osisId="John.1.23!11">Κυρίου</w>
+        <pc>,</pc>
+      </q>
       <w osisId="John.1.23!12">καθὼς</w>
       <w osisId="John.1.23!13">εἶπεν</w>
       <w osisId="John.1.23!14">Ἡσαΐας</w>
@@ -1357,14 +1359,16 @@
       <w osisId="John.2.17!5">ὅτι</w>
       <w osisId="John.2.17!6">γεγραμμένον</w>
       <w osisId="John.2.17!7">ἐστίν</w>
-      <w osisId="John.2.17!8">Ὁ</w>
-      <w osisId="John.2.17!9">ζῆλος</w>
-      <w osisId="John.2.17!10">τοῦ</w>
-      <w osisId="John.2.17!11">οἴκου</w>
-      <w osisId="John.2.17!12">σου</w>
-      <w osisId="John.2.17!13">καταφάγεταί</w>
-      <w osisId="John.2.17!14">με</w>
-      <pc>.</pc>
+      <q ref="Ps.69,9." rend="bold">
+        <w osisId="John.2.17!8">Ὁ</w>
+        <w osisId="John.2.17!9">ζῆλος</w>
+        <w osisId="John.2.17!10">τοῦ</w>
+        <w osisId="John.2.17!11">οἴκου</w>
+        <w osisId="John.2.17!12">σου</w>
+        <w osisId="John.2.17!13">καταφάγεταί</w>
+        <w osisId="John.2.17!14">με</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="John.2.18"/>
       <w osisId="John.2.18!1">ἀπεκρίθησαν</w>
       <w osisId="John.2.18!2">οὖν</w>
@@ -5022,14 +5026,16 @@
       <w osisId="John.6.31!10">καθώς</w>
       <w osisId="John.6.31!11">ἐστιν</w>
       <w osisId="John.6.31!12">γεγραμμένον</w>
-      <w osisId="John.6.31!13">Ἄρτον</w>
-      <w osisId="John.6.31!14">ἐκ</w>
-      <w osisId="John.6.31!15">τοῦ</w>
-      <w osisId="John.6.31!16">οὐρανοῦ</w>
-      <w osisId="John.6.31!17">ἔδωκεν</w>
-      <w osisId="John.6.31!18">αὐτοῖς</w>
-      <w osisId="John.6.31!19">φαγεῖν</w>
-      <pc>.</pc>
+      <q ref="Ex.16,13.14. Ps.78,24." rend="bold">
+        <w osisId="John.6.31!13">Ἄρτον</w>
+        <w osisId="John.6.31!14">ἐκ</w>
+        <w osisId="John.6.31!15">τοῦ</w>
+        <w osisId="John.6.31!16">οὐρανοῦ</w>
+        <w osisId="John.6.31!17">ἔδωκεν</w>
+        <w osisId="John.6.31!18">αὐτοῖς</w>
+        <w osisId="John.6.31!19">φαγεῖν</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="John.6.32"/>
       <w osisId="John.6.32!1">εἶπεν</w>
       <w osisId="John.6.32!2">οὖν</w>
@@ -5330,12 +5336,14 @@
       <w osisId="John.6.45!3">ἐν</w>
       <w osisId="John.6.45!4">τοῖς</w>
       <w osisId="John.6.45!5">προφήταις</w>
-      <w osisId="John.6.45!6">Καὶ</w>
-      <w osisId="John.6.45!7">ἔσονται</w>
-      <w osisId="John.6.45!8">πάντες</w>
-      <w osisId="John.6.45!9">διδακτοὶ</w>
-      <w osisId="John.6.45!10">Θεοῦ</w>
-      <pc>·</pc>
+      <q ref="Is.54,13. Jer.31,33.34." rend="bold">
+        <w osisId="John.6.45!6">Καὶ</w>
+        <w osisId="John.6.45!7">ἔσονται</w>
+        <w osisId="John.6.45!8">πάντες</w>
+        <w osisId="John.6.45!9">διδακτοὶ</w>
+        <w osisId="John.6.45!10">Θεοῦ</w>
+        <pc>·</pc>
+      </q>
       <w osisId="John.6.45!11">πᾶς</w>
       <w osisId="John.6.45!12">ὁ</w>
       <w osisId="John.6.45!13">ἀκούσας</w>
@@ -6705,20 +6713,26 @@
       <w osisId="John.7.42!4">εἶπεν</w>
       <w osisId="John.7.42!5">ὅτι</w>
       <w osisId="John.7.42!6">ἐκ</w>
-      <w osisId="John.7.42!7">τοῦ</w>
-      <w osisId="John.7.42!8">σπέρματος</w>
-      <w osisId="John.7.42!9">Δαυεὶδ</w>
-      <pc>,</pc>
+      <q ref="2S.7,12. Mic.5,2. Ps.89,3." rend="bold">
+        <w osisId="John.7.42!7">τοῦ</w>
+        <w osisId="John.7.42!8">σπέρματος</w>
+        <w osisId="John.7.42!9">Δαυεὶδ</w>
+        <pc>,</pc>
+      </q>
       <w osisId="John.7.42!10">καὶ</w>
-      <w osisId="John.7.42!11">ἀπὸ</w>
-      <w osisId="John.7.42!12">Βηθλεὲμ</w>
+      <q ref="2S.7,12. Mic.5,2. Ps.89,3." rend="bold">
+        <w osisId="John.7.42!11">ἀπὸ</w>
+        <w osisId="John.7.42!12">Βηθλεὲμ</w>
+      </q>
       <w osisId="John.7.42!13">τῆς</w>
       <w osisId="John.7.42!14">κώμης</w>
       <w osisId="John.7.42!15">ὅπου</w>
       <w osisId="John.7.42!16">ἦν</w>
       <w osisId="John.7.42!17">Δαυεὶδ</w>
       <pc>,</pc>
-      <w osisId="John.7.42!18">ἔρχεται</w>
+      <q ref="2S.7,12. Mic.5,2. Ps.89,3." rend="bold">
+        <w osisId="John.7.42!18">ἔρχεται</w>
+      </q>
       <w osisId="John.7.42!19">ὁ</w>
       <w osisId="John.7.42!20">Χριστός</w>
       <pc>;</pc>
@@ -9748,11 +9762,13 @@
       <w osisId="John.10.34!10">νόμῳ</w>
       <w osisId="John.10.34!11">ὑμῶν</w>
       <w osisId="John.10.34!12">ὅτι</w>
-      <w osisId="John.10.34!13">Ἐγὼ</w>
-      <w osisId="John.10.34!14">εἶπα</w>
-      <w osisId="John.10.34!15">Θεοί</w>
-      <w osisId="John.10.34!16">ἐστε</w>
-      <pc>;</pc>
+      <q ref="Ps.82,6." rend="bold">
+        <w osisId="John.10.34!13">Ἐγὼ</w>
+        <w osisId="John.10.34!14">εἶπα</w>
+        <w osisId="John.10.34!15">Θεοί</w>
+        <w osisId="John.10.34!16">ἐστε</w>
+        <pc>;</pc>
+      </q>
       <milestone unit="verse" id="John.10.35"/>
       <w osisId="John.10.35!1">εἰ</w>
       <w osisId="John.10.35!2">ἐκείνους</w>
@@ -11306,27 +11322,33 @@
       <pc>,</pc>
       <w osisId="John.12.13!11">καὶ</w>
       <w osisId="John.12.13!12">ἐκραύγαζον</w>
-      <w osisId="John.12.13!13">Ὡσαννά</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="John.12.13!14">εὐλογημένος</w>
-      <w osisId="John.12.13!15">ὁ</w>
-      <w osisId="John.12.13!16">ἐρχόμενος</w>
-      <w osisId="John.12.13!17">ἐν</w>
-      <w osisId="John.12.13!18">ὀνόματι</w>
-      <w osisId="John.12.13!19">Κυρίου</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="John.12.13!20">καὶ</w>
-      <w osisId="John.12.13!21">ὁ</w>
-      <w osisId="John.12.13!22">Βασιλεὺς</w>
-      <w osisId="John.12.13!23">τοῦ</w>
-      <w osisId="John.12.13!24">Ἰσραήλ</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <lg>
+        <l>
+          <q ref="Ps.118,25.26." rend="bold">
+            <w osisId="John.12.13!13">Ὡσαννά</w>
+            <pc>,</pc>
+          </q>
+        </l>
+        <l>
+          <q ref="Ps.118,25.26." rend="bold">
+            <w osisId="John.12.13!14">εὐλογημένος</w>
+            <w osisId="John.12.13!15">ὁ</w>
+            <w osisId="John.12.13!16">ἐρχόμενος</w>
+            <w osisId="John.12.13!17">ἐν</w>
+            <w osisId="John.12.13!18">ὀνόματι</w>
+            <w osisId="John.12.13!19">Κυρίου</w>
+            <pc>,</pc>
+          </q>
+        </l>
+        <l>
+          <w osisId="John.12.13!20">καὶ</w>
+          <w osisId="John.12.13!21">ὁ</w>
+          <w osisId="John.12.13!22">Βασιλεὺς</w>
+          <w osisId="John.12.13!23">τοῦ</w>
+          <w osisId="John.12.13!24">Ἰσραήλ</w>
+          <pc>.</pc>
+        </l>
+      </lg>
       <milestone unit="verse" id="John.12.14"/>
       <w osisId="John.12.14!1">εὑρὼν</w>
       <w osisId="John.12.14!2">δὲ</w>
@@ -11340,32 +11362,34 @@
       <w osisId="John.12.14!9">καθώς</w>
       <w osisId="John.12.14!10">ἐστιν</w>
       <w osisId="John.12.14!11">γεγραμμένον</w>
-    </p>
-    <p>
-      <milestone unit="verse" id="John.12.15"/>
-      <w osisId="John.12.15!1">Μὴ</w>
-      <w osisId="John.12.15!2">φοβοῦ</w>
-      <pc>,</pc>
-      <w osisId="John.12.15!3">θυγάτηρ</w>
-      <w osisId="John.12.15!4">Σιών</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <w osisId="John.12.15!5">ἰδοὺ</w>
-      <w osisId="John.12.15!6">ὁ</w>
-      <w osisId="John.12.15!7">Βασιλεύς</w>
-      <w osisId="John.12.15!8">σου</w>
-      <w osisId="John.12.15!9">ἔρχεται</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="John.12.15!10">καθήμενος</w>
-      <w osisId="John.12.15!11">ἐπὶ</w>
-      <w osisId="John.12.15!12">πῶλον</w>
-      <w osisId="John.12.15!13">ὄνου</w>
-      <pc>.</pc>            
-    </p>
-    <p>
+      <q ref="Zec.9,9." rend="bold">
+        <lg>
+          <l>
+            <milestone unit="verse" id="John.12.15"/>
+            <w osisId="John.12.15!1">Μὴ</w>
+            <w osisId="John.12.15!2">φοβοῦ</w>
+            <pc>,</pc>
+            <w osisId="John.12.15!3">θυγάτηρ</w>
+            <w osisId="John.12.15!4">Σιών</w>
+            <pc>·</pc>
+          </l>
+          <l>
+            <w osisId="John.12.15!5">ἰδοὺ</w>
+            <w osisId="John.12.15!6">ὁ</w>
+            <w osisId="John.12.15!7">Βασιλεύς</w>
+            <w osisId="John.12.15!8">σου</w>
+            <w osisId="John.12.15!9">ἔρχεται</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="John.12.15!10">καθήμενος</w>
+            <w osisId="John.12.15!11">ἐπὶ</w>
+            <w osisId="John.12.15!12">πῶλον</w>
+            <w osisId="John.12.15!13">ὄνου</w>
+            <pc>.</pc> 
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="John.12.16"/>
       <w osisId="John.12.16!1">Ταῦτα</w>
       <w osisId="John.12.16!2">οὐκ</w>
@@ -11861,21 +11885,23 @@
       <w osisId="John.12.38!7">πληρωθῇ</w>
       <w osisId="John.12.38!8">ὃν</w>
       <w osisId="John.12.38!9">εἶπεν</w>
-      <w osisId="John.12.38!10">Κύριε</w>
-      <pc>,</pc>
-      <w osisId="John.12.38!11">τίς</w>
-      <w osisId="John.12.38!12">ἐπίστευσεν</w>
-      <w osisId="John.12.38!13">τῇ</w>
-      <w osisId="John.12.38!14">ἀκοῇ</w>
-      <w osisId="John.12.38!15">ἡμῶν</w>
-      <pc>;</pc>
-      <w osisId="John.12.38!16">καὶ</w>
-      <w osisId="John.12.38!17">ὁ</w>
-      <w osisId="John.12.38!18">βραχίων</w>
-      <w osisId="John.12.38!19">Κυρίου</w>
-      <w osisId="John.12.38!20">τίνι</w>
-      <w osisId="John.12.38!21">ἀπεκαλύφθη</w>
-      <pc>;</pc>
+      <q ref="Is.53,1." rend="bold">
+        <w osisId="John.12.38!10">Κύριε</w>
+        <pc>,</pc>
+        <w osisId="John.12.38!11">τίς</w>
+        <w osisId="John.12.38!12">ἐπίστευσεν</w>
+        <w osisId="John.12.38!13">τῇ</w>
+        <w osisId="John.12.38!14">ἀκοῇ</w>
+        <w osisId="John.12.38!15">ἡμῶν</w>
+        <pc>;</pc>
+        <w osisId="John.12.38!16">καὶ</w>
+        <w osisId="John.12.38!17">ὁ</w>
+        <w osisId="John.12.38!18">βραχίων</w>
+        <w osisId="John.12.38!19">Κυρίου</w>
+        <w osisId="John.12.38!20">τίνι</w>
+        <w osisId="John.12.38!21">ἀπεκαλύφθη</w>
+        <pc>;</pc>
+      </q>
       <milestone unit="verse" id="John.12.39"/>
       <w osisId="John.12.39!1">διὰ</w>
       <w osisId="John.12.39!2">τοῦτο</w>
@@ -11888,32 +11914,34 @@
       <w osisId="John.12.39!8">εἶπεν</w>
       <w osisId="John.12.39!9">Ἡσαΐας</w>
       <milestone unit="verse" id="John.12.40"/>
-      <w osisId="John.12.40!1">Τετύφλωκεν</w>
-      <w osisId="John.12.40!2">αὐτῶν</w>
-      <w osisId="John.12.40!3">τοὺς</w>
-      <w osisId="John.12.40!4">ὀφθαλμοὺς</w>
-      <w osisId="John.12.40!5">καὶ</w>
-      <w osisId="John.12.40!6">ἐπώρωσεν</w>
-      <w osisId="John.12.40!7">αὐτῶν</w>
-      <w osisId="John.12.40!8">τὴν</w>
-      <w osisId="John.12.40!9">καρδίαν</w>
-      <pc>,</pc>
-      <w osisId="John.12.40!10">ἵνα</w>
-      <w osisId="John.12.40!11">μὴ</w>
-      <w osisId="John.12.40!12">ἴδωσιν</w>
-      <w osisId="John.12.40!13">τοῖς</w>
-      <w osisId="John.12.40!14">ὀφθαλμοῖς</w>
-      <w osisId="John.12.40!15">καὶ</w>
-      <w osisId="John.12.40!16">νοήσωσιν</w>
-      <w osisId="John.12.40!17">τῇ</w>
-      <w osisId="John.12.40!18">καρδίᾳ</w>
-      <w osisId="John.12.40!19">καὶ</w>
-      <w osisId="John.12.40!20">στραφῶσιν</w>
-      <pc>,</pc>
-      <w osisId="John.12.40!21">καὶ</w>
-      <w osisId="John.12.40!22">ἰάσομαι</w>
-      <w osisId="John.12.40!23">αὐτούς</w>
-      <pc>.</pc>
+      <q ref="Is.6,9.10." rend="bold">
+        <w osisId="John.12.40!1">Τετύφλωκεν</w>
+        <w osisId="John.12.40!2">αὐτῶν</w>
+        <w osisId="John.12.40!3">τοὺς</w>
+        <w osisId="John.12.40!4">ὀφθαλμοὺς</w>
+        <w osisId="John.12.40!5">καὶ</w>
+        <w osisId="John.12.40!6">ἐπώρωσεν</w>
+        <w osisId="John.12.40!7">αὐτῶν</w>
+        <w osisId="John.12.40!8">τὴν</w>
+        <w osisId="John.12.40!9">καρδίαν</w>
+        <pc>,</pc>
+        <w osisId="John.12.40!10">ἵνα</w>
+        <w osisId="John.12.40!11">μὴ</w>
+        <w osisId="John.12.40!12">ἴδωσιν</w>
+        <w osisId="John.12.40!13">τοῖς</w>
+        <w osisId="John.12.40!14">ὀφθαλμοῖς</w>
+        <w osisId="John.12.40!15">καὶ</w>
+        <w osisId="John.12.40!16">νοήσωσιν</w>
+        <w osisId="John.12.40!17">τῇ</w>
+        <w osisId="John.12.40!18">καρδίᾳ</w>
+        <w osisId="John.12.40!19">καὶ</w>
+        <w osisId="John.12.40!20">στραφῶσιν</w>
+        <pc>,</pc>
+        <w osisId="John.12.40!21">καὶ</w>
+        <w osisId="John.12.40!22">ἰάσομαι</w>
+        <w osisId="John.12.40!23">αὐτούς</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="John.12.41"/>
       <w osisId="John.12.41!1">ταῦτα</w>
       <w osisId="John.12.41!2">εἶπεν</w>
@@ -12502,18 +12530,20 @@
       <w osisId="John.13.18!12">ἡ</w>
       <w osisId="John.13.18!13">γραφὴ</w>
       <w osisId="John.13.18!14">πληρωθῇ</w>
-      <w osisId="John.13.18!15">Ὁ</w>
-      <w osisId="John.13.18!16">τρώγων</w>
-      <w osisId="John.13.18!17">μου</w>
-      <w osisId="John.13.18!18">τὸν</w>
-      <w osisId="John.13.18!19">ἄρτον</w>
-      <w osisId="John.13.18!20">ἐπῆρεν</w>
-      <w osisId="John.13.18!21">ἐπ’</w>
-      <w osisId="John.13.18!22">ἐμὲ</w>
-      <w osisId="John.13.18!23">τὴν</w>
-      <w osisId="John.13.18!24">πτέρναν</w>
-      <w osisId="John.13.18!25">αὐτοῦ</w>
-      <pc>.</pc>
+      <q ref="Ps.41,9." rend="bold">
+        <w osisId="John.13.18!15">Ὁ</w>
+        <w osisId="John.13.18!16">τρώγων</w>
+        <w osisId="John.13.18!17">μου</w>
+        <w osisId="John.13.18!18">τὸν</w>
+        <w osisId="John.13.18!19">ἄρτον</w>
+        <w osisId="John.13.18!20">ἐπῆρεν</w>
+        <w osisId="John.13.18!21">ἐπ’</w>
+        <w osisId="John.13.18!22">ἐμὲ</w>
+        <w osisId="John.13.18!23">τὴν</w>
+        <w osisId="John.13.18!24">πτέρναν</w>
+        <w osisId="John.13.18!25">αὐτοῦ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="John.13.19"/>
       <w osisId="John.13.19!1">ἀπ’</w>
       <w osisId="John.13.19!2">ἄρτι</w>
@@ -14184,10 +14214,12 @@
       <w osisId="John.15.25!10">αὐτῶν</w>
       <w osisId="John.15.25!11">γεγραμμένος</w>
       <w osisId="John.15.25!12">ὅτι</w>
-      <w osisId="John.15.25!13">Ἐμίσησάν</w>
-      <w osisId="John.15.25!14">με</w>
-      <w osisId="John.15.25!15">δωρεάν</w>
-      <pc>.</pc>
+      <q ref="Ps.35,19;69,4." rend="bold">
+        <w osisId="John.15.25!13">Ἐμίσησάν</w>
+        <w osisId="John.15.25!14">με</w>
+        <w osisId="John.15.25!15">δωρεάν</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="John.15.26"/>
       <w osisId="John.15.26!1">Ὅταν</w>
       <w osisId="John.15.26!2">ἔλθῃ</w>
@@ -17033,19 +17065,21 @@
       <w osisId="John.19.24!15">ἡ</w>
       <w osisId="John.19.24!16">γραφὴ</w>
       <w osisId="John.19.24!17">πληρωθῇ</w>
-      <w osisId="John.19.24!18">Διεμερίσαντο</w>
-      <w osisId="John.19.24!19">τὰ</w>
-      <w osisId="John.19.24!20">ἱμάτιά</w>
-      <w osisId="John.19.24!21">μου</w>
-      <w osisId="John.19.24!22">ἑαυτοῖς</w>
-      <w osisId="John.19.24!23">καὶ</w>
-      <w osisId="John.19.24!24">ἐπὶ</w>
-      <w osisId="John.19.24!25">τὸν</w>
-      <w osisId="John.19.24!26">ἱματισμόν</w>
-      <w osisId="John.19.24!27">μου</w>
-      <w osisId="John.19.24!28">ἔβαλον</w>
-      <w osisId="John.19.24!29">κλῆρον</w>
-      <pc>.</pc>
+      <q ref="Ps.22,18." rend="bold">
+        <w osisId="John.19.24!18">Διεμερίσαντο</w>
+        <w osisId="John.19.24!19">τὰ</w>
+        <w osisId="John.19.24!20">ἱμάτιά</w>
+        <w osisId="John.19.24!21">μου</w>
+        <w osisId="John.19.24!22">ἑαυτοῖς</w>
+        <w osisId="John.19.24!23">καὶ</w>
+        <w osisId="John.19.24!24">ἐπὶ</w>
+        <w osisId="John.19.24!25">τὸν</w>
+        <w osisId="John.19.24!26">ἱματισμόν</w>
+        <w osisId="John.19.24!27">μου</w>
+        <w osisId="John.19.24!28">ἔβαλον</w>
+        <w osisId="John.19.24!29">κλῆρον</w>
+        <pc>.</pc>
+      </q>
       <w osisId="John.19.24!30">Οἱ</w>
       <w osisId="John.19.24!31">μὲν</w>
       <w osisId="John.19.24!32">οὖν</w>
@@ -17143,8 +17177,10 @@
       <w osisId="John.19.28!13">γραφὴ</w>
       <pc>,</pc>
       <w osisId="John.19.28!14">λέγει</w>
-      <w osisId="John.19.28!15">Διψῶ</w>
-      <pc>.</pc>
+      <q ref="Ps.22,15." rend="bold">
+        <w osisId="John.19.28!15">Διψῶ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="John.19.29"/>
       <w osisId="John.19.29!1">σκεῦος</w>
       <w osisId="John.19.29!2">ἔκειτο</w>
@@ -17155,7 +17191,9 @@
       <w osisId="John.19.29!6">οὖν</w>
       <w osisId="John.19.29!7">μεστὸν</w>
       <w osisId="John.19.29!8">τοῦ</w>
-      <w osisId="John.19.29!9">ὄξους</w>
+      <q ref="Ps.69,21." rend="bold">
+        <w osisId="John.19.29!9">ὄξους</w>
+      </q>
       <w osisId="John.19.29!10">ὑσσώπῳ</w>
       <w osisId="John.19.29!11">περιθέντες</w>
       <w osisId="John.19.29!12">προσήνεγκαν</w>
@@ -17313,22 +17351,26 @@
       <w osisId="John.19.36!5">ἡ</w>
       <w osisId="John.19.36!6">γραφὴ</w>
       <w osisId="John.19.36!7">πληρωθῇ</w>
-      <w osisId="John.19.36!8">Ὀστοῦν</w>
-      <w osisId="John.19.36!9">οὐ</w>
-      <w osisId="John.19.36!10">συντριβήσεται</w>
-      <w osisId="John.19.36!11">αὐτοῦ</w>
-      <pc>.</pc>
+      <q ref="Ex.12,46. Nu.9,12. Ps.34,20." rend="bold">
+        <w osisId="John.19.36!8">Ὀστοῦν</w>
+        <w osisId="John.19.36!9">οὐ</w>
+        <w osisId="John.19.36!10">συντριβήσεται</w>
+        <w osisId="John.19.36!11">αὐτοῦ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="John.19.37"/>
       <w osisId="John.19.37!1">καὶ</w>
       <w osisId="John.19.37!2">πάλιν</w>
       <w osisId="John.19.37!3">ἑτέρα</w>
       <w osisId="John.19.37!4">γραφὴ</w>
       <w osisId="John.19.37!5">λέγει</w>
-      <w osisId="John.19.37!6">Ὄψονται</w>
-      <w osisId="John.19.37!7">εἰς</w>
-      <w osisId="John.19.37!8">ὃν</w>
-      <w osisId="John.19.37!9">ἐξεκέντησαν</w>
-      <pc>.</pc>
+      <q ref="Zec.12,10." rend="bold">
+        <w osisId="John.19.37!6">Ὄψονται</w>
+        <w osisId="John.19.37!7">εἰς</w>
+        <w osisId="John.19.37!8">ὃν</w>
+        <w osisId="John.19.37!9">ἐξεκέντησαν</w>
+        <pc>.</pc>
+      </q>
     </p>
     <p>
       <milestone unit="verse" id="John.19.38"/>

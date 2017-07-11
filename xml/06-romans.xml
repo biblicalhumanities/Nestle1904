@@ -321,13 +321,15 @@
       <pc>,</pc>
       <w osisId="Rom.1.17!11">καθὼς</w>
       <w osisId="Rom.1.17!12">γέγραπται</w>
-      <w osisId="Rom.1.17!13">Ὁ</w>
-      <w osisId="Rom.1.17!14">δὲ</w>
-      <w osisId="Rom.1.17!15">δίκαιος</w>
-      <w osisId="Rom.1.17!16">ἐκ</w>
-      <w osisId="Rom.1.17!17">πίστεως</w>
-      <w osisId="Rom.1.17!18">ζήσεται</w>
-      <pc>.</pc>
+      <q ref="Hab.2,4." rend="bold">
+        <w osisId="Rom.1.17!13">Ὁ</w>
+        <w osisId="Rom.1.17!14">δὲ</w>
+        <w osisId="Rom.1.17!15">δίκαιος</w>
+        <w osisId="Rom.1.17!16">ἐκ</w>
+        <w osisId="Rom.1.17!17">πίστεως</w>
+        <w osisId="Rom.1.17!18">ζήσεται</w>
+        <pc>.</pc>
+      </q>
     </p>
     <p>
       <milestone unit="verse" id="Rom.1.18"/>
@@ -428,14 +430,18 @@
       <pc>,</pc>
       <milestone unit="verse" id="Rom.1.23"/>
       <w osisId="Rom.1.23!1">καὶ</w>
-      <w osisId="Rom.1.23!2">ἤλλαξαν</w>
-      <w osisId="Rom.1.23!3">τὴν</w>
-      <w osisId="Rom.1.23!4">δόξαν</w>
+      <q ref="Ps.106,20. Dt.4,15—19." rend="bold">
+        <w osisId="Rom.1.23!2">ἤλλαξαν</w>
+        <w osisId="Rom.1.23!3">τὴν</w>
+        <w osisId="Rom.1.23!4">δόξαν</w>
+      </q>
       <w osisId="Rom.1.23!5">τοῦ</w>
       <w osisId="Rom.1.23!6">ἀφθάρτου</w>
       <w osisId="Rom.1.23!7">Θεοῦ</w>
-      <w osisId="Rom.1.23!8">ἐν</w>
-      <w osisId="Rom.1.23!9">ὁμοιώματι</w>
+      <q ref="Hab.2,4." rend="bold">
+        <w osisId="Rom.1.23!8">ἐν</w>
+        <w osisId="Rom.1.23!9">ὁμοιώματι</w>
+      </q>
       <w osisId="Rom.1.23!10">εἰκόνος</w>
       <w osisId="Rom.1.23!11">φθαρτοῦ</w>
       <w osisId="Rom.1.23!12">ἀνθρώπου</w>
@@ -780,13 +786,15 @@
       <pc>,</pc>
       <milestone unit="verse" id="Rom.2.6"/>
       <w osisId="Rom.2.6!1">ὃς</w>
-      <w osisId="Rom.2.6!2">ἀποδώσει</w>
-      <w osisId="Rom.2.6!3">ἑκάστῳ</w>
-      <w osisId="Rom.2.6!4">κατὰ</w>
-      <w osisId="Rom.2.6!5">τὰ</w>
-      <w osisId="Rom.2.6!6">ἔργα</w>
-      <w osisId="Rom.2.6!7">αὐτοῦ</w>
-      <pc>·</pc>
+      <q ref="Ps.62,12. Pr.24,12." rend="bold">
+        <w osisId="Rom.2.6!2">ἀποδώσει</w>
+        <w osisId="Rom.2.6!3">ἑκάστῳ</w>
+        <w osisId="Rom.2.6!4">κατὰ</w>
+        <w osisId="Rom.2.6!5">τὰ</w>
+        <w osisId="Rom.2.6!6">ἔργα</w>
+        <w osisId="Rom.2.6!7">αὐτοῦ</w>
+        <pc>·</pc>
+      </q>
       <milestone unit="verse" id="Rom.2.7"/>
       <w osisId="Rom.2.7!1">τοῖς</w>
       <w osisId="Rom.2.7!2">μὲν</w>
@@ -1077,18 +1085,22 @@
       <w osisId="Rom.2.23!12">ἀτιμάζεις</w>
       <pc>;</pc>
       <milestone unit="verse" id="Rom.2.24"/>
-      <w osisId="Rom.2.24!1">τὸ</w>
+      <q ref="Is.52,5. Ezk.36,20." rend="bold">
+        <w osisId="Rom.2.24!1">τὸ</w>
+      </q>
       <w osisId="Rom.2.24!2">γὰρ</w>
-      <w osisId="Rom.2.24!3">ὄνομα</w>
-      <w osisId="Rom.2.24!4">τοῦ</w>
-      <w osisId="Rom.2.24!5">Θεοῦ</w>
-      <w osisId="Rom.2.24!6">δι’</w>
-      <w osisId="Rom.2.24!7">ὑμᾶς</w>
-      <w osisId="Rom.2.24!8">βλασφημεῖται</w>
-      <w osisId="Rom.2.24!9">ἐν</w>
-      <w osisId="Rom.2.24!10">τοῖς</w>
-      <w osisId="Rom.2.24!11">ἔθνεσιν</w>
-      <pc>,</pc>
+      <q ref="Is.52,5. Ezk.36,20." rend="bold">
+        <w osisId="Rom.2.24!3">ὄνομα</w>
+        <w osisId="Rom.2.24!4">τοῦ</w>
+        <w osisId="Rom.2.24!5">Θεοῦ</w>
+        <w osisId="Rom.2.24!6">δι’</w>
+        <w osisId="Rom.2.24!7">ὑμᾶς</w>
+        <w osisId="Rom.2.24!8">βλασφημεῖται</w>
+        <w osisId="Rom.2.24!9">ἐν</w>
+        <w osisId="Rom.2.24!10">τοῖς</w>
+        <w osisId="Rom.2.24!11">ἔθνεσιν</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Rom.2.24!12">καθὼς</w>
       <w osisId="Rom.2.24!13">γέγραπται</w>
       <pc>.</pc>
@@ -1261,33 +1273,39 @@
       <w osisId="Rom.3.4!6">Θεὸς</w>
       <w osisId="Rom.3.4!7">ἀληθής</w>
       <pc>,</pc>
-      <w osisId="Rom.3.4!8">πᾶς</w>
+      <q ref="Ps.116,11." rend="bold">
+        <w osisId="Rom.3.4!8">πᾶς</w>
+      </q>
       <w osisId="Rom.3.4!9">δὲ</w>
-      <w osisId="Rom.3.4!10">ἄνθρωπος</w>
-      <w osisId="Rom.3.4!11">ψεύστης</w>
-      <pc>,</pc>
+      <q ref="Ps.116,11." rend="bold">
+        <w osisId="Rom.3.4!10">ἄνθρωπος</w>
+        <w osisId="Rom.3.4!11">ψεύστης</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Rom.3.4!12">καθάπερ</w>
       <w osisId="Rom.3.4!13">γέγραπται</w>
-    </p>
-    <p>
-      <w osisId="Rom.3.4!14">Ὅπως</w>
-      <w osisId="Rom.3.4!15">ἂν</w>
-      <w osisId="Rom.3.4!16">δικαιωθῇς</w>
-      <w osisId="Rom.3.4!17">ἐν</w>
-      <w osisId="Rom.3.4!18">τοῖς</w>
-      <w osisId="Rom.3.4!19">λόγοις</w>
-      <w osisId="Rom.3.4!20">σου</w>
-    </p>
-    <p>
-      <w osisId="Rom.3.4!21">καὶ</w>
-      <w osisId="Rom.3.4!22">νικήσεις</w>
-      <w osisId="Rom.3.4!23">ἐν</w>
-      <w osisId="Rom.3.4!24">τῷ</w>
-      <w osisId="Rom.3.4!25">κρίνεσθαί</w>
-      <w osisId="Rom.3.4!26">σε</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Ps.51,4." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Rom.3.4!14">Ὅπως</w>
+            <w osisId="Rom.3.4!15">ἂν</w>
+            <w osisId="Rom.3.4!16">δικαιωθῇς</w>
+            <w osisId="Rom.3.4!17">ἐν</w>
+            <w osisId="Rom.3.4!18">τοῖς</w>
+            <w osisId="Rom.3.4!19">λόγοις</w>
+            <w osisId="Rom.3.4!20">σου</w>
+          </l>
+          <l>
+            <w osisId="Rom.3.4!21">καὶ</w>
+            <w osisId="Rom.3.4!22">νικήσεις</w>
+            <w osisId="Rom.3.4!23">ἐν</w>
+            <w osisId="Rom.3.4!24">τῷ</w>
+            <w osisId="Rom.3.4!25">κρίνεσθαί</w>
+            <w osisId="Rom.3.4!26">σε</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Rom.3.5"/>
       <w osisId="Rom.3.5!1">εἰ</w>
       <w osisId="Rom.3.5!2">δὲ</w>
@@ -1402,131 +1420,141 @@
       <w osisId="Rom.3.10!1">καθὼς</w>
       <w osisId="Rom.3.10!2">γέγραπται</w>
       <w osisId="Rom.3.10!3">ὅτι</w>
-    </p>
-    <p>
-      <w osisId="Rom.3.10!4">Οὐκ</w>
-      <w osisId="Rom.3.10!5">ἔστιν</w>
-      <w osisId="Rom.3.10!6">δίκαιος</w>
-      <w osisId="Rom.3.10!7">οὐδὲ</w>
-      <w osisId="Rom.3.10!8">εἷς</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.3.11"/>
-      <w osisId="Rom.3.11!1">οὐκ</w>
-      <w osisId="Rom.3.11!2">ἔστιν</w>
-      <w osisId="Rom.3.11!3">ὁ</w>
-      <w osisId="Rom.3.11!4">συνίων</w>
-      <pc>,</pc>
-      <w osisId="Rom.3.11!5">οὐκ</w>
-      <w osisId="Rom.3.11!6">ἔστιν</w>
-      <w osisId="Rom.3.11!7">ὁ</w>
-      <w osisId="Rom.3.11!8">ἐκζητῶν</w>
-      <w osisId="Rom.3.11!9">τὸν</w>
-      <w osisId="Rom.3.11!10">Θεόν</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.3.12"/>
-      <w osisId="Rom.3.12!1">πάντες</w>
-      <w osisId="Rom.3.12!2">ἐξέκλιναν</w>
-      <pc>,</pc>
-      <w osisId="Rom.3.12!3">ἅμα</w>
-      <w osisId="Rom.3.12!4">ἠχρεώθησαν</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <w osisId="Rom.3.12!5">οὐκ</w>
-      <w osisId="Rom.3.12!6">ἔστιν</w>
-      <w osisId="Rom.3.12!7">ὁ</w>
-      <w osisId="Rom.3.12!8">ποιῶν</w>
-      <w osisId="Rom.3.12!9">χρηστότητα</w>
-      <pc>,</pc>
-      <w osisId="Rom.3.12!10">οὐκ</w>
-      <w osisId="Rom.3.12!11">ἔστιν</w>
-      <w osisId="Rom.3.12!12">ἕως</w>
-      <w osisId="Rom.3.12!13">ἑνός</w>
-      <pc>.</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.3.13"/>
-      <w osisId="Rom.3.13!1">τάφος</w>
-      <w osisId="Rom.3.13!2">ἀνεῳγμένος</w>
-      <w osisId="Rom.3.13!3">ὁ</w>
-      <w osisId="Rom.3.13!4">λάρυγξ</w>
-      <w osisId="Rom.3.13!5">αὐτῶν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Rom.3.13!6">ταῖς</w>
-      <w osisId="Rom.3.13!7">γλώσσαις</w>
-      <w osisId="Rom.3.13!8">αὐτῶν</w>
-      <w osisId="Rom.3.13!9">ἐδολιοῦσαν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Rom.3.13!10">ἰὸς</w>
-      <w osisId="Rom.3.13!11">ἀσπίδων</w>
-      <w osisId="Rom.3.13!12">ὑπὸ</w>
-      <w osisId="Rom.3.13!13">τὰ</w>
-      <w osisId="Rom.3.13!14">χείλη</w>
-      <w osisId="Rom.3.13!15">αὐτῶν</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.3.14"/>
-      <w osisId="Rom.3.14!1">ὧν</w>
-      <w osisId="Rom.3.14!2">τὸ</w>
-      <w osisId="Rom.3.14!3">στόμα</w>
-      <w osisId="Rom.3.14!4">ἀρᾶς</w>
-      <w osisId="Rom.3.14!5">καὶ</w>
-      <w osisId="Rom.3.14!6">πικρίας</w>
-      <w osisId="Rom.3.14!7">γέμει</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.3.15"/>
-      <w osisId="Rom.3.15!1">ὀξεῖς</w>
-      <w osisId="Rom.3.15!2">οἱ</w>
-      <w osisId="Rom.3.15!3">πόδες</w>
-      <w osisId="Rom.3.15!4">αὐτῶν</w>
-      <w osisId="Rom.3.15!5">ἐκχέαι</w>
-      <w osisId="Rom.3.15!6">αἷμα</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.3.16"/>
-      <w osisId="Rom.3.16!1">σύντριμμα</w>
-      <w osisId="Rom.3.16!2">καὶ</w>
-      <w osisId="Rom.3.16!3">ταλαιπωρία</w>
-      <w osisId="Rom.3.16!4">ἐν</w>
-      <w osisId="Rom.3.16!5">ταῖς</w>
-      <w osisId="Rom.3.16!6">ὁδοῖς</w>
-      <w osisId="Rom.3.16!7">αὐτῶν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.3.17"/>
-      <w osisId="Rom.3.17!1">καὶ</w>
-      <w osisId="Rom.3.17!2">ὁδὸν</w>
-      <w osisId="Rom.3.17!3">εἰρήνης</w>
-      <w osisId="Rom.3.17!4">οὐκ</w>
-      <w osisId="Rom.3.17!5">ἔγνωσαν</w>
-      <pc>.</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.3.18"/>
-      <w osisId="Rom.3.18!1">οὐκ</w>
-      <w osisId="Rom.3.18!2">ἔστιν</w>
-      <w osisId="Rom.3.18!3">φόβος</w>
-      <w osisId="Rom.3.18!4">Θεοῦ</w>
-      <w osisId="Rom.3.18!5">ἀπέναντι</w>
-      <w osisId="Rom.3.18!6">τῶν</w>
-      <w osisId="Rom.3.18!7">ὀφθαλμῶν</w>
-      <w osisId="Rom.3.18!8">αὐτῶν</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <lg>
+        <q ref="Ps.14,1—3;53,2—4." rend="bold">
+          <l>
+            <w osisId="Rom.3.10!4">Οὐκ</w>
+            <w osisId="Rom.3.10!5">ἔστιν</w>
+            <w osisId="Rom.3.10!6">δίκαιος</w>
+            <w osisId="Rom.3.10!7">οὐδὲ</w>
+            <w osisId="Rom.3.10!8">εἷς</w>
+            <pc>,</pc>
+           </l>
+           <l>
+             <milestone unit="verse" id="Rom.3.11"/>
+             <w osisId="Rom.3.11!1">οὐκ</w>
+             <w osisId="Rom.3.11!2">ἔστιν</w>
+             <w osisId="Rom.3.11!3">ὁ</w>
+             <w osisId="Rom.3.11!4">συνίων</w>
+             <pc>,</pc>
+             <w osisId="Rom.3.11!5">οὐκ</w>
+             <w osisId="Rom.3.11!6">ἔστιν</w>
+             <w osisId="Rom.3.11!7">ὁ</w>
+             <w osisId="Rom.3.11!8">ἐκζητῶν</w>
+             <w osisId="Rom.3.11!9">τὸν</w>
+             <w osisId="Rom.3.11!10">Θεόν</w>
+             <pc>·</pc>
+           </l>
+           <l>
+             <milestone unit="verse" id="Rom.3.12"/>
+             <w osisId="Rom.3.12!1">πάντες</w>
+             <w osisId="Rom.3.12!2">ἐξέκλιναν</w>
+             <pc>,</pc>
+             <w osisId="Rom.3.12!3">ἅμα</w>
+             <w osisId="Rom.3.12!4">ἠχρεώθησαν</w>
+             <pc>·</pc>
+           </l>
+           <l>
+             <w osisId="Rom.3.12!5">οὐκ</w>
+             <w osisId="Rom.3.12!6">ἔστιν</w>
+             <w osisId="Rom.3.12!7">ὁ</w>
+             <w osisId="Rom.3.12!8">ποιῶν</w>
+             <w osisId="Rom.3.12!9">χρηστότητα</w>
+             <pc>,</pc>
+             <w osisId="Rom.3.12!10">οὐκ</w>
+             <w osisId="Rom.3.12!11">ἔστιν</w>
+             <w osisId="Rom.3.12!12">ἕως</w>
+             <w osisId="Rom.3.12!13">ἑνός</w>
+             <pc>.</pc>
+          </l>
+        </q>
+        <q ref="Ps.5,9;140,3." rend="bold">
+          <l>
+            <milestone unit="verse" id="Rom.3.13"/>
+            <w osisId="Rom.3.13!1">τάφος</w>
+            <w osisId="Rom.3.13!2">ἀνεῳγμένος</w>
+            <w osisId="Rom.3.13!3">ὁ</w>
+            <w osisId="Rom.3.13!4">λάρυγξ</w>
+            <w osisId="Rom.3.13!5">αὐτῶν</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.3.13!6">ταῖς</w>
+            <w osisId="Rom.3.13!7">γλώσσαις</w>
+            <w osisId="Rom.3.13!8">αὐτῶν</w>
+            <w osisId="Rom.3.13!9">ἐδολιοῦσαν</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.3.13!10">ἰὸς</w>
+            <w osisId="Rom.3.13!11">ἀσπίδων</w>
+            <w osisId="Rom.3.13!12">ὑπὸ</w>
+            <w osisId="Rom.3.13!13">τὰ</w>
+            <w osisId="Rom.3.13!14">χείλη</w>
+            <w osisId="Rom.3.13!15">αὐτῶν</w>
+            <pc>·</pc>
+          </l>
+        </q>
+        <q ref="Ps.10,7." rend="bold">
+          <l>
+            <milestone unit="verse" id="Rom.3.14"/>
+            <w osisId="Rom.3.14!1">ὧν</w>
+            <w osisId="Rom.3.14!2">τὸ</w>
+            <w osisId="Rom.3.14!3">στόμα</w>
+            <w osisId="Rom.3.14!4">ἀρᾶς</w>
+            <w osisId="Rom.3.14!5">καὶ</w>
+            <w osisId="Rom.3.14!6">πικρίας</w>
+            <w osisId="Rom.3.14!7">γέμει</w>
+            <pc>·</pc>
+          </l>
+        </q>
+        <q ref="Is.59,7—8." rend="bold">
+          <l>
+            <milestone unit="verse" id="Rom.3.15"/>
+            <w osisId="Rom.3.15!1">ὀξεῖς</w>
+            <w osisId="Rom.3.15!2">οἱ</w>
+            <w osisId="Rom.3.15!3">πόδες</w>
+            <w osisId="Rom.3.15!4">αὐτῶν</w>
+            <w osisId="Rom.3.15!5">ἐκχέαι</w>
+            <w osisId="Rom.3.15!6">αἷμα</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <milestone unit="verse" id="Rom.3.16"/>
+            <w osisId="Rom.3.16!1">σύντριμμα</w>
+            <w osisId="Rom.3.16!2">καὶ</w>
+            <w osisId="Rom.3.16!3">ταλαιπωρία</w>
+            <w osisId="Rom.3.16!4">ἐν</w>
+            <w osisId="Rom.3.16!5">ταῖς</w>
+            <w osisId="Rom.3.16!6">ὁδοῖς</w>
+            <w osisId="Rom.3.16!7">αὐτῶν</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <milestone unit="verse" id="Rom.3.17"/>
+            <w osisId="Rom.3.17!1">καὶ</w>
+            <w osisId="Rom.3.17!2">ὁδὸν</w>
+            <w osisId="Rom.3.17!3">εἰρήνης</w>
+            <w osisId="Rom.3.17!4">οὐκ</w>
+            <w osisId="Rom.3.17!5">ἔγνωσαν</w>
+            <pc>.</pc>
+          </l>
+        </q>
+        <q ref="Ps.36,1." rend="bold">
+          <l>
+            <milestone unit="verse" id="Rom.3.18"/>
+            <w osisId="Rom.3.18!1">οὐκ</w>
+            <w osisId="Rom.3.18!2">ἔστιν</w>
+            <w osisId="Rom.3.18!3">φόβος</w>
+            <w osisId="Rom.3.18!4">Θεοῦ</w>
+            <w osisId="Rom.3.18!5">ἀπέναντι</w>
+            <w osisId="Rom.3.18!6">τῶν</w>
+            <w osisId="Rom.3.18!7">ὀφθαλμῶν</w>
+            <w osisId="Rom.3.18!8">αὐτῶν</w>
+            <pc>.</pc>
+          </l>
+        </q>
+      </lg>
       <milestone unit="verse" id="Rom.3.19"/>
       <w osisId="Rom.3.19!1">Οἴδαμεν</w>
       <w osisId="Rom.3.19!2">δὲ</w>
@@ -1559,13 +1587,15 @@
       <w osisId="Rom.3.20!2">ἐξ</w>
       <w osisId="Rom.3.20!3">ἔργων</w>
       <w osisId="Rom.3.20!4">νόμου</w>
-      <w osisId="Rom.3.20!5">οὐ</w>
-      <w osisId="Rom.3.20!6">δικαιωθήσεται</w>
-      <w osisId="Rom.3.20!7">πᾶσα</w>
-      <w osisId="Rom.3.20!8">σὰρξ</w>
-      <w osisId="Rom.3.20!9">ἐνώπιον</w>
-      <w osisId="Rom.3.20!10">αὐτοῦ</w>
-      <pc>·</pc>
+      <q ref="Ps.143,2." rend="bold">
+        <w osisId="Rom.3.20!5">οὐ</w>
+        <w osisId="Rom.3.20!6">δικαιωθήσεται</w>
+        <w osisId="Rom.3.20!7">πᾶσα</w>
+        <w osisId="Rom.3.20!8">σὰρξ</w>
+        <w osisId="Rom.3.20!9">ἐνώπιον</w>
+        <w osisId="Rom.3.20!10">αὐτοῦ</w>
+        <pc>·</pc>
+      </q>
       <w osisId="Rom.3.20!11">διὰ</w>
       <w osisId="Rom.3.20!12">γὰρ</w>
       <w osisId="Rom.3.20!13">νόμου</w>
@@ -1808,18 +1838,20 @@
       <w osisId="Rom.4.3!4">γραφὴ</w>
       <w osisId="Rom.4.3!5">λέγει</w>
       <pc>;</pc>
-      <w osisId="Rom.4.3!6">Ἐπίστευσεν</w>
-      <w osisId="Rom.4.3!7">δὲ</w>
-      <w osisId="Rom.4.3!8">Ἀβραὰμ</w>
-      <w osisId="Rom.4.3!9">τῷ</w>
-      <w osisId="Rom.4.3!10">Θεῷ</w>
-      <pc>,</pc>
-      <w osisId="Rom.4.3!11">καὶ</w>
-      <w osisId="Rom.4.3!12">ἐλογίσθη</w>
-      <w osisId="Rom.4.3!13">αὐτῷ</w>
-      <w osisId="Rom.4.3!14">εἰς</w>
-      <w osisId="Rom.4.3!15">δικαιοσύνην</w>
-      <pc>.</pc>
+      <q ref="Gn.15,6." rend="bold">
+       <w osisId="Rom.4.3!6">Ἐπίστευσεν</w>
+       <w osisId="Rom.4.3!7">δὲ</w>
+       <w osisId="Rom.4.3!8">Ἀβραὰμ</w>
+       <w osisId="Rom.4.3!9">τῷ</w>
+       <w osisId="Rom.4.3!10">Θεῷ</w>
+       <pc>,</pc>
+       <w osisId="Rom.4.3!11">καὶ</w>
+       <w osisId="Rom.4.3!12">ἐλογίσθη</w>
+       <w osisId="Rom.4.3!13">αὐτῷ</w>
+       <w osisId="Rom.4.3!14">εἰς</w>
+       <w osisId="Rom.4.3!15">δικαιοσύνην</w>
+       <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.4.4"/>
       <w osisId="Rom.4.4!1">τῷ</w>
       <w osisId="Rom.4.4!2">δὲ</w>
@@ -1871,34 +1903,36 @@
       <w osisId="Rom.4.6!13">δικαιοσύνην</w>
       <w osisId="Rom.4.6!14">χωρὶς</w>
       <w osisId="Rom.4.6!15">ἔργων</w>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.4.7"/>
-      <w osisId="Rom.4.7!1">Μακάριοι</w>
-      <w osisId="Rom.4.7!2">ὧν</w>
-      <w osisId="Rom.4.7!3">ἀφέθησαν</w>
-      <w osisId="Rom.4.7!4">αἱ</w>
-      <w osisId="Rom.4.7!5">ἀνομίαι</w>
-      <w osisId="Rom.4.7!6">καὶ</w>
-      <w osisId="Rom.4.7!7">ὧν</w>
-      <w osisId="Rom.4.7!8">ἐπεκαλύφθησαν</w>
-      <w osisId="Rom.4.7!9">αἱ</w>
-      <w osisId="Rom.4.7!10">ἁμαρτίαι</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.4.8"/>
-      <w osisId="Rom.4.8!1">μακάριος</w>
-      <w osisId="Rom.4.8!2">ἀνὴρ</w>
-      <w osisId="Rom.4.8!3">οὗ</w>
-      <w osisId="Rom.4.8!4">οὐ</w>
-      <w osisId="Rom.4.8!5">μὴ</w>
-      <w osisId="Rom.4.8!6">λογίσηται</w>
-      <w osisId="Rom.4.8!7">Κύριος</w>
-      <w osisId="Rom.4.8!8">ἁμαρτίαν</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Ps.32,1.2." rend="bold">
+        <lg>
+          <l>
+            <milestone unit="verse" id="Rom.4.7"/>
+            <w osisId="Rom.4.7!1">Μακάριοι</w>
+            <w osisId="Rom.4.7!2">ὧν</w>
+            <w osisId="Rom.4.7!3">ἀφέθησαν</w>
+            <w osisId="Rom.4.7!4">αἱ</w>
+            <w osisId="Rom.4.7!5">ἀνομίαι</w>
+            <w osisId="Rom.4.7!6">καὶ</w>
+            <w osisId="Rom.4.7!7">ὧν</w>
+            <w osisId="Rom.4.7!8">ἐπεκαλύφθησαν</w>
+            <w osisId="Rom.4.7!9">αἱ</w>
+            <w osisId="Rom.4.7!10">ἁμαρτίαι</w>
+            <pc>·</pc>
+          </l>
+          <l>
+            <milestone unit="verse" id="Rom.4.8"/>
+            <w osisId="Rom.4.8!1">μακάριος</w>
+            <w osisId="Rom.4.8!2">ἀνὴρ</w>
+            <w osisId="Rom.4.8!3">οὗ</w>
+            <w osisId="Rom.4.8!4">οὐ</w>
+            <w osisId="Rom.4.8!5">μὴ</w>
+            <w osisId="Rom.4.8!6">λογίσηται</w>
+            <w osisId="Rom.4.8!7">Κύριος</w>
+            <w osisId="Rom.4.8!8">ἁμαρτίαν</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Rom.4.9"/>
       <w osisId="Rom.4.9!1">ὁ</w>
       <w osisId="Rom.4.9!2">μακαρισμὸς</w>
@@ -1915,14 +1949,16 @@
       <pc>;</pc>
       <w osisId="Rom.4.9!13">λέγομεν</w>
       <w osisId="Rom.4.9!14">γάρ</w>
-      <w osisId="Rom.4.9!15">Ἐλογίσθη</w>
-      <w osisId="Rom.4.9!16">τῷ</w>
-      <w osisId="Rom.4.9!17">Ἀβραὰμ</w>
-      <w osisId="Rom.4.9!18">ἡ</w>
-      <w osisId="Rom.4.9!19">πίστις</w>
-      <w osisId="Rom.4.9!20">εἰς</w>
-      <w osisId="Rom.4.9!21">δικαιοσύνην</w>
-      <pc>.</pc>
+      <q ref="Gn.15,6." rend="bold">
+        <w osisId="Rom.4.9!15">Ἐλογίσθη</w>
+        <w osisId="Rom.4.9!16">τῷ</w>
+        <w osisId="Rom.4.9!17">Ἀβραὰμ</w>
+        <w osisId="Rom.4.9!18">ἡ</w>
+        <w osisId="Rom.4.9!19">πίστις</w>
+        <w osisId="Rom.4.9!20">εἰς</w>
+        <w osisId="Rom.4.9!21">δικαιοσύνην</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.4.10"/>
       <w osisId="Rom.4.10!1">πῶς</w>
       <w osisId="Rom.4.10!2">οὖν</w>
@@ -1944,9 +1980,13 @@
       <pc>·</pc>
       <milestone unit="verse" id="Rom.4.11"/>
       <w osisId="Rom.4.11!1">καὶ</w>
-      <w osisId="Rom.4.11!2">σημεῖον</w>
+      <q ref="Gn.17,10.11." rend="bold">
+        <w osisId="Rom.4.11!2">σημεῖον</w>
+      </q>
       <w osisId="Rom.4.11!3">ἔλαβεν</w>
-      <w osisId="Rom.4.11!4">περιτομῆς</w>
+      <q ref="Gn.17,10.11." rend="bold">
+        <w osisId="Rom.4.11!4">περιτομῆς</w>
+      </q>
       <w osisId="Rom.4.11!5">σφραγῖδα</w>
       <w osisId="Rom.4.11!6">τῆς</w>
       <w osisId="Rom.4.11!7">δικαιοσύνης</w>
@@ -1954,9 +1994,11 @@
       <w osisId="Rom.4.11!9">πίστεως</w>
       <w osisId="Rom.4.11!10">τῆς</w>
       <w osisId="Rom.4.11!11">ἐν</w>
-      <w osisId="Rom.4.11!12">τῇ</w>
-      <w osisId="Rom.4.11!13">ἀκροβυστίᾳ</w>
-      <pc>,</pc>
+      <q ref="Gn.17,10.11." rend="bold">
+        <w osisId="Rom.4.11!12">τῇ</w>
+        <w osisId="Rom.4.11!13">ἀκροβυστίᾳ</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Rom.4.11!14">εἰς</w>
       <w osisId="Rom.4.11!15">τὸ</w>
       <w osisId="Rom.4.11!16">εἶναι</w>
@@ -2100,12 +2142,14 @@
       <w osisId="Rom.4.17!1">καθὼς</w>
       <w osisId="Rom.4.17!2">γέγραπται</w>
       <w osisId="Rom.4.17!3">ὅτι</w>
-      <w osisId="Rom.4.17!4">Πατέρα</w>
-      <w osisId="Rom.4.17!5">πολλῶν</w>
-      <w osisId="Rom.4.17!6">ἐθνῶν</w>
-      <w osisId="Rom.4.17!7">τέθεικά</w>
-      <w osisId="Rom.4.17!8">σε</w>
-      <pc>,</pc>
+      <q ref="Gn.17,5. Is.48,13." rend="bold">
+        <w osisId="Rom.4.17!4">Πατέρα</w>
+        <w osisId="Rom.4.17!5">πολλῶν</w>
+        <w osisId="Rom.4.17!6">ἐθνῶν</w>
+        <w osisId="Rom.4.17!7">τέθεικά</w>
+        <w osisId="Rom.4.17!8">σε</w>
+        <pc>,</pc>
+      </q>
       <pc>)</pc>
       <w osisId="Rom.4.17!9">κατέναντι</w>
       <w osisId="Rom.4.17!10">οὗ</w>
@@ -2134,18 +2178,22 @@
       <w osisId="Rom.4.18!8">τὸ</w>
       <w osisId="Rom.4.18!9">γενέσθαι</w>
       <w osisId="Rom.4.18!10">αὐτὸν</w>
-      <w osisId="Rom.4.18!11">πατέρα</w>
-      <w osisId="Rom.4.18!12">πολλῶν</w>
-      <w osisId="Rom.4.18!13">ἐθνῶν</w>
+      <q ref="Gn.17,17." rend="bold">
+        <w osisId="Rom.4.18!11">πατέρα</w>
+        <w osisId="Rom.4.18!12">πολλῶν</w>
+        <w osisId="Rom.4.18!13">ἐθνῶν</w>
+      </q>
       <w osisId="Rom.4.18!14">κατὰ</w>
       <w osisId="Rom.4.18!15">τὸ</w>
       <w osisId="Rom.4.18!16">εἰρημένον</w>
-      <w osisId="Rom.4.18!17">Οὕτως</w>
-      <w osisId="Rom.4.18!18">ἔσται</w>
-      <w osisId="Rom.4.18!19">τὸ</w>
-      <w osisId="Rom.4.18!20">σπέρμα</w>
-      <w osisId="Rom.4.18!21">σου</w>
-      <pc>·</pc>
+      <q ref="Gn.17,17." rend="bold">
+        <w osisId="Rom.4.18!17">Οὕτως</w>
+        <w osisId="Rom.4.18!18">ἔσται</w>
+        <w osisId="Rom.4.18!19">τὸ</w>
+        <w osisId="Rom.4.18!20">σπέρμα</w>
+        <w osisId="Rom.4.18!21">σου</w>
+        <pc>·</pc>
+      </q>
       <milestone unit="verse" id="Rom.4.19"/>
       <w osisId="Rom.4.19!1">καὶ</w>
       <w osisId="Rom.4.19!2">μὴ</w>
@@ -2204,11 +2252,13 @@
       <milestone unit="verse" id="Rom.4.22"/>
       <w osisId="Rom.4.22!1">διὸ</w>
       <w osisId="Rom.4.22!2">καὶ</w>
-      <w osisId="Rom.4.22!3">ἐλογίσθη</w>
-      <w osisId="Rom.4.22!4">αὐτῷ</w>
-      <w osisId="Rom.4.22!5">εἰς</w>
-      <w osisId="Rom.4.22!6">δικαιοσύνην</w>
-      <pc>.</pc>
+      <q ref="Gn.15,6." rend="bold">
+        <w osisId="Rom.4.22!3">ἐλογίσθη</w>
+        <w osisId="Rom.4.22!4">αὐτῷ</w>
+        <w osisId="Rom.4.22!5">εἰς</w>
+        <w osisId="Rom.4.22!6">δικαιοσύνην</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.4.23"/>
       <w osisId="Rom.4.23!1">Οὐκ</w>
       <w osisId="Rom.4.23!2">ἐγράφη</w>
@@ -2217,9 +2267,11 @@
       <w osisId="Rom.4.23!5">αὐτὸν</w>
       <w osisId="Rom.4.23!6">μόνον</w>
       <w osisId="Rom.4.23!7">ὅτι</w>
-      <w osisId="Rom.4.23!8">ἐλογίσθη</w>
-      <w osisId="Rom.4.23!9">αὐτῷ</w>
-      <pc>,</pc>
+      <q ref="Gn.15,6." rend="bold">
+        <w osisId="Rom.4.23!8">ἐλογίσθη</w>
+        <w osisId="Rom.4.23!9">αὐτῷ</w>
+        <pc>,</pc>
+      </q>
       <milestone unit="verse" id="Rom.4.24"/>
       <w osisId="Rom.4.24!1">ἀλλὰ</w>
       <w osisId="Rom.4.24!2">καὶ</w>
@@ -2244,10 +2296,12 @@
       <pc>,</pc>
       <milestone unit="verse" id="Rom.4.25"/>
       <w osisId="Rom.4.25!1">ὃς</w>
-      <w osisId="Rom.4.25!2">παρεδόθη</w>
-      <w osisId="Rom.4.25!3">διὰ</w>
-      <w osisId="Rom.4.25!4">τὰ</w>
-      <w osisId="Rom.4.25!5">παραπτώματα</w>
+      <q ref="Is.53,4.5." rend="bold">
+        <w osisId="Rom.4.25!2">παρεδόθη</w>
+        <w osisId="Rom.4.25!3">διὰ</w>
+        <w osisId="Rom.4.25!4">τὰ</w>
+        <w osisId="Rom.4.25!5">παραπτώματα</w>
+      </q>
       <w osisId="Rom.4.25!6">ἡμῶν</w>
       <w osisId="Rom.4.25!7">καὶ</w>
       <w osisId="Rom.4.25!8">ἠγέρθη</w>
@@ -2337,10 +2391,12 @@
       <milestone unit="verse" id="Rom.5.5"/>
       <w osisId="Rom.5.5!1">ἡ</w>
       <w osisId="Rom.5.5!2">δὲ</w>
-      <w osisId="Rom.5.5!3">ἐλπὶς</w>
-      <w osisId="Rom.5.5!4">οὐ</w>
-      <w osisId="Rom.5.5!5">καταισχύνει</w>
-      <pc>,</pc>
+      <q ref="Ps.22,5;25,20." rend="bold">
+        <w osisId="Rom.5.5!3">ἐλπὶς</w>
+        <w osisId="Rom.5.5!4">οὐ</w>
+        <w osisId="Rom.5.5!5">καταισχύνει</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Rom.5.5!6">ὅτι</w>
       <w osisId="Rom.5.5!7">ἡ</w>
       <w osisId="Rom.5.5!8">ἀγάπη</w>
@@ -4448,14 +4504,18 @@
       <w osisId="Rom.8.33!5">Θεοῦ</w>
       <pc>;</pc>
       <w osisId="Rom.8.33!6">Θεὸς</w>
-      <w osisId="Rom.8.33!7">ὁ</w>
-      <w osisId="Rom.8.33!8">δικαιῶν</w>
+      <q ref="Is.50,8." rend="bold">
+        <w osisId="Rom.8.33!7">ὁ</w>
+        <w osisId="Rom.8.33!8">δικαιῶν</w>
+      </q>
       <pc>·</pc>
       <milestone unit="verse" id="Rom.8.34"/>
-      <w osisId="Rom.8.34!1">τίς</w>
-      <w osisId="Rom.8.34!2">ὁ</w>
-      <w osisId="Rom.8.34!3">κατακρινῶν</w>
-      <pc>;</pc>
+      <q ref="Is.50,8." rend="bold">
+        <w osisId="Rom.8.34!1">τίς</w>
+        <w osisId="Rom.8.34!2">ὁ</w>
+        <w osisId="Rom.8.34!3">κατακρινῶν</w>
+        <pc>;</pc>
+      </q>
       <w osisId="Rom.8.34!4">Χριστὸς</w>
       <w osisId="Rom.8.34!5">Ἰησοῦς</w>
       <w osisId="Rom.8.34!6">ὁ</w>
@@ -4506,26 +4566,26 @@
       <w osisId="Rom.8.36!1">καθὼς</w>
       <w osisId="Rom.8.36!2">γέγραπται</w>
       <w osisId="Rom.8.36!3">ὅτι</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.8.36!4">Ἕνεκεν</w>
-      <w osisId="Rom.8.36!5">σοῦ</w>
-      <w osisId="Rom.8.36!6">θανατούμεθα</w>
-      <w osisId="Rom.8.36!7">ὅλην</w>
-      <w osisId="Rom.8.36!8">τὴν</w>
-      <w osisId="Rom.8.36!9">ἡμέραν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      
-      <w osisId="Rom.8.36!10">ἐλογίσθημεν</w>
-      <w osisId="Rom.8.36!11">ὡς</w>
-      <w osisId="Rom.8.36!12">πρόβατα</w>
-      <w osisId="Rom.8.36!13">σφαγῆς</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Ps.44,22." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Rom.8.36!4">Ἕνεκεν</w>
+            <w osisId="Rom.8.36!5">σοῦ</w>
+            <w osisId="Rom.8.36!6">θανατούμεθα</w>
+            <w osisId="Rom.8.36!7">ὅλην</w>
+            <w osisId="Rom.8.36!8">τὴν</w>
+            <w osisId="Rom.8.36!9">ἡμέραν</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.8.36!10">ἐλογίσθημεν</w>
+            <w osisId="Rom.8.36!11">ὡς</w>
+            <w osisId="Rom.8.36!12">πρόβατα</w>
+            <w osisId="Rom.8.36!13">σφαγῆς</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Rom.8.37"/>
       <w osisId="Rom.8.37!1">ἀλλ’</w>
       <w osisId="Rom.8.37!2">ἐν</w>
@@ -4718,12 +4778,14 @@
       <w osisId="Rom.9.7!7">τέκνα</w>
       <pc>,</pc>
       <w osisId="Rom.9.7!8">ἀλλ’</w>
-      <w osisId="Rom.9.7!9">Ἐν</w>
-      <w osisId="Rom.9.7!10">Ἰσαὰκ</w>
-      <w osisId="Rom.9.7!11">κληθήσεταί</w>
-      <w osisId="Rom.9.7!12">σοι</w>
-      <w osisId="Rom.9.7!13">σπέρμα</w>
-      <pc>.</pc>
+      <q ref="Gn.21,12." rend="bold">
+        <w osisId="Rom.9.7!9">Ἐν</w>
+        <w osisId="Rom.9.7!10">Ἰσαὰκ</w>
+        <w osisId="Rom.9.7!11">κληθήσεταί</w>
+        <w osisId="Rom.9.7!12">σοι</w>
+        <w osisId="Rom.9.7!13">σπέρμα</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.9.8"/>
       <w osisId="Rom.9.8!1">τοῦτ’</w>
       <w osisId="Rom.9.8!2">ἔστιν</w>
@@ -4753,17 +4815,19 @@
       <w osisId="Rom.9.9!3">ὁ</w>
       <w osisId="Rom.9.9!4">λόγος</w>
       <w osisId="Rom.9.9!5">οὗτος</w>
-      <w osisId="Rom.9.9!6">Κατὰ</w>
-      <w osisId="Rom.9.9!7">τὸν</w>
-      <w osisId="Rom.9.9!8">καιρὸν</w>
-      <w osisId="Rom.9.9!9">τοῦτον</w>
-      <w osisId="Rom.9.9!10">ἐλεύσομαι</w>
-      <w osisId="Rom.9.9!11">καὶ</w>
-      <w osisId="Rom.9.9!12">ἔσται</w>
-      <w osisId="Rom.9.9!13">τῇ</w>
-      <w osisId="Rom.9.9!14">Σάρρᾳ</w>
-      <w osisId="Rom.9.9!15">υἱός</w>
-      <pc>.</pc>
+      <q ref="Gn.18,10." rend="bold">
+        <w osisId="Rom.9.9!6">Κατὰ</w>
+        <w osisId="Rom.9.9!7">τὸν</w>
+        <w osisId="Rom.9.9!8">καιρὸν</w>
+        <w osisId="Rom.9.9!9">τοῦτον</w>
+        <w osisId="Rom.9.9!10">ἐλεύσομαι</w>
+        <w osisId="Rom.9.9!11">καὶ</w>
+        <w osisId="Rom.9.9!12">ἔσται</w>
+        <w osisId="Rom.9.9!13">τῇ</w>
+        <w osisId="Rom.9.9!14">Σάρρᾳ</w>
+        <w osisId="Rom.9.9!15">υἱός</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.9.10"/>
       <w osisId="Rom.9.10!1">οὐ</w>
       <w osisId="Rom.9.10!2">μόνον</w>
@@ -4814,24 +4878,28 @@
       <w osisId="Rom.9.12!8">ἐρρέθη</w>
       <w osisId="Rom.9.12!9">αὐτῇ</w>
       <w osisId="Rom.9.12!10">ὅτι</w>
-      <w osisId="Rom.9.12!11">Ὁ</w>
-      <w osisId="Rom.9.12!12">μείζων</w>
-      <w osisId="Rom.9.12!13">δουλεύσει</w>
-      <w osisId="Rom.9.12!14">τῷ</w>
-      <w osisId="Rom.9.12!15">ἐλάσσονι</w>
-      <pc>·</pc>
+      <q ref="Gn.25,23." rend="bold">
+        <w osisId="Rom.9.12!11">Ὁ</w>
+        <w osisId="Rom.9.12!12">μείζων</w>
+        <w osisId="Rom.9.12!13">δουλεύσει</w>
+        <w osisId="Rom.9.12!14">τῷ</w>
+        <w osisId="Rom.9.12!15">ἐλάσσονι</w>
+        <pc>·</pc>
+      </q>
       <milestone unit="verse" id="Rom.9.13"/>
       <w osisId="Rom.9.13!1">καθάπερ</w>
       <w osisId="Rom.9.13!2">γέγραπται</w>
-      <w osisId="Rom.9.13!3">Τὸν</w>
-      <w osisId="Rom.9.13!4">Ἰακὼβ</w>
-      <w osisId="Rom.9.13!5">ἠγάπησα</w>
-      <pc>,</pc>
-      <w osisId="Rom.9.13!6">τὸν</w>
-      <w osisId="Rom.9.13!7">δὲ</w>
-      <w osisId="Rom.9.13!8">Ἠσαῦ</w>
-      <w osisId="Rom.9.13!9">ἐμίσησα</w>
-      <pc>.</pc>
+      <q ref="Mal.1,2.3." rend="bold">
+        <w osisId="Rom.9.13!3">Τὸν</w>
+        <w osisId="Rom.9.13!4">Ἰακὼβ</w>
+        <w osisId="Rom.9.13!5">ἠγάπησα</w>
+        <pc>,</pc>
+        <w osisId="Rom.9.13!6">τὸν</w>
+        <w osisId="Rom.9.13!7">δὲ</w>
+        <w osisId="Rom.9.13!8">Ἠσαῦ</w>
+        <w osisId="Rom.9.13!9">ἐμίσησα</w>
+        <pc>.</pc>
+      </q>
     </p>
     <p>
       <milestone unit="verse" id="Rom.9.14"/>
@@ -4853,17 +4921,19 @@
       <w osisId="Rom.9.15!2">Μωϋσεῖ</w>
       <w osisId="Rom.9.15!3">γὰρ</w>
       <w osisId="Rom.9.15!4">λέγει</w>
-      <w osisId="Rom.9.15!5">Ἐλεήσω</w>
-      <w osisId="Rom.9.15!6">ὃν</w>
-      <w osisId="Rom.9.15!7">ἂν</w>
-      <w osisId="Rom.9.15!8">ἐλεῶ</w>
-      <pc>,</pc>
-      <w osisId="Rom.9.15!9">καὶ</w>
-      <w osisId="Rom.9.15!10">οἰκτειρήσω</w>
-      <w osisId="Rom.9.15!11">ὃν</w>
-      <w osisId="Rom.9.15!12">ἂν</w>
-      <w osisId="Rom.9.15!13">οἰκτείρω</w>
-      <pc>.</pc>
+      <q ref="Ex.33,19." rend="bold">
+        <w osisId="Rom.9.15!5">Ἐλεήσω</w>
+        <w osisId="Rom.9.15!6">ὃν</w>
+        <w osisId="Rom.9.15!7">ἂν</w>
+        <w osisId="Rom.9.15!8">ἐλεῶ</w>
+        <pc>,</pc>
+        <w osisId="Rom.9.15!9">καὶ</w>
+        <w osisId="Rom.9.15!10">οἰκτειρήσω</w>
+        <w osisId="Rom.9.15!11">ὃν</w>
+        <w osisId="Rom.9.15!12">ἂν</w>
+        <w osisId="Rom.9.15!13">οἰκτείρω</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.9.16"/>
       <w osisId="Rom.9.16!1">ἄρα</w>
       <w osisId="Rom.9.16!2">οὖν</w>
@@ -4887,31 +4957,33 @@
       <w osisId="Rom.9.17!5">τῷ</w>
       <w osisId="Rom.9.17!6">Φαραὼ</w>
       <w osisId="Rom.9.17!7">ὅτι</w>
-      <w osisId="Rom.9.17!8">Εἰς</w>
-      <w osisId="Rom.9.17!9">αὐτὸ</w>
-      <w osisId="Rom.9.17!10">τοῦτο</w>
-      <w osisId="Rom.9.17!11">ἐξήγειρά</w>
-      <w osisId="Rom.9.17!12">σε</w>
-      <pc>,</pc>
-      <w osisId="Rom.9.17!13">ὅπως</w>
-      <w osisId="Rom.9.17!14">ἐνδείξωμαι</w>
-      <w osisId="Rom.9.17!15">ἐν</w>
-      <w osisId="Rom.9.17!16">σοὶ</w>
-      <w osisId="Rom.9.17!17">τὴν</w>
-      <w osisId="Rom.9.17!18">δύναμίν</w>
-      <w osisId="Rom.9.17!19">μου</w>
-      <pc>,</pc>
-      <w osisId="Rom.9.17!20">καὶ</w>
-      <w osisId="Rom.9.17!21">ὅπως</w>
-      <w osisId="Rom.9.17!22">διαγγελῇ</w>
-      <w osisId="Rom.9.17!23">τὸ</w>
-      <w osisId="Rom.9.17!24">ὄνομά</w>
-      <w osisId="Rom.9.17!25">μου</w>
-      <w osisId="Rom.9.17!26">ἐν</w>
-      <w osisId="Rom.9.17!27">πάσῃ</w>
-      <w osisId="Rom.9.17!28">τῇ</w>
-      <w osisId="Rom.9.17!29">γῇ</w>
-      <pc>.</pc>
+      <q ref="Ex.9,16." rend="bold">
+        <w osisId="Rom.9.17!8">Εἰς</w>
+        <w osisId="Rom.9.17!9">αὐτὸ</w>
+        <w osisId="Rom.9.17!10">τοῦτο</w>
+        <w osisId="Rom.9.17!11">ἐξήγειρά</w>
+        <w osisId="Rom.9.17!12">σε</w>
+        <pc>,</pc>
+        <w osisId="Rom.9.17!13">ὅπως</w>
+        <w osisId="Rom.9.17!14">ἐνδείξωμαι</w>
+        <w osisId="Rom.9.17!15">ἐν</w>
+        <w osisId="Rom.9.17!16">σοὶ</w>
+        <w osisId="Rom.9.17!17">τὴν</w>
+        <w osisId="Rom.9.17!18">δύναμίν</w>
+        <w osisId="Rom.9.17!19">μου</w>
+        <pc>,</pc>
+        <w osisId="Rom.9.17!20">καὶ</w>
+        <w osisId="Rom.9.17!21">ὅπως</w>
+        <w osisId="Rom.9.17!22">διαγγελῇ</w>
+        <w osisId="Rom.9.17!23">τὸ</w>
+        <w osisId="Rom.9.17!24">ὄνομά</w>
+        <w osisId="Rom.9.17!25">μου</w>
+        <w osisId="Rom.9.17!26">ἐν</w>
+        <w osisId="Rom.9.17!27">πάσῃ</w>
+        <w osisId="Rom.9.17!28">τῇ</w>
+        <w osisId="Rom.9.17!29">γῇ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.9.18"/>
       <w osisId="Rom.9.18!1">ἄρα</w>
       <w osisId="Rom.9.18!2">οὖν</w>
@@ -4922,8 +4994,10 @@
       <w osisId="Rom.9.18!6">ὃν</w>
       <w osisId="Rom.9.18!7">δὲ</w>
       <w osisId="Rom.9.18!8">θέλει</w>
-      <w osisId="Rom.9.18!9">σκληρύνει</w>
-      <pc>.</pc>
+      <q ref="Ex.4,21;7,3;9,12;14,4.17." rend="bold">
+        <w osisId="Rom.9.18!9">σκληρύνει</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.9.19"/>
       <w osisId="Rom.9.19!1">Ἐρεῖς</w>
       <w osisId="Rom.9.19!2">μοι</w>
@@ -4952,12 +5026,14 @@
       <w osisId="Rom.9.20!9">τῷ</w>
       <w osisId="Rom.9.20!10">Θεῷ</w>
       <pc>;</pc>
-      <w osisId="Rom.9.20!11">μὴ</w>
-      <w osisId="Rom.9.20!12">ἐρεῖ</w>
-      <w osisId="Rom.9.20!13">τὸ</w>
-      <w osisId="Rom.9.20!14">πλάσμα</w>
-      <w osisId="Rom.9.20!15">τῷ</w>
-      <w osisId="Rom.9.20!16">πλάσαντι</w>
+      <q ref="Is.29,16;45,9." rend="bold">
+        <w osisId="Rom.9.20!11">μὴ</w>
+        <w osisId="Rom.9.20!12">ἐρεῖ</w>
+        <w osisId="Rom.9.20!13">τὸ</w>
+        <w osisId="Rom.9.20!14">πλάσμα</w>
+        <w osisId="Rom.9.20!15">τῷ</w>
+        <w osisId="Rom.9.20!16">πλάσαντι</w>
+      </q>
       <w osisId="Rom.9.20!17">Τί</w>
       <w osisId="Rom.9.20!18">με</w>
       <w osisId="Rom.9.20!19">ἐποίησας</w>
@@ -4968,10 +5044,12 @@
       <w osisId="Rom.9.21!2">οὐκ</w>
       <w osisId="Rom.9.21!3">ἔχει</w>
       <w osisId="Rom.9.21!4">ἐξουσίαν</w>
-      <w osisId="Rom.9.21!5">ὁ</w>
-      <w osisId="Rom.9.21!6">κεραμεὺς</w>
-      <w osisId="Rom.9.21!7">τοῦ</w>
-      <w osisId="Rom.9.21!8">πηλοῦ</w>
+      <q ref="Jer.18,6." rend="bold">
+        <w osisId="Rom.9.21!5">ὁ</w>
+        <w osisId="Rom.9.21!6">κεραμεὺς</w>
+        <w osisId="Rom.9.21!7">τοῦ</w>
+        <w osisId="Rom.9.21!8">πηλοῦ</w>
+      </q>
       <w osisId="Rom.9.21!9">ἐκ</w>
       <w osisId="Rom.9.21!10">τοῦ</w>
       <w osisId="Rom.9.21!11">αὐτοῦ</w>
@@ -5002,16 +5080,22 @@
       <w osisId="Rom.9.22!11">τὸ</w>
       <w osisId="Rom.9.22!12">δυνατὸν</w>
       <w osisId="Rom.9.22!13">αὐτοῦ</w>
-      <w osisId="Rom.9.22!14">ἤνεγκεν</w>
+      <q ref="Jer.50,25. Is.13,5;54,2.4." rend="bold">
+        <w osisId="Rom.9.22!14">ἤνεγκεν</w>
+      </q>
       <w osisId="Rom.9.22!15">ἐν</w>
       <w osisId="Rom.9.22!16">πολλῇ</w>
       <w osisId="Rom.9.22!17">μακροθυμίᾳ</w>
-      <w osisId="Rom.9.22!18">σκεύη</w>
-      <w osisId="Rom.9.22!19">ὀργῆς</w>
+      <q ref="Jer.50,25. Is.13,5;54,2.4." rend="bold">
+        <w osisId="Rom.9.22!18">σκεύη</w>
+        <w osisId="Rom.9.22!19">ὀργῆς</w>
+      </q>
       <w osisId="Rom.9.22!20">κατηρτισμένα</w>
       <w osisId="Rom.9.22!21">εἰς</w>
-      <w osisId="Rom.9.22!22">ἀπώλειαν</w>
-      <pc>,</pc>
+      <q ref="Jer.50,25. Is.13,5;54,2.4." rend="bold">
+        <w osisId="Rom.9.22!22">ἀπώλειαν</w>
+        <pc>,</pc>
+      </q>
       <milestone unit="verse" id="Rom.9.23"/>
       <w osisId="Rom.9.23!1">καὶ</w>
       <w osisId="Rom.9.23!2">ἵνα</w>
@@ -5051,52 +5135,53 @@
       <w osisId="Rom.9.25!4">τῷ</w>
       <w osisId="Rom.9.25!5">Ὡσηὲ</w>
       <w osisId="Rom.9.25!6">λέγει</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.9.25!7">Καλέσω</w>
-      <w osisId="Rom.9.25!8">τὸν</w>
-      <w osisId="Rom.9.25!9">οὐ</w>
-      <w osisId="Rom.9.25!10">λαόν</w>
-      <w osisId="Rom.9.25!11">μου</w>
-      <w osisId="Rom.9.25!12">λαόν</w>
-      <w osisId="Rom.9.25!13">μου</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.9.25!14">καὶ</w>
-      <w osisId="Rom.9.25!15">τὴν</w>
-      <w osisId="Rom.9.25!16">οὐκ</w>
-      <w osisId="Rom.9.25!17">ἠγαπημένην</w>
-      <w osisId="Rom.9.25!18">ἠγαπημένην</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.9.26"/>
-      <w osisId="Rom.9.26!1">καὶ</w>
-      <w osisId="Rom.9.26!2">ἔσται</w>
-      <w osisId="Rom.9.26!3">ἐν</w>
-      <w osisId="Rom.9.26!4">τῷ</w>
-      <w osisId="Rom.9.26!5">τόπῳ</w>
-      <w osisId="Rom.9.26!6">οὗ</w>
-      <w osisId="Rom.9.26!7">ἐρρέθη</w>
-      <w osisId="Rom.9.26!8">αὐτοῖς</w>
-      <w osisId="Rom.9.26!9">Οὐ</w>
-      <w osisId="Rom.9.26!10">λαός</w>
-      <w osisId="Rom.9.26!11">μου</w>
-      <w osisId="Rom.9.26!12">ὑμεῖς</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      
-      <w osisId="Rom.9.26!13">ἐκεῖ</w>
-      <w osisId="Rom.9.26!14">κληθήσονται</w>
-      <w osisId="Rom.9.26!15">υἱοὶ</w>
-      <w osisId="Rom.9.26!16">Θεοῦ</w>
-      <w osisId="Rom.9.26!17">ζῶντος</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <lg>
+        <q ref="Hos.2,23." rend="bold">
+          <l>
+            <w osisId="Rom.9.25!7">Καλέσω</w>
+            <w osisId="Rom.9.25!8">τὸν</w>
+            <w osisId="Rom.9.25!9">οὐ</w>
+            <w osisId="Rom.9.25!10">λαόν</w>
+            <w osisId="Rom.9.25!11">μου</w>
+            <w osisId="Rom.9.25!12">λαόν</w>
+            <w osisId="Rom.9.25!13">μου</w>
+          </l>
+          <l>
+            <w osisId="Rom.9.25!14">καὶ</w>
+            <w osisId="Rom.9.25!15">τὴν</w>
+            <w osisId="Rom.9.25!16">οὐκ</w>
+            <w osisId="Rom.9.25!17">ἠγαπημένην</w>
+            <w osisId="Rom.9.25!18">ἠγαπημένην</w>
+            <pc>·</pc>
+          </l>
+        </q>
+        <q ref="Hos.1,10." rend="bold">
+          <l>
+            <milestone unit="verse" id="Rom.9.26"/>
+            <w osisId="Rom.9.26!1">καὶ</w>
+            <w osisId="Rom.9.26!2">ἔσται</w>
+            <w osisId="Rom.9.26!3">ἐν</w>
+            <w osisId="Rom.9.26!4">τῷ</w>
+            <w osisId="Rom.9.26!5">τόπῳ</w>
+            <w osisId="Rom.9.26!6">οὗ</w>
+            <w osisId="Rom.9.26!7">ἐρρέθη</w>
+            <w osisId="Rom.9.26!8">αὐτοῖς</w>
+            <w osisId="Rom.9.26!9">Οὐ</w>
+            <w osisId="Rom.9.26!10">λαός</w>
+            <w osisId="Rom.9.26!11">μου</w>
+            <w osisId="Rom.9.26!12">ὑμεῖς</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.9.26!13">ἐκεῖ</w>
+            <w osisId="Rom.9.26!14">κληθήσονται</w>
+            <w osisId="Rom.9.26!15">υἱοὶ</w>
+            <w osisId="Rom.9.26!16">Θεοῦ</w>
+            <w osisId="Rom.9.26!17">ζῶντος</w>
+            <pc>.</pc>
+          </l>
+        </q>
+      </lg>
       <milestone unit="verse" id="Rom.9.27"/>
       <w osisId="Rom.9.27!1">Ἡσαΐας</w>
       <w osisId="Rom.9.27!2">δὲ</w>
@@ -5104,66 +5189,68 @@
       <w osisId="Rom.9.27!4">ὑπὲρ</w>
       <w osisId="Rom.9.27!5">τοῦ</w>
       <w osisId="Rom.9.27!6">Ἰσραήλ</w>
-      <w osisId="Rom.9.27!7">Ἐὰν</w>
-      <w osisId="Rom.9.27!8">ᾖ</w>
-      <w osisId="Rom.9.27!9">ὁ</w>
-      <w osisId="Rom.9.27!10">ἀριθμὸς</w>
-      <w osisId="Rom.9.27!11">τῶν</w>
-      <w osisId="Rom.9.27!12">υἱῶν</w>
-      <w osisId="Rom.9.27!13">Ἰσραὴλ</w>
-      <w osisId="Rom.9.27!14">ὡς</w>
-      <w osisId="Rom.9.27!15">ἡ</w>
-      <w osisId="Rom.9.27!16">ἄμμος</w>
-      <w osisId="Rom.9.27!17">τῆς</w>
-      <w osisId="Rom.9.27!18">θαλάσσης</w>
-      <pc>,</pc>
-      <w osisId="Rom.9.27!19">τὸ</w>
-      <w osisId="Rom.9.27!20">ὑπόλειμμα</w>
-      <w osisId="Rom.9.27!21">σωθήσεται</w>
-      <pc>·</pc>
-      <milestone unit="verse" id="Rom.9.28"/>
-      <w osisId="Rom.9.28!1">λόγον</w>
-      <w osisId="Rom.9.28!2">γὰρ</w>
-      <w osisId="Rom.9.28!3">συντελῶν</w>
-      <w osisId="Rom.9.28!4">καὶ</w>
-      <w osisId="Rom.9.28!5">συντέμνων</w>
-      <w osisId="Rom.9.28!6">ποιήσει</w>
-      <w osisId="Rom.9.28!7">Κύριος</w>
-      <w osisId="Rom.9.28!8">ἐπὶ</w>
-      <w osisId="Rom.9.28!9">τῆς</w>
-      <w osisId="Rom.9.28!10">γῆς</w>
-      <pc>.</pc>
+      <q ref="Is.10,22.23." rend="bold">
+        <w osisId="Rom.9.27!7">Ἐὰν</w>
+        <w osisId="Rom.9.27!8">ᾖ</w>
+        <w osisId="Rom.9.27!9">ὁ</w>
+        <w osisId="Rom.9.27!10">ἀριθμὸς</w>
+        <w osisId="Rom.9.27!11">τῶν</w>
+        <w osisId="Rom.9.27!12">υἱῶν</w>
+        <w osisId="Rom.9.27!13">Ἰσραὴλ</w>
+        <w osisId="Rom.9.27!14">ὡς</w>
+        <w osisId="Rom.9.27!15">ἡ</w>
+        <w osisId="Rom.9.27!16">ἄμμος</w>
+        <w osisId="Rom.9.27!17">τῆς</w>
+        <w osisId="Rom.9.27!18">θαλάσσης</w>
+        <pc>,</pc>
+        <w osisId="Rom.9.27!19">τὸ</w>
+        <w osisId="Rom.9.27!20">ὑπόλειμμα</w>
+        <w osisId="Rom.9.27!21">σωθήσεται</w>
+        <pc>·</pc>
+        <milestone unit="verse" id="Rom.9.28"/>
+        <w osisId="Rom.9.28!1">λόγον</w>
+        <w osisId="Rom.9.28!2">γὰρ</w>
+        <w osisId="Rom.9.28!3">συντελῶν</w>
+        <w osisId="Rom.9.28!4">καὶ</w>
+        <w osisId="Rom.9.28!5">συντέμνων</w>
+        <w osisId="Rom.9.28!6">ποιήσει</w>
+        <w osisId="Rom.9.28!7">Κύριος</w>
+        <w osisId="Rom.9.28!8">ἐπὶ</w>
+        <w osisId="Rom.9.28!9">τῆς</w>
+        <w osisId="Rom.9.28!10">γῆς</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.9.29"/>
       <w osisId="Rom.9.29!1">καὶ</w>
       <w osisId="Rom.9.29!2">καθὼς</w>
       <w osisId="Rom.9.29!3">προείρηκεν</w>
       <w osisId="Rom.9.29!4">Ἡσαΐας</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.9.29!5">Εἰ</w>
-      <w osisId="Rom.9.29!6">μὴ</w>
-      <w osisId="Rom.9.29!7">Κύριος</w>
-      <w osisId="Rom.9.29!8">Σαβαὼθ</w>
-      <w osisId="Rom.9.29!9">ἐγκατέλιπεν</w>
-      <w osisId="Rom.9.29!10">ἡμῖν</w>
-      <w osisId="Rom.9.29!11">σπέρμα</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      
-      <w osisId="Rom.9.29!12">ὡς</w>
-      <w osisId="Rom.9.29!13">Σόδομα</w>
-      <w osisId="Rom.9.29!14">ἂν</w>
-      <w osisId="Rom.9.29!15">ἐγενήθημεν</w>
-      <w osisId="Rom.9.29!16">καὶ</w>
-      <w osisId="Rom.9.29!17">ὡς</w>
-      <w osisId="Rom.9.29!18">Γόμορρα</w>
-      <w osisId="Rom.9.29!19">ἂν</w>
-      <w osisId="Rom.9.29!20">ὡμοιώθημεν</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Is.1,9." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Rom.9.29!5">Εἰ</w>
+            <w osisId="Rom.9.29!6">μὴ</w>
+            <w osisId="Rom.9.29!7">Κύριος</w>
+            <w osisId="Rom.9.29!8">Σαβαὼθ</w>
+            <w osisId="Rom.9.29!9">ἐγκατέλιπεν</w>
+            <w osisId="Rom.9.29!10">ἡμῖν</w>
+            <w osisId="Rom.9.29!11">σπέρμα</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.9.29!12">ὡς</w>
+            <w osisId="Rom.9.29!13">Σόδομα</w>
+            <w osisId="Rom.9.29!14">ἂν</w>
+            <w osisId="Rom.9.29!15">ἐγενήθημεν</w>
+            <w osisId="Rom.9.29!16">καὶ</w>
+            <w osisId="Rom.9.29!17">ὡς</w>
+            <w osisId="Rom.9.29!18">Γόμορρα</w>
+            <w osisId="Rom.9.29!19">ἂν</w>
+            <w osisId="Rom.9.29!20">ὡμοιώθημεν</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Rom.9.30"/>
       <w osisId="Rom.9.30!1">Τί</w>
       <w osisId="Rom.9.30!2">οὖν</w>
@@ -5210,38 +5297,41 @@
       <pc>·</pc>
       <w osisId="Rom.9.32!11">προσέκοψαν</w>
       <w osisId="Rom.9.32!12">τῷ</w>
-      <w osisId="Rom.9.32!13">λίθῳ</w>
-      <w osisId="Rom.9.32!14">τοῦ</w>
-      <w osisId="Rom.9.32!15">προσκόμματος</w>
-      <pc>,</pc>
+      <q ref="Is.8,14;28,16." rend="bold">
+        <w osisId="Rom.9.32!13">λίθῳ</w>
+        <w osisId="Rom.9.32!14">τοῦ</w>
+        <w osisId="Rom.9.32!15">προσκόμματος</w>
+        <pc>,</pc>
+      </q>
       <milestone unit="verse" id="Rom.9.33"/>
       <w osisId="Rom.9.33!1">καθὼς</w>
       <w osisId="Rom.9.33!2">γέγραπται</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.9.33!3">Ἰδοὺ</w>
-      <w osisId="Rom.9.33!4">τίθημι</w>
-      <w osisId="Rom.9.33!5">ἐν</w>
-      <w osisId="Rom.9.33!6">Σιὼν</w>
-      <w osisId="Rom.9.33!7">λίθον</w>
-      <w osisId="Rom.9.33!8">προσκόμματος</w>
-      <w osisId="Rom.9.33!9">καὶ</w>
-      <w osisId="Rom.9.33!10">πέτραν</w>
-      <w osisId="Rom.9.33!11">σκανδάλου</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      
-      <w osisId="Rom.9.33!12">καὶ</w>
-      <w osisId="Rom.9.33!13">ὁ</w>
-      <w osisId="Rom.9.33!14">πιστεύων</w>
-      <w osisId="Rom.9.33!15">ἐπ’</w>
-      <w osisId="Rom.9.33!16">αὐτῷ</w>
-      <w osisId="Rom.9.33!17">οὐ</w>
-      <w osisId="Rom.9.33!18">καταισχυνθήσεται</w>
-      <pc>.</pc>
-
+      <q ref="Is.8,14;28,16." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Rom.9.33!3">Ἰδοὺ</w>
+            <w osisId="Rom.9.33!4">τίθημι</w>
+            <w osisId="Rom.9.33!5">ἐν</w>
+            <w osisId="Rom.9.33!6">Σιὼν</w>
+            <w osisId="Rom.9.33!7">λίθον</w>
+            <w osisId="Rom.9.33!8">προσκόμματος</w>
+            <w osisId="Rom.9.33!9">καὶ</w>
+            <w osisId="Rom.9.33!10">πέτραν</w>
+            <w osisId="Rom.9.33!11">σκανδάλου</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.9.33!12">καὶ</w>
+            <w osisId="Rom.9.33!13">ὁ</w>
+            <w osisId="Rom.9.33!14">πιστεύων</w>
+            <w osisId="Rom.9.33!15">ἐπ’</w>
+            <w osisId="Rom.9.33!16">αὐτῷ</w>
+            <w osisId="Rom.9.33!17">οὐ</w>
+            <w osisId="Rom.9.33!18">καταισχυνθήσεται</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
     </p>
   </chapter>
   <chapter osisId="Rom.10">
@@ -5323,11 +5413,13 @@
       <w osisId="Rom.10.5!7">τὴν</w>
       <w osisId="Rom.10.5!8">ἐκ</w>
       <w osisId="Rom.10.5!9">νόμου</w>
-      <w osisId="Rom.10.5!10">ὁ</w>
-      <w osisId="Rom.10.5!11">ποιήσας</w>
-      <w osisId="Rom.10.5!12">ἄνθρωπος</w>
-      <w osisId="Rom.10.5!13">ζήσεται</w>
-      <w osisId="Rom.10.5!14">ἐν</w>
+      <q ref="Lv.18,5." rend="bold">
+        <w osisId="Rom.10.5!10">ὁ</w>
+        <w osisId="Rom.10.5!11">ποιήσας</w>
+        <w osisId="Rom.10.5!12">ἄνθρωπος</w>
+        <w osisId="Rom.10.5!13">ζήσεται</w>
+        <w osisId="Rom.10.5!14">ἐν</w>
+      </q>
       <w osisId="Rom.10.5!15">αὐτῇ</w>
       <pc>.</pc>
       <milestone unit="verse" id="Rom.10.6"/>
@@ -5338,18 +5430,22 @@
       <w osisId="Rom.10.6!5">δικαιοσύνη</w>
       <w osisId="Rom.10.6!6">οὕτως</w>
       <w osisId="Rom.10.6!7">λέγει</w>
-      <w osisId="Rom.10.6!8">Μὴ</w>
-      <w osisId="Rom.10.6!9">εἴπῃς</w>
+      <q ref="Dt.30,12.15." rend="bold">
+        <w osisId="Rom.10.6!8">Μὴ</w>
+        <w osisId="Rom.10.6!9">εἴπῃς</w>
+      </q>
       <w osisId="Rom.10.6!10">ἐν</w>
       <w osisId="Rom.10.6!11">τῇ</w>
       <w osisId="Rom.10.6!12">καρδίᾳ</w>
       <w osisId="Rom.10.6!13">σου</w>
-      <w osisId="Rom.10.6!14">Τίς</w>
-      <w osisId="Rom.10.6!15">ἀναβήσεται</w>
-      <w osisId="Rom.10.6!16">εἰς</w>
-      <w osisId="Rom.10.6!17">τὸν</w>
-      <w osisId="Rom.10.6!18">οὐρανόν</w>
-      <pc>;</pc>
+      <q ref="Dt.30,12.15." rend="bold">
+        <w osisId="Rom.10.6!14">Τίς</w>
+        <w osisId="Rom.10.6!15">ἀναβήσεται</w>
+        <w osisId="Rom.10.6!16">εἰς</w>
+        <w osisId="Rom.10.6!17">τὸν</w>
+        <w osisId="Rom.10.6!18">οὐρανόν</w>
+        <pc>;</pc>
+      </q>
       <w osisId="Rom.10.6!19">τοῦτ’</w>
       <w osisId="Rom.10.6!20">ἔστιν</w>
       <w osisId="Rom.10.6!21">Χριστὸν</w>
@@ -5375,22 +5471,24 @@
       <w osisId="Rom.10.8!2">τί</w>
       <w osisId="Rom.10.8!3">λέγει</w>
       <pc>;</pc>
-      <w osisId="Rom.10.8!4">Ἐγγύς</w>
-      <w osisId="Rom.10.8!5">σου</w>
-      <w osisId="Rom.10.8!6">τὸ</w>
-      <w osisId="Rom.10.8!7">ῥῆμά</w>
-      <w osisId="Rom.10.8!8">ἐστιν</w>
-      <pc>,</pc>
-      <w osisId="Rom.10.8!9">ἐν</w>
-      <w osisId="Rom.10.8!10">τῷ</w>
-      <w osisId="Rom.10.8!11">στόματί</w>
-      <w osisId="Rom.10.8!12">σου</w>
-      <w osisId="Rom.10.8!13">καὶ</w>
-      <w osisId="Rom.10.8!14">ἐν</w>
-      <w osisId="Rom.10.8!15">τῇ</w>
-      <w osisId="Rom.10.8!16">καρδίᾳ</w>
-      <w osisId="Rom.10.8!17">σου</w>
-      <pc>·</pc>
+      <q ref="Dt.30,14." rend="bold">
+        <w osisId="Rom.10.8!4">Ἐγγύς</w>
+        <w osisId="Rom.10.8!5">σου</w>
+        <w osisId="Rom.10.8!6">τὸ</w>
+        <w osisId="Rom.10.8!7">ῥῆμά</w>
+        <w osisId="Rom.10.8!8">ἐστιν</w>
+        <pc>,</pc>
+        <w osisId="Rom.10.8!9">ἐν</w>
+        <w osisId="Rom.10.8!10">τῷ</w>
+        <w osisId="Rom.10.8!11">στόματί</w>
+        <w osisId="Rom.10.8!12">σου</w>
+        <w osisId="Rom.10.8!13">καὶ</w>
+        <w osisId="Rom.10.8!14">ἐν</w>
+        <w osisId="Rom.10.8!15">τῇ</w>
+        <w osisId="Rom.10.8!16">καρδίᾳ</w>
+        <w osisId="Rom.10.8!17">σου</w>
+        <pc>·</pc>
+      </q>
       <w osisId="Rom.10.8!18">τοῦτ’</w>
       <w osisId="Rom.10.8!19">ἔστιν</w>
       <w osisId="Rom.10.8!20">τὸ</w>
@@ -5404,19 +5502,23 @@
       <w osisId="Rom.10.9!1">ὅτι</w>
       <w osisId="Rom.10.9!2">ἐὰν</w>
       <w osisId="Rom.10.9!3">ὁμολογήσῃς</w>
-      <w osisId="Rom.10.9!4">ἐν</w>
-      <w osisId="Rom.10.9!5">τῷ</w>
-      <w osisId="Rom.10.9!6">στόματί</w>
-      <w osisId="Rom.10.9!7">σου</w>
+      <q ref="Dt.30,14." rend="bold">
+        <w osisId="Rom.10.9!4">ἐν</w>
+        <w osisId="Rom.10.9!5">τῷ</w>
+        <w osisId="Rom.10.9!6">στόματί</w>
+        <w osisId="Rom.10.9!7">σου</w>
+      </q>
       <w osisId="Rom.10.9!8">Κύριον</w>
       <w osisId="Rom.10.9!9">Ἰησοῦν</w>
       <pc>,</pc>
       <w osisId="Rom.10.9!10">καὶ</w>
       <w osisId="Rom.10.9!11">πιστεύσῃς</w>
-      <w osisId="Rom.10.9!12">ἐν</w>
-      <w osisId="Rom.10.9!13">τῇ</w>
-      <w osisId="Rom.10.9!14">καρδίᾳ</w>
-      <w osisId="Rom.10.9!15">σου</w>
+      <q ref="Dt.30,14." rend="bold">
+        <w osisId="Rom.10.9!12">ἐν</w>
+        <w osisId="Rom.10.9!13">τῇ</w>
+        <w osisId="Rom.10.9!14">καρδίᾳ</w>
+        <w osisId="Rom.10.9!15">σου</w>
+      </q>
       <w osisId="Rom.10.9!16">ὅτι</w>
       <w osisId="Rom.10.9!17">ὁ</w>
       <w osisId="Rom.10.9!18">Θεὸς</w>
@@ -5446,13 +5548,15 @@
       <w osisId="Rom.10.11!3">ἡ</w>
       <w osisId="Rom.10.11!4">γραφή</w>
       <w osisId="Rom.10.11!5">Πᾶς</w>
-      <w osisId="Rom.10.11!6">ὁ</w>
-      <w osisId="Rom.10.11!7">πιστεύων</w>
-      <w osisId="Rom.10.11!8">ἐπ’</w>
-      <w osisId="Rom.10.11!9">αὐτῷ</w>
-      <w osisId="Rom.10.11!10">οὐ</w>
-      <w osisId="Rom.10.11!11">καταισχυνθήσεται</w>
-      <pc>.</pc>
+      <q ref="Is.28,16." rend="bold">
+        <w osisId="Rom.10.11!6">ὁ</w>
+        <w osisId="Rom.10.11!7">πιστεύων</w>
+        <w osisId="Rom.10.11!8">ἐπ’</w>
+        <w osisId="Rom.10.11!9">αὐτῷ</w>
+        <w osisId="Rom.10.11!10">οὐ</w>
+        <w osisId="Rom.10.11!11">καταισχυνθήσεται</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.10.12"/>
       <w osisId="Rom.10.12!1">οὐ</w>
       <w osisId="Rom.10.12!2">γάρ</w>
@@ -5477,16 +5581,20 @@
       <w osisId="Rom.10.12!19">αὐτόν</w>
       <pc>·</pc>
       <milestone unit="verse" id="Rom.10.13"/>
-      <w osisId="Rom.10.13!1">Πᾶς</w>
+      <q ref="Jl.2,32." rend="bold">
+        <w osisId="Rom.10.13!1">Πᾶς</w>
+      </q>
       <w osisId="Rom.10.13!2">γὰρ</w>
-      <w osisId="Rom.10.13!3">ὃς</w>
-      <w osisId="Rom.10.13!4">ἂν</w>
-      <w osisId="Rom.10.13!5">ἐπικαλέσηται</w>
-      <w osisId="Rom.10.13!6">τὸ</w>
-      <w osisId="Rom.10.13!7">ὄνομα</w>
-      <w osisId="Rom.10.13!8">Κυρίου</w>
-      <w osisId="Rom.10.13!9">σωθήσεται</w>
-      <pc>.</pc>
+      <q ref="Jl.2,32." rend="bold">
+        <w osisId="Rom.10.13!3">ὃς</w>
+        <w osisId="Rom.10.13!4">ἂν</w>
+        <w osisId="Rom.10.13!5">ἐπικαλέσηται</w>
+        <w osisId="Rom.10.13!6">τὸ</w>
+        <w osisId="Rom.10.13!7">ὄνομα</w>
+        <w osisId="Rom.10.13!8">Κυρίου</w>
+        <w osisId="Rom.10.13!9">σωθήσεται</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.10.14"/>
       <w osisId="Rom.10.14!1">πῶς</w>
       <w osisId="Rom.10.14!2">οὖν</w>
@@ -5519,14 +5627,16 @@
       <pc>;</pc>
       <w osisId="Rom.10.15!7">καθάπερ</w>
       <w osisId="Rom.10.15!8">γέγραπται</w>
-      <w osisId="Rom.10.15!9">Ὡς</w>
-      <w osisId="Rom.10.15!10">ὡραῖοι</w>
-      <w osisId="Rom.10.15!11">οἱ</w>
-      <w osisId="Rom.10.15!12">πόδες</w>
-      <w osisId="Rom.10.15!13">τῶν</w>
-      <w osisId="Rom.10.15!14">εὐαγγελιζομένων</w>
-      <w osisId="Rom.10.15!15">ἀγαθά</w>
-      <pc>.</pc>
+      <q ref="Is.52,7." rend="bold">
+        <w osisId="Rom.10.15!9">Ὡς</w>
+        <w osisId="Rom.10.15!10">ὡραῖοι</w>
+        <w osisId="Rom.10.15!11">οἱ</w>
+        <w osisId="Rom.10.15!12">πόδες</w>
+        <w osisId="Rom.10.15!13">τῶν</w>
+        <w osisId="Rom.10.15!14">εὐαγγελιζομένων</w>
+        <w osisId="Rom.10.15!15">ἀγαθά</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.10.16"/>
       <w osisId="Rom.10.16!1">Ἀλλ’</w>
       <w osisId="Rom.10.16!2">οὐ</w>
@@ -5538,14 +5648,16 @@
       <w osisId="Rom.10.16!7">Ἡσαΐας</w>
       <w osisId="Rom.10.16!8">γὰρ</w>
       <w osisId="Rom.10.16!9">λέγει</w>
-      <w osisId="Rom.10.16!10">Κύριε</w>
-      <pc>,</pc>
-      <w osisId="Rom.10.16!11">τίς</w>
-      <w osisId="Rom.10.16!12">ἐπίστευσεν</w>
-      <w osisId="Rom.10.16!13">τῇ</w>
-      <w osisId="Rom.10.16!14">ἀκοῇ</w>
-      <w osisId="Rom.10.16!15">ἡμῶν</w>
-      <pc>;</pc>
+      <q ref="Is.53,1." rend="bold">
+        <w osisId="Rom.10.16!10">Κύριε</w>
+        <pc>,</pc>
+        <w osisId="Rom.10.16!11">τίς</w>
+        <w osisId="Rom.10.16!12">ἐπίστευσεν</w>
+        <w osisId="Rom.10.16!13">τῇ</w>
+        <w osisId="Rom.10.16!14">ἀκοῇ</w>
+        <w osisId="Rom.10.16!15">ἡμῶν</w>
+        <pc>;</pc>
+      </q>
       <milestone unit="verse" id="Rom.10.17"/>
       <w osisId="Rom.10.17!1">ἄρα</w>
       <w osisId="Rom.10.17!2">ἡ</w>
@@ -5569,33 +5681,33 @@
       <w osisId="Rom.10.18!5">ἤκουσαν</w>
       <pc>;</pc>
       <w osisId="Rom.10.18!6">μενοῦνγε</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.10.18!7">Εἰς</w>
-      <w osisId="Rom.10.18!8">πᾶσαν</w>
-      <w osisId="Rom.10.18!9">τὴν</w>
-      <w osisId="Rom.10.18!10">γῆν</w>
-      <w osisId="Rom.10.18!11">ἐξῆλθεν</w>
-      <w osisId="Rom.10.18!12">ὁ</w>
-      <w osisId="Rom.10.18!13">φθόγγος</w>
-      <w osisId="Rom.10.18!14">αὐτῶν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      
-      <w osisId="Rom.10.18!15">καὶ</w>
-      <w osisId="Rom.10.18!16">εἰς</w>
-      <w osisId="Rom.10.18!17">τὰ</w>
-      <w osisId="Rom.10.18!18">πέρατα</w>
-      <w osisId="Rom.10.18!19">τῆς</w>
-      <w osisId="Rom.10.18!20">οἰκουμένης</w>
-      <w osisId="Rom.10.18!21">τὰ</w>
-      <w osisId="Rom.10.18!22">ῥήματα</w>
-      <w osisId="Rom.10.18!23">αὐτῶν</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Ps.19,4." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Rom.10.18!7">Εἰς</w>
+            <w osisId="Rom.10.18!8">πᾶσαν</w>
+            <w osisId="Rom.10.18!9">τὴν</w>
+            <w osisId="Rom.10.18!10">γῆν</w>
+            <w osisId="Rom.10.18!11">ἐξῆλθεν</w>
+            <w osisId="Rom.10.18!12">ὁ</w>
+            <w osisId="Rom.10.18!13">φθόγγος</w>
+            <w osisId="Rom.10.18!14">αὐτῶν</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.10.18!15">καὶ</w>
+            <w osisId="Rom.10.18!16">εἰς</w>
+            <w osisId="Rom.10.18!17">τὰ</w>
+            <w osisId="Rom.10.18!18">πέρατα</w>
+            <w osisId="Rom.10.18!19">τῆς</w>
+            <w osisId="Rom.10.18!20">οἰκουμένης</w>
+            <w osisId="Rom.10.18!21">τὰ</w>
+            <w osisId="Rom.10.18!22">ῥήματα</w>
+            <w osisId="Rom.10.18!23">αὐτῶν</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Rom.10.19"/>
       <w osisId="Rom.10.19!1">ἀλλὰ</w>
       <w osisId="Rom.10.19!2">λέγω</w>
@@ -5608,72 +5720,79 @@
       <w osisId="Rom.10.19!7">πρῶτος</w>
       <w osisId="Rom.10.19!8">Μωϋσῆς</w>
       <w osisId="Rom.10.19!9">λέγει</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.10.19!10">Ἐγὼ</w>
-      <w osisId="Rom.10.19!11">παραζηλώσω</w>
-      <w osisId="Rom.10.19!12">ὑμᾶς</w>
-      <w osisId="Rom.10.19!13">ἐπ’</w>
-      <w osisId="Rom.10.19!14">οὐκ</w>
-      <w osisId="Rom.10.19!15">ἔθνει</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      
-      <w osisId="Rom.10.19!16">ἐπ’</w>
-      <w osisId="Rom.10.19!17">ἔθνει</w>
-      <w osisId="Rom.10.19!18">ἀσυνέτῳ</w>
-      <w osisId="Rom.10.19!19">παροργιῶ</w>
-      <w osisId="Rom.10.19!20">ὑμᾶς</w>
-      <pc>.</pc>
-    </p>
-    <p>
+    <lg>
+      <l>
+        <q ref="Dt.32,21." rend="bold">
+          <w osisId="Rom.10.19!10">Ἐγὼ</w>
+          <w osisId="Rom.10.19!11">παραζηλώσω</w>
+        </q>
+        <w osisId="Rom.10.19!12">ὑμᾶς</w>
+        <q ref="Dt.32,21." rend="bold">
+          <w osisId="Rom.10.19!13">ἐπ’</w>
+          <w osisId="Rom.10.19!14">οὐκ</w>
+          <w osisId="Rom.10.19!15">ἔθνει</w>
+          <pc>,</pc>
+        </q>
+      </l>
+      <l>
+        <q ref="Dt.32,21." rend="bold">
+          <w osisId="Rom.10.19!16">ἐπ’</w>
+          <w osisId="Rom.10.19!17">ἔθνει</w>
+          <w osisId="Rom.10.19!18">ἀσυνέτῳ</w>
+          <w osisId="Rom.10.19!19">παροργιῶ</w>
+        </q>
+        <w osisId="Rom.10.19!20">ὑμᾶς</w>
+        <pc>.</pc>
+      </l>
+    </lg>
       <milestone unit="verse" id="Rom.10.20"/>
       <w osisId="Rom.10.20!1">Ἡσαΐας</w>
       <w osisId="Rom.10.20!2">δὲ</w>
       <w osisId="Rom.10.20!3">ἀποτολμᾷ</w>
       <w osisId="Rom.10.20!4">καὶ</w>
       <w osisId="Rom.10.20!5">λέγει</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.10.20!6">Εὑρέθην</w>
-      <w osisId="Rom.10.20!7">τοῖς</w>
-      <w osisId="Rom.10.20!8">ἐμὲ</w>
-      <w osisId="Rom.10.20!9">μὴ</w>
-      <w osisId="Rom.10.20!10">ζητοῦσιν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Rom.10.20!11">ἐμφανὴς</w>
-      <w osisId="Rom.10.20!12">ἐγενόμην</w>
-      <w osisId="Rom.10.20!13">τοῖς</w>
-      <w osisId="Rom.10.20!14">ἐμὲ</w>
-      <w osisId="Rom.10.20!15">μὴ</w>
-      <w osisId="Rom.10.20!16">ἐπερωτῶσιν</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Is.65,1." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Rom.10.20!6">Εὑρέθην</w>
+            <w osisId="Rom.10.20!7">τοῖς</w>
+            <w osisId="Rom.10.20!8">ἐμὲ</w>
+            <w osisId="Rom.10.20!9">μὴ</w>
+            <w osisId="Rom.10.20!10">ζητοῦσιν</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.10.20!11">ἐμφανὴς</w>
+            <w osisId="Rom.10.20!12">ἐγενόμην</w>
+            <w osisId="Rom.10.20!13">τοῖς</w>
+            <w osisId="Rom.10.20!14">ἐμὲ</w>
+            <w osisId="Rom.10.20!15">μὴ</w>
+            <w osisId="Rom.10.20!16">ἐπερωτῶσιν</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Rom.10.21"/>
       <w osisId="Rom.10.21!1">πρὸς</w>
       <w osisId="Rom.10.21!2">δὲ</w>
       <w osisId="Rom.10.21!3">τὸν</w>
       <w osisId="Rom.10.21!4">Ἰσραὴλ</w>
       <w osisId="Rom.10.21!5">λέγει</w>
-      <w osisId="Rom.10.21!6">Ὅλην</w>
-      <w osisId="Rom.10.21!7">τὴν</w>
-      <w osisId="Rom.10.21!8">ἡμέραν</w>
-      <w osisId="Rom.10.21!9">ἐξεπέτασα</w>
-      <w osisId="Rom.10.21!10">τὰς</w>
-      <w osisId="Rom.10.21!11">χεῖράς</w>
-      <w osisId="Rom.10.21!12">μου</w>
-      <w osisId="Rom.10.21!13">πρὸς</w>
-      <w osisId="Rom.10.21!14">λαὸν</w>
-      <w osisId="Rom.10.21!15">ἀπειθοῦντα</w>
-      <w osisId="Rom.10.21!16">καὶ</w>
-      <w osisId="Rom.10.21!17">ἀντιλέγοντα</w>
-      <pc>.</pc>
+      <q ref="Is.65,2." rend="bold">
+        <w osisId="Rom.10.21!6">Ὅλην</w>
+        <w osisId="Rom.10.21!7">τὴν</w>
+        <w osisId="Rom.10.21!8">ἡμέραν</w>
+        <w osisId="Rom.10.21!9">ἐξεπέτασα</w>
+        <w osisId="Rom.10.21!10">τὰς</w>
+        <w osisId="Rom.10.21!11">χεῖράς</w>
+        <w osisId="Rom.10.21!12">μου</w>
+        <w osisId="Rom.10.21!13">πρὸς</w>
+        <w osisId="Rom.10.21!14">λαὸν</w>
+        <w osisId="Rom.10.21!15">ἀπειθοῦντα</w>
+        <w osisId="Rom.10.21!16">καὶ</w>
+        <w osisId="Rom.10.21!17">ἀντιλέγοντα</w>
+        <pc>.</pc>
+      </q>
     </p>
   </chapter>
   <chapter osisId="Rom.11">
@@ -5684,13 +5803,15 @@
       <w osisId="Rom.11.1!2">οὖν</w>
       <pc>,</pc>
       <w osisId="Rom.11.1!3">μὴ</w>
-      <w osisId="Rom.11.1!4">ἀπώσατο</w>
-      <w osisId="Rom.11.1!5">ὁ</w>
-      <w osisId="Rom.11.1!6">Θεὸς</w>
-      <w osisId="Rom.11.1!7">τὸν</w>
-      <w osisId="Rom.11.1!8">λαὸν</w>
-      <w osisId="Rom.11.1!9">αὐτοῦ</w>
-      <pc>;</pc>
+      <q ref="Ps.94,14. 1S.12,22. Jer.31,37." rend="bold">
+        <w osisId="Rom.11.1!4">ἀπώσατο</w>
+        <w osisId="Rom.11.1!5">ὁ</w>
+        <w osisId="Rom.11.1!6">Θεὸς</w>
+        <w osisId="Rom.11.1!7">τὸν</w>
+        <w osisId="Rom.11.1!8">λαὸν</w>
+        <w osisId="Rom.11.1!9">αὐτοῦ</w>
+        <pc>;</pc>
+      </q>
       <w osisId="Rom.11.1!10">μὴ</w>
       <w osisId="Rom.11.1!11">γένοιτο</w>
       <pc>·</pc>
@@ -5708,13 +5829,15 @@
       <w osisId="Rom.11.1!21">Βενιαμείν</w>
       <pc>.</pc>
       <milestone unit="verse" id="Rom.11.2"/>
-      <w osisId="Rom.11.2!1">οὐκ</w>
-      <w osisId="Rom.11.2!2">ἀπώσατο</w>
-      <w osisId="Rom.11.2!3">ὁ</w>
-      <w osisId="Rom.11.2!4">Θεὸς</w>
-      <w osisId="Rom.11.2!5">τὸν</w>
-      <w osisId="Rom.11.2!6">λαὸν</w>
-      <w osisId="Rom.11.2!7">αὐτοῦ</w>
+      <q ref="1K.19,10.14." rend="bold">
+        <w osisId="Rom.11.2!1">οὐκ</w>
+        <w osisId="Rom.11.2!2">ἀπώσατο</w>
+        <w osisId="Rom.11.2!3">ὁ</w>
+        <w osisId="Rom.11.2!4">Θεὸς</w>
+        <w osisId="Rom.11.2!5">τὸν</w>
+        <w osisId="Rom.11.2!6">λαὸν</w>
+        <w osisId="Rom.11.2!7">αὐτοῦ</w>
+      </q>
       <w osisId="Rom.11.2!8">ὃν</w>
       <w osisId="Rom.11.2!9">προέγνω</w>
       <pc>.</pc>
@@ -5737,27 +5860,29 @@
       <w osisId="Rom.11.2!25">Ἰσραήλ</w>
       <pc>;</pc>
       <milestone unit="verse" id="Rom.11.3"/>
-      <w osisId="Rom.11.3!1">Κύριε</w>
-      <pc>,</pc>
-      <w osisId="Rom.11.3!2">τοὺς</w>
-      <w osisId="Rom.11.3!3">προφήτας</w>
-      <w osisId="Rom.11.3!4">σου</w>
-      <w osisId="Rom.11.3!5">ἀπέκτειναν</w>
-      <pc>,</pc>
-      <w osisId="Rom.11.3!6">τὰ</w>
-      <w osisId="Rom.11.3!7">θυσιαστήριά</w>
-      <w osisId="Rom.11.3!8">σου</w>
-      <w osisId="Rom.11.3!9">κατέσκαψαν</w>
-      <pc>,</pc>
-      <w osisId="Rom.11.3!10">κἀγὼ</w>
-      <w osisId="Rom.11.3!11">ὑπελείφθην</w>
-      <w osisId="Rom.11.3!12">μόνος</w>
-      <w osisId="Rom.11.3!13">καὶ</w>
-      <w osisId="Rom.11.3!14">ζητοῦσιν</w>
-      <w osisId="Rom.11.3!15">τὴν</w>
-      <w osisId="Rom.11.3!16">ψυχήν</w>
-      <w osisId="Rom.11.3!17">μου</w>
-      <pc>.</pc>
+      <q ref="1K.19,10." rend="bold">
+        <w osisId="Rom.11.3!1">Κύριε</w>
+        <pc>,</pc>
+        <w osisId="Rom.11.3!2">τοὺς</w>
+        <w osisId="Rom.11.3!3">προφήτας</w>
+        <w osisId="Rom.11.3!4">σου</w>
+        <w osisId="Rom.11.3!5">ἀπέκτειναν</w>
+        <pc>,</pc>
+        <w osisId="Rom.11.3!6">τὰ</w>
+        <w osisId="Rom.11.3!7">θυσιαστήριά</w>
+        <w osisId="Rom.11.3!8">σου</w>
+        <w osisId="Rom.11.3!9">κατέσκαψαν</w>
+        <pc>,</pc>
+        <w osisId="Rom.11.3!10">κἀγὼ</w>
+        <w osisId="Rom.11.3!11">ὑπελείφθην</w>
+        <w osisId="Rom.11.3!12">μόνος</w>
+        <w osisId="Rom.11.3!13">καὶ</w>
+        <w osisId="Rom.11.3!14">ζητοῦσιν</w>
+        <w osisId="Rom.11.3!15">τὴν</w>
+        <w osisId="Rom.11.3!16">ψυχήν</w>
+        <w osisId="Rom.11.3!17">μου</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.11.4"/>
       <w osisId="Rom.11.4!1">ἀλλὰ</w>
       <w osisId="Rom.11.4!2">τί</w>
@@ -5766,18 +5891,22 @@
       <w osisId="Rom.11.4!5">ὁ</w>
       <w osisId="Rom.11.4!6">χρηματισμός</w>
       <pc>;</pc>
-      <w osisId="Rom.11.4!7">Κατέλιπον</w>
+      <q ref="1K.19,18." rend="bold">
+        <w osisId="Rom.11.4!7">Κατέλιπον</w>
+      </q>
       <w osisId="Rom.11.4!8">ἐμαυτῷ</w>
-      <w osisId="Rom.11.4!9">ἑπτακισχιλίους</w>
-      <w osisId="Rom.11.4!10">ἄνδρας</w>
-      <pc>,</pc>
-      <w osisId="Rom.11.4!11">οἵτινες</w>
-      <w osisId="Rom.11.4!12">οὐκ</w>
-      <w osisId="Rom.11.4!13">ἔκαμψαν</w>
-      <w osisId="Rom.11.4!14">γόνυ</w>
-      <w osisId="Rom.11.4!15">τῇ</w>
-      <w osisId="Rom.11.4!16">Βάαλ</w>
-      <pc>.</pc>
+      <q ref="1K.19,18." rend="bold">
+        <w osisId="Rom.11.4!9">ἑπτακισχιλίους</w>
+        <w osisId="Rom.11.4!10">ἄνδρας</w>
+        <pc>,</pc>
+        <w osisId="Rom.11.4!11">οἵτινες</w>
+        <w osisId="Rom.11.4!12">οὐκ</w>
+        <w osisId="Rom.11.4!13">ἔκαμψαν</w>
+        <w osisId="Rom.11.4!14">γόνυ</w>
+        <w osisId="Rom.11.4!15">τῇ</w>
+        <w osisId="Rom.11.4!16">Βάαλ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.11.5"/>
       <w osisId="Rom.11.5!1">οὕτως</w>
       <w osisId="Rom.11.5!2">οὖν</w>
@@ -5833,77 +5962,80 @@
       <milestone unit="verse" id="Rom.11.8"/>
       <w osisId="Rom.11.8!1">καθάπερ</w>
       <w osisId="Rom.11.8!2">γέγραπται</w>
-      <w osisId="Rom.11.8!3">Ἔδωκεν</w>
-      <w osisId="Rom.11.8!4">αὐτοῖς</w>
-      <w osisId="Rom.11.8!5">ὁ</w>
-      <w osisId="Rom.11.8!6">Θεὸς</w>
-      <w osisId="Rom.11.8!7">πνεῦμα</w>
-      <w osisId="Rom.11.8!8">κατανύξεως</w>
-      <pc>,</pc>
-      <w osisId="Rom.11.8!9">ὀφθαλμοὺς</w>
-      <w osisId="Rom.11.8!10">τοῦ</w>
-      <w osisId="Rom.11.8!11">μὴ</w>
-      <w osisId="Rom.11.8!12">βλέπειν</w>
-      <w osisId="Rom.11.8!13">καὶ</w>
-      <w osisId="Rom.11.8!14">ὦτα</w>
-      <w osisId="Rom.11.8!15">τοῦ</w>
-      <w osisId="Rom.11.8!16">μὴ</w>
-      <w osisId="Rom.11.8!17">ἀκούειν</w>
-      <pc>,</pc>
-      <w osisId="Rom.11.8!18">ἕως</w>
-      <w osisId="Rom.11.8!19">τῆς</w>
-      <w osisId="Rom.11.8!20">σήμερον</w>
-      <w osisId="Rom.11.8!21">ἡμέρας</w>
-      <pc>.</pc>
+      <q ref="Is.29,10. Dt.29,4." rend="bold">
+        <w osisId="Rom.11.8!3">Ἔδωκεν</w>
+        <w osisId="Rom.11.8!4">αὐτοῖς</w>
+        <w osisId="Rom.11.8!5">ὁ</w>
+        <w osisId="Rom.11.8!6">Θεὸς</w>
+        <w osisId="Rom.11.8!7">πνεῦμα</w>
+        <w osisId="Rom.11.8!8">κατανύξεως</w>
+        <pc>,</pc>
+        <w osisId="Rom.11.8!9">ὀφθαλμοὺς</w>
+        <w osisId="Rom.11.8!10">τοῦ</w>
+        <w osisId="Rom.11.8!11">μὴ</w>
+        <w osisId="Rom.11.8!12">βλέπειν</w>
+        <w osisId="Rom.11.8!13">καὶ</w>
+        <w osisId="Rom.11.8!14">ὦτα</w>
+        <w osisId="Rom.11.8!15">τοῦ</w>
+        <w osisId="Rom.11.8!16">μὴ</w>
+        <w osisId="Rom.11.8!17">ἀκούειν</w>
+        <pc>,</pc>
+        <w osisId="Rom.11.8!18">ἕως</w>
+        <w osisId="Rom.11.8!19">τῆς</w>
+        <w osisId="Rom.11.8!20">σήμερον</w>
+        <w osisId="Rom.11.8!21">ἡμέρας</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.11.9"/>
       <w osisId="Rom.11.9!1">καὶ</w>
       <w osisId="Rom.11.9!2">Δαυεὶδ</w>
       <w osisId="Rom.11.9!3">λέγει</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.11.9!4">Γενηθήτω</w>
-      <w osisId="Rom.11.9!5">ἡ</w>
-      <w osisId="Rom.11.9!6">τράπεζα</w>
-      <w osisId="Rom.11.9!7">αὐτῶν</w>
-      <w osisId="Rom.11.9!8">εἰς</w>
-      <w osisId="Rom.11.9!9">παγίδα</w>
-      <w osisId="Rom.11.9!10">καὶ</w>
-      <w osisId="Rom.11.9!11">εἰς</w>
-      <w osisId="Rom.11.9!12">θήραν</w>
-    </p>
-    <p>
-      <w osisId="Rom.11.9!13">καὶ</w>
-      <w osisId="Rom.11.9!14">εἰς</w>
-      <w osisId="Rom.11.9!15">σκάνδαλον</w>
-      <w osisId="Rom.11.9!16">καὶ</w>
-      <w osisId="Rom.11.9!17">εἰς</w>
-      <w osisId="Rom.11.9!18">ἀνταπόδομα</w>
-      <w osisId="Rom.11.9!19">αὐτοῖς</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.11.10"/>
-      <w osisId="Rom.11.10!1">σκοτισθήτωσαν</w>
-      <w osisId="Rom.11.10!2">οἱ</w>
-      <w osisId="Rom.11.10!3">ὀφθαλμοὶ</w>
-      <w osisId="Rom.11.10!4">αὐτῶν</w>
-      <w osisId="Rom.11.10!5">τοῦ</w>
-      <w osisId="Rom.11.10!6">μὴ</w>
-      <w osisId="Rom.11.10!7">βλέπειν</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Rom.11.10!8">καὶ</w>
-      <w osisId="Rom.11.10!9">τὸν</w>
-      <w osisId="Rom.11.10!10">νῶτον</w>
-      <w osisId="Rom.11.10!11">αὐτῶν</w>
-      <w osisId="Rom.11.10!12">διὰ</w>
-      <w osisId="Rom.11.10!13">παντὸς</w>
-      <w osisId="Rom.11.10!14">σύνκαμψον</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Ps.69,22.23;35,8." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Rom.11.9!4">Γενηθήτω</w>
+            <w osisId="Rom.11.9!5">ἡ</w>
+            <w osisId="Rom.11.9!6">τράπεζα</w>
+            <w osisId="Rom.11.9!7">αὐτῶν</w>
+            <w osisId="Rom.11.9!8">εἰς</w>
+            <w osisId="Rom.11.9!9">παγίδα</w>
+            <w osisId="Rom.11.9!10">καὶ</w>
+            <w osisId="Rom.11.9!11">εἰς</w>
+            <w osisId="Rom.11.9!12">θήραν</w>
+          </l>
+          <l>
+            <w osisId="Rom.11.9!13">καὶ</w>
+            <w osisId="Rom.11.9!14">εἰς</w>
+            <w osisId="Rom.11.9!15">σκάνδαλον</w>
+            <w osisId="Rom.11.9!16">καὶ</w>
+            <w osisId="Rom.11.9!17">εἰς</w>
+            <w osisId="Rom.11.9!18">ἀνταπόδομα</w>
+            <w osisId="Rom.11.9!19">αὐτοῖς</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <milestone unit="verse" id="Rom.11.10"/>
+            <w osisId="Rom.11.10!1">σκοτισθήτωσαν</w>
+            <w osisId="Rom.11.10!2">οἱ</w>
+            <w osisId="Rom.11.10!3">ὀφθαλμοὶ</w>
+            <w osisId="Rom.11.10!4">αὐτῶν</w>
+            <w osisId="Rom.11.10!5">τοῦ</w>
+            <w osisId="Rom.11.10!6">μὴ</w>
+            <w osisId="Rom.11.10!7">βλέπειν</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.11.10!8">καὶ</w>
+            <w osisId="Rom.11.10!9">τὸν</w>
+            <w osisId="Rom.11.10!10">νῶτον</w>
+            <w osisId="Rom.11.10!11">αὐτῶν</w>
+            <w osisId="Rom.11.10!12">διὰ</w>
+            <w osisId="Rom.11.10!13">παντὸς</w>
+            <w osisId="Rom.11.10!14">σύνκαμψον</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Rom.11.11"/>
       <w osisId="Rom.11.11!1">Λέγω</w>
       <w osisId="Rom.11.11!2">οὖν</w>
@@ -5927,7 +6059,9 @@
       <pc>,</pc>
       <w osisId="Rom.11.11!17">εἰς</w>
       <w osisId="Rom.11.11!18">τὸ</w>
-      <w osisId="Rom.11.11!19">παραζηλῶσαι</w>
+      <q ref="Dt.32,21." rend="bold">
+        <w osisId="Rom.11.11!19">παραζηλῶσαι</w>
+      </q>
       <w osisId="Rom.11.11!20">αὐτούς</w>
       <pc>.</pc>
       <milestone unit="verse" id="Rom.11.12"/>
@@ -6239,46 +6373,44 @@
       <pc>,</pc>
       <w osisId="Rom.11.26!6">καθὼς</w>
       <w osisId="Rom.11.26!7">γέγραπται</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.11.26!8">Ἥξει</w>
-      <w osisId="Rom.11.26!9">ἐκ</w>
-      <w osisId="Rom.11.26!10">Σιὼν</w>
-      <w osisId="Rom.11.26!11">ὁ</w>
-      <w osisId="Rom.11.26!12">Ῥυόμενος</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Rom.11.26!13">ἀποστρέψει</w>
-      <w osisId="Rom.11.26!14">ἀσεβείας</w>
-      <w osisId="Rom.11.26!15">ἀπὸ</w>
-      <w osisId="Rom.11.26!16">Ἰακώβ</w>
-      <pc>.</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.11.27"/>
-      <w osisId="Rom.11.27!1">καὶ</w>
-      <w osisId="Rom.11.27!2">αὕτη</w>
-      <w osisId="Rom.11.27!3">αὐτοῖς</w>
-      <w osisId="Rom.11.27!4">ἡ</w>
-      <w osisId="Rom.11.27!5">παρ’</w>
-      <w osisId="Rom.11.27!6">ἐμοῦ</w>
-      <w osisId="Rom.11.27!7">διαθήκη</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      
-
-      <w osisId="Rom.11.27!8">ὅταν</w>
-      <w osisId="Rom.11.27!9">ἀφέλωμαι</w>
-      <w osisId="Rom.11.27!10">τὰς</w>
-      <w osisId="Rom.11.27!11">ἁμαρτίας</w>
-      <w osisId="Rom.11.27!12">αὐτῶν</w>
-      <pc>.</pc>
-
-    </p>
-    <p>
+      <q ref="Is.59,20;27,9. Ps.14,7." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Rom.11.26!8">Ἥξει</w>
+            <w osisId="Rom.11.26!9">ἐκ</w>
+            <w osisId="Rom.11.26!10">Σιὼν</w>
+            <w osisId="Rom.11.26!11">ὁ</w>
+            <w osisId="Rom.11.26!12">Ῥυόμενος</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.11.26!13">ἀποστρέψει</w>
+            <w osisId="Rom.11.26!14">ἀσεβείας</w>
+            <w osisId="Rom.11.26!15">ἀπὸ</w>
+            <w osisId="Rom.11.26!16">Ἰακώβ</w>
+            <pc>.</pc>
+          </l>
+          <l>
+            <milestone unit="verse" id="Rom.11.27"/>
+            <w osisId="Rom.11.27!1">καὶ</w>
+            <w osisId="Rom.11.27!2">αὕτη</w>
+            <w osisId="Rom.11.27!3">αὐτοῖς</w>
+            <w osisId="Rom.11.27!4">ἡ</w>
+            <w osisId="Rom.11.27!5">παρ’</w>
+            <w osisId="Rom.11.27!6">ἐμοῦ</w>
+            <w osisId="Rom.11.27!7">διαθήκη</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.11.27!8">ὅταν</w>
+            <w osisId="Rom.11.27!9">ἀφέλωμαι</w>
+            <w osisId="Rom.11.27!10">τὰς</w>
+            <w osisId="Rom.11.27!11">ἁμαρτίας</w>
+            <w osisId="Rom.11.27!12">αὐτῶν</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Rom.11.28"/>
       <w osisId="Rom.11.28!1">κατὰ</w>
       <w osisId="Rom.11.28!2">μὲν</w>
@@ -6374,35 +6506,41 @@
       <w osisId="Rom.11.33!17">ὁδοὶ</w>
       <w osisId="Rom.11.33!18">αὐτοῦ</w>
       <pc>.</pc>
-    </p>
-    <p>
       <milestone unit="verse" id="Rom.11.34"/>
-      <w osisId="Rom.11.34!1">Τίς</w>
-      <w osisId="Rom.11.34!2">γὰρ</w>
-      <w osisId="Rom.11.34!3">ἔγνω</w>
-      <w osisId="Rom.11.34!4">νοῦν</w>
-      <w osisId="Rom.11.34!5">Κυρίου</w>
-      <pc>;</pc>
-      <w osisId="Rom.11.34!6">ἢ</w>
-      <w osisId="Rom.11.34!7">τίς</w>
-      <w osisId="Rom.11.34!8">σύμβουλος</w>
-      <w osisId="Rom.11.34!9">αὐτοῦ</w>
-      <w osisId="Rom.11.34!10">ἐγένετο</w>
-      <pc>;</pc>
-    </p>
-    <p>
-      <milestone unit="verse" id="Rom.11.35"/>
-      <w osisId="Rom.11.35!1">ἢ</w>
-      <w osisId="Rom.11.35!2">τίς</w>
-      <w osisId="Rom.11.35!3">προέδωκεν</w>
-      <w osisId="Rom.11.35!4">αὐτῷ</w>
-      <pc>,</pc>
-      <w osisId="Rom.11.35!5">καὶ</w>
-      <w osisId="Rom.11.35!6">ἀνταποδοθήσεται</w>
-      <w osisId="Rom.11.35!7">αὐτῷ</w>
-      <pc>;</pc>
-    </p>
-    <p>
+      <lg>
+        <l>
+          <q ref="Is.40,13. Job15,8. Jer.23,18." rend="bold">
+            <w osisId="Rom.11.34!1">Τίς</w>
+          </q>
+          <w osisId="Rom.11.34!2">γὰρ</w>
+          <q ref="Is.40,13. Job15,8. Jer.23,18." rend="bold">
+            <w osisId="Rom.11.34!3">ἔγνω</w>
+          <w osisId="Rom.11.34!4">νοῦν</w>
+          <w osisId="Rom.11.34!5">Κυρίου</w>
+          <pc>;</pc>
+          <w osisId="Rom.11.34!6">ἢ</w>
+          <w osisId="Rom.11.34!7">τίς</w>
+          <w osisId="Rom.11.34!8">σύμβουλος</w>
+          <w osisId="Rom.11.34!9">αὐτοῦ</w>
+          <w osisId="Rom.11.34!10">ἐγένετο</w>
+          <pc>;</pc>
+          </q>
+        </l>
+        <l>
+          <q ref="Is.40,13. Job15,8. Jer.23,18." rend="bold">
+            <milestone unit="verse" id="Rom.11.35"/>
+            <w osisId="Rom.11.35!1">ἢ</w>
+            <w osisId="Rom.11.35!2">τίς</w>
+            <w osisId="Rom.11.35!3">προέδωκεν</w>
+            <w osisId="Rom.11.35!4">αὐτῷ</w>
+            <pc>,</pc>
+            <w osisId="Rom.11.35!5">καὶ</w>
+            <w osisId="Rom.11.35!6">ἀνταποδοθήσεται</w>
+            <w osisId="Rom.11.35!7">αὐτῷ</w>
+            <pc>;</pc>
+          </q>
+        </l>
+      </lg>
       <milestone unit="verse" id="Rom.11.36"/>
       <w osisId="Rom.11.36!1">ὅτι</w>
       <w osisId="Rom.11.36!2">ἐξ</w>
@@ -6724,12 +6862,14 @@
       <w osisId="Rom.12.16!12">ταπεινοῖς</w>
       <w osisId="Rom.12.16!13">συναπαγόμενοι</w>
       <pc>.</pc>
-      <w osisId="Rom.12.16!14">μὴ</w>
-      <w osisId="Rom.12.16!15">γίνεσθε</w>
-      <w osisId="Rom.12.16!16">φρόνιμοι</w>
-      <w osisId="Rom.12.16!17">παρ’</w>
-      <w osisId="Rom.12.16!18">ἑαυτοῖς</w>
-      <pc>.</pc>
+      <q ref="Pr.3,7;11,20." rend="bold">
+        <w osisId="Rom.12.16!14">μὴ</w>
+        <w osisId="Rom.12.16!15">γίνεσθε</w>
+        <w osisId="Rom.12.16!16">φρόνιμοι</w>
+        <w osisId="Rom.12.16!17">παρ’</w>
+        <w osisId="Rom.12.16!18">ἑαυτοῖς</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.12.17"/>
       <w osisId="Rom.12.17!1">μηδενὶ</w>
       <w osisId="Rom.12.17!2">κακὸν</w>
@@ -6737,12 +6877,16 @@
       <w osisId="Rom.12.17!4">κακοῦ</w>
       <w osisId="Rom.12.17!5">ἀποδιδόντες</w>
       <pc>·</pc>
-      <w osisId="Rom.12.17!6">προνοούμενοι</w>
-      <w osisId="Rom.12.17!7">καλὰ</w>
-      <w osisId="Rom.12.17!8">ἐνώπιον</w>
+      <q ref="Pr.3,4.(LXX) Is.5,21." rend="bold">
+        <w osisId="Rom.12.17!6">προνοούμενοι</w>
+        <w osisId="Rom.12.17!7">καλὰ</w>
+        <w osisId="Rom.12.17!8">ἐνώπιον</w>
+      </q>
       <w osisId="Rom.12.17!9">πάντων</w>
-      <w osisId="Rom.12.17!10">ἀνθρώπων</w>
-      <pc>·</pc>
+      <q ref="Pr.3,4.(LXX) Is.5,21." rend="bold">
+        <w osisId="Rom.12.17!10">ἀνθρώπων</w>
+        <pc>·</pc>
+      </q>
       <milestone unit="verse" id="Rom.12.18"/>
       <w osisId="Rom.12.18!1">εἰ</w>
       <w osisId="Rom.12.18!2">δυνατόν</w>
@@ -6770,43 +6914,47 @@
       <pc>·</pc>
       <w osisId="Rom.12.19!10">γέγραπται</w>
       <w osisId="Rom.12.19!11">γάρ</w>
-      <w osisId="Rom.12.19!12">Ἐμοὶ</w>
-      <w osisId="Rom.12.19!13">ἐκδίκησις</w>
-      <pc>,</pc>
-      <w osisId="Rom.12.19!14">ἐγὼ</w>
-      <w osisId="Rom.12.19!15">ἀνταποδώσω</w>
-      <pc>,</pc>
+      <q ref="Dt.32,35. Lv.19,18." rend="bold">
+        <w osisId="Rom.12.19!12">Ἐμοὶ</w>
+        <w osisId="Rom.12.19!13">ἐκδίκησις</w>
+        <pc>,</pc>
+        <w osisId="Rom.12.19!14">ἐγὼ</w>
+        <w osisId="Rom.12.19!15">ἀνταποδώσω</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Rom.12.19!16">λέγει</w>
       <w osisId="Rom.12.19!17">Κύριος</w>
       <pc>.</pc>
       <milestone unit="verse" id="Rom.12.20"/>
       <w osisId="Rom.12.20!1">ἀλλὰ</w>
-      <w osisId="Rom.12.20!2">ἐὰν</w>
-      <w osisId="Rom.12.20!3">πεινᾷ</w>
-      <w osisId="Rom.12.20!4">ὁ</w>
-      <w osisId="Rom.12.20!5">ἐχθρός</w>
-      <w osisId="Rom.12.20!6">σου</w>
-      <pc>,</pc>
-      <w osisId="Rom.12.20!7">ψώμιζε</w>
-      <w osisId="Rom.12.20!8">αὐτόν</w>
-      <pc>·</pc>
-      <w osisId="Rom.12.20!9">ἐὰν</w>
-      <w osisId="Rom.12.20!10">διψᾷ</w>
-      <pc>,</pc>
-      <w osisId="Rom.12.20!11">πότιζε</w>
-      <w osisId="Rom.12.20!12">αὐτόν</w>
-      <pc>·</pc>
-      <w osisId="Rom.12.20!13">τοῦτο</w>
-      <w osisId="Rom.12.20!14">γὰρ</w>
-      <w osisId="Rom.12.20!15">ποιῶν</w>
-      <w osisId="Rom.12.20!16">ἄνθρακας</w>
-      <w osisId="Rom.12.20!17">πυρὸς</w>
-      <w osisId="Rom.12.20!18">σωρεύσεις</w>
-      <w osisId="Rom.12.20!19">ἐπὶ</w>
-      <w osisId="Rom.12.20!20">τὴν</w>
-      <w osisId="Rom.12.20!21">κεφαλὴν</w>
-      <w osisId="Rom.12.20!22">αὐτοῦ</w>
-      <pc>.</pc>
+      <q ref="Pr.25,21.22." rend="bold">
+        <w osisId="Rom.12.20!2">ἐὰν</w>
+        <w osisId="Rom.12.20!3">πεινᾷ</w>
+        <w osisId="Rom.12.20!4">ὁ</w>
+        <w osisId="Rom.12.20!5">ἐχθρός</w>
+        <w osisId="Rom.12.20!6">σου</w>
+        <pc>,</pc>
+        <w osisId="Rom.12.20!7">ψώμιζε</w>
+        <w osisId="Rom.12.20!8">αὐτόν</w>
+        <pc>·</pc>
+        <w osisId="Rom.12.20!9">ἐὰν</w>
+        <w osisId="Rom.12.20!10">διψᾷ</w>
+        <pc>,</pc>
+        <w osisId="Rom.12.20!11">πότιζε</w>
+        <w osisId="Rom.12.20!12">αὐτόν</w>
+        <pc>·</pc>
+        <w osisId="Rom.12.20!13">τοῦτο</w>
+        <w osisId="Rom.12.20!14">γὰρ</w>
+        <w osisId="Rom.12.20!15">ποιῶν</w>
+        <w osisId="Rom.12.20!16">ἄνθρακας</w>
+        <w osisId="Rom.12.20!17">πυρὸς</w>
+        <w osisId="Rom.12.20!18">σωρεύσεις</w>
+        <w osisId="Rom.12.20!19">ἐπὶ</w>
+        <w osisId="Rom.12.20!20">τὴν</w>
+        <w osisId="Rom.12.20!21">κεφαλὴν</w>
+        <w osisId="Rom.12.20!22">αὐτοῦ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.12.21"/>
       <w osisId="Rom.12.21!1">μὴ</w>
       <w osisId="Rom.12.21!2">νικῶ</w>
@@ -7024,18 +7172,20 @@
       <milestone unit="verse" id="Rom.13.9"/>
       <w osisId="Rom.13.9!1">τὸ</w>
       <w osisId="Rom.13.9!2">γάρ</w>
-      <w osisId="Rom.13.9!3">Οὐ</w>
-      <w osisId="Rom.13.9!4">μοιχεύσεις</w>
-      <pc>,</pc>
-      <w osisId="Rom.13.9!5">Οὐ</w>
-      <w osisId="Rom.13.9!6">φονεύσεις</w>
-      <pc>,</pc>
-      <w osisId="Rom.13.9!7">Οὐ</w>
-      <w osisId="Rom.13.9!8">κλέψεις</w>
-      <pc>,</pc>
-      <w osisId="Rom.13.9!9">Οὐκ</w>
-      <w osisId="Rom.13.9!10">ἐπιθυμήσεις</w>
-      <pc>,</pc>
+      <q ref="Ex.20,13—17. Lv.19,18. Dt.5,17." rend="bold">
+        <w osisId="Rom.13.9!3">Οὐ</w>
+        <w osisId="Rom.13.9!4">μοιχεύσεις</w>
+        <pc>,</pc>
+        <w osisId="Rom.13.9!5">Οὐ</w>
+        <w osisId="Rom.13.9!6">φονεύσεις</w>
+        <pc>,</pc>
+        <w osisId="Rom.13.9!7">Οὐ</w>
+        <w osisId="Rom.13.9!8">κλέψεις</w>
+        <pc>,</pc>
+        <w osisId="Rom.13.9!9">Οὐκ</w>
+        <w osisId="Rom.13.9!10">ἐπιθυμήσεις</w>
+        <pc>,</pc>
+      </q>
       <w osisId="Rom.13.9!11">καὶ</w>
       <w osisId="Rom.13.9!12">εἴ</w>
       <w osisId="Rom.13.9!13">τις</w>
@@ -7050,13 +7200,15 @@
       <pc>,</pc>
       <w osisId="Rom.13.9!21">ἐν</w>
       <w osisId="Rom.13.9!22">τῷ</w>
-      <w osisId="Rom.13.9!23">Ἀγαπήσεις</w>
-      <w osisId="Rom.13.9!24">τὸν</w>
-      <w osisId="Rom.13.9!25">πλησίον</w>
-      <w osisId="Rom.13.9!26">σου</w>
-      <w osisId="Rom.13.9!27">ὡς</w>
-      <w osisId="Rom.13.9!28">σεαυτόν</w>
-      <pc>.</pc>
+      <q ref="Ex.20,13—17. Lv.19,18. Dt.5,17." rend="bold">
+        <w osisId="Rom.13.9!23">Ἀγαπήσεις</w>
+        <w osisId="Rom.13.9!24">τὸν</w>
+        <w osisId="Rom.13.9!25">πλησίον</w>
+        <w osisId="Rom.13.9!26">σου</w>
+        <w osisId="Rom.13.9!27">ὡς</w>
+        <w osisId="Rom.13.9!28">σεαυτόν</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.13.10"/>
       <w osisId="Rom.13.10!1">ἡ</w>
       <w osisId="Rom.13.10!2">ἀγάπη</w>
@@ -7382,33 +7534,33 @@
       <milestone unit="verse" id="Rom.14.11"/>
       <w osisId="Rom.14.11!1">γέγραπται</w>
       <w osisId="Rom.14.11!2">γάρ</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.14.11!3">Ζῶ</w>
-      <w osisId="Rom.14.11!4">ἐγώ</w>
-      <pc>,</pc>
-      <w osisId="Rom.14.11!5">λέγει</w>
-      <w osisId="Rom.14.11!6">Κύριος</w>
-      <pc>,</pc>
-      <w osisId="Rom.14.11!7">ὅτι</w>
-      <w osisId="Rom.14.11!8">ἐμοὶ</w>
-      <w osisId="Rom.14.11!9">κάμψει</w>
-      <w osisId="Rom.14.11!10">πᾶν</w>
-      <w osisId="Rom.14.11!11">γόνυ</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      
-      <w osisId="Rom.14.11!12">καὶ</w>
-      <w osisId="Rom.14.11!13">πᾶσα</w>
-      <w osisId="Rom.14.11!14">γλῶσσα</w>
-      <w osisId="Rom.14.11!15">ἐξομολογήσεται</w>
-      <w osisId="Rom.14.11!16">τῷ</w>
-      <w osisId="Rom.14.11!17">Θεῷ</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Is.45,23;49,18." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Rom.14.11!3">Ζῶ</w>
+            <w osisId="Rom.14.11!4">ἐγώ</w>
+            <pc>,</pc>
+            <w osisId="Rom.14.11!5">λέγει</w>
+            <w osisId="Rom.14.11!6">Κύριος</w>
+            <pc>,</pc>
+            <w osisId="Rom.14.11!7">ὅτι</w>
+            <w osisId="Rom.14.11!8">ἐμοὶ</w>
+            <w osisId="Rom.14.11!9">κάμψει</w>
+            <w osisId="Rom.14.11!10">πᾶν</w>
+            <w osisId="Rom.14.11!11">γόνυ</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.14.11!12">καὶ</w>
+            <w osisId="Rom.14.11!13">πᾶσα</w>
+            <w osisId="Rom.14.11!14">γλῶσσα</w>
+            <w osisId="Rom.14.11!15">ἐξομολογήσεται</w>
+            <w osisId="Rom.14.11!16">τῷ</w>
+            <w osisId="Rom.14.11!17">Θεῷ</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Rom.14.12"/>
       <w osisId="Rom.14.12!1">ἄρα</w>
       <w osisId="Rom.14.12!2">οὖν</w>
@@ -7682,15 +7834,17 @@
       <w osisId="Rom.15.3!8">ἀλλὰ</w>
       <w osisId="Rom.15.3!9">καθὼς</w>
       <w osisId="Rom.15.3!10">γέγραπται</w>
-      <w osisId="Rom.15.3!11">Οἱ</w>
-      <w osisId="Rom.15.3!12">ὀνειδισμοὶ</w>
-      <w osisId="Rom.15.3!13">τῶν</w>
-      <w osisId="Rom.15.3!14">ὀνειδιζόντων</w>
-      <w osisId="Rom.15.3!15">σε</w>
-      <w osisId="Rom.15.3!16">ἐπέπεσαν</w>
-      <w osisId="Rom.15.3!17">ἐπ’</w>
-      <w osisId="Rom.15.3!18">ἐμέ</w>
-      <pc>.</pc>
+      <q ref="Ps.69,9." rend="bold">
+        <w osisId="Rom.15.3!11">Οἱ</w>
+        <w osisId="Rom.15.3!12">ὀνειδισμοὶ</w>
+        <w osisId="Rom.15.3!13">τῶν</w>
+        <w osisId="Rom.15.3!14">ὀνειδιζόντων</w>
+        <w osisId="Rom.15.3!15">σε</w>
+        <w osisId="Rom.15.3!16">ἐπέπεσαν</w>
+        <w osisId="Rom.15.3!17">ἐπ’</w>
+        <w osisId="Rom.15.3!18">ἐμέ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.15.4"/>
       <w osisId="Rom.15.4!1">ὅσα</w>
       <w osisId="Rom.15.4!2">γὰρ</w>
@@ -7801,89 +7955,90 @@
       <pc>,</pc>
       <w osisId="Rom.15.9!9">καθὼς</w>
       <w osisId="Rom.15.9!10">γέγραπται</w>
-      <w osisId="Rom.15.9!11">Διὰ</w>
-      <w osisId="Rom.15.9!12">τοῦτο</w>
-      <w osisId="Rom.15.9!13">ἐξομολογήσομαί</w>
-      <w osisId="Rom.15.9!14">σοι</w>
-      <w osisId="Rom.15.9!15">ἐν</w>
-      <w osisId="Rom.15.9!16">ἔθνεσιν</w>
-      <w osisId="Rom.15.9!17">καὶ</w>
-      <w osisId="Rom.15.9!18">τῷ</w>
-      <w osisId="Rom.15.9!19">ὀνόματί</w>
-      <w osisId="Rom.15.9!20">σου</w>
-      <w osisId="Rom.15.9!21">ψαλῶ</w>
-      <pc>.</pc>
+      <q ref="2S.22,50. Ps.18,49." rend="bold">
+        <w osisId="Rom.15.9!11">Διὰ</w>
+        <w osisId="Rom.15.9!12">τοῦτο</w>
+        <w osisId="Rom.15.9!13">ἐξομολογήσομαί</w>
+        <w osisId="Rom.15.9!14">σοι</w>
+        <w osisId="Rom.15.9!15">ἐν</w>
+        <w osisId="Rom.15.9!16">ἔθνεσιν</w>
+        <w osisId="Rom.15.9!17">καὶ</w>
+        <w osisId="Rom.15.9!18">τῷ</w>
+        <w osisId="Rom.15.9!19">ὀνόματί</w>
+        <w osisId="Rom.15.9!20">σου</w>
+        <w osisId="Rom.15.9!21">ψαλῶ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.15.10"/>
       <w osisId="Rom.15.10!1">καὶ</w>
       <w osisId="Rom.15.10!2">πάλιν</w>
       <w osisId="Rom.15.10!3">λέγει</w>
-      <w osisId="Rom.15.10!4">Εὐφράνθητε</w>
-      <pc>,</pc>
-      <w osisId="Rom.15.10!5">ἔθνη</w>
-      <pc>,</pc>
-      <w osisId="Rom.15.10!6">μετὰ</w>
-      <w osisId="Rom.15.10!7">τοῦ</w>
-      <w osisId="Rom.15.10!8">λαοῦ</w>
-      <w osisId="Rom.15.10!9">αὐτοῦ</w>
-      <pc>.</pc>
+      <q ref="Dt.32,43." rend="bold">
+        <w osisId="Rom.15.10!4">Εὐφράνθητε</w>
+        <pc>,</pc>
+        <w osisId="Rom.15.10!5">ἔθνη</w>
+        <pc>,</pc>
+        <w osisId="Rom.15.10!6">μετὰ</w>
+        <w osisId="Rom.15.10!7">τοῦ</w>
+        <w osisId="Rom.15.10!8">λαοῦ</w>
+        <w osisId="Rom.15.10!9">αὐτοῦ</w>
+        <pc>.</pc>
+      </q>
       <milestone unit="verse" id="Rom.15.11"/>
       <w osisId="Rom.15.11!1">καὶ</w>
       <w osisId="Rom.15.11!2">πάλιν</w>
-    </p>
-    <p>
-      <w osisId="Rom.15.11!3">Αἰνεῖτε</w>
-      <pc>,</pc>
-      <w osisId="Rom.15.11!4">πάντα</w>
-      <w osisId="Rom.15.11!5">τὰ</w>
-      <w osisId="Rom.15.11!6">ἔθνη</w>
-      <pc>,</pc>
-      <w osisId="Rom.15.11!7">τὸν</w>
-      <w osisId="Rom.15.11!8">Κύριον</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      <w osisId="Rom.15.11!9">καὶ</w>
-      <w osisId="Rom.15.11!10">ἐπαινεσάτωσαν</w>
-      <w osisId="Rom.15.11!11">αὐτὸν</w>
-      <w osisId="Rom.15.11!12">πάντες</w>
-      <w osisId="Rom.15.11!13">οἱ</w>
-      <w osisId="Rom.15.11!14">λαοί</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Ps.117,1." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Rom.15.11!3">Αἰνεῖτε</w>
+            <pc>,</pc>
+            <w osisId="Rom.15.11!4">πάντα</w>
+            <w osisId="Rom.15.11!5">τὰ</w>
+            <w osisId="Rom.15.11!6">ἔθνη</w>
+            <pc>,</pc>
+            <w osisId="Rom.15.11!7">τὸν</w>
+            <w osisId="Rom.15.11!8">Κύριον</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.15.11!9">καὶ</w>
+            <w osisId="Rom.15.11!10">ἐπαινεσάτωσαν</w>
+            <w osisId="Rom.15.11!11">αὐτὸν</w>
+            <w osisId="Rom.15.11!12">πάντες</w>
+            <w osisId="Rom.15.11!13">οἱ</w>
+            <w osisId="Rom.15.11!14">λαοί</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
       <milestone unit="verse" id="Rom.15.12"/>
       <w osisId="Rom.15.12!1">καὶ</w>
       <w osisId="Rom.15.12!2">πάλιν</w>
       <w osisId="Rom.15.12!3">Ἡσαΐας</w>
       <w osisId="Rom.15.12!4">λέγει</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.15.12!5">Ἔσται</w>
-      <w osisId="Rom.15.12!6">ἡ</w>
-      <w osisId="Rom.15.12!7">ῥίζα</w>
-      <w osisId="Rom.15.12!8">τοῦ</w>
-      <w osisId="Rom.15.12!9">Ἰεσσαί</w>
-      <pc>,</pc>
-    </p>
-    <p>
-      
-      <w osisId="Rom.15.12!10">καὶ</w>
-      <w osisId="Rom.15.12!11">ὁ</w>
-      <w osisId="Rom.15.12!12">ἀνιστάμενος</w>
-      <w osisId="Rom.15.12!13">ἄρχειν</w>
-      <w osisId="Rom.15.12!14">ἐθνῶν</w>
-      <pc>·</pc>
-    </p>
-    <p>
-      
-      <w osisId="Rom.15.12!15">ἐπ’</w>
-      <w osisId="Rom.15.12!16">αὐτῷ</w>
-      <w osisId="Rom.15.12!17">ἔθνη</w>
-      <w osisId="Rom.15.12!18">ἐλπιοῦσιν</w>
-      <pc>.</pc>
-    </p>
-    <p>
+      <q ref="Is.11,10." rend="bold">
+        <lg>
+          <w osisId="Rom.15.12!5">Ἔσται</w>
+          <w osisId="Rom.15.12!6">ἡ</w>
+          <w osisId="Rom.15.12!7">ῥίζα</w>
+          <w osisId="Rom.15.12!8">τοῦ</w>
+          <w osisId="Rom.15.12!9">Ἰεσσαί</w>
+          <pc>,</pc>
+        
+          <w osisId="Rom.15.12!10">καὶ</w>
+          <w osisId="Rom.15.12!11">ὁ</w>
+          <w osisId="Rom.15.12!12">ἀνιστάμενος</w>
+          <w osisId="Rom.15.12!13">ἄρχειν</w>
+          <w osisId="Rom.15.12!14">ἐθνῶν</w>
+          <pc>·</pc>
+        
+          <w osisId="Rom.15.12!15">ἐπ’</w>
+          <w osisId="Rom.15.12!16">αὐτῷ</w>
+          <w osisId="Rom.15.12!17">ἔθνη</w>
+          <w osisId="Rom.15.12!18">ἐλπιοῦσιν</w>
+          <pc>.</pc>
+        </lg>
+      </q>
       <milestone unit="verse" id="Rom.15.13"/>
       <w osisId="Rom.15.13!1">Ὁ</w>
       <w osisId="Rom.15.13!2">δὲ</w>
@@ -8077,28 +8232,27 @@
       <w osisId="Rom.15.21!1">ἀλλὰ</w>
       <w osisId="Rom.15.21!2">καθὼς</w>
       <w osisId="Rom.15.21!3">γέγραπται</w>
-    </p>
-    <p>
-      
-      <w osisId="Rom.15.21!4">Ὄψονται</w>
-      <w osisId="Rom.15.21!5">οἷς</w>
-      <w osisId="Rom.15.21!6">οὐκ</w>
-      <w osisId="Rom.15.21!7">ἀνηγγέλη</w>
-      <w osisId="Rom.15.21!8">περὶ</w>
-      <w osisId="Rom.15.21!9">αὐτοῦ</w>
-      <pc>,</pc>
-
-    </p>
-    <p>
-      
-
-      <w osisId="Rom.15.21!10">καὶ</w>
-      <w osisId="Rom.15.21!11">οἳ</w>
-      <w osisId="Rom.15.21!12">οὐκ</w>
-      <w osisId="Rom.15.21!13">ἀκηκόασιν</w>
-      <w osisId="Rom.15.21!14">συνήσουσιν</w>
-      <pc>.</pc>
-
+      <q ref="Is.52,15." rend="bold">
+        <lg>
+          <l>
+            <w osisId="Rom.15.21!4">Ὄψονται</w>
+            <w osisId="Rom.15.21!5">οἷς</w>
+            <w osisId="Rom.15.21!6">οὐκ</w>
+            <w osisId="Rom.15.21!7">ἀνηγγέλη</w>
+            <w osisId="Rom.15.21!8">περὶ</w>
+            <w osisId="Rom.15.21!9">αὐτοῦ</w>
+            <pc>,</pc>
+          </l>
+          <l>
+            <w osisId="Rom.15.21!10">καὶ</w>
+            <w osisId="Rom.15.21!11">οἳ</w>
+            <w osisId="Rom.15.21!12">οὐκ</w>
+            <w osisId="Rom.15.21!13">ἀκηκόασιν</w>
+            <w osisId="Rom.15.21!14">συνήσουσιν</w>
+            <pc>.</pc>
+          </l>
+        </lg>
+      </q>
     </p>
     <p>
       <milestone unit="verse" id="Rom.15.22"/>
