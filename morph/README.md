@@ -6,8 +6,8 @@
   <br /> - To the extent possible under law, biblicalhumanities.org has waived all copyright and related or neighboring rights to the biblicalhumanities.org Nestle 1904 Morphology. This work is published from: United States.
 
 The text has been augmented with morphological tags, lemmatization,
-and Strong's numbers by Dr. Ulrik Sandborg-Petersen of Emergence Consult 
-and Aalborg University, Denmark.
+and Strong's numbers by Dr. Ulrik Sandborg-Petersen of Scripture
+Systems, Denmark.
 
 The basic method has been to port over as much as possible of an
 analysis of the Wescott-Hort GNT based on the work done on that text
