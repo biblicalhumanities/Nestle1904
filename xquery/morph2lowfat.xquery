@@ -157,7 +157,7 @@ declare function local:parse-attributes($morph)
       case 'det'
         return
           let $cng := tokenize($morph, '-')[2]
-          where $cng != ('PRI','OI','LI')
+          where not($cng = ('PRI','OI','LI'))
           return local:nominal-attributes($cng)
       default
         return ()
