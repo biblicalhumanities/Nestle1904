@@ -1,85 +1,37 @@
 (:
-  type
-  subtype
-  class
-  subclass
-  role
-  subrole
-:)
-(:
-  word form: indeclinable, apocopated, attic, etc.
-  
+  Convert Ulrik's morphology to words in Lowfat format.
+
+  Use Lowfat conventions in preference to Robinson's for now,
+  but don't lose information that is easily comparable or
+  easily incorporated.
 :)
 
-(:
-Patterns - see 'mood'
-
-  V- tense voice I person number [verb-extra]
-  V- tense voice S person number [verb-extra]
-  V- tense voice O person number [verb-extra]
-  V- tense voice M person number [verb-extra]
-  V- tense voice N 
-  V- tense voice P case number gender [verb-extra]
-  V- tense voice R case number gender [verb-extra]
-  
-Mood
-====
-
-  I : indicative
-  S : subjunctive
-  O : optative
-  M : imperative
-  N : infinitive
-  P : participle
-  
-  R : imperative participle  
-  
-Extra information on verbs (verb-extra)
-=======================================
-
-  -M   : middle significance
-  -T   : transitive  
-  
-  -C   : contracted form
-  -AP  : apocopated form
-  -IRR : irregular or impure form  
-
-  -A   : aeolic
-  -ATT : attic
-
-  
-:)
-
-declare function local:verb-attributes($morph)
-{
-  
-};
 
 declare function local:nominal-attributes($cng)
 {
     attribute case {
         switch (substring($cng,1,1))
-          case 'N' return 'neuter' 
+          case 'N' return 'neuter'
           case 'G' return 'genitive'
           case 'D' return 'dative'
           case 'A' return 'accusative'
           case 'V' return 'vocative'
           default return '###'
     },
-    
+
     attribute number {
-        switch (substring($cng,2,1))      
-          case 'S' return 'singular' 
+        switch (substring($cng,2,1))
+          case 'S' return 'singular'
           case 'P' return 'plural'
-          default return '###'     
+          default return '###'
     },
-    
+
     attribute gender {
-        switch (substring($cng,3,1))      
-          case 'M' return 'masculine' 
+        switch (substring($cng,3,1))
+          case 'M' return 'masculine'
           case 'F' return 'feminine'
           case 'N' return 'neuter'
-          default return '###'         
+          default return '###'
     }
 };
 
@@ -96,7 +48,7 @@ declare function local:tvm-attributes($tvm)
             return 'present'
           case 'I'
             return 'imperfect'
-          case 'F' 
+          case 'F'
             return 'future'
           case 'R'
             return 'perfect'
@@ -110,7 +62,7 @@ declare function local:tvm-attributes($tvm)
             return '###'
   },
   attribute voice {
-    let $voice := substring($tvm, string-length($tvm)-1, 1)   
+    let $voice := substring($tvm, string-length($tvm)-1, 1)
     return
       switch($voice)
         case  'A'
@@ -131,7 +83,7 @@ declare function local:tvm-attributes($tvm)
           return 'middlepassive'
         case 'X'
           return 'active'
-        default 
+        default
           return '### ' || $voice
   },
   attribute mood {
@@ -149,7 +101,7 @@ declare function local:tvm-attributes($tvm)
       case 'P'
       case 'R'
         return 'participle'
-      default 
+      default
         return '###'
   }
 };
@@ -181,8 +133,8 @@ declare function local:pn-attributes($pn)
 declare function local:parse-attributes($morph)
 {
     switch(local:firstclass($morph))
-      case 'verb' return 
-        let $tvm := tokenize($morph, '-')[2]
+      case 'verb' return
+        let $tvm := tokenize($morph, '-')[2] ! replace (., '2', '')
         let $rest :=  tokenize($morph, '-')[3]  (: ignore verb-extra :)
         let $mood := substring($tvm, 3, 1)
         return (
@@ -198,16 +150,16 @@ declare function local:parse-attributes($morph)
             case 'P'
             case 'R'
               return local:nominal-attributes($rest)
-            default 
+            default
               return attribute error {$rest}
         )
       case 'noun'
-      case 'det' 
-        return 
+      case 'det'
+        return
           let $cng := tokenize($morph, '-')[2]
-          where $cng != 'PRI'
+          where $cng != ('PRI','OI','LI')
           return local:nominal-attributes($cng)
-      default 
+      default
         return ()
 };
 
@@ -215,18 +167,18 @@ declare function local:firstclass($morph)
 {
     switch (substring($morph, 1, 1))
       case "N" return "noun"
-      case "V" return "verb" 
-      case "A" return "adj" 
-      case "T" return "det"      
-      case "P" return "pron" 
-      case "R" return "pron" 
+      case "V" return "verb"
+      case "A" return "adj"
+      case "T" return "det"
+      case "P" return "pron"
+      case "R" return "pron"
       case "C" return "pron"
-      case "D" return "pron" 
-      case "K" return "pron"        
-      case "I" return "pron"   
+      case "D" return "pron"
+      case "K" return "pron"
+      case "I" return "pron"
       case "X" return "pron"
-      case "Q" return "pron"          
-      case "F" return "pron" 
+      case "Q" return "pron"
+      case "F" return "pron"
       case "S" return "pron"
 
       default return "###" || $morph
@@ -239,9 +191,9 @@ declare function local:type($morph)
     case 'N-PRI' return ()
     case 'A-NUI' return 'numeral'
     case 'N-LI' return 'letter'
-    case 'N-OI' return 'indeclinable'
+    case 'N-OI' return ()
     case 'COND' return 'conditional'
-    default return 
+    default return
       switch(substring($morph, 1, 2))
         case 'P-' return 'personal'
         case 'R-' return 'relative'
@@ -254,24 +206,24 @@ declare function local:type($morph)
         case 'F-' return 'reflexive'
         case 'S-' return 'possessive'
         default return  ()
-}; 
+};
 
 declare function local:type()
 {
-  
+
 };
 
 declare function local:class($morph)
 {
   switch ($morph)
-    case 'CONJ' 
+    case 'CONJ'
     case 'CONJ-N' return 'conj'
     case 'PREP' return 'prep'
-    case 'ADV' 
-    case 'ADV-I' 
-    case 'ADV-N' 
-    case 'ADV-K' 
-    case 'ADV-S' 
+    case 'ADV'
+    case 'ADV-I'
+    case 'ADV-N'
+    case 'ADV-K'
+    case 'ADV-S'
     case 'ADV-C' return 'adv'
     case 'PRT' case 'PRT-I' case 'PRT-N' return 'ptcl'
     case 'INJ' return 'intj'
@@ -284,15 +236,15 @@ declare function local:class($morph)
 
 declare function local:osisId($bcv, $seq)
 {
-  translate($bcv, ' ', '.') ! translate(., ':', '.' ) || "!" || $seq 
+  translate($bcv, ' ', '.') ! translate(., ':', '.' ) || "!" || $seq
 };
 
 declare function local:verse($records)
 {
   for $r at $i in $records
-  let $form := $r/form_morph ! string(.)  
+  let $form := $r/form_morph ! string(.)
   let $class :=  local:class($form)
-  return 
+  return
     <w>
       {
         attribute class { $class },
