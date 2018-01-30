@@ -350,7 +350,12 @@ declare function local:verse($records)
     </w>
 };
 
-for tumbling window $verse in //record
-    start $first when fn:true()
-    end next $next when  $first/BCV != $next/BCV
-return local:verse($verse)
+<text>
+{
+  for tumbling window $verse in //record
+      start $first when fn:true()
+      end next $next when  $first/BCV != $next/BCV
+  return local:verse($verse)  
+}
+</text>
+
