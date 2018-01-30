@@ -6,44 +6,10 @@
   easily incorporated.
 :)
 
-
-declare function local:nominal-attributes($cng)
-{
-    attribute case {
-        switch (substring($cng,1,1))
-          case 'N' return 'neuter'
-          case 'G' return 'genitive'
-          case 'D' return 'dative'
-          case 'A' return 'accusative'
-          case 'V' return 'vocative'
-          default return '###'
-    },
-
-    attribute number {
-        switch (substring($cng,2,1))
-          case 'S' return 'singular'
-          case 'P' return 'plural'
-          default return '###'
-    },
-
-    attribute gender {
-        switch (substring($cng,3,1))
-          case 'M' return 'masculine'
-          case 'F' return 'feminine'
-          case 'N' return 'neuter'
-          default return '###'
-    }
-};
-
-declare function local:tvm-attributes($tvm)
+declare function local:tense-attribute($t)
 {
   attribute tense {
-    let $tense :=
-      if (substring($tvm,1,1) = '2')
-        then substring($tvm, 2, 1)
-        else substring($tvm, 1, 1)
-      return
-        switch($tense)
+        switch($t)
           case 'P'
             return 'present'
           case 'I'
@@ -60,11 +26,13 @@ declare function local:tvm-attributes($tvm)
             return 'none'
           default
             return '###'
-  },
+  }
+};
+
+declare function local:voice-attribute($v)
+{
   attribute voice {
-    let $voice := substring($tvm, string-length($tvm)-1, 1)
-    return
-      switch($voice)
+      switch($v)
         case  'A'
           return 'active'
         case 'M'
@@ -84,10 +52,14 @@ declare function local:tvm-attributes($tvm)
         case 'X'
           return 'active'
         default
-          return '### ' || $voice
-  },
+          return '### ' || $v
+  }
+};
+
+declare function local:mood-attribute($t)
+{
   attribute mood {
-    switch(substring($tvm, string-length($tvm), 1))
+    switch($t)
       case 'I'
         return 'indicative'
       case 'S'
@@ -106,10 +78,23 @@ declare function local:tvm-attributes($tvm)
   }
 };
 
-declare function local:pn-attributes($pn)
+declare function local:case-attribute($c)
+{
+  attribute case {
+      switch ($c)
+        case 'N' return 'neuter'
+        case 'G' return 'genitive'
+        case 'D' return 'dative'
+        case 'A' return 'accusative'
+        case 'V' return 'vocative'
+        default return '###'
+  }
+};
+
+declare function local:person-attribute($p)
 {
   attribute person {
-    switch (substring($pn,1,1))
+    switch ($p)
       case "1"
         return "first"
       case "2"
@@ -118,16 +103,103 @@ declare function local:pn-attributes($pn)
         return "third"
       default
         return "###"
-  },
-  attribute number {
-    switch (substring($pn, 2, 1))
-      case "S"
-        return "singular"
-      case "P"
-        return "plural"
-      default
-        return "###"
   }
+};
+
+declare function local:number-attribute($n)
+{
+  attribute number {
+      switch ($n)
+        case 'S' return 'singular'
+        case 'P' return 'plural'
+        default return '###'
+  }
+};
+
+declare function local:gender-attribute($g)
+{
+  attribute gender {
+      switch ($g)
+        case 'M' return 'masculine'
+        case 'F' return 'feminine'
+        case 'N' return 'neuter'
+        default return '###'
+  }
+};
+
+declare function local:pcn-attributes($pcn)
+{
+  local:person-attribute(substring($pcn,1,1)),
+  local:case-attribute(substring($pcn,2,1)),
+  local:number-attribute(substring($pcn,3,1))
+};
+
+declare function local:cng-attributes($cng)
+{
+  local:case-attribute(substring($cng,1,1)),
+  local:number-attribute(substring($cng,2,1)),
+  local:gender-attribute(substring($cng,3,1))
+};
+
+declare function local:tvm-attributes($tvm)
+{
+  let $tvm := replace($tvm, '2', '')
+  return
+    local:tense-attribute(substring($tvm,1,1)),
+    local:voice-attribute(substring($tvm,2,1)),
+    local:mood-attribute(substring($tvm,3,1))
+};
+
+
+declare function local:pn-attributes($pn)
+{
+  local:person-attribute(substring($pn,1,1)),
+  local:number-attribute(substring($pn,2,1))
+};
+
+declare function local:pronoun-attributes($class, $pncng)
+{
+  switch ($class)
+    case 'P'
+    case 'R'
+      return
+        if (substring($pncng, 1, 1) = ('1', '2', '3'))
+          then (
+            local:person-attribute(substring($pncng, 1, 1)),
+            local:case-attribute(substring($pncng, 2, 1)),
+            local:number-attribute(substring($pncng, 3, 1)))                
+          else (
+            local:case-attribute(substring($pncng, 1, 1)),
+            local:number-attribute(substring($pncng, 2, 1)),
+            local:gender-attribute(substring($pncng, 3, 1)))            
+    case 'C'
+    case 'D'
+    case 'K' 
+    case 'I'    
+    case 'X'
+    case 'Q'    
+      return (
+        local:case-attribute(substring($pncng, 1, 1)),
+        local:number-attribute(substring($pncng, 2, 1)),
+        local:gender-attribute(substring($pncng, 3, 1)))        
+    case 'F'
+      return (
+        local:person-attribute(substring($pncng, 1, 1)),      
+        local:case-attribute(substring($pncng, 2, 1)),
+        local:number-attribute(substring($pncng, 3, 1)),
+        local:gender-attribute(substring($pncng, 4, 1)))     
+    case 'S'
+      return (
+        (: ### Drops number of the possessor! ### :)
+        local:person-attribute(substring($pncng, 1, 1)),      
+        local:case-attribute(substring($pncng, 3, 1)),
+        local:number-attribute(substring($pncng, 4, 1)),
+        local:gender-attribute(substring($pncng, 5, 1)))
+    default 
+      return (
+        attribute a {$class},
+        attribute b {$pncng}
+      )
 };
 
 declare function local:parse-attributes($morph)
@@ -149,16 +221,25 @@ declare function local:parse-attributes($morph)
               return ()
             case 'P'
             case 'R'
-              return local:nominal-attributes($rest)
+              return local:cng-attributes($rest)
             default
               return attribute error {$rest}
         )
+      case 'pron'
+        return
+          let $class := tokenize($morph, '-')[1]
+          let $pncng := tokenize($morph, '-')[2]
+          return local:pronoun-attributes($class, $pncng)
       case 'noun'
       case 'det'
         return
           let $cng := tokenize($morph, '-')[2]
-          where not($cng = ('PRI','OI','LI'))
-          return local:nominal-attributes($cng)
+          where $cng and not($cng = ('PRI','OI','LI', ''))
+          return local:cng-attributes($cng)
+      case '###'
+        return
+          let $pcn := tokenize($morph, '-')[2]
+          return local:pcn-attributes($pcn)
       default
         return ()
 };
@@ -202,36 +283,44 @@ declare function local:type($morph)
         case 'K-' return 'correlative'
         case 'I-' return 'interrogative'
         case 'X-' return 'indefinite'
-        case 'Q-' return 'Q-###'
+        case 'Q-' return 'interrogative or correlative ###'
         case 'F-' return 'reflexive'
         case 'S-' return 'possessive'
         default return  ()
 };
 
-declare function local:type()
-{
-
-};
 
 declare function local:class($morph)
 {
   switch ($morph)
     case 'CONJ'
-    case 'CONJ-N' return 'conj'
-    case 'PREP' return 'prep'
+    case 'CONJ-N'
+      return 'conj'
+    case 'PREP'
+      return 'prep'
     case 'ADV'
     case 'ADV-I'
     case 'ADV-N'
     case 'ADV-K'
     case 'ADV-S'
-    case 'ADV-C' return 'adv'
-    case 'PRT' case 'PRT-I' case 'PRT-N' return 'ptcl'
-    case 'INJ' return 'intj'
-    case 'HEB' return 'hebrew'
-    case 'ARAM' return 'aramaic'
-    case 'COND' return 'conj'
-    case 'A-NUI' return 'adj'  (: but declinable numbers are treated as adjectives in Lowfat :)
-    default return local:firstclass($morph)
+    case 'ADV-C'
+      return 'adv'
+    case 'PRT'
+    case 'PRT-I'
+    case 'PRT-N'
+      return 'ptcl'
+    case 'INJ'
+      return 'intj'
+    case 'HEB'
+      return 'hebrew'
+    case 'ARAM'
+      return 'aramaic'
+    case
+      'COND' return 'conj'
+    case
+      'A-NUI' return 'adj'  (: but declinable numbers are treated as adjectives in Lowfat :)
+    default
+      return local:firstclass($morph)
 };
 
 declare function local:osisId($bcv, $seq)
