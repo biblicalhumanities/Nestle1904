@@ -187,7 +187,7 @@ declare function local:pronoun-attributes($class, $pncng)
         local:gender-attribute(substring($pncng, 4, 1)))
     case 'S'
       return (
-        (: ### Drops number of the possessor! ### :)
+        (: ### TODO:  Pick the corresponding lemma for the plural ### :)
         local:person-attribute(substring($pncng, 1, 1)),
         local:case-attribute(substring($pncng, 3, 1)),
         local:number-attribute(substring($pncng, 4, 1)),
