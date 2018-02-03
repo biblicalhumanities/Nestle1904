@@ -36,17 +36,14 @@ declare function local:voice-attribute($v)
         case  'A'
           return 'active'
         case 'M'
+        case 'D'
           return 'middle'
         case 'P'
-          return 'passive'
-        case 'D'
-          return 'middlepassive'
         case 'O'
-          return 'middlepassive'
+          return 'passive'
         case 'Q'
           return 'active'
         case 'E'
-          return 'middlepassive'
         case 'N'
           return 'middlepassive'
         case 'X'
@@ -167,35 +164,35 @@ declare function local:pronoun-attributes($class, $pncng)
           then (
             local:person-attribute(substring($pncng, 1, 1)),
             local:case-attribute(substring($pncng, 2, 1)),
-            local:number-attribute(substring($pncng, 3, 1)))                
+            local:number-attribute(substring($pncng, 3, 1)))
           else (
             local:case-attribute(substring($pncng, 1, 1)),
             local:number-attribute(substring($pncng, 2, 1)),
-            local:gender-attribute(substring($pncng, 3, 1)))            
+            local:gender-attribute(substring($pncng, 3, 1)))
     case 'C'
     case 'D'
-    case 'K' 
-    case 'I'    
+    case 'K'
+    case 'I'
     case 'X'
-    case 'Q'    
+    case 'Q'
       return (
         local:case-attribute(substring($pncng, 1, 1)),
         local:number-attribute(substring($pncng, 2, 1)),
-        local:gender-attribute(substring($pncng, 3, 1)))        
+        local:gender-attribute(substring($pncng, 3, 1)))
     case 'F'
       return (
-        local:person-attribute(substring($pncng, 1, 1)),      
+        local:person-attribute(substring($pncng, 1, 1)),
         local:case-attribute(substring($pncng, 2, 1)),
         local:number-attribute(substring($pncng, 3, 1)),
-        local:gender-attribute(substring($pncng, 4, 1)))     
+        local:gender-attribute(substring($pncng, 4, 1)))
     case 'S'
       return (
         (: ### Drops number of the possessor! ### :)
-        local:person-attribute(substring($pncng, 1, 1)),      
+        local:person-attribute(substring($pncng, 1, 1)),
         local:case-attribute(substring($pncng, 3, 1)),
         local:number-attribute(substring($pncng, 4, 1)),
         local:gender-attribute(substring($pncng, 5, 1)))
-    default 
+    default
       return (
         attribute a {$class},
         attribute b {$pncng}
@@ -355,7 +352,6 @@ declare function local:verse($records)
   for tumbling window $verse in //record
       start $first when fn:true()
       end next $next when  $first/BCV != $next/BCV
-  return local:verse($verse)  
+  return local:verse($verse)
 }
 </text>
-
